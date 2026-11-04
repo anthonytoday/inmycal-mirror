@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-torino-como@sports.anthonytoday.com
+DTSTAMP:20261104T064733Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214000Z
+TRANSP:OPAQUE
+SUMMARY:Torino - Como
+DESCRIPTION:Serie A\, Matchday 9\nhttps://inmycal.com
+LOCATION:Stadio Olimpico Grande Torino\, Turin
+URL:https://inmycal.com/serie-a/torino/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

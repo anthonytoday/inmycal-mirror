@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261114-austria-republic-of-ireland@sports.anthonytoday.com
+DTSTAMP:20261104T064720Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214000Z
+TRANSP:OPAQUE
+SUMMARY:Austria - Republic of Ireland [NL]
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Raiffeisen Arena\, Linz
+URL:https://inmycal.com/nations/austria/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

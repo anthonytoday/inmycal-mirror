@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260924-netherlands-germany@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204000Z
+TRANSP:OPAQUE
+SUMMARY:Netherlands - Germany [NL] (1-1)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Johan Cruyff Arena\, Amsterdam
+URL:https://inmycal.com/nations/netherlands/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

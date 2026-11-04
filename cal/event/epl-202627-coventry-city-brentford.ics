@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-coventry-city-brentford@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART:20261230T193000Z
+DTEND:20261230T212500Z
+TRANSP:OPAQUE
+SUMMARY:Coventry City - Brentford
+DESCRIPTION:Premier League\, Matchday 18\nhttps://inmycal.com
+LOCATION:Coventry Building Society Arena\, Coventry
+URL:https://inmycal.com/premier-league/coventry-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

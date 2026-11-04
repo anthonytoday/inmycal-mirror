@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261001-republic-of-ireland-austria@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204000Z
+TRANSP:OPAQUE
+SUMMARY:Republic of Ireland - Austria [NL] (2-2)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Aviva Stadium\, Dublin
+URL:https://inmycal.com/nations/republic-of-ireland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-koln-eintracht-frankfurt@sports.anthonytoday.com
+DTSTAMP:20261104T064806Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:Köln - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 23\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:RheinEnergieStadion\, Cologne
+URL:https://inmycal.com/bundesliga/koln/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

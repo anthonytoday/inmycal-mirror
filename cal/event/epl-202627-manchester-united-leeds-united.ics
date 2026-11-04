@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-manchester-united-leeds-united@sports.anthonytoday.com
+DTSTAMP:20261104T064748Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:Manchester United - Leeds United
+DESCRIPTION:Premier League\, Matchday 36\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Old Trafford\, Manchester
+URL:https://inmycal.com/premier-league/manchester-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

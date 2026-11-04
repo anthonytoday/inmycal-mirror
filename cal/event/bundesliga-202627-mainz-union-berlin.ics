@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-mainz-union-berlin@sports.anthonytoday.com
+DTSTAMP:20261104T064712Z
+DTSTART:20261128T143000Z
+DTEND:20261128T162500Z
+TRANSP:OPAQUE
+SUMMARY:Mainz 05 - Union Berlin
+DESCRIPTION:Bundesliga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Mewa Arena\, Mainz
+URL:https://inmycal.com/bundesliga/mainz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

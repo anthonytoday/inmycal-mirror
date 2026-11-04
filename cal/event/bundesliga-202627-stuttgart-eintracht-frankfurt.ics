@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-stuttgart-eintracht-frankfurt@sports.anthonytoday.com
+DTSTAMP:20261104T064712Z
+DTSTART:20261128T173000Z
+DTEND:20261128T192500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 11\nhttps://inmycal.com
+LOCATION:MHPArena\, Stuttgart
+URL:https://inmycal.com/bundesliga/stuttgart/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

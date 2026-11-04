@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-coventry-city-chelsea@sports.anthonytoday.com
+DTSTAMP:20261104T064743Z
+DTSTART:20261227T140000Z
+DTEND:20261227T155500Z
+TRANSP:OPAQUE
+SUMMARY:Coventry City - Chelsea
+DESCRIPTION:Premier League\, Matchday 17\nhttps://inmycal.com
+LOCATION:Coventry Building Society Arena\, Coventry
+URL:https://inmycal.com/premier-league/coventry-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

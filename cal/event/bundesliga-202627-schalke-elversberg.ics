@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-schalke-elversberg@sports.anthonytoday.com
+DTSTAMP:20261104T064808Z
+DTSTART:20260920T153000Z
+DTEND:20260920T172500Z
+TRANSP:OPAQUE
+SUMMARY:Schalke 04 - Elversberg
+DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+LOCATION:Veltins-Arena\, Gelsenkirchen
+URL:https://inmycal.com/bundesliga/schalke/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

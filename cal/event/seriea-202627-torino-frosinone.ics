@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-torino-frosinone@sports.anthonytoday.com
+DTSTAMP:20261104T064733Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:Torino - Frosinone
+DESCRIPTION:Serie A\, Matchday 22\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Olimpico Grande Torino\, Turin
+URL:https://inmycal.com/serie-a/torino/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260928-romania-bosnia-and-herzegovina@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204000Z
+TRANSP:OPAQUE
+SUMMARY:Romania - Bosnia and Herzegovina [NL] (2-4)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Arena Națională\, Bucharest
+URL:https://inmycal.com/nations/romania/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

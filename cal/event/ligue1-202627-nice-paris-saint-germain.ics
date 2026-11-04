@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-nice-paris-saint-germain@sports.anthonytoday.com
+DTSTAMP:20261104T064713Z
+DTSTART:20261121T161500Z
+DTEND:20261121T181000Z
+TRANSP:OPAQUE
+SUMMARY:Nice - Paris Saint-Germain
+DESCRIPTION:Ligue 1\, Matchday 11\nhttps://inmycal.com
+LOCATION:Allianz Riviera\, Nice
+URL:https://inmycal.com/ligue-1/nice/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-elche-celta-vigo@sports.anthonytoday.com
+DTSTAMP:20261104T064755Z
+DTSTART:20261011T120000Z
+DTEND:20261011T135500Z
+TRANSP:OPAQUE
+SUMMARY:Elche - Celta Vigo
+DESCRIPTION:La Liga\, Matchday 8\nhttps://inmycal.com
+LOCATION:Martínez Valero\, Elche
+URL:https://inmycal.com/la-liga/elche/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

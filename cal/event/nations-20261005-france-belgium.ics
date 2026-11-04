@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261005-france-belgium@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204000Z
+TRANSP:OPAQUE
+SUMMARY:France - Belgium [NL] (4-1)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Stade de France\, Saint-Denis
+URL:https://inmycal.com/nations/france/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

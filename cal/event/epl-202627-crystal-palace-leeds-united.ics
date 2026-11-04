@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-crystal-palace-leeds-united@sports.anthonytoday.com
+DTSTAMP:20261104T064745Z
+DTSTART:20270530T150000Z
+DTEND:20270530T165500Z
+TRANSP:OPAQUE
+SUMMARY:Crystal Palace - Leeds United
+DESCRIPTION:Premier League\, Matchday 38\nhttps://inmycal.com
+LOCATION:Selhurst Park\, London
+URL:https://inmycal.com/premier-league/crystal-palace/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260927-austria-kosovo@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20260927T160000Z
+DTEND:20260927T175500Z
+TRANSP:OPAQUE
+SUMMARY:Austria - Kosovo [NL] (3-1)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Ernst-Happel-Stadion\, Vienna
+URL:https://inmycal.com/nations/austria/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

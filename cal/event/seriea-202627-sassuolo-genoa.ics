@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-sassuolo-genoa@sports.anthonytoday.com
+DTSTAMP:20261104T064712Z
+DTSTART:20261122T113000Z
+DTEND:20261122T132500Z
+TRANSP:OPAQUE
+SUMMARY:Sassuolo - Genoa
+DESCRIPTION:Serie A\, Matchday 12\nhttps://inmycal.com
+LOCATION:Mapei Stadium\, Reggio Emilia
+URL:https://inmycal.com/serie-a/sassuolo/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

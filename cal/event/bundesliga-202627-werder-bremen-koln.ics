@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-werder-bremen-koln@sports.anthonytoday.com
+DTSTAMP:20261104T064810Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:Werder Bremen - Köln
+DESCRIPTION:Bundesliga\, Matchday 20\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Weserstadion\, Bremen
+URL:https://inmycal.com/bundesliga/werder-bremen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

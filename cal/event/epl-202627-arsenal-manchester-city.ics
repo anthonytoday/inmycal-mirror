@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-arsenal-manchester-city@sports.anthonytoday.com
+DTSTAMP:20261104T064709Z
+DTSTART:20261128T150000Z
+DTEND:20261128T165500Z
+TRANSP:OPAQUE
+SUMMARY:Arsenal - Manchester City
+DESCRIPTION:Premier League\, Matchday 12\nhttps://inmycal.com
+LOCATION:Emirates Stadium\, London
+URL:https://inmycal.com/premier-league/arsenal/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

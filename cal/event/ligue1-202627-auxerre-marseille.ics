@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-auxerre-marseille@sports.anthonytoday.com
+DTSTAMP:20261104T064713Z
+DTSTART:20261129T140000Z
+DTEND:20261129T155500Z
+TRANSP:OPAQUE
+SUMMARY:Auxerre - Marseille
+DESCRIPTION:Ligue 1\, Matchday 12\nhttps://inmycal.com
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre
+URL:https://inmycal.com/ligue-1/auxerre/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-monchengladbach-dortmund@sports.anthonytoday.com
+DTSTAMP:20261104T064711Z
+DTSTART:20261121T143000Z
+DTEND:20261121T162500Z
+TRANSP:OPAQUE
+SUMMARY:Mönchengladbach - Borussia Dortmund
+DESCRIPTION:Bundesliga\, Matchday 10\nhttps://inmycal.com
+LOCATION:Borussia-Park\, Mönchengladbach
+URL:https://inmycal.com/bundesliga/monchengladbach/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

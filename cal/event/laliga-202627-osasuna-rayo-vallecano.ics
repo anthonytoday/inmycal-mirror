@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-osasuna-rayo-vallecano@sports.anthonytoday.com
+DTSTAMP:20261104T064801Z
+DTSTART:20260919T120000Z
+DTEND:20260919T135500Z
+TRANSP:OPAQUE
+SUMMARY:Osasuna - Rayo Vallecano (1-1)
+DESCRIPTION:La Liga\, Matchday 7\nhttps://inmycal.com
+LOCATION:El Sadar\, Pamplona
+URL:https://inmycal.com/la-liga/osasuna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

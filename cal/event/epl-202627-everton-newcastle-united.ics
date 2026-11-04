@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-everton-newcastle-united@sports.anthonytoday.com
+DTSTAMP:20261104T064745Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:Everton - Newcastle United
+DESCRIPTION:Premier League\, Matchday 24\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-espanyol-malaga@sports.anthonytoday.com
+DTSTAMP:20261104T064758Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:Espanyol - Málaga
+DESCRIPTION:La Liga\, Matchday 31\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:RCDE Stadium\, Cornellà de Llobregat
+URL:https://inmycal.com/la-liga/espanyol/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

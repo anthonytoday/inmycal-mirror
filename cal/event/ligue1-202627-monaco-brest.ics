@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-monaco-brest@sports.anthonytoday.com
+DTSTAMP:20261104T064816Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Monaco - Brest
+DESCRIPTION:Ligue 1\, Matchday 16\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Louis II\, Monaco
+URL:https://inmycal.com/ligue-1/monaco/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

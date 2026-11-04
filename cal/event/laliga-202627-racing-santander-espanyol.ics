@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-racing-santander-espanyol@sports.anthonytoday.com
+DTSTAMP:20261104T064758Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+SUMMARY:Racing Santander - Espanyol
+DESCRIPTION:La Liga\, Matchday 10\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:El Sardinero\, Santander
+URL:https://inmycal.com/la-liga/racing-santander/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-atalanta-parma@sports.anthonytoday.com
+DTSTAMP:20261104T064731Z
+DTSTART:20261102T194500Z
+DTEND:20261102T214000Z
+TRANSP:OPAQUE
+SUMMARY:Atalanta - Parma
+DESCRIPTION:Serie A\, Matchday 10\nhttps://inmycal.com
+LOCATION:Gewiss Stadium\, Bergamo
+URL:https://inmycal.com/serie-a/atalanta/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

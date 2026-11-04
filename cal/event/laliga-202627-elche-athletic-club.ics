@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-elche-athletic-club@sports.anthonytoday.com
+DTSTAMP:20261104T064752Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:Elche - Athletic Club
+DESCRIPTION:La Liga\, Matchday 36\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Martínez Valero\, Elche
+URL:https://inmycal.com/la-liga/elche/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

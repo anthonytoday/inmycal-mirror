@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261112-montenegro-latvia@sports.anthonytoday.com
+DTSTAMP:20261104T064715Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214000Z
+TRANSP:OPAQUE
+SUMMARY:Montenegro - Latvia [NL]
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Podgorica City Stadium\, Podgorica
+URL:https://inmycal.com/nations/montenegro/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

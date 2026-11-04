@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261003-estonia-luxembourg@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261003T160000Z
+DTEND:20261003T175500Z
+TRANSP:OPAQUE
+SUMMARY:Estonia - Luxembourg [NL] (1-0)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Lilleküla Stadium\, Tallinn
+URL:https://inmycal.com/nations/estonia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

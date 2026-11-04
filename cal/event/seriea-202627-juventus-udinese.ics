@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-juventus-udinese@sports.anthonytoday.com
+DTSTAMP:20261104T064726Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Juventus - Udinese
+DESCRIPTION:Serie A\, Matchday 14\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Allianz Stadium\, Turin
+URL:https://inmycal.com/serie-a/juventus/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

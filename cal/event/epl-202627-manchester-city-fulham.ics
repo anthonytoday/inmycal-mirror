@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-manchester-city-fulham@sports.anthonytoday.com
+DTSTAMP:20261104T064709Z
+DTSTART:20261121T150000Z
+DTEND:20261121T165500Z
+TRANSP:OPAQUE
+SUMMARY:Manchester City - Fulham
+DESCRIPTION:Premier League\, Matchday 11\nhttps://inmycal.com
+LOCATION:Etihad Stadium\, Manchester
+URL:https://inmycal.com/premier-league/manchester-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

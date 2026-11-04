@@ -1,0 +1,155 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "InMyCal API",
+    "version": "1.0.0",
+    "description": "Free, read-only sports schedules (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, national teams, UFC, Formula 1). Times are UTC. Each team and competition also has a subscribable iCalendar feed."
+  },
+  "servers": [
+    {
+      "url": "https://inmycal.com"
+    }
+  ],
+  "paths": {
+    "/api/v1/competitions": {
+      "get": {
+        "summary": "List competitions",
+        "operationId": "listCompetitions",
+        "responses": {
+          "200": {
+            "description": "Competitions with page, calendar and logo URLs"
+          }
+        }
+      }
+    },
+    "/api/v1/teams": {
+      "get": {
+        "summary": "List clubs or national teams",
+        "operationId": "listTeams",
+        "parameters": [
+          {
+            "name": "competition",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "description": "Competition id, for example premier-league or nations"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Teams"
+          }
+        }
+      }
+    },
+    "/api/v1/events": {
+      "get": {
+        "summary": "Find events in a date window",
+        "operationId": "findEvents",
+        "parameters": [
+          {
+            "name": "competition",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "description": "Comma-separated competition ids"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "description": "Team id from /api/v1/teams"
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date"
+            },
+            "description": "First day (UTC), default today"
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date"
+            },
+            "description": "Last day (UTC), default from + 14 days"
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 1000,
+              "default": 200
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Events, start times in UTC (null when not announced yet)"
+          },
+          "400": {
+            "description": "Invalid query"
+          }
+        }
+      }
+    },
+    "/cal/{competition}.ics": {
+      "get": {
+        "summary": "iCalendar feed for a whole competition",
+        "parameters": [
+          {
+            "name": "competition",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "text/calendar"
+          }
+        }
+      }
+    },
+    "/cal/{competition}/{team}.ics": {
+      "get": {
+        "summary": "iCalendar feed for one team (all its competitions)",
+        "parameters": [
+          {
+            "name": "competition",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "team",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "text/calendar"
+          }
+        }
+      }
+    }
+  }
+}

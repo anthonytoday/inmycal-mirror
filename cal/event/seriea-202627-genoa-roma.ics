@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-genoa-roma@sports.anthonytoday.com
+DTSTAMP:20261104T064729Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:Genoa - Roma
+DESCRIPTION:Serie A\, Matchday 28\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Luigi Ferraris\, Genoa
+URL:https://inmycal.com/serie-a/genoa/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

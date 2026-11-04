@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-lazio-napoli@sports.anthonytoday.com
+DTSTAMP:20261104T064727Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+TRANSP:TRANSPARENT
+SUMMARY:Lazio - Napoli
+DESCRIPTION:Serie A\, Matchday 25\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Olimpico\, Rome
+URL:https://inmycal.com/serie-a/lazio/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

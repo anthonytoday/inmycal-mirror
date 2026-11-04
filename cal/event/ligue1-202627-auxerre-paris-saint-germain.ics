@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-auxerre-paris-saint-germain@sports.anthonytoday.com
+DTSTAMP:20261104T064815Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:Auxerre - Paris Saint-Germain
+DESCRIPTION:Ligue 1\, Matchday 24\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre
+URL:https://inmycal.com/ligue-1/auxerre/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

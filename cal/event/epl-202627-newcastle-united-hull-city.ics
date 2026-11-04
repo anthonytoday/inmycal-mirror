@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-newcastle-united-hull-city@sports.anthonytoday.com
+DTSTAMP:20261104T064747Z
+DTSTART:20260919T140000Z
+DTEND:20260919T155500Z
+TRANSP:OPAQUE
+SUMMARY:Newcastle United - Hull City (2-1)
+DESCRIPTION:Premier League\, Matchday 5\nhttps://inmycal.com
+LOCATION:St James' Park\, Newcastle
+URL:https://inmycal.com/premier-league/newcastle-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

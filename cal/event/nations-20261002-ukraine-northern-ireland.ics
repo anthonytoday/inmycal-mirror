@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261002-ukraine-northern-ireland@sports.anthonytoday.com
+DTSTAMP:20261104T064828Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204000Z
+TRANSP:OPAQUE
+SUMMARY:Ukraine - Northern Ireland [NL] (0-3)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Anton Malatinský Stadium\, Trnava (Slovakia)
+URL:https://inmycal.com/nations/ukraine/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-alaves-real-sociedad@sports.anthonytoday.com
+DTSTAMP:20261104T064750Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:Alavés - Real Sociedad
+DESCRIPTION:La Liga\, Matchday 19\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Mendizorrotza\, Vitoria-Gasteiz
+URL:https://inmycal.com/la-liga/alaves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

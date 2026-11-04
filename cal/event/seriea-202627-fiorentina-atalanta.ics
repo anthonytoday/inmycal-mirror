@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-fiorentina-atalanta@sports.anthonytoday.com
+DTSTAMP:20261104T064731Z
+DTSTART:20261029T194500Z
+DTEND:20261029T214000Z
+TRANSP:OPAQUE
+SUMMARY:Fiorentina - Atalanta
+DESCRIPTION:Serie A\, Matchday 9\nhttps://inmycal.com
+LOCATION:Stadio Artemio Franchi\, Florence
+URL:https://inmycal.com/serie-a/fiorentina/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

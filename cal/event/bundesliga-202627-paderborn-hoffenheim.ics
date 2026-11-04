@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-paderborn-hoffenheim@sports.anthonytoday.com
+DTSTAMP:20261104T064810Z
+DTSTART:20260920T173000Z
+DTEND:20260920T192500Z
+TRANSP:OPAQUE
+SUMMARY:Paderborn - Hoffenheim (3-1)
+DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+LOCATION:Home Deluxe Arena\, Paderborn
+URL:https://inmycal.com/bundesliga/paderborn/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-coventry-city-sunderland@sports.anthonytoday.com
+DTSTAMP:20261104T064744Z
+DTSTART:20261031T150000Z
+DTEND:20261031T165500Z
+TRANSP:OPAQUE
+SUMMARY:Coventry City - Sunderland
+DESCRIPTION:Premier League\, Matchday 9\nhttps://inmycal.com
+LOCATION:Coventry Building Society Arena\, Coventry
+URL:https://inmycal.com/premier-league/coventry-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

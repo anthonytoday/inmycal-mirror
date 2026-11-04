@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-freiburg-stuttgart@sports.anthonytoday.com
+DTSTAMP:20261104T064808Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Freiburg - Stuttgart
+DESCRIPTION:Bundesliga\, Matchday 14\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Europa-Park Stadion\, Freiburg
+URL:https://inmycal.com/bundesliga/freiburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

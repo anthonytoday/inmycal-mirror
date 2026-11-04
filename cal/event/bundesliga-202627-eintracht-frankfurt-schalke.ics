@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-eintracht-frankfurt-schalke@sports.anthonytoday.com
+DTSTAMP:20261104T064806Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+SUMMARY:Eintracht Frankfurt - Schalke 04
+DESCRIPTION:Bundesliga\, Matchday 15\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Deutsche Bank Park\, Frankfurt
+URL:https://inmycal.com/bundesliga/eintracht-frankfurt/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

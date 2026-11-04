@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-bournemouth-aston-villa@sports.anthonytoday.com
+DTSTAMP:20261104T064738Z
+DTSTART:20270102T173000Z
+DTEND:20270102T192500Z
+TRANSP:OPAQUE
+SUMMARY:Bournemouth - Aston Villa
+DESCRIPTION:Premier League\, Matchday 19\nhttps://inmycal.com
+LOCATION:Vitality Stadium\, Bournemouth
+URL:https://inmycal.com/premier-league/bournemouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

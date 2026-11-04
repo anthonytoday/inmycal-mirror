@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261006-croatia-spain@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204000Z
+TRANSP:OPAQUE
+SUMMARY:Croatia - Spain [NL] (1-2)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Stadion Poljud\, Split
+URL:https://inmycal.com/nations/croatia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

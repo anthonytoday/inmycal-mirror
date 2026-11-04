@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brentford-hull-city@sports.anthonytoday.com
+DTSTAMP:20261104T064741Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Brentford - Hull City
+DESCRIPTION:Premier League\, Matchday 37\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Gtech Community Stadium\, London
+URL:https://inmycal.com/premier-league/brentford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

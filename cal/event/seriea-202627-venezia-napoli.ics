@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-venezia-napoli@sports.anthonytoday.com
+DTSTAMP:20261104T064728Z
+DTSTART:20261017T130000Z
+DTEND:20261017T145500Z
+TRANSP:OPAQUE
+SUMMARY:Venezia - Napoli
+DESCRIPTION:Serie A\, Matchday 7\nhttps://inmycal.com
+LOCATION:Stadio Pier Luigi Penzo\, Venice
+URL:https://inmycal.com/serie-a/venezia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

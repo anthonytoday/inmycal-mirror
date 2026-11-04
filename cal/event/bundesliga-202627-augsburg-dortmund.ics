@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-augsburg-dortmund@sports.anthonytoday.com
+DTSTAMP:20261104T064803Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+TRANSP:TRANSPARENT
+SUMMARY:Augsburg - Borussia Dortmund
+DESCRIPTION:Bundesliga\, Matchday 30\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:WWK Arena\, Augsburg
+URL:https://inmycal.com/bundesliga/augsburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

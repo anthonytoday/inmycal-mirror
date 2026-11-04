@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-stuttgart-monchengladbach@sports.anthonytoday.com
+DTSTAMP:20261104T064812Z
+DTSTART:20261023T183000Z
+DTEND:20261023T202500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart - Mönchengladbach
+DESCRIPTION:Bundesliga\, Matchday 7\nhttps://inmycal.com
+LOCATION:MHPArena\, Stuttgart
+URL:https://inmycal.com/bundesliga/stuttgart/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

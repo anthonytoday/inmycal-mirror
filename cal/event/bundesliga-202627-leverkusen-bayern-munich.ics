@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-leverkusen-bayern-munich@sports.anthonytoday.com
+DTSTAMP:20261104T064804Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:Leverkusen - Bayern Munich
+DESCRIPTION:Bundesliga\, Matchday 33\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:BayArena\, Leverkusen
+URL:https://inmycal.com/bundesliga/leverkusen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

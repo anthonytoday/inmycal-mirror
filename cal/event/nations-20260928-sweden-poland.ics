@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260928-sweden-poland@sports.anthonytoday.com
+DTSTAMP:20261104T064828Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204000Z
+TRANSP:OPAQUE
+SUMMARY:Sweden - Poland [NL] (3-1)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Nationalarenan\, Solna
+URL:https://inmycal.com/nations/sweden/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

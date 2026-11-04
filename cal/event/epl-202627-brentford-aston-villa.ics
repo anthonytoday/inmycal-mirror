@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brentford-aston-villa@sports.anthonytoday.com
+DTSTAMP:20261104T064739Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+TRANSP:TRANSPARENT
+SUMMARY:Brentford - Aston Villa
+DESCRIPTION:Premier League\, Matchday 35\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Gtech Community Stadium\, London
+URL:https://inmycal.com/premier-league/brentford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

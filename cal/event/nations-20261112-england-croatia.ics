@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261112-england-croatia@sports.anthonytoday.com
+DTSTAMP:20261104T064714Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214000Z
+TRANSP:OPAQUE
+SUMMARY:England - Croatia [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Wembley Stadium\, London
+URL:https://inmycal.com/nations/england/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

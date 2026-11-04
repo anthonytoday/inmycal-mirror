@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-lazio-torino@sports.anthonytoday.com
+DTSTAMP:20261104T064730Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:Lazio - Torino
+DESCRIPTION:Serie A\, Matchday 31\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Olimpico\, Rome
+URL:https://inmycal.com/serie-a/lazio/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

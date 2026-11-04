@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-frosinone-torino@sports.anthonytoday.com
+DTSTAMP:20261104T064733Z
+DTSTART:20261101T140000Z
+DTEND:20261101T155500Z
+TRANSP:OPAQUE
+SUMMARY:Frosinone - Torino
+DESCRIPTION:Serie A\, Matchday 10\nhttps://inmycal.com
+LOCATION:Stadio Benito Stirpe\, Frosinone
+URL:https://inmycal.com/serie-a/frosinone/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-manchester-united-sunderland@sports.anthonytoday.com
+DTSTAMP:20261104T064749Z
+DTSTART:20261230T193000Z
+DTEND:20261230T212500Z
+TRANSP:OPAQUE
+SUMMARY:Manchester United - Sunderland
+DESCRIPTION:Premier League\, Matchday 18\nhttps://inmycal.com
+LOCATION:Old Trafford\, Manchester
+URL:https://inmycal.com/premier-league/manchester-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

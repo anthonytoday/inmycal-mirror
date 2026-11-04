@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-manchester-united-bournemouth@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART:20261025T140000Z
+DTEND:20261025T155500Z
+TRANSP:OPAQUE
+SUMMARY:Manchester United - Bournemouth
+DESCRIPTION:Premier League\, Matchday 8\nhttps://inmycal.com
+LOCATION:Old Trafford\, Manchester
+URL:https://inmycal.com/premier-league/manchester-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

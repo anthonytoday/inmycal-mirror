@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260929-czech-republic-england@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204000Z
+TRANSP:OPAQUE
+SUMMARY:Czech Republic - England [NL] (0-2)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Fortuna Arena\, Prague
+URL:https://inmycal.com/nations/czech-republic/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

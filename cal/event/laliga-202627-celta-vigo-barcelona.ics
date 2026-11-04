@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-celta-vigo-barcelona@sports.anthonytoday.com
+DTSTAMP:20261104T064754Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+TRANSP:TRANSPARENT
+SUMMARY:Celta Vigo - Barcelona
+DESCRIPTION:La Liga\, Matchday 33\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Balaídos\, Vigo
+URL:https://inmycal.com/la-liga/celta-vigo/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

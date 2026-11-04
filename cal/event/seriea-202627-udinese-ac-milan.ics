@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-udinese-ac-milan@sports.anthonytoday.com
+DTSTAMP:20261104T064725Z
+DTSTART:20261025T194500Z
+DTEND:20261025T214000Z
+TRANSP:OPAQUE
+SUMMARY:Udinese - AC Milan
+DESCRIPTION:Serie A\, Matchday 8\nhttps://inmycal.com
+LOCATION:Bluenergy Stadium\, Udine
+URL:https://inmycal.com/serie-a/udinese/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

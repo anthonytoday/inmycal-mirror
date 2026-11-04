@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-bayern-munich-rb-leipzig@sports.anthonytoday.com
+DTSTAMP:20261104T064805Z
+DTSTART:20261017T163000Z
+DTEND:20261017T182500Z
+TRANSP:OPAQUE
+SUMMARY:Bayern Munich - RB Leipzig
+DESCRIPTION:Bundesliga\, Matchday 6\nhttps://inmycal.com
+LOCATION:Allianz Arena\, Munich
+URL:https://inmycal.com/bundesliga/bayern-munich/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

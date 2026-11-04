@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-bayern-munich-schalke@sports.anthonytoday.com
+DTSTAMP:20261104T064804Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Bayern Munich - Schalke 04
+DESCRIPTION:Bundesliga\, Matchday 19\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Allianz Arena\, Munich
+URL:https://inmycal.com/bundesliga/bayern-munich/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-arsenal-brentford@sports.anthonytoday.com
+DTSTAMP:20261104T064737Z
+DTSTART:20270105T193000Z
+DTEND:20270105T212500Z
+TRANSP:OPAQUE
+SUMMARY:Arsenal - Brentford
+DESCRIPTION:Premier League\, Matchday 20\nhttps://inmycal.com
+LOCATION:Emirates Stadium\, London
+URL:https://inmycal.com/premier-league/arsenal/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

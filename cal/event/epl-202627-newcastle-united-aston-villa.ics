@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-newcastle-united-aston-villa@sports.anthonytoday.com
+DTSTAMP:20261104T064739Z
+DTSTART:20261017T163000Z
+DTEND:20261017T182500Z
+TRANSP:OPAQUE
+SUMMARY:Newcastle United - Aston Villa
+DESCRIPTION:Premier League\, Matchday 7\nhttps://inmycal.com
+LOCATION:St James' Park\, Newcastle
+URL:https://inmycal.com/premier-league/newcastle-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-monchengladbach-hoffenheim@sports.anthonytoday.com
+DTSTAMP:20261104T064810Z
+DTSTART:20261018T153000Z
+DTEND:20261018T172500Z
+TRANSP:OPAQUE
+SUMMARY:Mönchengladbach - Hoffenheim
+DESCRIPTION:Bundesliga\, Matchday 6\nhttps://inmycal.com
+LOCATION:Borussia-Park\, Mönchengladbach
+URL:https://inmycal.com/bundesliga/monchengladbach/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

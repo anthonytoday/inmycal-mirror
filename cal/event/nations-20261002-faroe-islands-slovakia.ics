@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261002-faroe-islands-slovakia@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204000Z
+TRANSP:OPAQUE
+SUMMARY:Faroe Islands - Slovakia [NL] (1-1)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Tórsvøllur\, Tórshavn
+URL:https://inmycal.com/nations/faroe-islands/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

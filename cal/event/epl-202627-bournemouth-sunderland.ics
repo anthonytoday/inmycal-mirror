@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-bournemouth-sunderland@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART:20261018T130000Z
+DTEND:20261018T145500Z
+TRANSP:OPAQUE
+SUMMARY:Bournemouth - Sunderland
+DESCRIPTION:Premier League\, Matchday 7\nhttps://inmycal.com
+LOCATION:Vitality Stadium\, Bournemouth
+URL:https://inmycal.com/premier-league/bournemouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-union-berlin-koln@sports.anthonytoday.com
+DTSTAMP:20261104T064811Z
+DTSTART:20261101T143000Z
+DTEND:20261101T162500Z
+TRANSP:OPAQUE
+SUMMARY:Union Berlin - Köln
+DESCRIPTION:Bundesliga\, Matchday 8\nhttps://inmycal.com
+LOCATION:Stadion An der Alten Försterei\, Berlin
+URL:https://inmycal.com/bundesliga/union-berlin/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

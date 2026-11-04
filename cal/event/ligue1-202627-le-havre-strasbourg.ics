@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-le-havre-strasbourg@sports.anthonytoday.com
+DTSTAMP:20261104T064713Z
+DTSTART:20261128T194500Z
+DTEND:20261128T214000Z
+TRANSP:OPAQUE
+SUMMARY:Le Havre - Strasbourg
+DESCRIPTION:Ligue 1\, Matchday 12\nhttps://inmycal.com
+LOCATION:Stade Océane\, Le Havre
+URL:https://inmycal.com/ligue-1/le-havre/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

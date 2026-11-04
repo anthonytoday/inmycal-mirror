@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-monza-juventus@sports.anthonytoday.com
+DTSTAMP:20261104T064726Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:Monza - Juventus
+DESCRIPTION:Serie A\, Matchday 26\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:U-Power Stadium\, Monza
+URL:https://inmycal.com/serie-a/monza/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

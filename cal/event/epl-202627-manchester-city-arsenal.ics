@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-manchester-city-arsenal@sports.anthonytoday.com
+DTSTAMP:20261104T064737Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Manchester City - Arsenal
+DESCRIPTION:Premier League\, Matchday 23\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Etihad Stadium\, Manchester
+URL:https://inmycal.com/premier-league/manchester-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-monza-inter@sports.anthonytoday.com
+DTSTAMP:20261104T064725Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+SUMMARY:Monza - Inter
+DESCRIPTION:Serie A\, Matchday 32\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:U-Power Stadium\, Monza
+URL:https://inmycal.com/serie-a/monza/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

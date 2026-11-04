@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-paderborn-eintracht-frankfurt@sports.anthonytoday.com
+DTSTAMP:20261104T064658Z
+DTSTART:20261107T143000Z
+DTEND:20261107T162500Z
+TRANSP:OPAQUE
+SUMMARY:Paderborn - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 9\nhttps://inmycal.com
+LOCATION:Home Deluxe Arena\, Paderborn
+URL:https://inmycal.com/bundesliga/paderborn/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

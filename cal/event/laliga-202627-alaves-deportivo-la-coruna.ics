@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-alaves-deportivo-la-coruna@sports.anthonytoday.com
+DTSTAMP:20261104T064711Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Alavés - Deportivo La Coruña
+DESCRIPTION:La Liga\, Matchday 13\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Mendizorrotza\, Vitoria-Gasteiz
+URL:https://inmycal.com/la-liga/alaves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

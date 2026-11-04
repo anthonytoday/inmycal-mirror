@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-sassuolo-frosinone@sports.anthonytoday.com
+DTSTAMP:20261104T064736Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+TRANSP:TRANSPARENT
+SUMMARY:Sassuolo - Frosinone
+DESCRIPTION:Serie A\, Matchday 34\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Mapei Stadium\, Reggio Emilia
+URL:https://inmycal.com/serie-a/sassuolo/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

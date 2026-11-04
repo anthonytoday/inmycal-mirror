@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-rayo-vallecano-sevilla@sports.anthonytoday.com
+DTSTAMP:20261104T064801Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:Rayo Vallecano - Sevilla
+DESCRIPTION:La Liga\, Matchday 20\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Estadio de Vallecas\, Madrid
+URL:https://inmycal.com/la-liga/rayo-vallecano/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-marseille-lorient@sports.anthonytoday.com
+DTSTAMP:20261104T064821Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:Marseille - Lorient
+DESCRIPTION:Ligue 1\, Matchday 34\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://inmycal.com/ligue-1/marseille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

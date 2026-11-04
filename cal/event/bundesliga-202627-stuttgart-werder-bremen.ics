@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-stuttgart-werder-bremen@sports.anthonytoday.com
+DTSTAMP:20261104T064701Z
+DTSTART:20261107T173000Z
+DTEND:20261107T192500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart - Werder Bremen
+DESCRIPTION:Bundesliga\, Matchday 9\nhttps://inmycal.com
+LOCATION:MHPArena\, Stuttgart
+URL:https://inmycal.com/bundesliga/stuttgart/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260927-israel-republic-of-ireland@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204000Z
+TRANSP:OPAQUE
+SUMMARY:Israel - Republic of Ireland [NL] (0-3)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Nagyerdei Stadion\, Debrecen (Hungary)
+URL:https://inmycal.com/nations/israel/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

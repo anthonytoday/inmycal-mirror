@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260924-andorra-malta@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART:20260924T160000Z
+DTEND:20260924T175500Z
+TRANSP:OPAQUE
+SUMMARY:Andorra - Malta [NL] (1-2)
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Estadi de la FAF\, Encamp
+URL:https://inmycal.com/nations/andorra/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

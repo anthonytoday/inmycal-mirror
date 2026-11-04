@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-bologna-lecce@sports.anthonytoday.com
+DTSTAMP:20261104T064732Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:Bologna - Lecce
+DESCRIPTION:Serie A\, Matchday 26\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Renato Dall'Ara\, Bologna
+URL:https://inmycal.com/serie-a/bologna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-real-madrid-espanyol@sports.anthonytoday.com
+DTSTAMP:20261104T064757Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:Real Madrid - Espanyol
+DESCRIPTION:La Liga\, Matchday 28\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Santiago Bernabéu\, Madrid
+URL:https://inmycal.com/la-liga/real-madrid/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

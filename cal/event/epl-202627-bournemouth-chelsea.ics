@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-bournemouth-chelsea@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Bournemouth - Chelsea
+DESCRIPTION:Premier League\, Matchday 37\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Vitality Stadium\, Bournemouth
+URL:https://inmycal.com/premier-league/bournemouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

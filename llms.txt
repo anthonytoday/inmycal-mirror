@@ -1,0 +1,28 @@
+# InMyCal
+
+> Free sports calendars: every match, race and fight in your own time zone. Subscribe once and the calendar updates itself. No account, no tracking.
+
+Times in the API and feeds are UTC. Events not yet timed by the organizer are all-day events, and their start is null in the API.
+
+## For agents
+- MCP server (Streamable HTTP, read-only): https://inmycal.com/mcp with tools list_competitions, list_teams, find_events
+- JSON API: https://inmycal.com/api/v1/events?competition=premier-league&from=YYYY-MM-DD&to=YYYY-MM-DD
+- OpenAPI: https://inmycal.com/openapi.json
+- Setup help for every calendar app: https://inmycal.com/how-to/
+- Free fixtures widget for club websites: https://inmycal.com/for-clubs/ (iframe: https://inmycal.com/embed/<team>/)
+- Calendar feeds (iCalendar, subscribe by URL): https://inmycal.com/cal/<competition>.ics and https://inmycal.com/cal/<competition>/<team>.ics
+
+## Competitions
+- Premier League: https://inmycal.com/premier-league/ (calendar: https://inmycal.com/cal/premier-league.ics)
+- La Liga: https://inmycal.com/la-liga/ (calendar: https://inmycal.com/cal/la-liga.ics)
+- Bundesliga: https://inmycal.com/bundesliga/ (calendar: https://inmycal.com/cal/bundesliga.ics)
+- Serie A: https://inmycal.com/serie-a/ (calendar: https://inmycal.com/cal/serie-a.ics)
+- Ligue 1: https://inmycal.com/ligue-1/ (calendar: https://inmycal.com/cal/ligue-1.ics)
+- Champions League: https://inmycal.com/champions-league/ (calendar: https://inmycal.com/cal/champions-league.ics)
+- National teams: https://inmycal.com/nations/ (calendar: https://inmycal.com/cal/nations.ics)
+- UFC: https://inmycal.com/ufc/ (calendar: https://inmycal.com/cal/ufc.ics)
+- Formula 1: https://inmycal.com/f1/ (calendar: https://inmycal.com/cal/f1.ics)
+
+## Notes
+- Data: openfootball (public domain), sportstimes/f1 (MIT), Wikipedia (CC BY-SA) for UFC and national teams.
+- Not affiliated with any league, club, federation or promoter. Names and logos belong to their owners.

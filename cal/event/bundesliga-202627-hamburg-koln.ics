@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-hamburg-koln@sports.anthonytoday.com
+DTSTAMP:20261104T064809Z
+DTSTART:20260919T133000Z
+DTEND:20260919T152500Z
+TRANSP:OPAQUE
+SUMMARY:Hamburger SV - Köln (2-1)
+DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://inmycal.com/bundesliga/hamburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

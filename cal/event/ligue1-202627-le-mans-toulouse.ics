@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-le-mans-toulouse@sports.anthonytoday.com
+DTSTAMP:20261104T064818Z
+DTSTART:20261016T184500Z
+DTEND:20261016T204000Z
+TRANSP:OPAQUE
+SUMMARY:Le Mans - Toulouse
+DESCRIPTION:Ligue 1\, Matchday 7\nhttps://inmycal.com
+LOCATION:Stade Marie-Marvingt\, Le Mans
+URL:https://inmycal.com/ligue-1/le-mans/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

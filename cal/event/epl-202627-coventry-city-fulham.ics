@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-coventry-city-fulham@sports.anthonytoday.com
+DTSTAMP:20261104T064744Z
+DTSTART:20261024T140000Z
+DTEND:20261024T155500Z
+TRANSP:OPAQUE
+SUMMARY:Coventry City - Fulham
+DESCRIPTION:Premier League\, Matchday 8\nhttps://inmycal.com
+LOCATION:Coventry Building Society Arena\, Coventry
+URL:https://inmycal.com/premier-league/coventry-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-villarreal-osasuna@sports.anthonytoday.com
+DTSTAMP:20261104T064800Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Villarreal - Osasuna
+DESCRIPTION:La Liga\, Matchday 37\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Estadio de la Cerámica\, Villarreal
+URL:https://inmycal.com/la-liga/villarreal/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

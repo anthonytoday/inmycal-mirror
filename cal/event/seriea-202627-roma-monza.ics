@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-roma-monza@sports.anthonytoday.com
+DTSTAMP:20261104T064712Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Roma - Monza
+DESCRIPTION:Serie A\, Matchday 13\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Olimpico\, Rome
+URL:https://inmycal.com/serie-a/roma/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

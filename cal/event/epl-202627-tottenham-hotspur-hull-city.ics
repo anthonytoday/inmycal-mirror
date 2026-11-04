@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-tottenham-hotspur-hull-city@sports.anthonytoday.com
+DTSTAMP:20261104T064747Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:Tottenham Hotspur - Hull City
+DESCRIPTION:Premier League\, Matchday 33\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Tottenham Hotspur Stadium\, London
+URL:https://inmycal.com/premier-league/tottenham-hotspur/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

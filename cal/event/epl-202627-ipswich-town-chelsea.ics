@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-ipswich-town-chelsea@sports.anthonytoday.com
+DTSTAMP:20261104T064743Z
+DTSTART:20261230T201500Z
+DTEND:20261230T221000Z
+TRANSP:OPAQUE
+SUMMARY:Ipswich Town - Chelsea
+DESCRIPTION:Premier League\, Matchday 18\nhttps://inmycal.com
+LOCATION:Portman Road\, Ipswich
+URL:https://inmycal.com/premier-league/ipswich-town/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

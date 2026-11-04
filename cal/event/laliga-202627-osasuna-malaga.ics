@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-osasuna-malaga@sports.anthonytoday.com
+DTSTAMP:20261104T064710Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Osasuna - Málaga
+DESCRIPTION:La Liga\, Matchday 13\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:El Sadar\, Pamplona
+URL:https://inmycal.com/la-liga/osasuna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

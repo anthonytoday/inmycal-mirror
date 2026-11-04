@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-strasbourg-angers@sports.anthonytoday.com
+DTSTAMP:20261104T064814Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:Strasbourg - Angers
+DESCRIPTION:Ligue 1\, Matchday 24\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://inmycal.com/ligue-1/strasbourg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

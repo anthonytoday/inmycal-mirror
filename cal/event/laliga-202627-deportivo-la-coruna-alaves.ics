@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-deportivo-la-coruna-alaves@sports.anthonytoday.com
+DTSTAMP:20261104T064751Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:Deportivo La Coruña - Alavés
+DESCRIPTION:La Liga\, Matchday 36\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Riazor\, A Coruña
+URL:https://inmycal.com/la-liga/deportivo-la-coruna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

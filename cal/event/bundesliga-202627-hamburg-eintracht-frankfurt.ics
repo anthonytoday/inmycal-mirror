@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-hamburg-eintracht-frankfurt@sports.anthonytoday.com
+DTSTAMP:20261104T064806Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:Hamburger SV - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 25\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Volksparkstadion\, Hamburg
+URL:https://inmycal.com/bundesliga/hamburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

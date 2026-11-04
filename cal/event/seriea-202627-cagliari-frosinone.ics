@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-cagliari-frosinone@sports.anthonytoday.com
+DTSTAMP:20261104T064657Z
+DTSTART:20261107T140000Z
+DTEND:20261107T155500Z
+TRANSP:OPAQUE
+SUMMARY:Cagliari - Frosinone
+DESCRIPTION:Serie A\, Matchday 11\nhttps://inmycal.com
+LOCATION:Unipol Domus\, Cagliari
+URL:https://inmycal.com/serie-a/cagliari/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

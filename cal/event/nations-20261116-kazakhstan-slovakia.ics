@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261116-kazakhstan-slovakia@sports.anthonytoday.com
+DTSTAMP:20261104T064721Z
+DTSTART:20261116T150000Z
+DTEND:20261116T165500Z
+TRANSP:OPAQUE
+SUMMARY:Kazakhstan - Slovakia [NL]
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Astana Arena\, Astana
+URL:https://inmycal.com/nations/kazakhstan/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

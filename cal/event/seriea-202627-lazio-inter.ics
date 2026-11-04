@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-lazio-inter@sports.anthonytoday.com
+DTSTAMP:20261104T064725Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+TRANSP:TRANSPARENT
+SUMMARY:Lazio - Inter
+DESCRIPTION:Serie A\, Matchday 18\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Olimpico\, Rome
+URL:https://inmycal.com/serie-a/lazio/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

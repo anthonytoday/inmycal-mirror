@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260926-slovenia-scotland@sports.anthonytoday.com
+DTSTAMP:20261104T064829Z
+DTSTART:20260926T130000Z
+DTEND:20260926T145500Z
+TRANSP:OPAQUE
+SUMMARY:Slovenia - Scotland [NL] (0-0)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Stožice Stadium\, Ljubljana
+URL:https://inmycal.com/nations/slovenia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

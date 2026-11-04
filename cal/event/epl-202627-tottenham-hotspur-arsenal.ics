@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-tottenham-hotspur-arsenal@sports.anthonytoday.com
+DTSTAMP:20261104T064737Z
+DTSTART:20261205T150000Z
+DTEND:20261205T165500Z
+TRANSP:OPAQUE
+SUMMARY:Tottenham Hotspur - Arsenal
+DESCRIPTION:Premier League\, Matchday 14\nhttps://inmycal.com
+LOCATION:Tottenham Hotspur Stadium\, London
+URL:https://inmycal.com/premier-league/tottenham-hotspur/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

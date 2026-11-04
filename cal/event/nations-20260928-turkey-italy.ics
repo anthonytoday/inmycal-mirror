@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260928-turkey-italy@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204000Z
+TRANSP:OPAQUE
+SUMMARY:Turkey - Italy [NL] (1-4)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Centennial Atatürk Stadium\, Bursa
+URL:https://inmycal.com/nations/turkey/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

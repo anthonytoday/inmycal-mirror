@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-sassuolo-ac-milan@sports.anthonytoday.com
+DTSTAMP:20261104T064725Z
+DTSTART:20261011T160000Z
+DTEND:20261011T175500Z
+TRANSP:OPAQUE
+SUMMARY:Sassuolo - AC Milan
+DESCRIPTION:Serie A\, Matchday 6\nhttps://inmycal.com
+LOCATION:Mapei Stadium\, Reggio Emilia
+URL:https://inmycal.com/serie-a/sassuolo/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261001-denmark-portugal@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204000Z
+TRANSP:OPAQUE
+SUMMARY:Denmark - Portugal [NL] (2-4)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Parken Stadium\, Copenhagen
+URL:https://inmycal.com/nations/denmark/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

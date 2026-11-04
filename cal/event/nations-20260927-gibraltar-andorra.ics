@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260927-gibraltar-andorra@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART:20260927T160000Z
+DTEND:20260927T175500Z
+TRANSP:OPAQUE
+SUMMARY:Gibraltar - Andorra [NL] (0-0)
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Europa Sports Park\, Gibraltar
+URL:https://inmycal.com/nations/gibraltar/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

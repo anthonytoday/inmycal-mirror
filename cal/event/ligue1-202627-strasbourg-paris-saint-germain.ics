@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-strasbourg-paris-saint-germain@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART:20261017T151500Z
+DTEND:20261017T171000Z
+TRANSP:OPAQUE
+SUMMARY:Strasbourg - Paris Saint-Germain
+DESCRIPTION:Ligue 1\, Matchday 7\nhttps://inmycal.com
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://inmycal.com/ligue-1/strasbourg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

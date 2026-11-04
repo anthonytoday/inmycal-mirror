@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261005-ukraine-hungary@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204000Z
+TRANSP:OPAQUE
+SUMMARY:Ukraine - Hungary [NL] (1-2)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Anton Malatinský Stadium\, Trnava (Slovakia)
+URL:https://inmycal.com/nations/ukraine/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

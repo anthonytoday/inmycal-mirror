@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-koln-freiburg@sports.anthonytoday.com
+DTSTAMP:20261104T064808Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+SUMMARY:Köln - Freiburg
+DESCRIPTION:Bundesliga\, Matchday 15\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:RheinEnergieStadion\, Cologne
+URL:https://inmycal.com/bundesliga/koln/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

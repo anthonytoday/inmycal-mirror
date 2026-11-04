@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-bologna-inter@sports.anthonytoday.com
+DTSTAMP:20261104T064726Z
+DTSTART:20261017T160000Z
+DTEND:20261017T175500Z
+TRANSP:OPAQUE
+SUMMARY:Bologna - Inter
+DESCRIPTION:Serie A\, Matchday 7\nhttps://inmycal.com
+LOCATION:Stadio Renato Dall'Ara\, Bologna
+URL:https://inmycal.com/serie-a/bologna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-racing-santander-sevilla@sports.anthonytoday.com
+DTSTAMP:20261104T064801Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:Racing Santander - Sevilla
+DESCRIPTION:La Liga\, Matchday 35\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:El Sardinero\, Santander
+URL:https://inmycal.com/la-liga/racing-santander/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

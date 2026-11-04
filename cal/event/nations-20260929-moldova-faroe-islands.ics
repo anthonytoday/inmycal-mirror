@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260929-moldova-faroe-islands@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20260929T160000Z
+DTEND:20260929T175500Z
+TRANSP:OPAQUE
+SUMMARY:Moldova - Faroe Islands [NL] (1-1)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Zimbru Stadium\, Chișinău
+URL:https://inmycal.com/nations/moldova/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

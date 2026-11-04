@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-bournemouth-nottingham-forest@sports.anthonytoday.com
+DTSTAMP:20261104T064709Z
+DTSTART:20261121T150000Z
+DTEND:20261121T165500Z
+TRANSP:OPAQUE
+SUMMARY:Bournemouth - Nottingham Forest
+DESCRIPTION:Premier League\, Matchday 11\nhttps://inmycal.com
+LOCATION:Vitality Stadium\, Bournemouth
+URL:https://inmycal.com/premier-league/bournemouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

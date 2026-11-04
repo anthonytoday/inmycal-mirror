@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261113-andorra-gibraltar@sports.anthonytoday.com
+DTSTAMP:20261104T064718Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214000Z
+TRANSP:OPAQUE
+SUMMARY:Andorra - Gibraltar [NL]
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Estadi de la FAF\, Encamp
+URL:https://inmycal.com/nations/andorra/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-newcastle-united-coventry-city@sports.anthonytoday.com
+DTSTAMP:20261104T064744Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+TRANSP:TRANSPARENT
+SUMMARY:Newcastle United - Coventry City
+DESCRIPTION:Premier League\, Matchday 35\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:St James' Park\, Newcastle
+URL:https://inmycal.com/premier-league/newcastle-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

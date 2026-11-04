@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261112-italy-france@sports.anthonytoday.com
+DTSTAMP:20261104T064714Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214000Z
+TRANSP:OPAQUE
+SUMMARY:Italy - France [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:San Siro\, Milan
+URL:https://inmycal.com/nations/italy/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-venezia-inter@sports.anthonytoday.com
+DTSTAMP:20261104T064726Z
+DTSTART:20261028T173000Z
+DTEND:20261028T192500Z
+TRANSP:OPAQUE
+SUMMARY:Venezia - Inter
+DESCRIPTION:Serie A\, Matchday 9\nhttps://inmycal.com
+LOCATION:Stadio Pier Luigi Penzo\, Venice
+URL:https://inmycal.com/serie-a/venezia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

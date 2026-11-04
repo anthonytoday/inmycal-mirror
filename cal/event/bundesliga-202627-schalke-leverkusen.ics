@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-schalke-leverkusen@sports.anthonytoday.com
+DTSTAMP:20261104T064811Z
+DTSTART:20270522T133000Z
+DTEND:20270522T152500Z
+TRANSP:OPAQUE
+SUMMARY:Schalke 04 - Leverkusen
+DESCRIPTION:Bundesliga\, Matchday 34\nhttps://inmycal.com
+LOCATION:Veltins-Arena\, Gelsenkirchen
+URL:https://inmycal.com/bundesliga/schalke/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

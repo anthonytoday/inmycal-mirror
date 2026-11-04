@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-como-fiorentina@sports.anthonytoday.com
+DTSTAMP:20261104T064732Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:Como - Fiorentina
+DESCRIPTION:Serie A\, Matchday 30\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://inmycal.com/serie-a/como/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-le-mans-nice@sports.anthonytoday.com
+DTSTAMP:20261104T064818Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Le Mans - Nice
+DESCRIPTION:Ligue 1\, Matchday 18\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Marie-Marvingt\, Le Mans
+URL:https://inmycal.com/ligue-1/le-mans/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

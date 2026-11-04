@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-werder-bremen-hamburg@sports.anthonytoday.com
+DTSTAMP:20261104T064711Z
+DTSTART:20261122T163000Z
+DTEND:20261122T182500Z
+TRANSP:OPAQUE
+SUMMARY:Werder Bremen - Hamburger SV
+DESCRIPTION:Bundesliga\, Matchday 10\nhttps://inmycal.com
+LOCATION:Weserstadion\, Bremen
+URL:https://inmycal.com/bundesliga/werder-bremen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-newcastle-united-everton@sports.anthonytoday.com
+DTSTAMP:20261104T064746Z
+DTSTART:20261102T200000Z
+DTEND:20261102T215500Z
+TRANSP:OPAQUE
+SUMMARY:Newcastle United - Everton
+DESCRIPTION:Premier League\, Matchday 9\nhttps://inmycal.com
+LOCATION:St James' Park\, Newcastle
+URL:https://inmycal.com/premier-league/newcastle-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

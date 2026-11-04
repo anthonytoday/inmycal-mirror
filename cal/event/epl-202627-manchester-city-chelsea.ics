@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-manchester-city-chelsea@sports.anthonytoday.com
+DTSTAMP:20261104T064742Z
+DTSTART:20261212T150000Z
+DTEND:20261212T165500Z
+TRANSP:OPAQUE
+SUMMARY:Manchester City - Chelsea
+DESCRIPTION:Premier League\, Matchday 15\nhttps://inmycal.com
+LOCATION:Etihad Stadium\, Manchester
+URL:https://inmycal.com/premier-league/manchester-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

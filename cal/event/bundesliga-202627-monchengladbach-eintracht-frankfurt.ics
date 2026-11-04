@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-monchengladbach-eintracht-frankfurt@sports.anthonytod
+ ay.com
+DTSTAMP:20261104T064806Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:Mönchengladbach - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 13\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Borussia-Park\, Mönchengladbach
+URL:https://inmycal.com/bundesliga/monchengladbach/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

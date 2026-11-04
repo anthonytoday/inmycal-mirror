@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-torino-lecce@sports.anthonytoday.com
+DTSTAMP:20261104T064657Z
+DTSTART:20261107T140000Z
+DTEND:20261107T155500Z
+TRANSP:OPAQUE
+SUMMARY:Torino - Lecce
+DESCRIPTION:Serie A\, Matchday 11\nhttps://inmycal.com
+LOCATION:Stadio Olimpico Grande Torino\, Turin
+URL:https://inmycal.com/serie-a/torino/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

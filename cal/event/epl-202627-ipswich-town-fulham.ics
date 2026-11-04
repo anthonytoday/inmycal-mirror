@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-ipswich-town-fulham@sports.anthonytoday.com
+DTSTAMP:20261104T064746Z
+DTSTART:20261010T140000Z
+DTEND:20261010T155500Z
+TRANSP:OPAQUE
+SUMMARY:Ipswich Town - Fulham
+DESCRIPTION:Premier League\, Matchday 6\nhttps://inmycal.com
+LOCATION:Portman Road\, Ipswich
+URL:https://inmycal.com/premier-league/ipswich-town/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

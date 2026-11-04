@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-levante-racing-santander@sports.anthonytoday.com
+DTSTAMP:20261104T064711Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Levante - Racing Santander
+DESCRIPTION:La Liga\, Matchday 14\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Ciutat de València\, Valencia
+URL:https://inmycal.com/la-liga/levante/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

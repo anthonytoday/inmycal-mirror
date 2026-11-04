@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brighton-crystal-palace@sports.anthonytoday.com
+DTSTAMP:20261104T064742Z
+DTSTART:20261018T130000Z
+DTEND:20261018T145500Z
+TRANSP:OPAQUE
+SUMMARY:Brighton - Crystal Palace
+DESCRIPTION:Premier League\, Matchday 7\nhttps://inmycal.com
+LOCATION:Amex Stadium\, Brighton
+URL:https://inmycal.com/premier-league/brighton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

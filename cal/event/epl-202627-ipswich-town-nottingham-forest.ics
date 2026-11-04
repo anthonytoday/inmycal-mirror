@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-ipswich-town-nottingham-forest@sports.anthonytoday.com
+DTSTAMP:20261104T064748Z
+DTSTART:20261023T190000Z
+DTEND:20261023T205500Z
+TRANSP:OPAQUE
+SUMMARY:Ipswich Town - Nottingham Forest
+DESCRIPTION:Premier League\, Matchday 8\nhttps://inmycal.com
+LOCATION:Portman Road\, Ipswich
+URL:https://inmycal.com/premier-league/ipswich-town/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

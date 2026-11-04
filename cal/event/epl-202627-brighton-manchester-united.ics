@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brighton-manchester-united@sports.anthonytoday.com
+DTSTAMP:20261104T064742Z
+DTSTART:20270102T123000Z
+DTEND:20270102T142500Z
+TRANSP:OPAQUE
+SUMMARY:Brighton - Manchester United
+DESCRIPTION:Premier League\, Matchday 19\nhttps://inmycal.com
+LOCATION:Amex Stadium\, Brighton
+URL:https://inmycal.com/premier-league/brighton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

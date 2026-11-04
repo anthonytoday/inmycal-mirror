@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-stuttgart-hoffenheim@sports.anthonytoday.com
+DTSTAMP:20261104T064810Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:Stuttgart - Hoffenheim
+DESCRIPTION:Bundesliga\, Matchday 20\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:MHPArena\, Stuttgart
+URL:https://inmycal.com/bundesliga/stuttgart/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-nottingham-forest-coventry-city@sports.anthonytoday.com
+DTSTAMP:20261104T064744Z
+DTSTART:20260919T163000Z
+DTEND:20260919T182500Z
+TRANSP:OPAQUE
+SUMMARY:Nottingham Forest - Coventry City (0-1)
+DESCRIPTION:Premier League\, Matchday 5\nhttps://inmycal.com
+LOCATION:City Ground\, Nottingham
+URL:https://inmycal.com/premier-league/nottingham-forest/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

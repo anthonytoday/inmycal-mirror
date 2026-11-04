@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260927-germany-greece@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204000Z
+TRANSP:OPAQUE
+SUMMARY:Germany - Greece [NL] (0-1)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:WWK Arena\, Augsburg
+URL:https://inmycal.com/nations/germany/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

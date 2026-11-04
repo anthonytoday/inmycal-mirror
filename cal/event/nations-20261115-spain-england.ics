@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261115-spain-england@sports.anthonytoday.com
+DTSTAMP:20261104T064721Z
+DTSTART:20261115T194500Z
+DTEND:20261115T214000Z
+TRANSP:OPAQUE
+SUMMARY:Spain - England [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Metropolitano Stadium\, Madrid
+URL:https://inmycal.com/nations/spain/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

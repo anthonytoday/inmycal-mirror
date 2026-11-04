@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-dortmund-werder-bremen@sports.anthonytoday.com
+DTSTAMP:20261104T064806Z
+DTSTART:20261009T183000Z
+DTEND:20261009T202500Z
+TRANSP:OPAQUE
+SUMMARY:Borussia Dortmund - Werder Bremen
+DESCRIPTION:Bundesliga\, Matchday 5\nhttps://inmycal.com
+LOCATION:Signal Iduna Park\, Dortmund
+URL:https://inmycal.com/bundesliga/dortmund/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

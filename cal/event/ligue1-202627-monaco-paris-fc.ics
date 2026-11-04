@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-monaco-paris-fc@sports.anthonytoday.com
+DTSTAMP:20261104T064822Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:Monaco - Paris FC
+DESCRIPTION:Ligue 1\, Matchday 32\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Louis II\, Monaco
+URL:https://inmycal.com/ligue-1/monaco/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

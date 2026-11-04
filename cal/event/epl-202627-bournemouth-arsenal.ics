@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-bournemouth-arsenal@sports.anthonytoday.com
+DTSTAMP:20261104T064737Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:Bournemouth - Arsenal
+DESCRIPTION:Premier League\, Matchday 33\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Vitality Stadium\, Bournemouth
+URL:https://inmycal.com/premier-league/bournemouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

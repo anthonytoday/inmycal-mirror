@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261001-azerbaijan-liechtenstein@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261001T160000Z
+DTEND:20261001T175500Z
+TRANSP:OPAQUE
+SUMMARY:Azerbaijan - Liechtenstein [NL] (0-0)
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Tofiq Bahramov Republican Stadium\, Baku
+URL:https://inmycal.com/nations/azerbaijan/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-sunderland-brentford@sports.anthonytoday.com
+DTSTAMP:20261104T064741Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:Sunderland - Brentford
+DESCRIPTION:Premier League\, Matchday 29\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Stadium of Light\, Sunderland
+URL:https://inmycal.com/premier-league/sunderland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

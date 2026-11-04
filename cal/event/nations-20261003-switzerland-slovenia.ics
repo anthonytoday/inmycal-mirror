@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261003-switzerland-slovenia@sports.anthonytoday.com
+DTSTAMP:20261104T064829Z
+DTSTART:20261003T184500Z
+DTEND:20261003T204000Z
+TRANSP:OPAQUE
+SUMMARY:Switzerland - Slovenia [NL] (2-1)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Thermoplan Arena\, Lucerne
+URL:https://inmycal.com/nations/switzerland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

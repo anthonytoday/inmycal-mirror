@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-leverkusen-freiburg@sports.anthonytoday.com
+DTSTAMP:20261104T064809Z
+DTSTART:20261018T133000Z
+DTEND:20261018T152500Z
+TRANSP:OPAQUE
+SUMMARY:Leverkusen - Freiburg
+DESCRIPTION:Bundesliga\, Matchday 6\nhttps://inmycal.com
+LOCATION:BayArena\, Leverkusen
+URL:https://inmycal.com/bundesliga/leverkusen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

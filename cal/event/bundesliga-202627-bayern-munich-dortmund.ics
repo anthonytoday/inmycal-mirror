@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-bayern-munich-dortmund@sports.anthonytoday.com
+DTSTAMP:20261104T064805Z
+DTSTART:20261031T173000Z
+DTEND:20261031T192500Z
+TRANSP:OPAQUE
+SUMMARY:Bayern Munich - Borussia Dortmund
+DESCRIPTION:Bundesliga\, Matchday 8\nhttps://inmycal.com
+LOCATION:Allianz Arena\, Munich
+URL:https://inmycal.com/bundesliga/bayern-munich/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

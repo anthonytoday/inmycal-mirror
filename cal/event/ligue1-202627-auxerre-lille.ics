@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-auxerre-lille@sports.anthonytoday.com
+DTSTAMP:20261104T064815Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:Auxerre - Lille
+DESCRIPTION:Ligue 1\, Matchday 22\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre
+URL:https://inmycal.com/ligue-1/auxerre/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

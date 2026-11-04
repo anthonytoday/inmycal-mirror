@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261115-cyprus-montenegro@sports.anthonytoday.com
+DTSTAMP:20261104T064721Z
+DTSTART:20261115T140000Z
+DTEND:20261115T155500Z
+TRANSP:OPAQUE
+SUMMARY:Cyprus - Montenegro [NL]
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Alphamega Stadium\, Limassol
+URL:https://inmycal.com/nations/cyprus/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

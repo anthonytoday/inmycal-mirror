@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-como-cagliari@sports.anthonytoday.com
+DTSTAMP:20261104T064712Z
+DTSTART:20261121T140000Z
+DTEND:20261121T155500Z
+TRANSP:OPAQUE
+SUMMARY:Como - Cagliari
+DESCRIPTION:Serie A\, Matchday 12\nhttps://inmycal.com
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://inmycal.com/serie-a/como/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

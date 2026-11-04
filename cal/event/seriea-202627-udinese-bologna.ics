@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-udinese-bologna@sports.anthonytoday.com
+DTSTAMP:20261104T064732Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:Udinese - Bologna
+DESCRIPTION:Serie A\, Matchday 22\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Bluenergy Stadium\, Udine
+URL:https://inmycal.com/serie-a/udinese/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

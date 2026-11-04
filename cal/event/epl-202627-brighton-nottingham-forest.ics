@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brighton-nottingham-forest@sports.anthonytoday.com
+DTSTAMP:20261104T064742Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Brighton - Nottingham Forest
+DESCRIPTION:Premier League\, Matchday 34\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Amex Stadium\, Brighton
+URL:https://inmycal.com/premier-league/brighton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

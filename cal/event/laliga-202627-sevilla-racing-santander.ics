@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-sevilla-racing-santander@sports.anthonytoday.com
+DTSTAMP:20261104T064801Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:Sevilla - Racing Santander
+DESCRIPTION:La Liga\, Matchday 17\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Ramón Sánchez-Pizjuán\, Seville
+URL:https://inmycal.com/la-liga/sevilla/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

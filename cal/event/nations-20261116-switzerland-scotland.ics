@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261116-switzerland-scotland@sports.anthonytoday.com
+DTSTAMP:20261104T064722Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214000Z
+TRANSP:OPAQUE
+SUMMARY:Switzerland - Scotland [NL]
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Sitterstadion\, St. Gallen
+URL:https://inmycal.com/nations/switzerland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

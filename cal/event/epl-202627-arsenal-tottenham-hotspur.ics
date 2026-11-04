@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-arsenal-tottenham-hotspur@sports.anthonytoday.com
+DTSTAMP:20261104T064737Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Arsenal - Tottenham Hotspur
+DESCRIPTION:Premier League\, Matchday 34\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Emirates Stadium\, London
+URL:https://inmycal.com/premier-league/arsenal/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

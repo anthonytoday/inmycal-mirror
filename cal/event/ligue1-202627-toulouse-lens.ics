@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-toulouse-lens@sports.anthonytoday.com
+DTSTAMP:20261104T064819Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Toulouse - Lens
+DESCRIPTION:Ligue 1\, Matchday 18\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://inmycal.com/ligue-1/toulouse/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

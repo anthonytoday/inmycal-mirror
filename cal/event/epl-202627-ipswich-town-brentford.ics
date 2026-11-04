@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-ipswich-town-brentford@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Ipswich Town - Brentford
+DESCRIPTION:Premier League\, Matchday 17\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Portman Road\, Ipswich
+URL:https://inmycal.com/premier-league/ipswich-town/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

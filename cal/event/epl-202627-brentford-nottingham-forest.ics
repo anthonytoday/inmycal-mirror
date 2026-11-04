@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brentford-nottingham-forest@sports.anthonytoday.com
+DTSTAMP:20261104T064741Z
+DTSTART:20261031T150000Z
+DTEND:20261031T165500Z
+TRANSP:OPAQUE
+SUMMARY:Brentford - Nottingham Forest
+DESCRIPTION:Premier League\, Matchday 9\nhttps://inmycal.com
+LOCATION:Gtech Community Stadium\, London
+URL:https://inmycal.com/premier-league/brentford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260928-georgia-ukraine@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20260928T160000Z
+DTEND:20260928T175500Z
+TRANSP:OPAQUE
+SUMMARY:Georgia - Ukraine [NL] (0-0)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Boris Paichadze Dinamo Arena\, Tbilisi
+URL:https://inmycal.com/nations/georgia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-koln-paderborn@sports.anthonytoday.com
+DTSTAMP:20261104T064811Z
+DTSTART:20270522T133000Z
+DTEND:20270522T152500Z
+TRANSP:OPAQUE
+SUMMARY:Köln - Paderborn
+DESCRIPTION:Bundesliga\, Matchday 34\nhttps://inmycal.com
+LOCATION:RheinEnergieStadion\, Cologne
+URL:https://inmycal.com/bundesliga/koln/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

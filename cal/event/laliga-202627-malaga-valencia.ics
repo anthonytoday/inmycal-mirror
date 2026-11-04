@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-malaga-valencia@sports.anthonytoday.com
+DTSTAMP:20261104T064800Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+SUMMARY:Málaga - Valencia
+DESCRIPTION:La Liga\, Matchday 32\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:La Rosaleda\, Málaga
+URL:https://inmycal.com/la-liga/malaga/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-lyon-marseille@sports.anthonytoday.com
+DTSTAMP:20261104T064821Z
+DTSTART:20261213T194500Z
+DTEND:20261213T214000Z
+TRANSP:OPAQUE
+SUMMARY:Lyon - Marseille
+DESCRIPTION:Ligue 1\, Matchday 14\nhttps://inmycal.com
+LOCATION:Groupama Stadium\, Décines-Charpieu
+URL:https://inmycal.com/ligue-1/lyon/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

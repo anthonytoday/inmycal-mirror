@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-paris-fc-le-mans@sports.anthonytoday.com
+DTSTAMP:20261104T064818Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:Paris FC - Le Mans
+DESCRIPTION:Ligue 1\, Matchday 13\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Jean-Bouin\, Paris
+URL:https://inmycal.com/ligue-1/paris-fc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

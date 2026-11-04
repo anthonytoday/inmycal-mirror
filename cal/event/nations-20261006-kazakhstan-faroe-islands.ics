@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261006-kazakhstan-faroe-islands@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261006T140000Z
+DTEND:20261006T155500Z
+TRANSP:OPAQUE
+SUMMARY:Kazakhstan - Faroe Islands [NL] (2-2)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Astana Arena\, Astana
+URL:https://inmycal.com/nations/kazakhstan/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

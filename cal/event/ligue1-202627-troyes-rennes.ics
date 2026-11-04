@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-troyes-rennes@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+SUMMARY:Troyes - Rennes
+DESCRIPTION:Ligue 1\, Matchday 15\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade de l'Aube\, Troyes
+URL:https://inmycal.com/ligue-1/troyes/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

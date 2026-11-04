@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-real-betis-celta-vigo@sports.anthonytoday.com
+DTSTAMP:20261104T064755Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:Real Betis - Celta Vigo
+DESCRIPTION:La Liga\, Matchday 30\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Benito Villamarín\, Seville
+URL:https://inmycal.com/la-liga/real-betis/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

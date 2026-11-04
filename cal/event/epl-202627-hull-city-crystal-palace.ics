@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-hull-city-crystal-palace@sports.anthonytoday.com
+DTSTAMP:20261104T064744Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Hull City - Crystal Palace
+DESCRIPTION:Premier League\, Matchday 23\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:MKM Stadium\, Hull
+URL:https://inmycal.com/premier-league/hull-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

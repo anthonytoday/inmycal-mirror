@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20261205@sports.anthonytoday.com
+DTSTAMP:20261104T064722Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:UFC Fight Night 295
+DESCRIPTION:UFC\nStart time not published in our free source yet\; check th
+ e fight card on the day.\nhttps://inmycal.com
+LOCATION:anb Arena\, Riyadh\, Saudi Arabia
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-getafe-valencia@sports.anthonytoday.com
+DTSTAMP:20261104T064758Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Getafe - Valencia
+DESCRIPTION:La Liga\, Matchday 15\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Coliseum\, Getafe
+URL:https://inmycal.com/la-liga/getafe/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-leverkusen-eintracht-frankfurt@sports.anthonytoday.co
+ m
+DTSTAMP:20261104T064806Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Leverkusen - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 14\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:BayArena\, Leverkusen
+URL:https://inmycal.com/bundesliga/leverkusen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261117-denmark-norway@sports.anthonytoday.com
+DTSTAMP:20261104T064722Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214000Z
+TRANSP:OPAQUE
+SUMMARY:Denmark - Norway [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Parken Stadium\, Copenhagen
+URL:https://inmycal.com/nations/denmark/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

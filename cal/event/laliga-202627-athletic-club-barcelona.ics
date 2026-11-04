@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-athletic-club-barcelona@sports.anthonytoday.com
+DTSTAMP:20261104T064751Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:Athletic Club - Barcelona
+DESCRIPTION:La Liga\, Matchday 26\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:San Mamés\, Bilbao
+URL:https://inmycal.com/la-liga/athletic-club/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

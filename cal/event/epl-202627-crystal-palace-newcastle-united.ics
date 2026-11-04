@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-crystal-palace-newcastle-united@sports.anthonytoday.com
+DTSTAMP:20261104T064745Z
+DTSTART:20261025T140000Z
+DTEND:20261025T155500Z
+TRANSP:OPAQUE
+SUMMARY:Crystal Palace - Newcastle United
+DESCRIPTION:Premier League\, Matchday 8\nhttps://inmycal.com
+LOCATION:Selhurst Park\, London
+URL:https://inmycal.com/premier-league/crystal-palace/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

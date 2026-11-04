@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-tottenham-hotspur-brighton@sports.anthonytoday.com
+DTSTAMP:20261104T064742Z
+DTSTART:20261229T193000Z
+DTEND:20261229T212500Z
+TRANSP:OPAQUE
+SUMMARY:Tottenham Hotspur - Brighton
+DESCRIPTION:Premier League\, Matchday 18\nhttps://inmycal.com
+LOCATION:Tottenham Hotspur Stadium\, London
+URL:https://inmycal.com/premier-league/tottenham-hotspur/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

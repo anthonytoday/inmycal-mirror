@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261116-lithuania-liechtenstein@sports.anthonytoday.com
+DTSTAMP:20261104T064721Z
+DTSTART:20261116T170000Z
+DTEND:20261116T185500Z
+TRANSP:OPAQUE
+SUMMARY:Lithuania - Liechtenstein [NL]
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Darius and Girėnas Stadium\, Kaunas
+URL:https://inmycal.com/nations/lithuania/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

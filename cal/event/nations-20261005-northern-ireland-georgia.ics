@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261005-northern-ireland-georgia@sports.anthonytoday.com
+DTSTAMP:20261104T064827Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204000Z
+TRANSP:OPAQUE
+SUMMARY:Northern Ireland - Georgia [NL] (0-0)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Windsor Park\, Belfast
+URL:https://inmycal.com/nations/northern-ireland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-toulouse-troyes@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART:20261024T151500Z
+DTEND:20261024T171000Z
+TRANSP:OPAQUE
+SUMMARY:Toulouse - Troyes
+DESCRIPTION:Ligue 1\, Matchday 8\nhttps://inmycal.com
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://inmycal.com/ligue-1/toulouse/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

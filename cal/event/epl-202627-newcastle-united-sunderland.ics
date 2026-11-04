@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-newcastle-united-sunderland@sports.anthonytoday.com
+DTSTAMP:20261104T064749Z
+DTSTART:20261205T150000Z
+DTEND:20261205T165500Z
+TRANSP:OPAQUE
+SUMMARY:Newcastle United - Sunderland
+DESCRIPTION:Premier League\, Matchday 14\nhttps://inmycal.com
+LOCATION:St James' Park\, Newcastle
+URL:https://inmycal.com/premier-league/newcastle-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

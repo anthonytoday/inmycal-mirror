@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-torino-atalanta@sports.anthonytoday.com
+DTSTAMP:20261104T064730Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:Torino - Atalanta
+DESCRIPTION:Serie A\, Matchday 19\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Olimpico Grande Torino\, Turin
+URL:https://inmycal.com/serie-a/torino/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

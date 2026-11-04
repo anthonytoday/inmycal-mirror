@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20270207@sports.anthonytoday.com
+DTSTAMP:20261104T064723Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+TRANSP:TRANSPARENT
+SUMMARY:UFC Fight Night: Salkilld vs. Saint Denis
+DESCRIPTION:UFC\nStart time not published in our free source yet\; check th
+ e fight card on the day.\nhttps://inmycal.com
+LOCATION:Afterpay Arena\, Sydney\, Australia
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

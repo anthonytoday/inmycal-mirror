@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-crystal-palace-brighton@sports.anthonytoday.com
+DTSTAMP:20261104T064742Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:Crystal Palace - Brighton
+DESCRIPTION:Premier League\, Matchday 36\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Selhurst Park\, London
+URL:https://inmycal.com/premier-league/crystal-palace/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

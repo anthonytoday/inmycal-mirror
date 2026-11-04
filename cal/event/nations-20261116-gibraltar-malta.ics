@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261116-gibraltar-malta@sports.anthonytoday.com
+DTSTAMP:20261104T064722Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214000Z
+TRANSP:OPAQUE
+SUMMARY:Gibraltar - Malta [NL]
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Europa Sports Park\, Gibraltar
+URL:https://inmycal.com/nations/gibraltar/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

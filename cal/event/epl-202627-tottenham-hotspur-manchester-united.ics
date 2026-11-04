@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-tottenham-hotspur-manchester-united@sports.anthonytoday.com
+DTSTAMP:20261104T064749Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Tottenham Hotspur - Manchester United
+DESCRIPTION:Premier League\, Matchday 37\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Tottenham Hotspur Stadium\, London
+URL:https://inmycal.com/premier-league/tottenham-hotspur/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

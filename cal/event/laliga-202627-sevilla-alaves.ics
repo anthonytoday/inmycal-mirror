@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-sevilla-alaves@sports.anthonytoday.com
+DTSTAMP:20261104T064703Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Sevilla - Alavés
+DESCRIPTION:La Liga\, Matchday 12\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Ramón Sánchez-Pizjuán\, Seville
+URL:https://inmycal.com/la-liga/sevilla/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-troyes-brest@sports.anthonytoday.com
+DTSTAMP:20261104T064817Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Troyes - Brest
+DESCRIPTION:Ligue 1\, Matchday 30\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade de l'Aube\, Troyes
+URL:https://inmycal.com/ligue-1/troyes/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260926-iceland-estonia@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20260926T160000Z
+DTEND:20260926T175500Z
+TRANSP:OPAQUE
+SUMMARY:Iceland - Estonia [NL] (1-1)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Laugardalsvöllur\, Reykjavík
+URL:https://inmycal.com/nations/iceland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

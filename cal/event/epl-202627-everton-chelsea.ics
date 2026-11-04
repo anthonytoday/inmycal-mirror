@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-everton-chelsea@sports.anthonytoday.com
+DTSTAMP:20261104T064743Z
+DTSTART:20261017T113000Z
+DTEND:20261017T132500Z
+TRANSP:OPAQUE
+SUMMARY:Everton - Chelsea
+DESCRIPTION:Premier League\, Matchday 7\nhttps://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

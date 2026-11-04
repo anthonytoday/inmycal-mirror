@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-sunderland-bournemouth@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:Sunderland - Bournemouth
+DESCRIPTION:Premier League\, Matchday 36\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Stadium of Light\, Sunderland
+URL:https://inmycal.com/premier-league/sunderland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

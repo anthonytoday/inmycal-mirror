@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261005-cyprus-latvia@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261005T160000Z
+DTEND:20261005T175500Z
+TRANSP:OPAQUE
+SUMMARY:Cyprus - Latvia [NL] (2-1)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:GSP Stadium\, Nicosia
+URL:https://inmycal.com/nations/cyprus/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

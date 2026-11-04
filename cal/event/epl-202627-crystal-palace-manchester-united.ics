@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-crystal-palace-manchester-united@sports.anthonytoday.com
+DTSTAMP:20261104T064744Z
+DTSTART:20261212T150000Z
+DTEND:20261212T165500Z
+TRANSP:OPAQUE
+SUMMARY:Crystal Palace - Manchester United
+DESCRIPTION:Premier League\, Matchday 15\nhttps://inmycal.com
+LOCATION:Selhurst Park\, London
+URL:https://inmycal.com/premier-league/crystal-palace/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brentford-newcastle-united@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Brentford - Newcastle United
+DESCRIPTION:Premier League\, Matchday 16\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Gtech Community Stadium\, London
+URL:https://inmycal.com/premier-league/brentford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

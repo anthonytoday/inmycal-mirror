@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-hoffenheim-leverkusen@sports.anthonytoday.com
+DTSTAMP:20261104T064810Z
+DTSTART:20261025T143000Z
+DTEND:20261025T162500Z
+TRANSP:OPAQUE
+SUMMARY:Hoffenheim - Leverkusen
+DESCRIPTION:Bundesliga\, Matchday 7\nhttps://inmycal.com
+LOCATION:PreZero Arena\, Sinsheim
+URL:https://inmycal.com/bundesliga/hoffenheim/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

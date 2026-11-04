@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-tottenham-hotspur-aston-villa@sports.anthonytoday.com
+DTSTAMP:20261104T064739Z
+DTSTART:20260919T113000Z
+DTEND:20260919T132500Z
+TRANSP:OPAQUE
+SUMMARY:Tottenham Hotspur - Aston Villa (2-3)
+DESCRIPTION:Premier League\, Matchday 5\nhttps://inmycal.com
+LOCATION:Tottenham Hotspur Stadium\, London
+URL:https://inmycal.com/premier-league/tottenham-hotspur/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260927-lithuania-azerbaijan@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20260927T130000Z
+DTEND:20260927T145500Z
+TRANSP:OPAQUE
+SUMMARY:Lithuania - Azerbaijan [NL] (1-1)
+DESCRIPTION:National teams\, Nations League D\nhttps://inmycal.com
+LOCATION:Darius and Girėnas Stadium\, Kaunas
+URL:https://inmycal.com/nations/lithuania/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

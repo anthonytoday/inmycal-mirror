@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-angers-paris-fc@sports.anthonytoday.com
+DTSTAMP:20261104T064814Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+TRANSP:TRANSPARENT
+SUMMARY:Angers - Paris FC
+DESCRIPTION:Ligue 1\, Matchday 21\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Raymond Kopa\, Angers
+URL:https://inmycal.com/ligue-1/angers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

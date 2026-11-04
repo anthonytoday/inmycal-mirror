@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-marseille-le-mans@sports.anthonytoday.com
+DTSTAMP:20261104T064713Z
+DTSTART:20261122T194500Z
+DTEND:20261122T214000Z
+TRANSP:OPAQUE
+SUMMARY:Marseille - Le Mans
+DESCRIPTION:Ligue 1\, Matchday 11\nhttps://inmycal.com
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://inmycal.com/ligue-1/marseille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

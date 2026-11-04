@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-atalanta-ac-milan@sports.anthonytoday.com
+DTSTAMP:20261104T064724Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:Atalanta - AC Milan
+DESCRIPTION:Serie A\, Matchday 29\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Gewiss Stadium\, Bergamo
+URL:https://inmycal.com/serie-a/atalanta/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

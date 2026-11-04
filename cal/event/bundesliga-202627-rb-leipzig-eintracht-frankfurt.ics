@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-rb-leipzig-eintracht-frankfurt@sports.anthonytoday.co
+ m
+DTSTAMP:20261104T064807Z
+DTSTART:20261010T163000Z
+DTEND:20261010T182500Z
+TRANSP:OPAQUE
+SUMMARY:RB Leipzig - Eintracht Frankfurt
+DESCRIPTION:Bundesliga\, Matchday 5\nhttps://inmycal.com
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://inmycal.com/bundesliga/rb-leipzig/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

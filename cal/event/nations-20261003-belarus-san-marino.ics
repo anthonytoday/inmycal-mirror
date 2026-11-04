@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261003-belarus-san-marino@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261003T160000Z
+DTEND:20261003T175500Z
+TRANSP:OPAQUE
+SUMMARY:Belarus - San Marino [NL] (4-0)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Illovszky Rudolf Stadion\, Budapest (Hungary)
+URL:https://inmycal.com/nations/belarus/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-barcelona-real-sociedad@sports.anthonytoday.com
+DTSTAMP:20261104T064753Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:Barcelona - Real Sociedad
+DESCRIPTION:La Liga\, Matchday 17\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Spotify Camp Nou\, Barcelona
+URL:https://inmycal.com/la-liga/barcelona/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

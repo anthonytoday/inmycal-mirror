@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-coventry-city-crystal-palace@sports.anthonytoday.com
+DTSTAMP:20261104T064709Z
+DTSTART:20261121T150000Z
+DTEND:20261121T165500Z
+TRANSP:OPAQUE
+SUMMARY:Coventry City - Crystal Palace
+DESCRIPTION:Premier League\, Matchday 11\nhttps://inmycal.com
+LOCATION:Coventry Building Society Arena\, Coventry
+URL:https://inmycal.com/premier-league/coventry-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

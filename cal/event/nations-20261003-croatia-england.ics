@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261003-croatia-england@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20261003T160000Z
+DTEND:20261003T175500Z
+TRANSP:OPAQUE
+SUMMARY:Croatia - England [NL] (0-7)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Stadion HNK Rijeka\, Rijeka
+URL:https://inmycal.com/nations/croatia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

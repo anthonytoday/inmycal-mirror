@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-everton-aston-villa@sports.anthonytoday.com
+DTSTAMP:20261104T064738Z
+DTSTART:20270105T193000Z
+DTEND:20270105T212500Z
+TRANSP:OPAQUE
+SUMMARY:Everton - Aston Villa
+DESCRIPTION:Premier League\, Matchday 20\nhttps://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260924-norway-denmark@sports.anthonytoday.com
+DTSTAMP:20261104T064826Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204000Z
+TRANSP:OPAQUE
+SUMMARY:Norway - Denmark [NL] (3-2)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:Ullevaal Stadion\, Oslo
+URL:https://inmycal.com/nations/norway/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

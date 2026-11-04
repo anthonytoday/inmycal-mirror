@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-everton-fulham@sports.anthonytoday.com
+DTSTAMP:20261104T064745Z
+DTSTART:20261205T150000Z
+DTEND:20261205T165500Z
+TRANSP:OPAQUE
+SUMMARY:Everton - Fulham
+DESCRIPTION:Premier League\, Matchday 14\nhttps://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

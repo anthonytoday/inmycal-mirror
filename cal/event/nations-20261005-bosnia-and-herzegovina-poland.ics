@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261005-bosnia-and-herzegovina-poland@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204000Z
+TRANSP:OPAQUE
+SUMMARY:Bosnia and Herzegovina - Poland [NL] (1-0)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Bilino Polje Stadium\, Zenica
+URL:https://inmycal.com/nations/bosnia-and-herzegovina/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

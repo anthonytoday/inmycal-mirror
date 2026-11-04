@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261113-moldova-kazakhstan@sports.anthonytoday.com
+DTSTAMP:20261104T064716Z
+DTSTART:20261113T170000Z
+DTEND:20261113T185500Z
+TRANSP:OPAQUE
+SUMMARY:Moldova - Kazakhstan [NL]
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Zimbru Stadium\, Chișinău
+URL:https://inmycal.com/nations/moldova/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

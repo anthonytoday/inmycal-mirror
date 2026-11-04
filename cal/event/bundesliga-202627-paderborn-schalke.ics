@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-paderborn-schalke@sports.anthonytoday.com
+DTSTAMP:20261104T064712Z
+DTSTART:20261128T143000Z
+DTEND:20261128T162500Z
+TRANSP:OPAQUE
+SUMMARY:Paderborn - Schalke 04
+DESCRIPTION:Bundesliga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Home Deluxe Arena\, Paderborn
+URL:https://inmycal.com/bundesliga/paderborn/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-hoffenheim-bayern-munich@sports.anthonytoday.com
+DTSTAMP:20261104T064804Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:Hoffenheim - Bayern Munich
+DESCRIPTION:Bundesliga\, Matchday 13\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:PreZero Arena\, Sinsheim
+URL:https://inmycal.com/bundesliga/hoffenheim/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

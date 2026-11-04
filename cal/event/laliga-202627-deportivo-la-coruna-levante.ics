@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-deportivo-la-coruna-levante@sports.anthonytoday.com
+DTSTAMP:20261104T064756Z
+DTSTART:20261016T190000Z
+DTEND:20261016T205500Z
+TRANSP:OPAQUE
+SUMMARY:Deportivo La Coruña - Levante
+DESCRIPTION:La Liga\, Matchday 9\nhttps://inmycal.com
+LOCATION:Riazor\, A Coruña
+URL:https://inmycal.com/la-liga/deportivo-la-coruna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

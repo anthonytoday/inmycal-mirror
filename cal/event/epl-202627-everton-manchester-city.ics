@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-everton-manchester-city@sports.anthonytoday.com
+DTSTAMP:20261104T064745Z
+DTSTART:20261229T201500Z
+DTEND:20261229T221000Z
+TRANSP:OPAQUE
+SUMMARY:Everton - Manchester City
+DESCRIPTION:Premier League\, Matchday 18\nhttps://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-augsburg-hamburg@sports.anthonytoday.com
+DTSTAMP:20261104T064803Z
+DTSTART:20270522T133000Z
+DTEND:20270522T152500Z
+TRANSP:OPAQUE
+SUMMARY:Augsburg - Hamburger SV
+DESCRIPTION:Bundesliga\, Matchday 34\nhttps://inmycal.com
+LOCATION:WWK Arena\, Augsburg
+URL:https://inmycal.com/bundesliga/augsburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

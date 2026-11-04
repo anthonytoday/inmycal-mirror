@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-levante-malaga@sports.anthonytoday.com
+DTSTAMP:20261104T064759Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+SUMMARY:Levante - Málaga
+DESCRIPTION:La Liga\, Matchday 24\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Ciutat de València\, Valencia
+URL:https://inmycal.com/la-liga/levante/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

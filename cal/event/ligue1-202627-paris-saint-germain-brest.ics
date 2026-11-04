@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-paris-saint-germain-brest@sports.anthonytoday.com
+DTSTAMP:20261104T064816Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+TRANSP:TRANSPARENT
+SUMMARY:Paris Saint-Germain - Brest
+DESCRIPTION:Ligue 1\, Matchday 21\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Parc des Princes\, Paris
+URL:https://inmycal.com/ligue-1/paris-saint-germain/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

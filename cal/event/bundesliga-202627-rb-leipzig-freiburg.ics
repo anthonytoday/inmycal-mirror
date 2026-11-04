@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-rb-leipzig-freiburg@sports.anthonytoday.com
+DTSTAMP:20261104T064808Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+TRANSP:TRANSPARENT
+SUMMARY:RB Leipzig - Freiburg
+DESCRIPTION:Bundesliga\, Matchday 28\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://inmycal.com/bundesliga/rb-leipzig/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

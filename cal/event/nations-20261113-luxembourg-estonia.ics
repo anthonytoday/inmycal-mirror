@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261113-luxembourg-estonia@sports.anthonytoday.com
+DTSTAMP:20261104T064718Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214000Z
+TRANSP:OPAQUE
+SUMMARY:Luxembourg - Estonia [NL]
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Stade de Luxembourg\, Luxembourg City
+URL:https://inmycal.com/nations/luxembourg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

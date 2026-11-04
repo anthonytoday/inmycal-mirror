@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261113-slovenia-switzerland@sports.anthonytoday.com
+DTSTAMP:20261104T064717Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214000Z
+TRANSP:OPAQUE
+SUMMARY:Slovenia - Switzerland [NL]
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Ljudski vrt\, Maribor
+URL:https://inmycal.com/nations/slovenia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

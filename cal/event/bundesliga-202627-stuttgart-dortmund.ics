@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-stuttgart-dortmund@sports.anthonytoday.com
+DTSTAMP:20261104T064806Z
+DTSTART:20260919T163000Z
+DTEND:20260919T182500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart - Borussia Dortmund (0-1)
+DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+LOCATION:MHPArena\, Stuttgart
+URL:https://inmycal.com/bundesliga/stuttgart/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

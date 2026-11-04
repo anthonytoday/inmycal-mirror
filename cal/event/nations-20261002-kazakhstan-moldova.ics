@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261002-kazakhstan-moldova@sports.anthonytoday.com
+DTSTAMP:20261104T064828Z
+DTSTART:20261002T140000Z
+DTEND:20261002T155500Z
+TRANSP:OPAQUE
+SUMMARY:Kazakhstan - Moldova [NL] (1-2)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Astana Arena\, Astana
+URL:https://inmycal.com/nations/kazakhstan/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

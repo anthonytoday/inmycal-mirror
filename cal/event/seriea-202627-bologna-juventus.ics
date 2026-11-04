@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-bologna-juventus@sports.anthonytoday.com
+DTSTAMP:20261104T064726Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:Bologna - Juventus
+DESCRIPTION:Serie A\, Matchday 17\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Renato Dall'Ara\, Bologna
+URL:https://inmycal.com/serie-a/bologna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

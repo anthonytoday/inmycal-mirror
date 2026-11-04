@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261004-kosovo-austria@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261004T160000Z
+DTEND:20261004T175500Z
+TRANSP:OPAQUE
+SUMMARY:Kosovo - Austria [NL] (1-1)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Fadil Vokrri Stadium\, Pristina
+URL:https://inmycal.com/nations/kosovo/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-toulouse-strasbourg@sports.anthonytoday.com
+DTSTAMP:20261104T064656Z
+DTSTART:20261106T194500Z
+DTEND:20261106T214000Z
+TRANSP:OPAQUE
+SUMMARY:Toulouse - Strasbourg
+DESCRIPTION:Ligue 1\, Matchday 10\nhttps://inmycal.com
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://inmycal.com/ligue-1/toulouse/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

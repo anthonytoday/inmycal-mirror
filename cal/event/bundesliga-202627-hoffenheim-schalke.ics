@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-hoffenheim-schalke@sports.anthonytoday.com
+DTSTAMP:20261104T064708Z
+DTSTART:20261108T183000Z
+DTEND:20261108T202500Z
+TRANSP:OPAQUE
+SUMMARY:Hoffenheim - Schalke 04
+DESCRIPTION:Bundesliga\, Matchday 9\nhttps://inmycal.com
+LOCATION:PreZero Arena\, Sinsheim
+URL:https://inmycal.com/bundesliga/hoffenheim/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

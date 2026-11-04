@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-espanyol-elche@sports.anthonytoday.com
+DTSTAMP:20261104T064757Z
+DTSTART:20260918T190000Z
+DTEND:20260918T205500Z
+TRANSP:OPAQUE
+SUMMARY:Espanyol - Elche (1-3)
+DESCRIPTION:La Liga\, Matchday 7\nhttps://inmycal.com
+LOCATION:RCDE Stadium\, Cornellà de Llobregat
+URL:https://inmycal.com/la-liga/espanyol/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

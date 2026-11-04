@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brentford-bournemouth@sports.anthonytoday.com
+DTSTAMP:20261104T064740Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:Brentford - Bournemouth
+DESCRIPTION:Premier League\, Matchday 30\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Gtech Community Stadium\, London
+URL:https://inmycal.com/premier-league/brentford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-aston-villa-tottenham-hotspur@sports.anthonytoday.com
+DTSTAMP:20261104T064739Z
+DTSTART:20270530T150000Z
+DTEND:20270530T165500Z
+TRANSP:OPAQUE
+SUMMARY:Aston Villa - Tottenham Hotspur
+DESCRIPTION:Premier League\, Matchday 38\nhttps://inmycal.com
+LOCATION:Villa Park\, Birmingham
+URL:https://inmycal.com/premier-league/aston-villa/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

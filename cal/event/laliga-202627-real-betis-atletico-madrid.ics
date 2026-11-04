@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-real-betis-atletico-madrid@sports.anthonytoday.com
+DTSTAMP:20261104T064753Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+TRANSP:TRANSPARENT
+SUMMARY:Real Betis - Atlético Madrid
+DESCRIPTION:La Liga\, Matchday 38\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Benito Villamarín\, Seville
+URL:https://inmycal.com/la-liga/real-betis/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

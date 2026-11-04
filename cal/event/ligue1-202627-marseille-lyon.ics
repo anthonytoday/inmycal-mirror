@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-marseille-lyon@sports.anthonytoday.com
+DTSTAMP:20261104T064821Z
+DTSTART:20270321T194500Z
+DTEND:20270321T214000Z
+TRANSP:OPAQUE
+SUMMARY:Marseille - Lyon
+DESCRIPTION:Ligue 1\, Matchday 25\nhttps://inmycal.com
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://inmycal.com/ligue-1/marseille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

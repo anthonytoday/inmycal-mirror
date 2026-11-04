@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-alaves-real-madrid@sports.anthonytoday.com
+DTSTAMP:20261104T064751Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Alavés - Real Madrid
+DESCRIPTION:La Liga\, Matchday 37\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Mendizorrotza\, Vitoria-Gasteiz
+URL:https://inmycal.com/la-liga/alaves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

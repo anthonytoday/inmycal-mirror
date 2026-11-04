@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-brentford-arsenal@sports.anthonytoday.com
+DTSTAMP:20261104T064710Z
+DTSTART:20261202T200000Z
+DTEND:20261202T215500Z
+TRANSP:OPAQUE
+SUMMARY:Brentford - Arsenal
+DESCRIPTION:Premier League\, Matchday 13\nhttps://inmycal.com
+LOCATION:Gtech Community Stadium\, London
+URL:https://inmycal.com/premier-league/brentford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-napoli-roma@sports.anthonytoday.com
+DTSTAMP:20261104T064728Z
+DTSTART:20261024T160000Z
+DTEND:20261024T175500Z
+TRANSP:OPAQUE
+SUMMARY:Napoli - Roma
+DESCRIPTION:Serie A\, Matchday 8\nhttps://inmycal.com
+LOCATION:Stadio Diego Armando Maradona\, Naples
+URL:https://inmycal.com/serie-a/napoli/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

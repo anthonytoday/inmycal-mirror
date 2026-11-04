@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-celta-vigo-alaves@sports.anthonytoday.com
+DTSTAMP:20261104T064751Z
+DTSTART:20261018T141500Z
+DTEND:20261018T161000Z
+TRANSP:OPAQUE
+SUMMARY:Celta Vigo - Alavés
+DESCRIPTION:La Liga\, Matchday 9\nhttps://inmycal.com
+LOCATION:Balaídos\, Vigo
+URL:https://inmycal.com/la-liga/celta-vigo/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-atletico-madrid-athletic-club@sports.anthonytoday.com
+DTSTAMP:20261104T064752Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Atlético Madrid - Athletic Club
+DESCRIPTION:La Liga\, Matchday 37\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Metropolitano\, Madrid
+URL:https://inmycal.com/la-liga/atletico-madrid/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

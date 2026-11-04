@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-eintracht-frankfurt-freiburg@sports.anthonytoday.com
+DTSTAMP:20261104T064807Z
+DTSTART:20260919T133000Z
+DTEND:20260919T152500Z
+TRANSP:OPAQUE
+SUMMARY:Eintracht Frankfurt - Freiburg (2-2)
+DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+LOCATION:Deutsche Bank Park\, Frankfurt
+URL:https://inmycal.com/bundesliga/eintracht-frankfurt/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

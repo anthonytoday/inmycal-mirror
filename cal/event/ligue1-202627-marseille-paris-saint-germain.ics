@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-marseille-paris-saint-germain@sports.anthonytoday.com
+DTSTAMP:20261104T064822Z
+DTSTART:20260920T184500Z
+DTEND:20260920T204000Z
+TRANSP:OPAQUE
+SUMMARY:Marseille - Paris Saint-Germain (1-2)
+DESCRIPTION:Ligue 1\, Matchday 5\nhttps://inmycal.com
+LOCATION:Orange Vélodrome\, Marseille
+URL:https://inmycal.com/ligue-1/marseille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

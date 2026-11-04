@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-valencia-sevilla@sports.anthonytoday.com
+DTSTAMP:20261104T064802Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Valencia - Sevilla
+DESCRIPTION:La Liga\, Matchday 21\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Mestalla\, Valencia
+URL:https://inmycal.com/la-liga/valencia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

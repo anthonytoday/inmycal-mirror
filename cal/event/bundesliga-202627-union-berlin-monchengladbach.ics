@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-union-berlin-monchengladbach@sports.anthonytoday.com
+DTSTAMP:20261104T064812Z
+DTSTART:20270522T133000Z
+DTEND:20270522T152500Z
+TRANSP:OPAQUE
+SUMMARY:Union Berlin - Mönchengladbach
+DESCRIPTION:Bundesliga\, Matchday 34\nhttps://inmycal.com
+LOCATION:Stadion An der Alten Försterei\, Berlin
+URL:https://inmycal.com/bundesliga/union-berlin/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

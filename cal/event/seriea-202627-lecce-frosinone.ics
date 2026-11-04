@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-lecce-frosinone@sports.anthonytoday.com
+DTSTAMP:20261104T064735Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+TRANSP:TRANSPARENT
+SUMMARY:Lecce - Frosinone
+DESCRIPTION:Serie A\, Matchday 25\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Via del Mare\, Lecce
+URL:https://inmycal.com/serie-a/lecce/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

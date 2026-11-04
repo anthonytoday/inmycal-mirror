@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-everton-coventry-city@sports.anthonytoday.com
+DTSTAMP:20261104T064659Z
+DTSTART:20261107T150000Z
+DTEND:20261107T165500Z
+TRANSP:OPAQUE
+SUMMARY:Everton - Coventry City
+DESCRIPTION:Premier League\, Matchday 10\nhttps://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

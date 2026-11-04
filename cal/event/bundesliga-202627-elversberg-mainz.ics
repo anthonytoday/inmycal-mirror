@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-elversberg-mainz@sports.anthonytoday.com
+DTSTAMP:20261104T064808Z
+DTSTART:20261030T193000Z
+DTEND:20261030T212500Z
+TRANSP:OPAQUE
+SUMMARY:Elversberg - Mainz 05
+DESCRIPTION:Bundesliga\, Matchday 8\nhttps://inmycal.com
+LOCATION:Ursapharm-Arena an der Kaiserlinde\, Spiesen-Elversberg
+URL:https://inmycal.com/bundesliga/elversberg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

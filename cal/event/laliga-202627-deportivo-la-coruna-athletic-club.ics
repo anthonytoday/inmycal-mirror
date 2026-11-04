@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-deportivo-la-coruna-athletic-club@sports.anthonytoday.com
+DTSTAMP:20261104T064751Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Deportivo La Coruña - Athletic Club
+DESCRIPTION:La Liga\, Matchday 16\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Riazor\, A Coruña
+URL:https://inmycal.com/la-liga/deportivo-la-coruna/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

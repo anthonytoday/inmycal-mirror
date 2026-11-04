@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-como-bologna@sports.anthonytoday.com
+DTSTAMP:20261104T064732Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Como - Bologna
+DESCRIPTION:Serie A\, Matchday 15\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://inmycal.com/serie-a/como/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

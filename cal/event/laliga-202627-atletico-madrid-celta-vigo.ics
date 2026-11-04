@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-atletico-madrid-celta-vigo@sports.anthonytoday.com
+DTSTAMP:20261104T064753Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+TRANSP:TRANSPARENT
+SUMMARY:Atlético Madrid - Celta Vigo
+DESCRIPTION:La Liga\, Matchday 27\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Metropolitano\, Madrid
+URL:https://inmycal.com/la-liga/atletico-madrid/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

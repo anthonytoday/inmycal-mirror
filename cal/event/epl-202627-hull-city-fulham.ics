@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-hull-city-fulham@sports.anthonytoday.com
+DTSTAMP:20261104T064746Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:Hull City - Fulham
+DESCRIPTION:Premier League\, Matchday 36\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:MKM Stadium\, Hull
+URL:https://inmycal.com/premier-league/hull-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

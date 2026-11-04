@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260928-belgium-france@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204000Z
+TRANSP:OPAQUE
+SUMMARY:Belgium - France [NL] (0-1)
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:King Baudouin Stadium\, Brussels
+URL:https://inmycal.com/nations/belgium/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260925-poland-bosnia-and-herzegovina@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204000Z
+TRANSP:OPAQUE
+SUMMARY:Poland - Bosnia and Herzegovina [NL] (0-0)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Stadion Narodowy\, Warsaw
+URL:https://inmycal.com/nations/poland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

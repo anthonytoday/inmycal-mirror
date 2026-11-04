@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-leverkusen-rb-leipzig@sports.anthonytoday.com
+DTSTAMP:20261104T064811Z
+DTSTART:20260920T133000Z
+DTEND:20260920T152500Z
+TRANSP:OPAQUE
+SUMMARY:Leverkusen - RB Leipzig (2-0)
+DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+LOCATION:BayArena\, Leverkusen
+URL:https://inmycal.com/bundesliga/leverkusen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

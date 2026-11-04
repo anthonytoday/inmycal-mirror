@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20260928-armenia-montenegro@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20260928T160000Z
+DTEND:20260928T175500Z
+TRANSP:OPAQUE
+SUMMARY:Armenia - Montenegro [NL] (2-3)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Vazgen Sargsyan Republican Stadium\, Yerevan
+URL:https://inmycal.com/nations/armenia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

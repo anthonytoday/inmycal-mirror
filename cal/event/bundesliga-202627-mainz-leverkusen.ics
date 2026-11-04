@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-mainz-leverkusen@sports.anthonytoday.com
+DTSTAMP:20261104T064811Z
+DTSTART:20261010T133000Z
+DTEND:20261010T152500Z
+TRANSP:OPAQUE
+SUMMARY:Mainz 05 - Leverkusen
+DESCRIPTION:Bundesliga\, Matchday 5\nhttps://inmycal.com
+LOCATION:Mewa Arena\, Mainz
+URL:https://inmycal.com/bundesliga/mainz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

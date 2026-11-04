@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bundesliga-202627-eintracht-frankfurt-bayern-munich@sports.anthonytoday
+ .com
+DTSTAMP:20261104T064804Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Eintracht Frankfurt - Bayern Munich
+DESCRIPTION:Bundesliga\, Matchday 17\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Deutsche Bank Park\, Frankfurt
+URL:https://inmycal.com/bundesliga/eintracht-frankfurt/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

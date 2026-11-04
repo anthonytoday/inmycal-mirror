@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-monaco-lorient@sports.anthonytoday.com
+DTSTAMP:20261104T064821Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Monaco - Lorient
+DESCRIPTION:Ligue 1\, Matchday 30\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Louis II\, Monaco
+URL:https://inmycal.com/ligue-1/monaco/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

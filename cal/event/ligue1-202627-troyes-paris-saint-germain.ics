@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-troyes-paris-saint-germain@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:Troyes - Paris Saint-Germain
+DESCRIPTION:Ligue 1\, Matchday 33\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade de l'Aube\, Troyes
+URL:https://inmycal.com/ligue-1/troyes/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

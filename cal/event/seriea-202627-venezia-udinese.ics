@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-venezia-udinese@sports.anthonytoday.com
+DTSTAMP:20261104T064656Z
+DTSTART:20261106T194500Z
+DTEND:20261106T214000Z
+TRANSP:OPAQUE
+SUMMARY:Venezia - Udinese
+DESCRIPTION:Serie A\, Matchday 11\nhttps://inmycal.com
+LOCATION:Stadio Pier Luigi Penzo\, Venice
+URL:https://inmycal.com/serie-a/venezia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

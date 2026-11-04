@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-paris-fc-strasbourg@sports.anthonytoday.com
+DTSTAMP:20261104T064823Z
+DTSTART:20260919T151500Z
+DTEND:20260919T171000Z
+TRANSP:OPAQUE
+SUMMARY:Paris FC - Strasbourg (2-1)
+DESCRIPTION:Ligue 1\, Matchday 5\nhttps://inmycal.com
+LOCATION:Stade Jean-Bouin\, Paris
+URL:https://inmycal.com/ligue-1/paris-fc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

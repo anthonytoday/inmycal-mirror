@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-espanyol-barcelona@sports.anthonytoday.com
+DTSTAMP:20261104T064753Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:Espanyol - Barcelona
+DESCRIPTION:La Liga\, Matchday 18\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:RCDE Stadium\, Cornellà de Llobregat
+URL:https://inmycal.com/la-liga/espanyol/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

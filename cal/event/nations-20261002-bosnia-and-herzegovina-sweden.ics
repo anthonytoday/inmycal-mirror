@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261002-bosnia-and-herzegovina-sweden@sports.anthonytoday.com
+DTSTAMP:20261104T064825Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204000Z
+TRANSP:OPAQUE
+SUMMARY:Bosnia and Herzegovina - Sweden [NL] (1-1)
+DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
+LOCATION:Bilino Polje Stadium\, Zenica
+URL:https://inmycal.com/nations/bosnia-and-herzegovina/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

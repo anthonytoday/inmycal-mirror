@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261006-albania-san-marino@sports.anthonytoday.com
+DTSTAMP:20261104T064824Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204000Z
+TRANSP:OPAQUE
+SUMMARY:Albania - San Marino [NL] (2-1)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Arena Kombëtare\, Tirana
+URL:https://inmycal.com/nations/albania/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

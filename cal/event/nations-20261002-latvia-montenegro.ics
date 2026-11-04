@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261002-latvia-montenegro@sports.anthonytoday.com
+DTSTAMP:20261104T064828Z
+DTSTART:20261002T160000Z
+DTEND:20261002T175500Z
+TRANSP:OPAQUE
+SUMMARY:Latvia - Montenegro [NL] (1-2)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Skonto Stadium\, Riga
+URL:https://inmycal.com/nations/latvia/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

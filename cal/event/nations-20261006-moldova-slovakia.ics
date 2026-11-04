@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20261006-moldova-slovakia@sports.anthonytoday.com
+DTSTAMP:20261104T064828Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204000Z
+TRANSP:OPAQUE
+SUMMARY:Moldova - Slovakia [NL] (0-4)
+DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
+LOCATION:Zimbru Stadium\, Chișinău
+URL:https://inmycal.com/nations/moldova/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

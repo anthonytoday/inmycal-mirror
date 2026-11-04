@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-troyes-marseille@sports.anthonytoday.com
+DTSTAMP:20261104T064822Z
+DTSTART:20261011T184500Z
+DTEND:20261011T204000Z
+TRANSP:OPAQUE
+SUMMARY:Troyes - Marseille
+DESCRIPTION:Ligue 1\, Matchday 6\nhttps://inmycal.com
+LOCATION:Stade de l'Aube\, Troyes
+URL:https://inmycal.com/ligue-1/troyes/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

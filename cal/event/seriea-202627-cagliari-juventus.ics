@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-cagliari-juventus@sports.anthonytoday.com
+DTSTAMP:20261104T064727Z
+DTSTART:20261011T184500Z
+DTEND:20261011T204000Z
+TRANSP:OPAQUE
+SUMMARY:Cagliari - Juventus
+DESCRIPTION:Serie A\, Matchday 6\nhttps://inmycal.com
+LOCATION:Unipol Domus\, Cagliari
+URL:https://inmycal.com/serie-a/cagliari/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

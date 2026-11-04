@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriea-202627-juventus-lazio@sports.anthonytoday.com
+DTSTAMP:20261104T064727Z
+DTSTART:20261018T184500Z
+DTEND:20261018T204000Z
+TRANSP:OPAQUE
+SUMMARY:Juventus - Lazio
+DESCRIPTION:Serie A\, Matchday 7\nhttps://inmycal.com
+LOCATION:Allianz Stadium\, Turin
+URL:https://inmycal.com/serie-a/juventus/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

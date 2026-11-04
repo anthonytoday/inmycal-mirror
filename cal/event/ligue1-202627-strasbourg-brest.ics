@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue1-202627-strasbourg-brest@sports.anthonytoday.com
+DTSTAMP:20261104T064713Z
+DTSTART:20261121T194500Z
+DTEND:20261121T214000Z
+TRANSP:OPAQUE
+SUMMARY:Strasbourg - Brest
+DESCRIPTION:Ligue 1\, Matchday 11\nhttps://inmycal.com
+LOCATION:Stade de la Meinau\, Strasbourg
+URL:https://inmycal.com/ligue-1/strasbourg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

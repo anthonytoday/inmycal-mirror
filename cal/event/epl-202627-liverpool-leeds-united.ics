@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:epl-202627-liverpool-leeds-united@sports.anthonytoday.com
+DTSTAMP:20261104T064748Z
+DTSTART:20261212T150000Z
+DTEND:20261212T165500Z
+TRANSP:OPAQUE
+SUMMARY:Liverpool - Leeds United
+DESCRIPTION:Premier League\, Matchday 15\nhttps://inmycal.com
+LOCATION:Anfield\, Liverpool
+URL:https://inmycal.com/premier-league/liverpool/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

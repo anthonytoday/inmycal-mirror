@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:laliga-202627-levante-athletic-club@sports.anthonytoday.com
+DTSTAMP:20261104T064752Z
+DTSTART:20261021T180000Z
+DTEND:20261021T195500Z
+TRANSP:OPAQUE
+SUMMARY:Levante - Athletic Club
+DESCRIPTION:La Liga\, Matchday 6\nhttps://inmycal.com
+LOCATION:Ciutat de València\, Valencia
+URL:https://inmycal.com/la-liga/levante/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
