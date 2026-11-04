@@ -1,20 +1,21 @@
 # Nightly standby copy of inmycal.com, served by GitHub Pages at https://mirror.inmycal.com.
 # Independent of Cloudflare at serving time. No secrets: it reads the public site only.
-# If the copy fails its checks, nothing is deployed and the previous copy stays online.
+# The copy is published to the gh-pages branch as a single commit (no history growth).
+# If the copy fails its checks, nothing is published and the previous copy stays online.
 name: Mirror inmycal.com
 on:
   schedule:
     - cron: '17 1 * * *' # 05:17 UAE
+  push:
+    branches: [main]
   workflow_dispatch:
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 concurrency:
-  group: pages
+  group: mirror
   cancel-in-progress: false
 jobs:
-  build:
+  mirror:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -24,15 +25,14 @@ jobs:
           node-version: 22
       - name: Copy the live site
         run: node crawl.mjs --out site | tee -a "$GITHUB_STEP_SUMMARY"
-      - uses: actions/upload-pages-artifact@v3
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: site
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          force_orphan: true
+          cname: mirror.inmycal.com
+          user_name: inmycal-mirror
+          user_email: ops@inmycal.com
+          commit_message: Standby copy of inmycal.com
