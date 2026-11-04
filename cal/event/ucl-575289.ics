@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575289@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20270127T200000Z
+DTEND:20270127T215500Z
+TRANSP:OPAQUE
+SUMMARY:Barcelona - Como [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 8\nhttps://inmycal.c
+ om
+LOCATION:Spotify Camp Nou\, Barcelona
+URL:https://inmycal.com/la-liga/barcelona/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

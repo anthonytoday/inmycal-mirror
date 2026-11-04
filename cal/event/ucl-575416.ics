@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575416@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261208T200000Z
+DTEND:20261208T215500Z
+TRANSP:OPAQUE
+SUMMARY:Aston Villa - Paris Saint-Germain [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 6\nhttps://inmycal.c
+ om
+LOCATION:Villa Park\, Birmingham
+URL:https://inmycal.com/premier-league/aston-villa/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

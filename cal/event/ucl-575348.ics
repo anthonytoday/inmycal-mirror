@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575348@sports.anthonytoday.com
+DTSTAMP:20261104T073316Z
+DTSTART:20261013T190000Z
+DTEND:20261013T205500Z
+TRANSP:OPAQUE
+SUMMARY:RB Leipzig - PSV Eindhoven [CL] (1-0)
+DESCRIPTION:Champions League\, League phase\, Matchday 2\nhttps://inmycal.c
+ om
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://inmycal.com/bundesliga/rb-leipzig/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

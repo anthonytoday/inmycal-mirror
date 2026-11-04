@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575280@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261209T200000Z
+DTEND:20261209T215500Z
+TRANSP:OPAQUE
+SUMMARY:Arsenal - Real Madrid [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 6\nhttps://inmycal.c
+ om
+LOCATION:Emirates Stadium\, London
+URL:https://inmycal.com/premier-league/arsenal/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

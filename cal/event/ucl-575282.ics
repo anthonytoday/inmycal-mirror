@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575282@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20270119T200000Z
+DTEND:20270119T215500Z
+TRANSP:OPAQUE
+SUMMARY:Real Madrid - LASK [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 7\nhttps://inmycal.c
+ om
+LOCATION:Santiago Bernabéu\, Madrid
+URL:https://inmycal.com/la-liga/real-madrid/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

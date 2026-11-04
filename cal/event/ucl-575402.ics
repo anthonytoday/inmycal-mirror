@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575402@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261124T200000Z
+DTEND:20261124T215500Z
+TRANSP:OPAQUE
+SUMMARY:RB Leipzig - Lens [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
+ om
+LOCATION:Red Bull Arena\, Leipzig
+URL:https://inmycal.com/bundesliga/rb-leipzig/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

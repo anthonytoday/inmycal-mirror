@@ -4,13 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:laliga-202627-villarreal-levante@sports.anthonytoday.com
-DTSTAMP:20261104T064802Z
-DTSTART:20260920T163000Z
-DTEND:20260920T182500Z
+UID:ucl-575413@sports.anthonytoday.com
+DTSTAMP:20261104T073316Z
+DTSTART:20261208T174500Z
+DTEND:20261208T194000Z
 TRANSP:OPAQUE
-SUMMARY:Villarreal - Levante (3-1)
-DESCRIPTION:La Liga\, Matchday 7\nhttps://inmycal.com
+SUMMARY:Villarreal - Sabah [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 6\nhttps://inmycal.c
+ om
 LOCATION:Estadio de la Cerámica\, Villarreal
 URL:https://inmycal.com/la-liga/villarreal/
 STATUS:CONFIRMED

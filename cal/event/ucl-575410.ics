@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575410@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261125T200000Z
+DTEND:20261125T215500Z
+TRANSP:OPAQUE
+SUMMARY:Lille - Bayern Munich [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
+ om
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+URL:https://inmycal.com/ligue-1/lille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

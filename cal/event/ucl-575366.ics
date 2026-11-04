@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575366@sports.anthonytoday.com
+DTSTAMP:20261104T073316Z
+DTSTART:20261020T190000Z
+DTEND:20261020T205500Z
+TRANSP:OPAQUE
+SUMMARY:Napoli - Bodø/Glimt [CL] (4-3)
+DESCRIPTION:Champions League\, League phase\, Matchday 3\nhttps://inmycal.c
+ om
+LOCATION:Stadio Diego Armando Maradona\, Naples
+URL:https://inmycal.com/serie-a/napoli/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

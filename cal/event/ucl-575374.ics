@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575374@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261021T190000Z
+DTEND:20261021T205500Z
+TRANSP:OPAQUE
+SUMMARY:Aston Villa - Viking [CL] (3-1)
+DESCRIPTION:Champions League\, League phase\, Matchday 3\nhttps://inmycal.c
+ om
+LOCATION:Villa Park\, Birmingham
+URL:https://inmycal.com/premier-league/aston-villa/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

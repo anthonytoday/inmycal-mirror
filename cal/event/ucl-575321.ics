@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575321@sports.anthonytoday.com
+DTSTAMP:20261104T073316Z
+DTSTART:20270119T200000Z
+DTEND:20270119T215500Z
+TRANSP:OPAQUE
+SUMMARY:Lille - Slovan Bratislava [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 7\nhttps://inmycal.c
+ om
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+URL:https://inmycal.com/ligue-1/lille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575406@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261125T200000Z
+DTEND:20261125T215500Z
+TRANSP:OPAQUE
+SUMMARY:Inter - Stuttgart [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
+ om
+LOCATION:San Siro\, Milan
+URL:https://inmycal.com/serie-a/inter/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

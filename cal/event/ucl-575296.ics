@@ -4,13 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:epl-202627-liverpool-manchester-city@sports.anthonytoday.com
-DTSTAMP:20261104T064749Z
-DTSTART:20261011T153000Z
-DTEND:20261011T172500Z
+UID:ucl-575296@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20270127T200000Z
+DTEND:20270127T215500Z
 TRANSP:OPAQUE
-SUMMARY:Liverpool - Manchester City
-DESCRIPTION:Premier League\, Matchday 6\nhttps://inmycal.com
+SUMMARY:Liverpool - Lens [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 8\nhttps://inmycal.c
+ om
 LOCATION:Anfield\, Liverpool
 URL:https://inmycal.com/premier-league/liverpool/
 STATUS:CONFIRMED

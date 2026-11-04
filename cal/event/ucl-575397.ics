@@ -4,13 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:laliga-202627-real-madrid-villarreal@sports.anthonytoday.com
-DTSTAMP:20261104T064802Z
-DTSTART:20261010T190000Z
-DTEND:20261010T205500Z
+UID:ucl-575397@sports.anthonytoday.com
+DTSTAMP:20261104T073316Z
+DTSTART:20261124T200000Z
+DTEND:20261124T215500Z
 TRANSP:OPAQUE
-SUMMARY:Real Madrid - Villarreal
-DESCRIPTION:La Liga\, Matchday 8\nhttps://inmycal.com
+SUMMARY:Real Madrid - PSV Eindhoven [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
+ om
 LOCATION:Santiago Bernabéu\, Madrid
 URL:https://inmycal.com/la-liga/real-madrid/
 STATUS:CONFIRMED

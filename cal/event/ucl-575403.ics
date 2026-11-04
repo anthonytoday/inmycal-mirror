@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575403@sports.anthonytoday.com
+DTSTAMP:20261104T073316Z
+DTSTART:20261124T200000Z
+DTEND:20261124T215500Z
+TRANSP:OPAQUE
+SUMMARY:Como - AEK Athens [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
+ om
+LOCATION:Stadio Giuseppe Sinigaglia\, Como
+URL:https://inmycal.com/serie-a/como/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

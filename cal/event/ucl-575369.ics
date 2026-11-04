@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575369@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261021T164500Z
+DTEND:20261021T184000Z
+TRANSP:OPAQUE
+SUMMARY:Lille - Galatasaray [CL] (2-4)
+DESCRIPTION:Champions League\, League phase\, Matchday 3\nhttps://inmycal.c
+ om
+LOCATION:Stade Pierre-Mauroy\, Villeneuve-d'Ascq
+URL:https://inmycal.com/ligue-1/lille/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

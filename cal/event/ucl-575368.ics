@@ -4,13 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:seriea-202627-como-roma@sports.anthonytoday.com
-DTSTAMP:20261104T064729Z
-DTSTART:20261011T103000Z
-DTEND:20261011T122500Z
+UID:ucl-575368@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261021T164500Z
+DTEND:20261021T184000Z
 TRANSP:OPAQUE
-SUMMARY:Como - Roma
-DESCRIPTION:Serie A\, Matchday 6\nhttps://inmycal.com
+SUMMARY:Como - Manchester United [CL] (4-1)
+DESCRIPTION:Champions League\, League phase\, Matchday 3\nhttps://inmycal.c
+ om
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 URL:https://inmycal.com/serie-a/como/
 STATUS:CONFIRMED

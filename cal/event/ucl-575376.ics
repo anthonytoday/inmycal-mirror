@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ucl-575376@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261021T190000Z
+DTEND:20261021T205500Z
+TRANSP:OPAQUE
+SUMMARY:Real Betis - Feyenoord [CL] (1-0)
+DESCRIPTION:Champions League\, League phase\, Matchday 3\nhttps://inmycal.c
+ om
+LOCATION:Benito Villamarín\, Seville
+URL:https://inmycal.com/la-liga/real-betis/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

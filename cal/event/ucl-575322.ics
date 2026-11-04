@@ -4,13 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:bundesliga-202627-stuttgart-dortmund@sports.anthonytoday.com
-DTSTAMP:20261104T064806Z
-DTSTART:20260919T163000Z
-DTEND:20260919T182500Z
+UID:ucl-575322@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261209T200000Z
+DTEND:20261209T215500Z
 TRANSP:OPAQUE
-SUMMARY:Stuttgart - Borussia Dortmund (0-1)
-DESCRIPTION:Bundesliga\, Matchday 4\nhttps://inmycal.com
+SUMMARY:Stuttgart - Lille [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 6\nhttps://inmycal.c
+ om
 LOCATION:MHPArena\, Stuttgart
 URL:https://inmycal.com/bundesliga/stuttgart/
 STATUS:CONFIRMED

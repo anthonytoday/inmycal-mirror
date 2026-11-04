@@ -4,13 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:laliga-202627-atletico-madrid-real-madrid@sports.anthonytoday.com
-DTSTAMP:20261104T064753Z
-DTSTART:20260920T141500Z
-DTEND:20260920T161000Z
+UID:ucl-575407@sports.anthonytoday.com
+DTSTAMP:20261104T072511Z
+DTSTART:20261125T200000Z
+DTEND:20261125T215500Z
 TRANSP:OPAQUE
-SUMMARY:Atlético Madrid - Real Madrid (2-1)
-DESCRIPTION:La Liga\, Matchday 7\nhttps://inmycal.com
+SUMMARY:Atlético Madrid - Viking [CL]
+DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
+ om
 LOCATION:Metropolitano\, Madrid
 URL:https://inmycal.com/la-liga/atletico-madrid/
 STATUS:CONFIRMED
