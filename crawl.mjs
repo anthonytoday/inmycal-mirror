@@ -22,15 +22,19 @@ const add = (p) => {
   queue.push(clean.includes('?') && !path.startsWith('/cal/') ? clean : path);
 };
 
-async function get(url, tries = 3) {
+// Polite: stays under the site's rate limit (120 page requests per 10 s per IP); waits it out if blocked.
+const pause = (ms) => new Promise((r) => setTimeout(r, ms));
+async function get(url, tries = 5) {
+  let last = '';
   for (let i = 0; i < tries; i++) {
     try {
       const r = await fetch(url, { headers: { 'User-Agent': UA } });
       if (r.ok || r.status === 404) return r;
-    } catch { /* retry */ }
-    await new Promise((s) => setTimeout(s, 1000 * (i + 1)));
+      last = `HTTP ${r.status}`;
+    } catch (e) { last = String(e.message || e); }
+    await pause(6000 * (i + 1));
   }
-  throw new Error(`unreachable: ${url}`);
+  throw new Error(`unreachable: ${url} (${last})`);
 }
 
 const fileFor = (path) => join(out, path.endsWith('/') ? `${path}index.html` : path);
@@ -46,6 +50,7 @@ async function worker() {
     const target = queue.shift();
     const path = target.split('?')[0];
     const r = await get(ORIGIN + target);
+    if (!path.startsWith('/cal/')) await pause(250);
     if (r.status === 404) continue;
     const buf = Buffer.from(await r.arrayBuffer());
     const dest = fileFor(path);
@@ -58,7 +63,7 @@ async function worker() {
     else if (path.startsWith('/crests/')) logos++;
   }
 }
-await Promise.all(Array.from({ length: 6 }, worker));
+await Promise.all(Array.from({ length: 3 }, worker));
 
 // Not-found page, standby robots (search engines index only inmycal.com), custom domain.
 const nf = await get(`${ORIGIN}/this-page-does-not-exist/`);
