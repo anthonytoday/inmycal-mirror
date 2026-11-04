@@ -1,0 +1,38 @@
+# Nightly standby copy of inmycal.com, served by GitHub Pages at https://mirror.inmycal.com.
+# Independent of Cloudflare at serving time. No secrets: it reads the public site only.
+# If the copy fails its checks, nothing is deployed and the previous copy stays online.
+name: Mirror inmycal.com
+on:
+  schedule:
+    - cron: '17 1 * * *' # 05:17 UAE
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Copy the live site
+        run: node crawl.mjs --out site | tee -a "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
