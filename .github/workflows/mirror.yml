@@ -1,6 +1,7 @@
 # Nightly standby copy of inmycal.com, served by GitHub Pages at https://mirror.inmycal.com.
 # Independent of Cloudflare at serving time. No secrets: it reads the public site only.
-# The copy is published to the gh-pages branch as a single commit (no history growth).
+# Versioned: each night is one commit on gh-pages, "Mirror of <live commit> (<date>)", only when something
+# changed. Any past version can be restored from that history (feeds are byte-stable, so history stays small).
 # If the copy fails its checks, nothing is published and the previous copy stays online.
 name: Mirror inmycal.com
 on:
@@ -25,14 +26,16 @@ jobs:
           node-version: 22
       - name: Copy the live site
         run: node crawl.mjs --out site | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Name this version after the live commit
+        id: v
+        run: echo "msg=Mirror of $(node -p "require('./site/version.json').commit") ($(TZ=Asia/Dubai date +%F))" >> "$GITHUB_OUTPUT"
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
-          force_orphan: true
           cname: mirror.inmycal.com
           user_name: inmycal-mirror
           user_email: ops@inmycal.com
-          commit_message: Standby copy of inmycal.com
+          full_commit_message: ${{ steps.v.outputs.msg }}

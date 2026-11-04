@@ -43,7 +43,7 @@ let pages = 0, feeds = 0, logos = 0;
 rmSync(out, { recursive: true, force: true });
 const sitemap = await (await get(`${ORIGIN}/sitemap.xml`)).text();
 for (const m of sitemap.matchAll(/<loc>https:\/\/inmycal\.com([^<]+)<\/loc>/g)) add(m[1]);
-for (const p of ['/', '/how-to/', '/for-clubs/', '/developers/', '/privacy/', '/llms.txt', '/openapi.json', '/search.json', '/sitemap.xml', '/favicon.svg', '/cal/f1.ics']) add(p);
+for (const p of ['/', '/how-to/', '/for-clubs/', '/developers/', '/privacy/', '/llms.txt', '/openapi.json', '/search.json', '/sitemap.xml', '/favicon.svg', '/cal/f1.ics', '/version.json']) add(p);
 
 async function worker() {
   while (queue.length) {
