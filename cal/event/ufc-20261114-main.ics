@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20261114-main@sports.anthonytoday.com
+DTSTAMP:20261105T064312Z
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+TRANSP:OPAQUE
+SUMMARY:UFC 334: Gane vs. Hokit (Main card)
+DESCRIPTION:UFC\nMain card. Start time from TheSportsDB.\nhttps://inmycal.c
+ om
+LOCATION:Madison Square Garden\, New York City\, New York\, U.S.
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

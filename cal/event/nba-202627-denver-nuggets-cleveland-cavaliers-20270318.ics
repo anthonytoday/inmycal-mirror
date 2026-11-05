@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-denver-nuggets-cleveland-cavaliers-20270318@sports.anthonyto
+ day.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+TRANSP:TRANSPARENT
+SUMMARY:Cleveland Cavaliers @ Denver Nuggets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Ball Arena
+URL:https://inmycal.com/nba/denver-nuggets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

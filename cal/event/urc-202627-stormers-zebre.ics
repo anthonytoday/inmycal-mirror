@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:urc-202627-stormers-zebre@sports.anthonytoday.com
+DTSTAMP:20261105T050800Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Stormers - Zebre
+DESCRIPTION:United Rugby Championship\, Round 11\nKickoff time not announce
+ d yet.\nhttps://inmycal.com
+LOCATION:Cape Town Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

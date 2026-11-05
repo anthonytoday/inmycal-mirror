@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-vfl-wolfsburg-vfl-osnabruck@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261031T120000Z
+DTEND:20261031T135500Z
+TRANSP:OPAQUE
+SUMMARY:VfL Wolfsburg - VfL Osnabrück (2-0)
+DESCRIPTION:2. Bundesliga\, Matchday 10\nhttps://inmycal.com
+LOCATION:Volkswagen Arena\, Wolfsburg
+URL:https://inmycal.com/2-bundesliga/vfl-wolfsburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

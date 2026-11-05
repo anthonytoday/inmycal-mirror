@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-viktoria-koln-alemannia-aachen@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:Viktoria Köln - Alemannia Aachen
+DESCRIPTION:3. Liga\, Matchday 27\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Sportpark Höhenberg\, Cologne
+URL:https://inmycal.com/3-liga/viktoria-koln/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

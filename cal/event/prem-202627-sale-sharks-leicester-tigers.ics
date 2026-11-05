@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-sale-sharks-leicester-tigers@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Sale Sharks - Leicester Tigers
+DESCRIPTION:Premiership Rugby\, Round 10\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:CorpAcq Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:coppait-202627-atalanta-udinese@sports.anthonytoday.com
+DTSTAMP:20261105T032058Z
+DTSTART:20270126T200000Z
+DTEND:20270126T215500Z
+TRANSP:OPAQUE
+SUMMARY:Atalanta - Udinese [CI]
+DESCRIPTION:Coppa Italia\, Round of 16\nhttps://inmycal.com
+LOCATION:Stadio Atleti Azzurri d'Italia\, Bergamo
+URL:https://inmycal.com/serie-a/atalanta/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

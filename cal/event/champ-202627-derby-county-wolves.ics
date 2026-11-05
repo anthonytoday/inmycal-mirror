@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-derby-county-wolves@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Derby County - Wolves
+DESCRIPTION:Championship\, Matchday 46\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Pride Park\, Derby
+URL:https://inmycal.com/championship/derby-county/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

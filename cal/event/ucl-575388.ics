@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575388@sports.anthonytoday.com
-DTSTAMP:20261104T072511Z
+DTSTAMP:20261104T233015Z
 DTSTART:20261104T200000Z
 DTEND:20261104T215500Z
 TRANSP:OPAQUE
-SUMMARY:RB Leipzig - Manchester City [CL]
+SUMMARY:RB Leipzig - Manchester City [CL] (2-3)
 DESCRIPTION:Champions League\, League phase\, Matchday 4\nhttps://inmycal.c
  om
 LOCATION:Red Bull Arena\, Leipzig

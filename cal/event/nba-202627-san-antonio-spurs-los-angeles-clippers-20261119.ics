@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-san-antonio-spurs-los-angeles-clippers-20261119@sports.antho
+ nytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Clippers @ San Antonio Spurs
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Frost Bank Center
+URL:https://inmycal.com/nba/san-antonio-spurs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

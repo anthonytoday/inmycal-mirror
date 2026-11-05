@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-memphis-grizzlies-philadelphia-76ers-20270203@sports.anthony
+ today.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Memphis Grizzlies
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:FedExForum
+URL:https://inmycal.com/nba/memphis-grizzlies/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

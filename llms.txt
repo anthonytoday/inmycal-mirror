@@ -9,7 +9,7 @@ Times in the API and feeds are UTC. Events not yet timed by the organizer are al
 - JSON API: https://inmycal.com/api/v1/events?competition=premier-league&from=YYYY-MM-DD&to=YYYY-MM-DD
 - OpenAPI: https://inmycal.com/openapi.json
 - Setup help for every calendar app: https://inmycal.com/how-to/
-- Free fixtures widget for club websites: https://inmycal.com/for-clubs/ (iframe: https://inmycal.com/embed/<team>/)
+- Free match calendar widget for club websites: https://inmycal.com/for-clubs/ (iframe: https://inmycal.com/embed/<team>/)
 - Calendar feeds (iCalendar, subscribe by URL): https://inmycal.com/cal/<competition>.ics and https://inmycal.com/cal/<competition>/<team>.ics
 
 ## Competitions
@@ -18,11 +18,36 @@ Times in the API and feeds are UTC. Events not yet timed by the organizer are al
 - Bundesliga: https://inmycal.com/bundesliga/ (calendar: https://inmycal.com/cal/bundesliga.ics)
 - Serie A: https://inmycal.com/serie-a/ (calendar: https://inmycal.com/cal/serie-a.ics)
 - Ligue 1: https://inmycal.com/ligue-1/ (calendar: https://inmycal.com/cal/ligue-1.ics)
+- Championship: https://inmycal.com/championship/ (calendar: https://inmycal.com/cal/championship.ics)
+- 2. Bundesliga: https://inmycal.com/2-bundesliga/ (calendar: https://inmycal.com/cal/2-bundesliga.ics)
+- 3. Liga: https://inmycal.com/3-liga/ (calendar: https://inmycal.com/cal/3-liga.ics)
+- League One: https://inmycal.com/league-one/ (calendar: https://inmycal.com/cal/league-one.ics)
+- Segunda División: https://inmycal.com/segunda/ (calendar: https://inmycal.com/cal/segunda.ics)
+- Primera Federación: https://inmycal.com/primera-federacion/ (calendar: https://inmycal.com/cal/primera-federacion.ics)
+- Serie B: https://inmycal.com/serie-b/ (calendar: https://inmycal.com/cal/serie-b.ics)
+- Serie C: https://inmycal.com/serie-c/ (calendar: https://inmycal.com/cal/serie-c.ics)
+- Ligue 2: https://inmycal.com/ligue-2/ (calendar: https://inmycal.com/cal/ligue-2.ics)
+- National: https://inmycal.com/national/ (calendar: https://inmycal.com/cal/national.ics)
+- FA Cup: https://inmycal.com/fa-cup/ (calendar: https://inmycal.com/cal/fa-cup.ics)
+- EFL Cup: https://inmycal.com/efl-cup/ (calendar: https://inmycal.com/cal/efl-cup.ics)
+- Copa del Rey: https://inmycal.com/copa-del-rey/ (calendar: https://inmycal.com/cal/copa-del-rey.ics)
+- DFB-Pokal: https://inmycal.com/dfb-pokal/ (calendar: https://inmycal.com/cal/dfb-pokal.ics)
+- Coppa Italia: https://inmycal.com/coppa-italia/ (calendar: https://inmycal.com/cal/coppa-italia.ics)
+- Coupe de France: https://inmycal.com/coupe-de-france/ (calendar: https://inmycal.com/cal/coupe-de-france.ics)
 - Champions League: https://inmycal.com/champions-league/ (calendar: https://inmycal.com/cal/champions-league.ics)
 - National teams: https://inmycal.com/nations/ (calendar: https://inmycal.com/cal/nations.ics)
 - UFC: https://inmycal.com/ufc/ (calendar: https://inmycal.com/cal/ufc.ics)
+- Boxing: https://inmycal.com/boxing/ (calendar: https://inmycal.com/cal/boxing.ics)
 - Formula 1: https://inmycal.com/f1/ (calendar: https://inmycal.com/cal/f1.ics)
+- Six Nations: https://inmycal.com/six-nations/ (calendar: https://inmycal.com/cal/six-nations.ics)
+- Rugby World Cup: https://inmycal.com/rugby-world-cup/ (calendar: https://inmycal.com/cal/rugby-world-cup.ics)
+- Premiership Rugby: https://inmycal.com/premiership-rugby/ (calendar: https://inmycal.com/cal/premiership-rugby.ics)
+- Top 14: https://inmycal.com/top-14/ (calendar: https://inmycal.com/cal/top-14.ics)
+- United Rugby Championship: https://inmycal.com/urc/ (calendar: https://inmycal.com/cal/urc.ics)
+- MLS: https://inmycal.com/mls/ (calendar: https://inmycal.com/cal/mls.ics)
+- NBA: https://inmycal.com/nba/ (calendar: https://inmycal.com/cal/nba.ics)
+- NFL: https://inmycal.com/nfl/ (calendar: https://inmycal.com/cal/nfl.ics)
 
 ## Notes
-- Data: openfootball (public domain), sportstimes/f1 (MIT), Wikipedia (CC BY-SA) for UFC and national teams.
+- Data: openfootball (public domain), OpenLigaDB (Open Database License, 2. Bundesliga and 3. Liga), nflverse (NFL schedule), TheSportsDB (UFC start times), football-data.org (Champions League), sportstimes/f1 (MIT), Wikipedia (CC BY-SA) for cups, rugby (Six Nations, Rugby World Cup, club leagues), MLS playoffs, UFC and national teams.
 - Not affiliated with any league, club, federation or promoter. Names and logos belong to their owners.

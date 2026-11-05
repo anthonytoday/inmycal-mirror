@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-houston-rockets-philadelphia-76ers-20261128@sports.anthonyto
+ day.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Houston Rockets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Toyota Center
+URL:https://inmycal.com/nba/houston-rockets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

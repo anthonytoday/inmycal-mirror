@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-hertha-bsc-dynamo-dresden@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:Hertha BSC - Dynamo Dresden
+DESCRIPTION:2. Bundesliga\, Matchday 23\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:Olympiastadion\, Berlin
+URL:https://inmycal.com/2-bundesliga/hertha-bsc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

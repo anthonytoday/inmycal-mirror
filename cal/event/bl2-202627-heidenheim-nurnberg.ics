@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-heidenheim-nurnberg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261127T173000Z
+DTEND:20261127T192500Z
+TRANSP:OPAQUE
+SUMMARY:Heidenheim - Nürnberg
+DESCRIPTION:2. Bundesliga\, Matchday 13\nhttps://inmycal.com
+LOCATION:Voith-Arena\, Heidenheim
+URL:https://inmycal.com/2-bundesliga/heidenheim/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

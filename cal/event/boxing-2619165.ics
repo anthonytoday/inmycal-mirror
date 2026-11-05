@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2619165@sports.anthonytoday.com
+DTSTAMP:20261105T070822Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:U-Next Boxing 7
+DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
+ y.\nhttps://inmycal.com
+LOCATION:Tokyo\, Japan
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

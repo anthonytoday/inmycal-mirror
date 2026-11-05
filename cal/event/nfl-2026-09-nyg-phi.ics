@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-09-nyg-phi@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+TRANSP:OPAQUE
+SUMMARY:New York Giants @ Philadelphia Eagles
+DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
+LOCATION:Lincoln Financial Field
+URL:https://inmycal.com/nfl/philadelphia-eagles/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

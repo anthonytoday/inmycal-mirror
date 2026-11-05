@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-millwall-lincoln-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261017T113000Z
+DTEND:20261017T132500Z
+TRANSP:OPAQUE
+SUMMARY:Millwall - Lincoln City
+DESCRIPTION:Championship\, Matchday 11\nhttps://inmycal.com
+LOCATION:The Den\, London
+URL:https://inmycal.com/championship/millwall/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

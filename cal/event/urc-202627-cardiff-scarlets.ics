@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:urc-202627-cardiff-scarlets@sports.anthonytoday.com
+DTSTAMP:20261105T050800Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:Cardiff - Scarlets
+DESCRIPTION:United Rugby Championship\, Round 18\nKickoff time not announce
+ d yet.\nhttps://inmycal.com
+LOCATION:Cardiff Arms Park
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

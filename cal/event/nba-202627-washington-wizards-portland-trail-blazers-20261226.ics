@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-washington-wizards-portland-trail-blazers-20261226@sports.an
+ thonytoday.com
+DTSTAMP:20261105T060722Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Portland Trail Blazers @ Washington Wizards
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Capital One Arena
+URL:https://inmycal.com/nba/washington-wizards/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

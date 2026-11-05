@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-toronto-raptors-orlando-magic-20261028@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Orlando Magic @ Toronto Raptors (99-129)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Scotiabank Arena
+URL:https://inmycal.com/nba/toronto-raptors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

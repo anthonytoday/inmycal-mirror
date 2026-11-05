@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-southampton-norwich-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+TRANSP:TRANSPARENT
+SUMMARY:Southampton - Norwich City
+DESCRIPTION:Championship\, Matchday 32\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:St Mary's Stadium\, Southampton
+URL:https://inmycal.com/championship/southampton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

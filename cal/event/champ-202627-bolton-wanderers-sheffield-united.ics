@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-bolton-wanderers-sheffield-united@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+TRANSP:TRANSPARENT
+SUMMARY:Bolton Wanderers - Sheffield United
+DESCRIPTION:Championship\, Matchday 44\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Toughsheet Community Stadium\, Bolton
+URL:https://inmycal.com/championship/bolton-wanderers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

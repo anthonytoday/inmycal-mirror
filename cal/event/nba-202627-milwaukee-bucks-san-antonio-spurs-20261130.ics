@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-milwaukee-bucks-san-antonio-spurs-20261130@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:San Antonio Spurs @ Milwaukee Bucks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Fiserv Forum
+URL:https://inmycal.com/nba/milwaukee-bucks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

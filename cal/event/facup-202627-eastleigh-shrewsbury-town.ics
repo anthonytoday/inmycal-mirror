@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:facup-202627-eastleigh-shrewsbury-town@sports.anthonytoday.com
+DTSTAMP:20261105T032054Z
+DTSTART:20261107T150000Z
+DTEND:20261107T165500Z
+TRANSP:OPAQUE
+SUMMARY:Eastleigh - Shrewsbury Town [FAC]
+DESCRIPTION:FA Cup\, First round\nhttps://inmycal.com
+LOCATION:Ten Acres\, Eastleigh
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

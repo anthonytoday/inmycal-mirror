@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-hoffenheim-ii-viktoria-koln@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261031T130000Z
+DTEND:20261031T145500Z
+TRANSP:OPAQUE
+SUMMARY:Hoffenheim II - Viktoria Köln (0-1)
+DESCRIPTION:3. Liga\, Matchday 12\nhttps://inmycal.com
+LOCATION:Dietmar-Hopp-Stadion\, Sinsheim
+URL:https://inmycal.com/3-liga/hoffenheim-ii/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

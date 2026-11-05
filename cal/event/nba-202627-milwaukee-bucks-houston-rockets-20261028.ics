@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-milwaukee-bucks-houston-rockets-20261028@sports.anthonytoday
+ .com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Houston Rockets @ Milwaukee Bucks (132-100)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Fiserv Forum
+URL:https://inmycal.com/nba/milwaukee-bucks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

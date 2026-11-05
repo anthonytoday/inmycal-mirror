@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-15-atl-was@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+TRANSP:OPAQUE
+SUMMARY:Atlanta Falcons @ Washington Commanders
+DESCRIPTION:NFL\, Week 15\nhttps://inmycal.com
+LOCATION:Northwest Stadium
+URL:https://inmycal.com/nfl/washington-commanders/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

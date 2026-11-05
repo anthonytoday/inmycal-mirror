@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-atlanta-hawks-new-orleans-pelicans-20270210@sports.anthonyto
+ day.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+TRANSP:TRANSPARENT
+SUMMARY:New Orleans Pelicans @ Atlanta Hawks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:State Farm Arena
+URL:https://inmycal.com/nba/atlanta-hawks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

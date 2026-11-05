@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-new-york-knicks-toronto-raptors-20270120@sports.anthonytoday
+ .com
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+TRANSP:TRANSPARENT
+SUMMARY:Toronto Raptors @ New York Knicks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Madison Square Garden
+URL:https://inmycal.com/nba/new-york-knicks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

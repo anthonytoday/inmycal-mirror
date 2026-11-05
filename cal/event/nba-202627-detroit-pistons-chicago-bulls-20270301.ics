@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-detroit-pistons-chicago-bulls-20270301@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+TRANSP:TRANSPARENT
+SUMMARY:Chicago Bulls @ Detroit Pistons
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Little Caesars Arena
+URL:https://inmycal.com/nba/detroit-pistons/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

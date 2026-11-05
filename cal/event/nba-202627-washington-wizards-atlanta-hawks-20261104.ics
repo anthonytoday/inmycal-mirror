@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-washington-wizards-atlanta-hawks-20261104@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Atlanta Hawks @ Washington Wizards (120-105)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Capital One Arena
+URL:https://inmycal.com/nba/washington-wizards/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

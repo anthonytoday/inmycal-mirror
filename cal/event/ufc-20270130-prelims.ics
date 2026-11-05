@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20270130-prelims@sports.anthonytoday.com
+DTSTAMP:20261105T064312Z
+DTSTART:20270130T230000Z
+DTEND:20270131T010000Z
+TRANSP:OPAQUE
+SUMMARY:UFC 336: Van vs. Kape (Prelims)
+DESCRIPTION:UFC\nPrelims. Estimated start (usual start for the region)\; th
+ e official time replaces it once published.\nhttps://inmycal.com
+LOCATION:Scotiabank Arena\, Toronto\, Ontario\, Canada
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2619164@sports.anthonytoday.com
+DTSTAMP:20261105T065607Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Agit Kabayel vs Nelson Hysa
+DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
+ y.\nhttps://inmycal.com
+LOCATION:Merkur Speil Arena\, Dusseldorf\, Nordrhein-Westfalen\, Germany
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

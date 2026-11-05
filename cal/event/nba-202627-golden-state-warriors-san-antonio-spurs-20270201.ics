@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-golden-state-warriors-san-antonio-spurs-20270201@sports.anth
+ onytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+TRANSP:TRANSPARENT
+SUMMARY:San Antonio Spurs @ Golden State Warriors
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Chase Center
+URL:https://inmycal.com/nba/golden-state-warriors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

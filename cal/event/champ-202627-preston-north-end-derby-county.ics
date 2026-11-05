@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-preston-north-end-derby-county@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Preston North End - Derby County
+DESCRIPTION:Championship\, Matchday 23\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Deepdale\, Preston
+URL:https://inmycal.com/championship/preston-north-end/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

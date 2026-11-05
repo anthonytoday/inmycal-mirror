@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-preston-north-end-cardiff-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Preston North End - Cardiff City
+DESCRIPTION:Championship\, Matchday 46\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Deepdale\, Preston
+URL:https://inmycal.com/championship/preston-north-end/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

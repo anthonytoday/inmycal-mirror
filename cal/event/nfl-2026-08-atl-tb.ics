@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-08-atl-tb@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+TRANSP:OPAQUE
+SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers (0-16)
+DESCRIPTION:NFL\, Week 8\nhttps://inmycal.com
+LOCATION:Raymond James Stadium
+URL:https://inmycal.com/nfl/tampa-bay-buccaneers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

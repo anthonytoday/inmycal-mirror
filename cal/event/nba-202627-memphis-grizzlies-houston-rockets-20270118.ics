@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-memphis-grizzlies-houston-rockets-20270118@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T070812Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+TRANSP:TRANSPARENT
+SUMMARY:Houston Rockets @ Memphis Grizzlies
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:FedExForum
+URL:https://inmycal.com/nba/memphis-grizzlies/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

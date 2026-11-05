@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-millwall-watford@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+TRANSP:TRANSPARENT
+SUMMARY:Millwall - Watford
+DESCRIPTION:Championship\, Matchday 38\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:The Den\, London
+URL:https://inmycal.com/championship/millwall/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

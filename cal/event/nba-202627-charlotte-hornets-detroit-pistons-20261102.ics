@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-charlotte-hornets-detroit-pistons-20261102@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T075920Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Detroit Pistons @ Charlotte Hornets (124-91)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Spectrum Center\, Charlotte
+URL:https://inmycal.com/nba/charlotte-hornets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

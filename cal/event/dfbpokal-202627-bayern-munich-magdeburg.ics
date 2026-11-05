@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-bayern-munich-magdeburg@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214000Z
+TRANSP:OPAQUE
+SUMMARY:Bayern Munich - Magdeburg [DFB] (6-1)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Allianz Arena\, Munich
+URL:https://inmycal.com/bundesliga/bayern-munich/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

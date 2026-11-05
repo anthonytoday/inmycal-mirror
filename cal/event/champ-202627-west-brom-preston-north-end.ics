@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-west-brom-preston-north-end@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261229T194500Z
+DTEND:20261229T214000Z
+TRANSP:OPAQUE
+SUMMARY:West Brom - Preston North End
+DESCRIPTION:Championship\, Matchday 24\nhttps://inmycal.com
+LOCATION:The Hawthorns\, West Bromwich
+URL:https://inmycal.com/championship/west-brom/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

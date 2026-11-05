@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-wehen-wiesbaden-jahn-regensburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+TRANSP:TRANSPARENT
+SUMMARY:Wehen Wiesbaden - Jahn Regensburg
+DESCRIPTION:3. Liga\, Matchday 29\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Brita-Arena\, Wiesbaden
+URL:https://inmycal.com/3-liga/wehen-wiesbaden/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

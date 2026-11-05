@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-burnley-preston-north-end@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261206T120000Z
+DTEND:20261206T135500Z
+TRANSP:OPAQUE
+SUMMARY:Burnley - Preston North End
+DESCRIPTION:Championship\, Matchday 19\nhttps://inmycal.com
+LOCATION:Turf Moor\, Burnley
+URL:https://inmycal.com/championship/burnley/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

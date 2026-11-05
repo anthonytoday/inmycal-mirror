@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-west-ham-united-stoke-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261128T150000Z
+DTEND:20261128T165500Z
+TRANSP:OPAQUE
+SUMMARY:West Ham United - Stoke City
+DESCRIPTION:Championship\, Matchday 18\nhttps://inmycal.com
+LOCATION:London Stadium\, London
+URL:https://inmycal.com/championship/west-ham-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-vfl-bochum-augsburg@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261202T194500Z
+DTEND:20261202T214000Z
+TRANSP:OPAQUE
+SUMMARY:VfL Bochum - Augsburg [DFB]
+DESCRIPTION:DFB-Pokal\, Round of 16\nhttps://inmycal.com
+LOCATION:Vonovia Ruhrstadion\, Bochum
+URL:https://inmycal.com/2-bundesliga/vfl-bochum/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

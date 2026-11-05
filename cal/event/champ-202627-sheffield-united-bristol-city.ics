@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-sheffield-united-bristol-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Sheffield United - Bristol City
+DESCRIPTION:Championship\, Matchday 26\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Bramall Lane\, Sheffield
+URL:https://inmycal.com/championship/sheffield-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

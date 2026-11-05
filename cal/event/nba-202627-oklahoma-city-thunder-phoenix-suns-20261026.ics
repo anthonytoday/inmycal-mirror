@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-oklahoma-city-thunder-phoenix-suns-20261026@sports.anthonyto
+ day.com
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Phoenix Suns @ Oklahoma City Thunder (114-125)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Paycom Center
+URL:https://inmycal.com/nba/oklahoma-city-thunder/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:urc-202627-ospreys-leinster@sports.anthonytoday.com
+DTSTAMP:20261105T050800Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Ospreys - Leinster
+DESCRIPTION:United Rugby Championship\, Round 6\nKickoff time not announced
+  yet.\nhttps://inmycal.com
+LOCATION:St Helen's\, Swansea
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

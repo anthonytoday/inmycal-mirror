@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-new-orleans-pelicans-san-antonio-spurs-20270117@sports.antho
+ nytoday.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:San Antonio Spurs @ New Orleans Pelicans
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Co-op Live
+URL:https://inmycal.com/nba/new-orleans-pelicans/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

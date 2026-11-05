@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-as-montigny-les-metz-ca-pontarlier@sports.anthonytoday.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261115T120000Z
+DTEND:20261115T135500Z
+TRANSP:OPAQUE
+SUMMARY:AS Montigny-lès-Metz - CA Pontarlier [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Émile Weinberg\, Metz
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

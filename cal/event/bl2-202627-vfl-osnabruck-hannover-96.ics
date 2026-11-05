@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-vfl-osnabruck-hannover-96@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261128T193000Z
+DTEND:20261128T212500Z
+TRANSP:OPAQUE
+SUMMARY:VfL Osnabrück - Hannover 96
+DESCRIPTION:2. Bundesliga\, Matchday 13\nhttps://inmycal.com
+LOCATION:Stadion an der Bremer Brücke\, Osnabrück
+URL:https://inmycal.com/2-bundesliga/vfl-osnabruck/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

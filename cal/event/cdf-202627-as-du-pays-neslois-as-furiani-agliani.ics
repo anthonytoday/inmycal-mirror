@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-as-du-pays-neslois-as-furiani-agliani@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T045710Z
+DTSTART:20261115T120000Z
+DTEND:20261115T135500Z
+TRANSP:OPAQUE
+SUMMARY:AS du Pays Neslois - AS Furiani-Agliani [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Éloi Auffève\, Nesle
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

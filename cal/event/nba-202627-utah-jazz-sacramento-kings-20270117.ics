@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-utah-jazz-sacramento-kings-20270117@sports.anthonytoday.com
+DTSTAMP:20261105T060722Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:Sacramento Kings @ Utah Jazz
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Delta Center
+URL:https://inmycal.com/nba/utah-jazz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

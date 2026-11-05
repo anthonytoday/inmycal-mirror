@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-bristol-city-blackburn-rovers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261013T184500Z
+DTEND:20261013T204000Z
+TRANSP:OPAQUE
+SUMMARY:Bristol City - Blackburn Rovers
+DESCRIPTION:Championship\, Matchday 10\nhttps://inmycal.com
+LOCATION:Ashton Gate\, Bristol
+URL:https://inmycal.com/championship/bristol-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

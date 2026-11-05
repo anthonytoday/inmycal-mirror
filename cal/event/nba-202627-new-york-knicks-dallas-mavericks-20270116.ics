@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-new-york-knicks-dallas-mavericks-20270116@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Dallas Mavericks @ New York Knicks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Madison Square Garden
+URL:https://inmycal.com/nba/new-york-knicks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

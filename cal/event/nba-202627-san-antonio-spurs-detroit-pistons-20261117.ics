@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-san-antonio-spurs-detroit-pistons-20261117@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Detroit Pistons @ San Antonio Spurs
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Frost Bank Center
+URL:https://inmycal.com/nba/san-antonio-spurs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

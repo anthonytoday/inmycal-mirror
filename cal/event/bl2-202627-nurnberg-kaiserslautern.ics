@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-nurnberg-kaiserslautern@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261024T183000Z
+DTEND:20261024T202500Z
+TRANSP:OPAQUE
+SUMMARY:Nürnberg - Kaiserslautern (0-1)
+DESCRIPTION:2. Bundesliga\, Matchday 9\nhttps://inmycal.com
+LOCATION:Max-Morlock-Stadion\, Nuremberg
+URL:https://inmycal.com/2-bundesliga/nurnberg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

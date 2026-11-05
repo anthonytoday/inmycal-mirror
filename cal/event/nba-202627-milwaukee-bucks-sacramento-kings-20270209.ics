@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-milwaukee-bucks-sacramento-kings-20270209@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+TRANSP:TRANSPARENT
+SUMMARY:Sacramento Kings @ Milwaukee Bucks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Fiserv Forum
+URL:https://inmycal.com/nba/milwaukee-bucks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

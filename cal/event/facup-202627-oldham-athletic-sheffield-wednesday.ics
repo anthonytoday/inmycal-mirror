@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:facup-202627-oldham-athletic-sheffield-wednesday@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T032054Z
+DTSTART:20261108T171500Z
+DTEND:20261108T191000Z
+TRANSP:OPAQUE
+SUMMARY:Oldham Athletic - Sheffield Wednesday [FAC]
+DESCRIPTION:FA Cup\, First round\nhttps://inmycal.com
+LOCATION:Boundary Park\, Oldham
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

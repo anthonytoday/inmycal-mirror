@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue2-202627-dijon-clermont-foot@sports.anthonytoday.com
+DTSTAMP:20261105T064214Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+TRANSP:TRANSPARENT
+SUMMARY:Dijon - Clermont Foot
+DESCRIPTION:Ligue 2\, Matchday 19\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Gaston-Gérard
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

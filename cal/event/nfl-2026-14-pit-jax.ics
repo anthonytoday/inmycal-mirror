@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-14-pit-jax@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261215T011500Z
+DTEND:20261215T043000Z
+TRANSP:OPAQUE
+SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
+DESCRIPTION:NFL\, Week 14\nhttps://inmycal.com
+LOCATION:EverBank Stadium
+URL:https://inmycal.com/nfl/jacksonville-jaguars/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

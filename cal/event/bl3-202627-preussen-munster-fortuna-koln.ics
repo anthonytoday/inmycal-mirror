@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-preussen-munster-fortuna-koln@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261025T153000Z
+DTEND:20261025T172500Z
+TRANSP:OPAQUE
+SUMMARY:Preußen Münster - Fortuna Köln (1-0)
+DESCRIPTION:3. Liga\, Matchday 11\nhttps://inmycal.com
+LOCATION:LVM-Preußenstadion\, Münster
+URL:https://inmycal.com/3-liga/preussen-munster/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

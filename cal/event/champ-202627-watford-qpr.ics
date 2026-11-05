@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-watford-qpr@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Watford - QPR
+DESCRIPTION:Championship\, Matchday 25\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Vicarage Road\, Watford
+URL:https://inmycal.com/championship/watford/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

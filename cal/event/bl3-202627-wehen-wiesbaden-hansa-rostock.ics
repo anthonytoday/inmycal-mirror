@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-wehen-wiesbaden-hansa-rostock@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+TRANSP:TRANSPARENT
+SUMMARY:Wehen Wiesbaden - Hansa Rostock
+DESCRIPTION:3. Liga\, Matchday 23\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Brita-Arena\, Wiesbaden
+URL:https://inmycal.com/3-liga/wehen-wiesbaden/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

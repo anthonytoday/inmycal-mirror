@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-bolton-wanderers-swansea-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:Bolton Wanderers - Swansea City
+DESCRIPTION:Championship\, Matchday 45\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Toughsheet Community Stadium\, Bolton
+URL:https://inmycal.com/championship/bolton-wanderers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-15-ne-kc@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261222T011500Z
+DTEND:20261222T043000Z
+TRANSP:OPAQUE
+SUMMARY:New England Patriots @ Kansas City Chiefs
+DESCRIPTION:NFL\, Week 15\nhttps://inmycal.com
+LOCATION:GEHA Field at Arrowhead Stadium
+URL:https://inmycal.com/nfl/kansas-city-chiefs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

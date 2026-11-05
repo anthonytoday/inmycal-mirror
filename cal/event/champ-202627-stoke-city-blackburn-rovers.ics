@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-stoke-city-blackburn-rovers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Stoke City - Blackburn Rovers
+DESCRIPTION:Championship\, Matchday 28\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:bet365 Stadium\, Stoke-on-Trent
+URL:https://inmycal.com/championship/stoke-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

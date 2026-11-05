@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-philadelphia-76ers-washington-wizards-20270112@sports.anthon
+ ytoday.com
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Philadelphia 76ers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Xfinity Mobile Arena
+URL:https://inmycal.com/nba/philadelphia-76ers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

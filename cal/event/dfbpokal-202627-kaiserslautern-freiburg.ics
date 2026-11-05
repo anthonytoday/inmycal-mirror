@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-kaiserslautern-freiburg@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261202T170000Z
+DTEND:20261202T185500Z
+TRANSP:OPAQUE
+SUMMARY:Kaiserslautern - Freiburg [DFB]
+DESCRIPTION:DFB-Pokal\, Round of 16\nhttps://inmycal.com
+LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
+URL:https://inmycal.com/2-bundesliga/kaiserslautern/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

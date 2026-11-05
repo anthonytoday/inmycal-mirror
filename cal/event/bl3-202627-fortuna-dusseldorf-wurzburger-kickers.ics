@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-fortuna-dusseldorf-wurzburger-kickers@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:Fortuna Düsseldorf - Würzburger Kickers
+DESCRIPTION:3. Liga\, Matchday 34\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Merkur Spiel-Arena\, Düsseldorf
+URL:https://inmycal.com/3-liga/fortuna-dusseldorf/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

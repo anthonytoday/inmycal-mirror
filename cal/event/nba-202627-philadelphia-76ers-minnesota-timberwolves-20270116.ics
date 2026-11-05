@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-philadelphia-76ers-minnesota-timberwolves-20270116@sports.an
+ thonytoday.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Minnesota Timberwolves @ Philadelphia 76ers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Xfinity Mobile Arena
+URL:https://inmycal.com/nba/philadelphia-76ers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

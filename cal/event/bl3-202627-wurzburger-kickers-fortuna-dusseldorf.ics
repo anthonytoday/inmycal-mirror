@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-wurzburger-kickers-fortuna-dusseldorf@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T032053Z
+DTSTART:20261128T130000Z
+DTEND:20261128T145500Z
+TRANSP:OPAQUE
+SUMMARY:Würzburger Kickers - Fortuna Düsseldorf
+DESCRIPTION:3. Liga\, Matchday 15\nhttps://inmycal.com
+LOCATION:Flyeralarm Arena\, Würzburg
+URL:https://inmycal.com/3-liga/wurzburger-kickers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

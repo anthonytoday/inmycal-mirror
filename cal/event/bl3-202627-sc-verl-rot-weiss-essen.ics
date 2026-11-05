@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-sc-verl-rot-weiss-essen@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261121T130000Z
+DTEND:20261121T145500Z
+TRANSP:OPAQUE
+SUMMARY:SC Verl - Rot-Weiss Essen
+DESCRIPTION:3. Liga\, Matchday 14\nhttps://inmycal.com
+LOCATION:Sportclub Arena\, Verl
+URL:https://inmycal.com/3-liga/sc-verl/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

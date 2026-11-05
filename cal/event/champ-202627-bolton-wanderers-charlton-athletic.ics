@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-bolton-wanderers-charlton-athletic@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Bolton Wanderers - Charlton Athletic
+DESCRIPTION:Championship\, Matchday 28\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Toughsheet Community Stadium\, Bolton
+URL:https://inmycal.com/championship/bolton-wanderers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

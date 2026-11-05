@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-southampton-cardiff-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Southampton - Cardiff City
+DESCRIPTION:Championship\, Matchday 25\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:St Mary's Stadium\, Southampton
+URL:https://inmycal.com/championship/southampton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-cardiff-city-birmingham-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261024T140000Z
+DTEND:20261024T155500Z
+TRANSP:OPAQUE
+SUMMARY:Cardiff City - Birmingham City
+DESCRIPTION:Championship\, Matchday 12\nhttps://inmycal.com
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://inmycal.com/championship/cardiff-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

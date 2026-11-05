@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-12-car-tb@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261201T011500Z
+DTEND:20261201T043000Z
+TRANSP:OPAQUE
+SUMMARY:Carolina Panthers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL\, Week 12\nhttps://inmycal.com
+LOCATION:Raymond James Stadium
+URL:https://inmycal.com/nfl/tampa-bay-buccaneers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

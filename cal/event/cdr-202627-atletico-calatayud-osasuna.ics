@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-atletico-calatayud-osasuna@sports.anthonytoday.com
+DTSTAMP:20261105T045703Z
+DTSTART:20261029T180000Z
+DTEND:20261029T195500Z
+TRANSP:OPAQUE
+SUMMARY:Atlético Calatayud - Osasuna [CDR] (0-6)
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:San Íñigo\, Calatayud
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

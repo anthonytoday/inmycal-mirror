@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-wrexham-middlesbrough@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261104T194500Z
+DTEND:20261104T214000Z
+TRANSP:OPAQUE
+SUMMARY:Wrexham - Middlesbrough
+DESCRIPTION:Championship\, Matchday 14\nhttps://inmycal.com
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://inmycal.com/championship/wrexham/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

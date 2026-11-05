@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-milwaukee-bucks-denver-nuggets-20270112@sports.anthonytoday.
+ com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+TRANSP:TRANSPARENT
+SUMMARY:Denver Nuggets @ Milwaukee Bucks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Fiserv Forum
+URL:https://inmycal.com/nba/milwaukee-bucks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

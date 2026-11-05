@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-karlsruher-sc-eintracht-braunschweig@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:Karlsruher SC - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga\, Matchday 32\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:BBBank Wildpark\, Karlsruhe
+URL:https://inmycal.com/2-bundesliga/karlsruher-sc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-san-antonio-spurs-los-angeles-lakers-20261127@sports.anthony
+ today.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Lakers @ San Antonio Spurs
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Frost Bank Center
+URL:https://inmycal.com/nba/san-antonio-spurs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

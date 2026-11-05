@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2619162@sports.anthonytoday.com
+DTSTAMP:20261105T070822Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Bryan Flores vs Jose Nunez
+DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
+ y.\nhttps://inmycal.com
+LOCATION:County Coliseum\, El Paso\, Texas\, United States
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

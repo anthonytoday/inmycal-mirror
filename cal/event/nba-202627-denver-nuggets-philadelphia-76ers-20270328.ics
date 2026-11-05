@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-denver-nuggets-philadelphia-76ers-20270328@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Denver Nuggets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Ball Arena
+URL:https://inmycal.com/nba/denver-nuggets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

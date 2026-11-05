@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:facup-202627-cheltenham-town-fc-halifax-town@sports.anthonytoday.com
+DTSTAMP:20261105T032054Z
+DTSTART:20261107T150000Z
+DTEND:20261107T165500Z
+TRANSP:OPAQUE
+SUMMARY:Cheltenham Town - FC Halifax Town [FAC]
+DESCRIPTION:FA Cup\, First round\nhttps://inmycal.com
+LOCATION:Whaddon Road\, Cheltenham
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

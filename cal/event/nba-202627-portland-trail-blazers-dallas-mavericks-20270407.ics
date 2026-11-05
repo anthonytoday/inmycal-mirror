@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-portland-trail-blazers-dallas-mavericks-20270407@sports.anth
+ onytoday.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+TRANSP:TRANSPARENT
+SUMMARY:Dallas Mavericks @ Portland Trail Blazers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Moda Center
+URL:https://inmycal.com/nba/portland-trail-blazers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-dallas-mavericks-los-angeles-lakers-20270228@sports.anthonyt
+ oday.com
+DTSTAMP:20261105T075449Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Lakers @ Dallas Mavericks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:American Airlines Center
+URL:https://inmycal.com/nba/dallas-mavericks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

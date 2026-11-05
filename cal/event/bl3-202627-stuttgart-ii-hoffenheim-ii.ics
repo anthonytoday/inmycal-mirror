@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-stuttgart-ii-hoffenheim-ii@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261013T170000Z
+DTEND:20261013T185500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart II - Hoffenheim II (3-2)
+DESCRIPTION:3. Liga\, Matchday 9\nhttps://inmycal.com
+LOCATION:Gazi-Stadion auf der Waldau\, Stuttgart
+URL:https://inmycal.com/3-liga/stuttgart-ii/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

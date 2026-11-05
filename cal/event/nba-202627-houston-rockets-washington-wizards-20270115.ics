@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-houston-rockets-washington-wizards-20270115@sports.anthonyto
+ day.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Houston Rockets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Toyota Center
+URL:https://inmycal.com/nba/houston-rockets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

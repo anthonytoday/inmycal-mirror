@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-utah-jazz-washington-wizards-20270227@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T060722Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Utah Jazz
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Delta Center
+URL:https://inmycal.com/nba/utah-jazz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

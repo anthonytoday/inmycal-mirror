@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-dallas-mavericks-phoenix-suns-20261226@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T075459Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Phoenix Suns @ Dallas Mavericks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:American Airlines Center
+URL:https://inmycal.com/nba/dallas-mavericks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

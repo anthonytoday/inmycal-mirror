@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-le-puy-en-velay-fc-diables-noirs-de-combani@sports.anthonyto
+ day.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261114T120000Z
+DTEND:20261114T135500Z
+TRANSP:OPAQUE
+SUMMARY:Le Puy-en-Velay FC - Diables Noirs de Combani [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Charles Massot\, Le Puy-en-Velay
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-dallas-mavericks-brooklyn-nets-20261108@sports.anthonytoday.
+ com
+DTSTAMP:20261105T075443Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Brooklyn Nets @ Dallas Mavericks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:American Airlines Center\, Dallas
+URL:https://inmycal.com/nba/dallas-mavericks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

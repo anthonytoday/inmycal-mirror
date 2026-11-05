@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-oklahoma-city-thunder-los-angeles-clippers-20270326@sports.a
+ nthonytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Clippers @ Oklahoma City Thunder
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Paycom Center
+URL:https://inmycal.com/nba/oklahoma-city-thunder/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

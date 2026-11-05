@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-west-ham-united-millwall@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+TRANSP:TRANSPARENT
+SUMMARY:West Ham United - Millwall
+DESCRIPTION:Championship\, Matchday 33\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:London Stadium\, London
+URL:https://inmycal.com/championship/west-ham-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

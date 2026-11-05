@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-stade-sottevillais-cc-usf-fecamp@sports.anthonytoday.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261115T123000Z
+DTEND:20261115T142500Z
+TRANSP:OPAQUE
+SUMMARY:Stade Sottevillais CC - USF Fécamp [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Jean Adret\, Sotteville-lès-Rouen
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

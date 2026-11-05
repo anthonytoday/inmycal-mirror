@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-golden-state-warriors-utah-jazz-20261201@sports.anthonytoday
+ .com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Utah Jazz @ Golden State Warriors
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Chase Center
+URL:https://inmycal.com/nba/golden-state-warriors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

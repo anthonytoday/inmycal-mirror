@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sixnations-2027-rugby-wales-rugby-england@sports.anthonytoday.com
+DTSTAMP:20261105T032105Z
+DTSTART:20270306T164000Z
+DTEND:20270306T182000Z
+TRANSP:OPAQUE
+SUMMARY:Wales - England
+DESCRIPTION:Six Nations\, Round 4\nhttps://inmycal.com
+LOCATION:Millennium Stadium\, Cardiff
+URL:https://inmycal.com/six-nations/rugby-wales/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

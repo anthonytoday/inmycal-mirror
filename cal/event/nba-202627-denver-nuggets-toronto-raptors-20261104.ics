@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-denver-nuggets-toronto-raptors-20261104@sports.anthonytoday.
+ com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Toronto Raptors @ Denver Nuggets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Ball Arena
+URL:https://inmycal.com/nba/denver-nuggets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

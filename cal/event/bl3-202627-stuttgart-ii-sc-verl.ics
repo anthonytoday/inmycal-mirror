@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-stuttgart-ii-sc-verl@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261108T153000Z
+DTEND:20261108T172500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart II - SC Verl
+DESCRIPTION:3. Liga\, Matchday 13\nhttps://inmycal.com
+LOCATION:Gazi-Stadion auf der Waldau\, Stuttgart
+URL:https://inmycal.com/3-liga/stuttgart-ii/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-brooklyn-nets-orlando-magic-20261120@sports.anthonytoday.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:Orlando Magic @ Brooklyn Nets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Barclays Center
+URL:https://inmycal.com/nba/brooklyn-nets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

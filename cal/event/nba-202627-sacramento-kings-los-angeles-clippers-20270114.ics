@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-sacramento-kings-los-angeles-clippers-20270114@sports.anthon
+ ytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Clippers @ Sacramento Kings
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Golden 1 Center
+URL:https://inmycal.com/nba/sacramento-kings/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

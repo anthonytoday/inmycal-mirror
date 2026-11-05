@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-portland-trail-blazers-golden-state-warriors-20261127@sports
+ .anthonytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Golden State Warriors @ Portland Trail Blazers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Moda Center
+URL:https://inmycal.com/nba/portland-trail-blazers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

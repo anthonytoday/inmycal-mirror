@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-dynamo-dresden-schalke@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261028T170000Z
+DTEND:20261028T185500Z
+TRANSP:OPAQUE
+SUMMARY:Dynamo Dresden - Schalke 04 [DFB] (2-0)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Rudolf-Harbig-Stadion\, Dresden
+URL:https://inmycal.com/2-bundesliga/dynamo-dresden/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-denver-nuggets-houston-rockets-20261120@sports.anthonytoday.
+ com
+DTSTAMP:20261105T075449Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:Houston Rockets @ Denver Nuggets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Ball Arena
+URL:https://inmycal.com/nba/denver-nuggets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

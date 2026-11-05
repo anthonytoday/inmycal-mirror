@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-newcastle-red-bulls-northampton-saints@sports.anthonytoday.
+ com
+DTSTAMP:20261105T050753Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+TRANSP:TRANSPARENT
+SUMMARY:Newcastle Red Bulls - Northampton Saints
+DESCRIPTION:Premiership Rugby\, Round 17\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Kingston Park
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

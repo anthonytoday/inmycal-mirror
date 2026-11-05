@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-14-min-ne@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261211T011500Z
+DTEND:20261211T043000Z
+TRANSP:OPAQUE
+SUMMARY:Minnesota Vikings @ New England Patriots
+DESCRIPTION:NFL\, Week 14\nhttps://inmycal.com
+LOCATION:Gillette Stadium
+URL:https://inmycal.com/nfl/new-england-patriots/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

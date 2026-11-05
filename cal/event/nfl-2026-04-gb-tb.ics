@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-04-gb-tb@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+TRANSP:OPAQUE
+SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers (17-14)
+DESCRIPTION:NFL\, Week 4\nhttps://inmycal.com
+LOCATION:Raymond James Stadium
+URL:https://inmycal.com/nfl/tampa-bay-buccaneers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

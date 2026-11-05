@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-arminia-bielefeld-eintracht-braunschweig@sports.anthonytoday
+ .com
+DTSTAMP:20261105T032053Z
+DTSTART:20261030T173000Z
+DTEND:20261030T192500Z
+TRANSP:OPAQUE
+SUMMARY:Arminia Bielefeld - Eintracht Braunschweig (3-1)
+DESCRIPTION:2. Bundesliga\, Matchday 10\nhttps://inmycal.com
+LOCATION:SchücoArena\, Bielefeld
+URL:https://inmycal.com/2-bundesliga/arminia-bielefeld/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-sacramento-kings-philadelphia-76ers-20261229@sports.anthonyt
+ oday.com
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Sacramento Kings
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Golden 1 Center
+URL:https://inmycal.com/nba/sacramento-kings/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-boston-celtics-milwaukee-bucks-20261104@sports.anthonytoday.
+ com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Milwaukee Bucks @ Boston Celtics (102-109)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:TD Garden
+URL:https://inmycal.com/nba/boston-celtics/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-saarbrucken-sv-meppen@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+TRANSP:TRANSPARENT
+SUMMARY:Saarbrücken - SV Meppen
+DESCRIPTION:3. Liga\, Matchday 23\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Ludwigsparkstadion\, Saarbrücken
+URL:https://inmycal.com/3-liga/saarbrucken/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

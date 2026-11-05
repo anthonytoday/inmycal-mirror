@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-denver-nuggets-atlanta-hawks-20261217@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+TRANSP:TRANSPARENT
+SUMMARY:Atlanta Hawks @ Denver Nuggets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Ball Arena
+URL:https://inmycal.com/nba/denver-nuggets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-toronto-raptors-new-york-knicks-20261115@sports.anthonytoday
+ .com
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:New York Knicks @ Toronto Raptors
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Scotiabank Arena
+URL:https://inmycal.com/nba/toronto-raptors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

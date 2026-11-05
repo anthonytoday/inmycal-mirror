@@ -6,10 +6,28 @@
   var lang = navigator.language || 'en-US';
   var auto;
   try { auto = Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) { auto = 'UTC'; }
+  // Usage counting (first-party, no cookies, no IDs): one small beacon per click on our own server.
+  function track(t, k) { try { navigator.sendBeacon('/e', JSON.stringify({ t: t, k: k })); } catch (e) {} }
+  var EMBED = document.documentElement.hasAttribute('data-embed');
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a, button');
+    if (!a) return;
+    if (a.classList.contains('add-opt')) return track('add', (EMBED ? 'widget:' : '') + (a.getAttribute('data-kind') || 'ics'));
+    if (a.hasAttribute('data-feed')) return track('follow', (EMBED ? 'widget:' : '') + a.getAttribute('data-feed'));
+    if (a.closest('.search-list')) return track('search', a.getAttribute('href'));
+    var href = a.getAttribute('href') || '';
+    if (/^https?:\/\//.test(href)) { try { var h = new URL(href).hostname; if (h !== location.hostname) track('out', h); } catch (err) {} }
+  }, true);
   function picked() { try { return localStorage.getItem(TZ_KEY) || ''; } catch (e) { return ''; } }
   function zone() { var z = picked() || auto || 'UTC'; try { new Intl.DateTimeFormat('en', { timeZone: z }); return z; } catch (e) { return 'UTC'; } }
 
-  function fmt(opts) { return new Intl.DateTimeFormat(lang, Object.assign({ timeZone: zone() }, opts)); }
+  // Clock: 12-hour with AM/PM for US time zones, 24-hour elsewhere, unless the visitor picked one in the footer.
+  var H_KEY = 'imc-hours';
+  var US_ZONE = /^(America\/(New_York|Chicago|Denver|Phoenix|Los_Angeles|Anchorage|Juneau|Sitka|Nome|Yakutat|Metlakatla|Adak|Boise|Detroit|Indiana|Kentucky|Menominee|North_Dakota|Puerto_Rico)|Pacific\/Honolulu|US\/)/;
+  function hourPick() { try { var h = localStorage.getItem(H_KEY); return h === '12' || h === '24' ? h : ''; } catch (e) { return ''; } }
+  function hours() { return hourPick() || (US_ZONE.test(zone()) ? '12' : '24'); }
+  // 12-hour clock: "8:15 PM", not "08:15 PM"; the 24-hour clock keeps two digits ("08:15").
+  function fmt(opts) { var o = Object.assign({ timeZone: zone() }, opts); if (o.hour) { o.hour12 = hours() === '12'; if (o.hour12) o.hour = 'numeric'; } return new Intl.DateTimeFormat(lang, o); }
   function localDay(d) { var p = fmt({ year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(d); var o = {}; p.forEach(function (x) { o[x.type] = x.value; }); return o.year + '-' + o.month + '-' + o.day; }
   function dayName(ymd) { return new Intl.DateTimeFormat(lang, { timeZone: 'UTC', weekday: 'short', day: 'numeric', month: 'short' }).format(new Date(ymd + 'T12:00:00Z')); }
   function rel(ymd) {
@@ -35,6 +53,29 @@
     document.querySelectorAll('[data-tz]').forEach(function (el) { el.textContent = z.split('/').pop().replace(/_/g, ' '); });
   }
 
+  // Footer switch: 24h or 12h AM/PM, remembered in this browser only.
+  document.querySelectorAll('[data-hours]').forEach(function (box) {
+    var paint = function () { box.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-h') === hours() ? 'true' : 'false'); }); };
+    box.hidden = false;
+    paint();
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-h]');
+      if (!b) return;
+      try { localStorage.setItem(H_KEY, b.getAttribute('data-h')); } catch (err) {}
+      paint();
+      renderTimes();
+    });
+  });
+
+  // Small round label at the start of a row ("First round"), or none.
+  function roundLabel(r, text) {
+    var el = r.querySelector('.ev-rd');
+    if (!text) { if (el) r.removeChild(el); r.classList.remove('ev-hasrd'); return; }
+    if (!el) { el = document.createElement('span'); el.className = 'ev-rd'; r.insertBefore(el, r.firstChild); }
+    el.textContent = text;
+    r.classList.add('ev-hasrd');
+  }
+
   // Regroup each list by the visitor's local day and add day chips (All, Today, Tomorrow, ...).
   function regroup() {
     document.querySelectorAll('[data-evlist]').forEach(function (list) {
@@ -57,9 +98,14 @@
         h.setAttribute('data-day', day);
         var t = document.createElement('h3');
         t.textContent = rel(day) === dayName(day) ? dayName(day) : rel(day) + ' · ' + dayName(day);
+        // Same round for every match that day: name it once in the heading, not on each row. A day that mixes
+        // rounds names the round on each row (the server does the same for its UTC days).
+        var rs = groups[day].map(function (r) { return r.getAttribute('data-round') || ''; });
+        var same = rs.every(function (x) { return x === rs[0]; });
+        if (rs[0] && same) t.textContent += ' · ' + rs[0];
         h.appendChild(t);
         list.appendChild(h);
-        groups[day].forEach(function (r) { list.appendChild(r); });
+        groups[day].forEach(function (r) { roundLabel(r, same ? '' : r.getAttribute('data-round') || ''); list.appendChild(r); });
       });
       // Today always shows first, even when nothing is on, so an empty day reads as empty, not missing.
       var today = localDay(new Date());
@@ -96,7 +142,7 @@
         chips.appendChild(b);
       };
       mk('All', '');
-      order.slice(0, 10).forEach(function (day) { mk(rel(day), day); });
+      order.slice(0, 5).forEach(function (day) { mk(rel(day), day); }); // the next five days with events
       chips.hidden = false;
     });
   }
@@ -187,7 +233,7 @@
       else if (e.key === 'ArrowUp') { e.preventDefault(); setActive(active - 1); }
       else if (e.key === 'Enter') {
         var opt = list.querySelectorAll('[role="option"] a')[Math.max(active, 0)];
-        if (opt) { e.preventDefault(); location.href = opt.getAttribute('href'); }
+        if (opt) { e.preventDefault(); track('search', opt.getAttribute('href')); location.href = opt.getAttribute('href'); }
       } else if (e.key === 'Escape') { qi.value = ''; close(); qi.blur(); }
     });
     document.addEventListener('click', function (e) { if (!sw.contains(e.target)) close(); });
@@ -232,6 +278,7 @@
   function opt(kind, l, first) {
     var a = document.createElement('a');
     a.className = 'add-opt' + (first ? ' primary' : '');
+    a.setAttribute('data-kind', kind);
     a.href = l.href;
     if (l.blank) { a.target = '_blank'; a.rel = 'noopener'; }
     if (l.download) a.setAttribute('download', '');
@@ -246,9 +293,33 @@
       var li = d.closest('li.ev');
       var box = d.querySelector('[data-add-opts]');
       if (!li || !box) return;
-      var links = eventLinks(li);
+      var links = eventLinks(d.hasAttribute('data-uid') ? d : li); // a menu with its own event (UFC prelims)
       box.innerHTML = '';
       ORDER.forEach(function (k, i) { box.appendChild(opt(k, links[k], i === 0)); });
+      var pop = d.querySelector('.add-pop');
+      var head = document.createElement('p');
+      head.className = 'add-head';
+      head.textContent = 'Add to your calendar';
+      pop.insertBefore(head, box);
+      var follow = [];
+      try { follow = JSON.parse(d.getAttribute('data-follow') || '[]'); } catch (e) {}
+      if (follow.length) {
+        var sub = document.createElement('p');
+        sub.className = 'add-head add-sub';
+        sub.textContent = 'Follow the whole season, updates itself';
+        pop.appendChild(sub);
+        follow.forEach(function (f) {
+          var a = document.createElement('a');
+          a.className = 'add-follow';
+          a.href = f[0];
+          var icon = f[2] && li.querySelector(f[2]);
+          if (icon) { icon = icon.cloneNode(true); icon.setAttribute('width', '18'); icon.setAttribute('height', '18'); a.appendChild(icon); }
+          var t = document.createElement('span');
+          t.textContent = f[1];
+          a.appendChild(t);
+          pop.appendChild(a);
+        });
+      }
       d.setAttribute('data-ready', '1');
     });
   });
@@ -258,6 +329,80 @@
     list.querySelectorAll('[data-feed]').forEach(function (a) { map[a.getAttribute('data-feed')] = a; });
     var order = ORDER.map(function (k) { return k === 'ics' ? 'copy' : k; });
     order.forEach(function (k, i) { var a = map[k]; if (!a) return; a.classList.toggle('primary', i === 0); list.appendChild(a); });
+  });
+
+  // ---------- "More" menu: open under its own tab (the tab row scrolls, so the menu sits on the top bar) ----------
+  document.querySelectorAll('.tb-more').forEach(function (d) {
+    d.addEventListener('toggle', function () {
+      if (!d.open) return;
+      var pop = d.querySelector('.tb-pop');
+      var bar = d.closest('.topbar');
+      if (!pop || !bar) return;
+      var left = d.querySelector('summary').getBoundingClientRect().left - bar.getBoundingClientRect().left;
+      pop.style.right = 'auto';
+      pop.style.left = Math.max(8, Math.min(left, bar.clientWidth - pop.offsetWidth - 8)) + 'px';
+    });
+  });
+
+  // ---------- Football sidebar filter: leagues, countries and their leagues ----------
+  document.querySelectorAll('[data-side-filter]').forEach(function (side) {
+    var input = side.querySelector('.side-search');
+    if (!input) return;
+    var nz = function (t) { return String(t).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase(); };
+    input.hidden = false;
+    input.addEventListener('input', function () {
+      var q = nz(input.value.trim());
+      side.querySelectorAll('.side-top li, .side-flat li').forEach(function (li) { li.hidden = !!q && nz(li.textContent).indexOf(q) === -1; });
+      side.querySelectorAll('.side-group').forEach(function (g) {
+        var country = nz(g.querySelector('summary').textContent);
+        var any = false;
+        g.querySelectorAll('li').forEach(function (li) { var hit = !q || country.indexOf(q) !== -1 || nz(li.textContent).indexOf(q) !== -1; li.hidden = !hit; any = any || hit; });
+        g.hidden = !!q && !any;
+        if (q) g.open = any; 
+      });
+    });
+  });
+
+  // ---------- "Follow your team" search on competition pages (uses the same cached /search.json) ----------
+  document.querySelectorAll('[data-pick-search]').forEach(function (box) {
+    var input = box.querySelector('input');
+    var out = box.querySelector('.pick-results');
+    var scope = box.getAttribute('data-scope') || '';
+    var kind = box.getAttribute('data-kind') || '';
+    var rows = null;
+    var nz = function (t) { return String(t).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase(); };
+    var get = function () {
+      if (rows) return Promise.resolve(rows);
+      return fetch('/search.json').then(function (r) { return r.json(); }).then(function (data) {
+        // Every club and team is searchable from any page (Paris works on the La Liga page); this page's own
+        // teams are listed first.
+        rows = data.filter(function (d) { return kind ? d[2] === kind : /^(Club|Team) |^National team$/.test(d[2]); });
+        rows.sort(function (a, b) { return (scope && b[1].indexOf(scope) === 0 ? 1 : 0) - (scope && a[1].indexOf(scope) === 0 ? 1 : 0); });
+        return rows;
+      });
+    };
+    var show = function () {
+      var q = nz(input.value.trim());
+      out.textContent = '';
+      if (!q) return;
+      get().then(function (list) {
+        out.textContent = '';
+        var hits = list.filter(function (d) { return nz(d[0] + ' ' + d[5]).indexOf(q) !== -1; }).slice(0, 8);
+        if (!hits.length) { var li = document.createElement('li'); li.className = 'search-none'; li.textContent = 'No match.'; out.appendChild(li); return; }
+        hits.forEach(function (d) {
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = d[1] + '#subscribe';
+          if (d[3]) { var img = document.createElement('img'); img.src = d[3]; img.width = 20; img.height = 20; img.alt = ''; a.appendChild(img); }
+          var t = document.createElement('span'); t.textContent = d[0]; a.appendChild(t);
+          var m = document.createElement('small'); m.textContent = d[2].replace(/^(Club|Team) · /, ''); a.appendChild(m);
+          li.appendChild(a); out.appendChild(li);
+        });
+      }).catch(function () {});
+    };
+    box.hidden = false;
+    input.addEventListener('input', show);
+    input.addEventListener('focus', function () { get().catch(function () {}); });
   });
 
   // ---------- My team (remembered in this browser only) ----------
@@ -271,69 +416,6 @@
     paint();
     b.addEventListener('click', function () { setMyTeam(myTeam() === slug ? '' : slug); paint(); });
   });
-  var card = document.querySelector('[data-myteam]');
-  if (card) {
-    var teamSel = card.querySelector('[data-myteam-select]');
-    var body = card.querySelector('[data-myteam-body]');
-    var chipsHtml = body.innerHTML;
-    var render = function (slug) {
-      if (!slug) { body.innerHTML = chipsHtml; bindChips(); return; }
-      body.innerHTML = '<p class="myteam-loading">Loading…</p>';
-      var from = new Date().toISOString().slice(0, 10);
-      var to = new Date(Date.now() + 120 * 86400000).toISOString().slice(0, 10);
-      fetch('/api/v1/events?team=' + encodeURIComponent(slug) + '&from=' + from + '&to=' + to + '&limit=3').then(function (r) { return r.json(); }).then(function (j) {
-        var ev = (j.events || [])[0];
-        var team = ev && (ev.home && ev.home.id === slug ? ev.home : ev.away);
-        var opt0 = teamSel.querySelector('option[value="' + slug + '"]');
-        var name = (team && team.name) || (opt0 && opt0.textContent) || slug;
-        var feed = team && team.calendar;
-        body.innerHTML = '';
-        var list = document.createElement('ul');
-        list.className = 'myteam-next';
-        (j.events || []).forEach(function (e) {
-          var li = document.createElement('li');
-          var t = document.createElement('time');
-          if (e.start) { t.setAttribute('data-utc', e.start); t.setAttribute('data-mode', 'full'); } else { t.setAttribute('data-date', e.date); t.setAttribute('data-mode', 'full'); }
-          var b = document.createElement('b');
-          b.textContent = e.title;
-          li.appendChild(b); li.appendChild(t);
-          list.appendChild(li);
-        });
-        if (!list.children.length) { var p = document.createElement('p'); p.textContent = 'No fixtures published yet for ' + name + '.'; body.appendChild(p); } else body.appendChild(list);
-        var go = document.createElement('div');
-        go.className = 'myteam-go';
-        var page = team && team.page ? team.page.replace(location.origin, '') : '';
-        if (feed) {
-          var https = feed;
-          var webcal = https.replace(/^https:/, 'webcal:');
-          var links = {
-            apple: { href: webcal, label: 'Add every ' + name + ' match', k: 'Apple Calendar' },
-            google: { href: 'https://calendar.google.com/calendar/render?cid=' + encodeURIComponent(webcal), label: 'Add every ' + name + ' match', k: 'Google Calendar', blank: true },
-            outlook: { href: 'https://outlook.live.com/calendar/0/addfromweb?url=' + encodeURIComponent(https) + '&name=' + encodeURIComponent(name), label: 'Add every ' + name + ' match', k: 'Outlook', blank: true },
-          };
-          var first = ORDER[0] === 'ics' ? 'google' : ORDER[0];
-          var a = opt(first, links[first], true);
-          a.className = 'sub-btn primary';
-          go.appendChild(a);
-        }
-        if (page) { var more = document.createElement('a'); more.className = 'sub-btn'; more.href = page + '#subscribe'; more.textContent = 'Other calendars and full season'; go.appendChild(more); }
-        var change = document.createElement('button');
-        change.type = 'button'; change.className = 'link-btn'; change.textContent = 'Change team';
-        change.addEventListener('click', function () { setMyTeam(''); teamSel.value = ''; render(''); teamSel.focus(); });
-        go.appendChild(change);
-        body.appendChild(go);
-        renderTimes();
-      }).catch(function (err) { if (window.console) console.error('my team', err); body.innerHTML = chipsHtml; bindChips(); });
-    };
-    var bindChips = function () {
-      body.querySelectorAll('[data-pick]').forEach(function (a) {
-        a.addEventListener('click', function (e) { e.preventDefault(); var s = a.getAttribute('data-pick'); setMyTeam(s); teamSel.value = s; render(s); });
-      });
-    };
-    teamSel.addEventListener('change', function () { setMyTeam(teamSel.value); render(teamSel.value); });
-    teamSel.value = myTeam();
-    render(myTeam());
-  }
 
   // Time zone list: GMT offsets refreshed for today (DST-aware), current choice checked.
   function gmt(tz) {
@@ -344,15 +426,43 @@
       return 'GMT' + (m < 0 ? '-' : '+') + ('0' + Math.floor(a / 60)).slice(-2) + ':' + ('0' + a % 60).slice(-2);
     } catch (e) { return ''; }
   }
+  function offMins(g) { var m = /^GMT([+-])(\d\d):(\d\d)$/.exec(g || ''); return m ? (m[1] === '-' ? -1 : 1) * (60 * Number(m[2]) + Number(m[3])) : null; }
   var tzList = document.getElementById('tz-list');
   if (tzList) {
     tzList.querySelectorAll('[data-tz-off]').forEach(function (el) { var g = gmt(el.getAttribute('data-tz-off')); if (g) el.textContent = g; });
     var autoEl = tzList.querySelector('[data-tz-auto]');
     if (autoEl) autoEl.textContent = gmt(auto) || 'Auto';
-    var cur = tzList.querySelector('input[value="' + picked().replace(/"/g, '') + '"]') || tzList.querySelector('input[value=""]');
+    // The visitor's own zone sits in its place in the offset order (not pinned on top): the row with the
+    // same offset today becomes "automatic", and the open list scrolls to the checked row.
+    var mineOff = gmt(auto);
+    var mine = null;
+    tzList.querySelectorAll('[data-tz-off]').forEach(function (el) { if (!mine && el.textContent === mineOff) mine = el.closest('label'); });
+    if (mine && autoEl) {
+      autoEl.closest('label').hidden = true;
+      var mi = mine.querySelector('input');
+      mi.setAttribute('data-auto', '1');
+      mine.classList.add('tz-mine');
+      var city = mine.querySelector('.tz-city');
+      if (city) city.textContent = city.textContent + ' · your time zone';
+    } else if (autoEl && offMins(mineOff) !== null) {
+      // No listed zone has the visitor's offset (Kathmandu, Tehran, Caracas): the automatic row moves to
+      // its place in the offset order instead of staying pinned on top.
+      var autoRow = autoEl.closest('label');
+      var next = null;
+      tzList.querySelectorAll('[data-tz-off]').forEach(function (el) { var m = offMins(el.textContent); if (!next && m !== null && m > offMins(mineOff)) next = el.closest('label'); });
+      tzList.insertBefore(autoRow, next);
+      autoRow.classList.add('tz-mine');
+    }
+    var cur = (picked() && tzList.querySelector('input[value="' + picked().replace(/"/g, '') + '"]')) || (mine && mine.querySelector('input')) || tzList.querySelector('input[value=""]');
     if (cur) cur.checked = true;
+    var tzBox = tzList.closest('details');
+    if (tzBox) tzBox.addEventListener('toggle', function () {
+      var c = tzList.querySelector('input:checked');
+      if (tzBox.open && c) { var l = c.closest('label'); tzList.scrollTop = l.offsetTop - tzList.clientHeight / 2 + l.offsetHeight / 2; }
+    });
     tzList.addEventListener('change', function (e) {
-      var v = e.target.value;
+      var v = e.target.hasAttribute('data-auto') ? '' : e.target.value;
+      track('tz', v || 'auto');
       try { if (v) localStorage.setItem(TZ_KEY, v); else localStorage.removeItem(TZ_KEY); } catch (err) {}
       renderTimes();
       regroup();
@@ -452,7 +562,7 @@
       var path = '/embed/' + bTeam.value + '/' + (q.length ? '?' + q.join('&') : '');
       var h = view === 'button' ? 132 : 520;
       var name = bTeam.options[bTeam.selectedIndex].text;
-      bCode.value = '<iframe src="' + origin + path + '" title="' + name.replace(/"/g, '') + ' fixtures calendar" width="100%" height="' + h + '" style="border:0;max-width:480px" loading="lazy"></iframe>';
+      bCode.value = '<iframe src="' + origin + path + '" title="' + name.replace(/"/g, '') + ' matches calendar" width="100%" height="' + h + '" style="border:0;max-width:480px" loading="lazy"></iframe>';
       bFrame.src = path;
       bFrame.height = h;
     };

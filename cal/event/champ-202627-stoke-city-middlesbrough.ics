@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-stoke-city-middlesbrough@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261013T190000Z
+DTEND:20261013T205500Z
+TRANSP:OPAQUE
+SUMMARY:Stoke City - Middlesbrough
+DESCRIPTION:Championship\, Matchday 10\nhttps://inmycal.com
+LOCATION:bet365 Stadium\, Stoke-on-Trent
+URL:https://inmycal.com/championship/stoke-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

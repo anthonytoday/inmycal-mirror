@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue2-202627-red-star-annecy@sports.anthonytoday.com
+DTSTAMP:20261105T064214Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+SUMMARY:Red Star - Annecy
+DESCRIPTION:Ligue 2\, Matchday 17\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stade Bauer
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

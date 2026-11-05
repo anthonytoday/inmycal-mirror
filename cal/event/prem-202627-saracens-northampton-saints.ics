@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-saracens-northampton-saints@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART:20261205T173000Z
+DTEND:20261205T191000Z
+TRANSP:OPAQUE
+SUMMARY:Saracens - Northampton Saints
+DESCRIPTION:Premiership Rugby\, Round 6\nhttps://inmycal.com
+LOCATION:StoneX Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-ingolstadt-msv-duisburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261024T120000Z
+DTEND:20261024T135500Z
+TRANSP:OPAQUE
+SUMMARY:Ingolstadt - MSV Duisburg (2-1)
+DESCRIPTION:3. Liga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Audi Sportpark\, Ingolstadt
+URL:https://inmycal.com/3-liga/ingolstadt/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

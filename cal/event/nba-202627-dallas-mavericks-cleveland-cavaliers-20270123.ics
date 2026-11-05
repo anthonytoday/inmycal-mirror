@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-dallas-mavericks-cleveland-cavaliers-20270123@sports.anthony
+ today.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:Cleveland Cavaliers @ Dallas Mavericks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:American Airlines Center\, Dallas
+URL:https://inmycal.com/nba/dallas-mavericks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

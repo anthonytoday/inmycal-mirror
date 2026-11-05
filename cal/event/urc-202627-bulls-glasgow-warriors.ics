@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:urc-202627-bulls-glasgow-warriors@sports.anthonytoday.com
+DTSTAMP:20261105T050800Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+TRANSP:TRANSPARENT
+SUMMARY:Bulls - Glasgow Warriors
+DESCRIPTION:United Rugby Championship\, Round 17\nKickoff time not announce
+ d yet.\nhttps://inmycal.com
+LOCATION:Loftus Versfeld\, Pretoria
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

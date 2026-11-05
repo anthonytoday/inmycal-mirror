@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-burnley-wrexham@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+TRANSP:TRANSPARENT
+SUMMARY:Burnley - Wrexham
+DESCRIPTION:Championship\, Matchday 41\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Turf Moor\, Burnley
+URL:https://inmycal.com/championship/burnley/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

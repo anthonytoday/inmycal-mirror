@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-exeter-chiefs-northampton-saints@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Chiefs - Northampton Saints
+DESCRIPTION:Premiership Rugby\, Round 11\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Sandy Park
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

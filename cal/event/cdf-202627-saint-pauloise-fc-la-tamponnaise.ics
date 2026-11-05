@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-saint-pauloise-fc-la-tamponnaise@sports.anthonytoday.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261114T130000Z
+DTEND:20261114T145500Z
+TRANSP:OPAQUE
+SUMMARY:Saint-Pauloise FC - La Tamponnaise [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Paul Julius Bénard\, Saint-Paul\, Réunion
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

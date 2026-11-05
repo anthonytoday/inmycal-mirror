@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-havelse-hoffenheim-ii@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:TSV Havelse - Hoffenheim II
+DESCRIPTION:3. Liga\, Matchday 17\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Wilhelm-Langrehr-Stadion\, Garbsen
+URL:https://inmycal.com/3-liga/havelse/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

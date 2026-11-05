@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-blackburn-rovers-southampton@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+TRANSP:TRANSPARENT
+SUMMARY:Blackburn Rovers - Southampton
+DESCRIPTION:Championship\, Matchday 40\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Ewood Park\, Blackburn
+URL:https://inmycal.com/championship/blackburn-rovers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-fleetwood-town-arsenal@sports.anthonytoday.com
+DTSTAMP:20261105T032055Z
+DTSTART:20261027T200000Z
+DTEND:20261027T215500Z
+TRANSP:OPAQUE
+SUMMARY:Fleetwood Town - Arsenal [EFL] (1-1)
+DESCRIPTION:EFL Cup\, Fourth round\nhttps://inmycal.com
+LOCATION:Highbury Stadium\, Fleetwood
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

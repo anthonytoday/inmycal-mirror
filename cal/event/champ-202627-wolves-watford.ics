@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-wolves-watford@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261024T140000Z
+DTEND:20261024T155500Z
+TRANSP:OPAQUE
+SUMMARY:Wolves - Watford
+DESCRIPTION:Championship\, Matchday 12\nhttps://inmycal.com
+LOCATION:Molineux\, Wolverhampton
+URL:https://inmycal.com/championship/wolves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

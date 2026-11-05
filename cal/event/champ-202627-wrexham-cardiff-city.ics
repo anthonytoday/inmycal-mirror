@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-wrexham-cardiff-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:Wrexham - Cardiff City
+DESCRIPTION:Championship\, Matchday 36\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Racecourse Ground\, Wrexham
+URL:https://inmycal.com/championship/wrexham/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

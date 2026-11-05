@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-portland-trail-blazers-memphis-grizzlies-20261029@sports.ant
+ honytoday.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Memphis Grizzlies @ Portland Trail Blazers (124-103)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Moda Center
+URL:https://inmycal.com/nba/portland-trail-blazers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

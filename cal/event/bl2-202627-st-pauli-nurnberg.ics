@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-st-pauli-nurnberg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261101T123000Z
+DTEND:20261101T142500Z
+TRANSP:OPAQUE
+SUMMARY:St. Pauli - Nürnberg (1-3)
+DESCRIPTION:2. Bundesliga\, Matchday 10\nhttps://inmycal.com
+LOCATION:Millerntor-Stadion\, Hamburg
+URL:https://inmycal.com/2-bundesliga/st-pauli/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-alemannia-aachen-hansa-rostock@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261017T120000Z
+DTEND:20261017T135500Z
+TRANSP:OPAQUE
+SUMMARY:Alemannia Aachen - Hansa Rostock (2-0)
+DESCRIPTION:3. Liga\, Matchday 10\nhttps://inmycal.com
+LOCATION:Tivoli\, Aachen
+URL:https://inmycal.com/3-liga/alemannia-aachen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

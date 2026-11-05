@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:coppait-202627-inter-bologna@sports.anthonytoday.com
+DTSTAMP:20261105T032058Z
+DTSTART:20270210T200000Z
+DTEND:20270210T215500Z
+TRANSP:OPAQUE
+SUMMARY:Inter - Bologna [CI]
+DESCRIPTION:Coppa Italia\, Quarter-finals\nhttps://inmycal.com
+LOCATION:San Siro or Stadio Luigi Ferraris\, Milan or Genoa
+URL:https://inmycal.com/serie-a/inter/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

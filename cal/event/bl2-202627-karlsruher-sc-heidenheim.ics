@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-karlsruher-sc-heidenheim@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261031T193000Z
+DTEND:20261031T212500Z
+TRANSP:OPAQUE
+SUMMARY:Karlsruher SC - Heidenheim (2-1)
+DESCRIPTION:2. Bundesliga\, Matchday 10\nhttps://inmycal.com
+LOCATION:BBBank Wildpark\, Karlsruhe
+URL:https://inmycal.com/2-bundesliga/karlsruher-sc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

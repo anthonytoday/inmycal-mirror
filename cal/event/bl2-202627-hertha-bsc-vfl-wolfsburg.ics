@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-hertha-bsc-vfl-wolfsburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261107T193000Z
+DTEND:20261107T212500Z
+TRANSP:OPAQUE
+SUMMARY:Hertha BSC - VfL Wolfsburg
+DESCRIPTION:2. Bundesliga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Olympiastadion\, Berlin
+URL:https://inmycal.com/2-bundesliga/hertha-bsc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

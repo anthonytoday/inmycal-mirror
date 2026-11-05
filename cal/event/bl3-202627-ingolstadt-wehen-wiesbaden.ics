@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-ingolstadt-wehen-wiesbaden@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261011T113000Z
+DTEND:20261011T132500Z
+TRANSP:OPAQUE
+SUMMARY:Ingolstadt - Wehen Wiesbaden (2-4)
+DESCRIPTION:3. Liga\, Matchday 8\nhttps://inmycal.com
+LOCATION:Audi Sportpark\, Ingolstadt
+URL:https://inmycal.com/3-liga/ingolstadt/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-hansa-rostock-msv-duisburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+TRANSP:TRANSPARENT
+SUMMARY:Hansa Rostock - MSV Duisburg
+DESCRIPTION:3. Liga\, Matchday 33\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Ostseestadion\, Rostock
+URL:https://inmycal.com/3-liga/hansa-rostock/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-milwaukee-bucks-los-angeles-lakers-20261111@sports.anthonyto
+ day.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Lakers @ Milwaukee Bucks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Fiserv Forum
+URL:https://inmycal.com/nba/milwaukee-bucks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

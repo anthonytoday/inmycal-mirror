@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-havelse-viktoria-koln@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261120T180000Z
+DTEND:20261120T195500Z
+TRANSP:OPAQUE
+SUMMARY:TSV Havelse - Viktoria Köln
+DESCRIPTION:3. Liga\, Matchday 14\nhttps://inmycal.com
+LOCATION:Wilhelm-Langrehr-Stadion\, Garbsen
+URL:https://inmycal.com/3-liga/havelse/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

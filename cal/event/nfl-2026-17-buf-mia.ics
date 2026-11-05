@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-17-buf-mia@sports.anthonytoday.com
+DTSTAMP:20261105T032112Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:Buffalo Bills @ Miami Dolphins
+DESCRIPTION:NFL\, Week 17\nStart time not announced yet.\nhttps://inmycal.c
+ om
+LOCATION:Hard Rock Stadium
+URL:https://inmycal.com/nfl/miami-dolphins/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

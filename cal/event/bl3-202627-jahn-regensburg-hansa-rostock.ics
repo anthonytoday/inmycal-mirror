@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-jahn-regensburg-hansa-rostock@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261031T130000Z
+DTEND:20261031T145500Z
+TRANSP:OPAQUE
+SUMMARY:Jahn Regensburg - Hansa Rostock (2-1)
+DESCRIPTION:3. Liga\, Matchday 12\nhttps://inmycal.com
+LOCATION:Jahnstadion Regensburg\, Regensburg
+URL:https://inmycal.com/3-liga/jahn-regensburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

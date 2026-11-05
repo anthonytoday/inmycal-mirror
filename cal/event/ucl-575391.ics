@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575391@sports.anthonytoday.com
-DTSTAMP:20261104T072511Z
+DTSTAMP:20261104T233015Z
 DTSTART:20261104T200000Z
 DTEND:20261104T215500Z
 TRANSP:OPAQUE
-SUMMARY:Borussia Dortmund - Real Betis [CL]
+SUMMARY:Borussia Dortmund - Real Betis [CL] (2-1)
 DESCRIPTION:Champions League\, League phase\, Matchday 4\nhttps://inmycal.c
  om
 LOCATION:Signal Iduna Park\, Dortmund

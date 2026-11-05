@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-everton-newcastle-united@sports.anthonytoday.com
+DTSTAMP:20261105T032055Z
+DTSTART:20261029T194500Z
+DTEND:20261029T214000Z
+TRANSP:OPAQUE
+SUMMARY:Everton - Newcastle United [EFL] (3-1)
+DESCRIPTION:EFL Cup\, Fourth round\nhttps://inmycal.com
+LOCATION:Hill Dickinson Stadium\, Liverpool
+URL:https://inmycal.com/premier-league/everton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

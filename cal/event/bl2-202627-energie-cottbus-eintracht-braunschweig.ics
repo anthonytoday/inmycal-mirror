@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-energie-cottbus-eintracht-braunschweig@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:Energie Cottbus - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga\, Matchday 28\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:LEAG Energie Stadion\, Cottbus
+URL:https://inmycal.com/2-bundesliga/energie-cottbus/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

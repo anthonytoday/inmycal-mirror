@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-atlanta-hawks-cleveland-cavaliers-20261029@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Cleveland Cavaliers @ Atlanta Hawks (111-114)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:State Farm Arena
+URL:https://inmycal.com/nba/atlanta-hawks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

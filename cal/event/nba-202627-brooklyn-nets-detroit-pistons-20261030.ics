@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-brooklyn-nets-detroit-pistons-20261030@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Detroit Pistons @ Brooklyn Nets (110-94)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Barclays Center
+URL:https://inmycal.com/nba/brooklyn-nets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

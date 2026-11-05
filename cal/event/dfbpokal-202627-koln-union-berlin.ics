@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-koln-union-berlin@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214000Z
+TRANSP:OPAQUE
+SUMMARY:Köln - Union Berlin [DFB] (5-0)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:RheinEnergieStadion\, Cologne
+URL:https://inmycal.com/bundesliga/koln/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

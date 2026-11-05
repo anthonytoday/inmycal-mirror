@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-dynamo-dresden-vfl-wolfsburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:Dynamo Dresden - VfL Wolfsburg
+DESCRIPTION:2. Bundesliga\, Matchday 17\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:Rudolf-Harbig-Stadion\, Dresden
+URL:https://inmycal.com/2-bundesliga/dynamo-dresden/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

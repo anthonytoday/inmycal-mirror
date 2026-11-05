@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-us-choisy-au-bac-sm-caen@sports.anthonytoday.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261114T140000Z
+DTEND:20261114T155500Z
+TRANSP:OPAQUE
+SUMMARY:US Choisy-au-Bac - SM Caen [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Paul-Cosyns\, Compiègne
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

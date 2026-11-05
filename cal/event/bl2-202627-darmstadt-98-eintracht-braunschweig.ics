@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-darmstadt-98-eintracht-braunschweig@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Darmstadt 98 - Eintracht Braunschweig
+DESCRIPTION:2. Bundesliga\, Matchday 14\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:Merck-Stadion am Böllenfalltor\, Darmstadt
+URL:https://inmycal.com/2-bundesliga/darmstadt-98/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

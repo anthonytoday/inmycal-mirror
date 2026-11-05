@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-grossaspach-waldhof-mannheim@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261010T120000Z
+DTEND:20261010T135500Z
+TRANSP:OPAQUE
+SUMMARY:Großaspach - Waldhof Mannheim (1-5)
+DESCRIPTION:3. Liga\, Matchday 8\nhttps://inmycal.com
+LOCATION:WIRmachenDRUCK Arena\, Aspach
+URL:https://inmycal.com/3-liga/grossaspach/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

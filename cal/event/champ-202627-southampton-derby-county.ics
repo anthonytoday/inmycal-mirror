@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-southampton-derby-county@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261121T123000Z
+DTEND:20261121T142500Z
+TRANSP:OPAQUE
+SUMMARY:Southampton - Derby County
+DESCRIPTION:Championship\, Matchday 16\nhttps://inmycal.com
+LOCATION:St Mary's Stadium\, Southampton
+URL:https://inmycal.com/championship/southampton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

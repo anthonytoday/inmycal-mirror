@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-cleveland-cavaliers-atlanta-hawks-20270306@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:Atlanta Hawks @ Cleveland Cavaliers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Rocket Arena
+URL:https://inmycal.com/nba/cleveland-cavaliers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

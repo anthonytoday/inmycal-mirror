@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-stuttgart-dynamo-dresden@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261201T170000Z
+DTEND:20261201T185500Z
+TRANSP:OPAQUE
+SUMMARY:Stuttgart - Dynamo Dresden [DFB]
+DESCRIPTION:DFB-Pokal\, Round of 16\nhttps://inmycal.com
+LOCATION:MHPArena\, Stuttgart
+URL:https://inmycal.com/bundesliga/stuttgart/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

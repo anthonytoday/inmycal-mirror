@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sixnations-2027-rugby-ireland-rugby-france@sports.anthonytoday.com
+DTSTAMP:20261105T032105Z
+DTSTART:20270313T201000Z
+DTEND:20270313T215000Z
+TRANSP:OPAQUE
+SUMMARY:Ireland - France
+DESCRIPTION:Six Nations\, Round 5\nhttps://inmycal.com
+LOCATION:Aviva Stadium\, Dublin
+URL:https://inmycal.com/six-nations/rugby-ireland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

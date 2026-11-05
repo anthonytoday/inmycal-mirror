@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-toronto-raptors-utah-jazz-20270108@sports.anthonytoday.com
+DTSTAMP:20261105T060722Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+TRANSP:TRANSPARENT
+SUMMARY:Utah Jazz @ Toronto Raptors
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Scotiabank Arena
+URL:https://inmycal.com/nba/toronto-raptors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

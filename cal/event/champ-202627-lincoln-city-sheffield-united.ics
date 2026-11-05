@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-lincoln-city-sheffield-united@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:Lincoln City - Sheffield United
+DESCRIPTION:Championship\, Matchday 34\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Sincil Bank\, Lincoln
+URL:https://inmycal.com/championship/lincoln-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

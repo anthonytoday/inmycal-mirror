@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-houston-rockets-oklahoma-city-thunder-20261227@sports.anthon
+ ytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:Oklahoma City Thunder @ Houston Rockets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Toyota Center
+URL:https://inmycal.com/nba/houston-rockets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

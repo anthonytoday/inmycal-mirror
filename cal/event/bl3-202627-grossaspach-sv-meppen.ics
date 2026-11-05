@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-grossaspach-sv-meppen@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Großaspach - SV Meppen
+DESCRIPTION:3. Liga\, Matchday 21\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:WIRmachenDRUCK Arena\, Aspach
+URL:https://inmycal.com/3-liga/grossaspach/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

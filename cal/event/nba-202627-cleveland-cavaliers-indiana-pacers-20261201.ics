@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-cleveland-cavaliers-indiana-pacers-20261201@sports.anthonyto
+ day.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Indiana Pacers @ Cleveland Cavaliers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Rocket Arena
+URL:https://inmycal.com/nba/cleveland-cavaliers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-trival-valderas-leganes@sports.anthonytoday.com
+DTSTAMP:20261105T045703Z
+DTSTART:20261110T190000Z
+DTEND:20261110T205500Z
+TRANSP:OPAQUE
+SUMMARY:Trival Valderas - Leganés [CDR]
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:Estadio Ontime Butarque\, Leganés
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

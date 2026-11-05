@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-16-cin-ind@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+TRANSP:OPAQUE
+SUMMARY:Cincinnati Bengals @ Indianapolis Colts
+DESCRIPTION:NFL\, Week 16\nhttps://inmycal.com
+LOCATION:Lucas Oil Stadium
+URL:https://inmycal.com/nfl/indianapolis-colts/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

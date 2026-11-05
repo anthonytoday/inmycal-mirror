@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-sv-meppen-preussen-munster@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+TRANSP:TRANSPARENT
+SUMMARY:SV Meppen - Preußen Münster
+DESCRIPTION:3. Liga\, Matchday 36\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Hänsch-Arena\, Meppen
+URL:https://inmycal.com/3-liga/sv-meppen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

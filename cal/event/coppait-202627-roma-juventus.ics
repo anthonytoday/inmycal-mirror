@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:coppait-202627-roma-juventus@sports.anthonytoday.com
+DTSTAMP:20261105T032058Z
+DTSTART:20270210T200000Z
+DTEND:20270210T215500Z
+TRANSP:OPAQUE
+SUMMARY:Roma - Juventus [CI]
+DESCRIPTION:Coppa Italia\, Quarter-finals\nhttps://inmycal.com
+LOCATION:Stadio Olimpico or Stadio Marcantonio Bentegodi\, Rome or Verona
+URL:https://inmycal.com/serie-a/roma/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

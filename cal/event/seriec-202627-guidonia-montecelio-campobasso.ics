@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriec-202627-guidonia-montecelio-campobasso@sports.anthonytoday.com
+DTSTAMP:20261105T055748Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Guidonia Montecelio - Campobasso
+DESCRIPTION:Serie C\, 16ª giornata (Girone B)\nKickoff time not announced 
+ yet.\nhttps://inmycal.com
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

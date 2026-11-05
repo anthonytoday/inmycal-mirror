@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-sporting-de-alcazar-malaga@sports.anthonytoday.com
+DTSTAMP:20261105T045703Z
+DTSTART:20261027T200000Z
+DTEND:20261027T215500Z
+TRANSP:OPAQUE
+SUMMARY:Sporting de Alcázar - Málaga [CDR] (0-3)
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:Estadio Municipal\, Alcázar de San Juan
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

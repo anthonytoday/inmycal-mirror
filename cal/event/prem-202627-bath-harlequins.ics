@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-bath-harlequins@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:Bath - Harlequins
+DESCRIPTION:Premiership Rugby\, Round 16\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:TBC
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

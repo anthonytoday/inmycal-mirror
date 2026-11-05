@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-minnesota-timberwolves-golden-state-warriors-20261028@sports
+ .anthonytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Golden State Warriors @ Minnesota Timberwolves (119-114)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Target Center
+URL:https://inmycal.com/nba/minnesota-timberwolves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

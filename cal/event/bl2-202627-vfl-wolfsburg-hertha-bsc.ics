@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-vfl-wolfsburg-hertha-bsc@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:VfL Wolfsburg - Hertha BSC
+DESCRIPTION:2. Bundesliga\, Matchday 28\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:Volkswagen Arena\, Wolfsburg
+URL:https://inmycal.com/2-bundesliga/vfl-wolfsburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

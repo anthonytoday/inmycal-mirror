@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-phoenix-suns-portland-trail-blazers-20261104@sports.anthonyt
+ oday.com
+DTSTAMP:20261105T075459Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Portland Trail Blazers @ Phoenix Suns
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Mortgage Matchup Center
+URL:https://inmycal.com/nba/phoenix-suns/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

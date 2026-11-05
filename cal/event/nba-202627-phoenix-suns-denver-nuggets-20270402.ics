@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-phoenix-suns-denver-nuggets-20270402@sports.anthonytoday.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+TRANSP:TRANSPARENT
+SUMMARY:Denver Nuggets @ Phoenix Suns
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Mortgage Matchup Center
+URL:https://inmycal.com/nba/phoenix-suns/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

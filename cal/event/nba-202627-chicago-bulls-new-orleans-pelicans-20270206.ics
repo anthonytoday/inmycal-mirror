@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-chicago-bulls-new-orleans-pelicans-20270206@sports.anthonyto
+ day.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:New Orleans Pelicans @ Chicago Bulls
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:United Center
+URL:https://inmycal.com/nba/chicago-bulls/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

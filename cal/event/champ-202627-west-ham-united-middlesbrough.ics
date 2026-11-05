@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-west-ham-united-middlesbrough@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261208T204500Z
+DTEND:20261208T224000Z
+TRANSP:OPAQUE
+SUMMARY:West Ham United - Middlesbrough
+DESCRIPTION:Championship\, Matchday 20\nhttps://inmycal.com
+LOCATION:London Stadium\, London
+URL:https://inmycal.com/championship/west-ham-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

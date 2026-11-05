@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-bristol-bears-newcastle-red-bulls@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART:20261226T150000Z
+DTEND:20261226T164000Z
+TRANSP:OPAQUE
+SUMMARY:Bristol Bears - Newcastle Red Bulls
+DESCRIPTION:Premiership Rugby\, Round 8\nhttps://inmycal.com
+LOCATION:Ashton Gate
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

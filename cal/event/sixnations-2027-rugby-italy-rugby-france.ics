@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sixnations-2027-rugby-italy-rugby-france@sports.anthonytoday.com
+DTSTAMP:20261105T032105Z
+DTSTART:20270306T141000Z
+DTEND:20270306T155000Z
+TRANSP:OPAQUE
+SUMMARY:Italy - France
+DESCRIPTION:Six Nations\, Round 4\nhttps://inmycal.com
+LOCATION:Stadio Olimpico\, Rome
+URL:https://inmycal.com/six-nations/rugby-italy/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

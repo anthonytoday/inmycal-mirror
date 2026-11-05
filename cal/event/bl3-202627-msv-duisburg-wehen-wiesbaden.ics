@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-msv-duisburg-wehen-wiesbaden@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+TRANSP:TRANSPARENT
+SUMMARY:MSV Duisburg - Wehen Wiesbaden
+DESCRIPTION:3. Liga\, Matchday 26\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Schauinsland-Reisen-Arena\, Duisburg
+URL:https://inmycal.com/3-liga/msv-duisburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

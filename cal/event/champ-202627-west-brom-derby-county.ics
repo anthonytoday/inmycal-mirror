@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-west-brom-derby-county@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+TRANSP:TRANSPARENT
+SUMMARY:West Brom - Derby County
+DESCRIPTION:Championship\, Matchday 41\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:The Hawthorns\, West Bromwich
+URL:https://inmycal.com/championship/west-brom/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

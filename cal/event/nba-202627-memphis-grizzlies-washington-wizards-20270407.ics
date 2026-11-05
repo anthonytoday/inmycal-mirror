@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-memphis-grizzlies-washington-wizards-20270407@sports.anthony
+ today.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Memphis Grizzlies
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:FedExForum
+URL:https://inmycal.com/nba/memphis-grizzlies/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

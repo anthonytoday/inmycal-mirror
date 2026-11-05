@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-fortuna-koln-msv-duisburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Fortuna Köln - MSV Duisburg
+DESCRIPTION:3. Liga\, Matchday 19\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Südstadion\, Cologne
+URL:https://inmycal.com/3-liga/fortuna-koln/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

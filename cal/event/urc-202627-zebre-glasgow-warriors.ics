@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:urc-202627-zebre-glasgow-warriors@sports.anthonytoday.com
+DTSTAMP:20261105T050800Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+SUMMARY:Zebre - Glasgow Warriors
+DESCRIPTION:United Rugby Championship\, Round 9\nKickoff time not announced
+  yet.\nhttps://inmycal.com
+LOCATION:Stadio Sergio Lanfranchi
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

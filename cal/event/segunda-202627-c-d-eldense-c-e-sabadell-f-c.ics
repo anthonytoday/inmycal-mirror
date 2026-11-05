@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-c-d-eldense-c-e-sabadell-f-c@sports.anthonytoday.com
+DTSTAMP:20261105T055744Z
+DTSTART:20261115T173000Z
+DTEND:20261115T192500Z
+TRANSP:OPAQUE
+SUMMARY:C. D. Eldense - C. E. Sabadell F. C.
+DESCRIPTION:Segunda División\, Jornada 14\nhttps://inmycal.com
+LOCATION:Nuevo Pepico Amat
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-minnesota-timberwolves-oklahoma-city-thunder-20261225@sports
+ .anthonytoday.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Oklahoma City Thunder @ Minnesota Timberwolves
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Target Center
+URL:https://inmycal.com/nba/minnesota-timberwolves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-leicester-tigers-newcastle-red-bulls@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T050753Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:Leicester Tigers - Newcastle Red Bulls
+DESCRIPTION:Premiership Rugby\, Round 11\nKickoff time not announced yet.\n
+ https://inmycal.com
+LOCATION:Welford Road
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

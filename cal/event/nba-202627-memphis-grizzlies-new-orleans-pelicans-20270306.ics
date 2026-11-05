@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-memphis-grizzlies-new-orleans-pelicans-20270306@sports.antho
+ nytoday.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:New Orleans Pelicans @ Memphis Grizzlies
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:FedExForum
+URL:https://inmycal.com/nba/memphis-grizzlies/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

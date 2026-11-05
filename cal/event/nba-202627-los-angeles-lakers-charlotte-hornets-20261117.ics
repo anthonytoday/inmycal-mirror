@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-lakers-charlotte-hornets-20261117@sports.anthony
+ today.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Charlotte Hornets @ Los Angeles Lakers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Crypto.com Arena
+URL:https://inmycal.com/nba/los-angeles-lakers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

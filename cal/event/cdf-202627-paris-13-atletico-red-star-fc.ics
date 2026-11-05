@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-paris-13-atletico-red-star-fc@sports.anthonytoday.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261115T120000Z
+DTEND:20261115T135500Z
+TRANSP:OPAQUE
+SUMMARY:Paris 13 Atletico - Red Star FC [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Sébastien Charléty\, XIIIe arr.\, Paris
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-portsmouth-sheffield-united@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261014T184500Z
+DTEND:20261014T204000Z
+TRANSP:OPAQUE
+SUMMARY:Portsmouth - Sheffield United
+DESCRIPTION:Championship\, Matchday 10\nhttps://inmycal.com
+LOCATION:Fratton Park\, Portsmouth
+URL:https://inmycal.com/championship/portsmouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

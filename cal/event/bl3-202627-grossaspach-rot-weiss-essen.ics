@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-grossaspach-rot-weiss-essen@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261101T153000Z
+DTEND:20261101T172500Z
+TRANSP:OPAQUE
+SUMMARY:Großaspach - Rot-Weiss Essen (0-1)
+DESCRIPTION:3. Liga\, Matchday 12\nhttps://inmycal.com
+LOCATION:WIRmachenDRUCK Arena\, Aspach
+URL:https://inmycal.com/3-liga/grossaspach/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

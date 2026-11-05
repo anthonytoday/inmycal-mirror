@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-wehen-wiesbaden-sv-meppen@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261129T153000Z
+DTEND:20261129T172500Z
+TRANSP:OPAQUE
+SUMMARY:Wehen Wiesbaden - SV Meppen
+DESCRIPTION:3. Liga\, Matchday 15\nhttps://inmycal.com
+LOCATION:Brita-Arena\, Wiesbaden
+URL:https://inmycal.com/3-liga/wehen-wiesbaden/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

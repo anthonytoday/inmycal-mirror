@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-qpr-west-ham-united@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:QPR - West Ham United
+DESCRIPTION:Championship\, Matchday 34\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Loftus Road\, London
+URL:https://inmycal.com/championship/qpr/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

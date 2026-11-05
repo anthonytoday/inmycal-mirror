@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-freiburg-vfl-wolfsburg@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261028T170000Z
+DTEND:20261028T185500Z
+TRANSP:OPAQUE
+SUMMARY:Freiburg - VfL Wolfsburg [DFB] (3-2)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Europa-Park Stadion\, Freiburg im Breisgau
+URL:https://inmycal.com/bundesliga/freiburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

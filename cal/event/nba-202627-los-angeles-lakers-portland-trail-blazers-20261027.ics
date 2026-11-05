@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-lakers-portland-trail-blazers-20261027@sports.an
+ thonytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Portland Trail Blazers @ Los Angeles Lakers (136-129)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Crypto.com Arena
+URL:https://inmycal.com/nba/los-angeles-lakers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

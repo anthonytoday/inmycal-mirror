@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-boston-celtics-brooklyn-nets-20261027@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Brooklyn Nets @ Boston Celtics (124-125)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:TD Garden
+URL:https://inmycal.com/nba/boston-celtics/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

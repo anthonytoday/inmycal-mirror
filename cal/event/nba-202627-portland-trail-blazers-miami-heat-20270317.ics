@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-portland-trail-blazers-miami-heat-20270317@sports.anthonytod
+ ay.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+TRANSP:TRANSPARENT
+SUMMARY:Miami Heat @ Portland Trail Blazers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Moda Center
+URL:https://inmycal.com/nba/portland-trail-blazers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

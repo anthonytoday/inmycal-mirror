@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-houston-rockets-utah-jazz-20270203@sports.anthonytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+SUMMARY:Utah Jazz @ Houston Rockets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Toyota Center
+URL:https://inmycal.com/nba/houston-rockets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-new-orleans-pelicans-houston-rockets-20270212@sports.anthony
+ today.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+TRANSP:TRANSPARENT
+SUMMARY:Houston Rockets @ New Orleans Pelicans
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Smoothie King Center
+URL:https://inmycal.com/nba/new-orleans-pelicans/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-lincoln-city-birmingham-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261031T123000Z
+DTEND:20261031T142500Z
+TRANSP:OPAQUE
+SUMMARY:Lincoln City - Birmingham City
+DESCRIPTION:Championship\, Matchday 13\nhttps://inmycal.com
+LOCATION:Sincil Bank\, Lincoln
+URL:https://inmycal.com/championship/lincoln-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

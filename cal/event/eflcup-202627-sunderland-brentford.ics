@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-sunderland-brentford@sports.anthonytoday.com
+DTSTAMP:20261105T032055Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214000Z
+TRANSP:OPAQUE
+SUMMARY:Sunderland - Brentford [EFL] (3-2)
+DESCRIPTION:EFL Cup\, Fourth round\nhttps://inmycal.com
+LOCATION:Stadium of Light\, Sunderland
+URL:https://inmycal.com/premier-league/sunderland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

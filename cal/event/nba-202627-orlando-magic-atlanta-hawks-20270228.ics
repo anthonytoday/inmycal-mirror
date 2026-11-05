@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-orlando-magic-atlanta-hawks-20270228@sports.anthonytoday.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:Atlanta Hawks @ Orlando Magic
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Kia Center
+URL:https://inmycal.com/nba/orlando-magic/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

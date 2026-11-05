@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-lakers-orlando-magic-20270114@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+TRANSP:TRANSPARENT
+SUMMARY:Orlando Magic @ Los Angeles Lakers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Crypto.com Arena
+URL:https://inmycal.com/nba/los-angeles-lakers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

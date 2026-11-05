@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575387@sports.anthonytoday.com
-DTSTAMP:20261104T072511Z
+DTSTAMP:20261104T233015Z
 DTSTART:20261104T174500Z
 DTEND:20261104T194000Z
 TRANSP:OPAQUE
-SUMMARY:Fenerbahçe - Liverpool [CL]
+SUMMARY:Fenerbahçe - Liverpool [CL] (3-2)
 DESCRIPTION:Champions League\, League phase\, Matchday 4\nhttps://inmycal.c
  om
 URL:https://inmycal.com/

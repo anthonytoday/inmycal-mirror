@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-elversberg-darmstadt-98@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261027T194500Z
+DTEND:20261027T214000Z
+TRANSP:OPAQUE
+SUMMARY:Elversberg - Darmstadt 98 [DFB] (0-2)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Waldstadion an der Kaiserlinde\, Spiesen-Elversberg
+URL:https://inmycal.com/bundesliga/elversberg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

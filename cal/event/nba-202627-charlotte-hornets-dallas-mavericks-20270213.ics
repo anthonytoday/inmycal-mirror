@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-charlotte-hornets-dallas-mavericks-20270213@sports.anthonyto
+ day.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+TRANSP:TRANSPARENT
+SUMMARY:Dallas Mavericks @ Charlotte Hornets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Spectrum Center
+URL:https://inmycal.com/nba/charlotte-hornets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

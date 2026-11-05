@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-wurzburger-kickers-waldhof-mannheim@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261017T143000Z
+DTEND:20261017T162500Z
+TRANSP:OPAQUE
+SUMMARY:Würzburger Kickers - Waldhof Mannheim (2-0)
+DESCRIPTION:3. Liga\, Matchday 10\nhttps://inmycal.com
+LOCATION:Flyeralarm Arena\, Würzburg
+URL:https://inmycal.com/3-liga/wurzburger-kickers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

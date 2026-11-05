@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-denver-nuggets-indiana-pacers-20261227@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:Indiana Pacers @ Denver Nuggets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Ball Arena
+URL:https://inmycal.com/nba/denver-nuggets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

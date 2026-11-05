@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-cardiff-city-southampton@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261212T150000Z
+DTEND:20261212T165500Z
+TRANSP:OPAQUE
+SUMMARY:Cardiff City - Southampton
+DESCRIPTION:Championship\, Matchday 21\nhttps://inmycal.com
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://inmycal.com/championship/cardiff-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

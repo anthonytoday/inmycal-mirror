@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-karlsruher-sc-greuther-furth@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+SUMMARY:Karlsruher SC - Greuther Fürth
+DESCRIPTION:2. Bundesliga\, Matchday 34\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:BBBank Wildpark\, Karlsruhe
+URL:https://inmycal.com/2-bundesliga/karlsruher-sc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

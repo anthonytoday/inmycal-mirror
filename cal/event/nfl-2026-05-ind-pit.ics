@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-05-ind-pit@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+TRANSP:OPAQUE
+SUMMARY:Indianapolis Colts @ Pittsburgh Steelers (22-34)
+DESCRIPTION:NFL\, Week 5\nhttps://inmycal.com
+LOCATION:Acrisure Stadium
+URL:https://inmycal.com/nfl/pittsburgh-steelers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

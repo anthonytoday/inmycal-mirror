@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-harlequins-leicester-tigers@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART:20261205T150500Z
+DTEND:20261205T164500Z
+TRANSP:OPAQUE
+SUMMARY:Harlequins - Leicester Tigers
+DESCRIPTION:Premiership Rugby\, Round 6\nhttps://inmycal.com
+LOCATION:Twickenham Stoop
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

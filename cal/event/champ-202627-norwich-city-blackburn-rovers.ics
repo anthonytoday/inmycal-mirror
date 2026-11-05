@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-norwich-city-blackburn-rovers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:Norwich City - Blackburn Rovers
+DESCRIPTION:Championship\, Matchday 45\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Carrow Road\, Norwich
+URL:https://inmycal.com/championship/norwich-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

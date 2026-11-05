@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-memphis-grizzlies-golden-state-warriors-20261119@sports.anth
+ onytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Golden State Warriors @ Memphis Grizzlies
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:FedExForum
+URL:https://inmycal.com/nba/memphis-grizzlies/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

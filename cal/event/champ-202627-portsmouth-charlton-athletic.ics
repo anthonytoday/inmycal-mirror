@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-portsmouth-charlton-athletic@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth - Charlton Athletic
+DESCRIPTION:Championship\, Matchday 31\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Fratton Park\, Portsmouth
+URL:https://inmycal.com/championship/portsmouth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

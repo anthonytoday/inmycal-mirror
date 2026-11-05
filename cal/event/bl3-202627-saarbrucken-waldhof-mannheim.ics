@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-saarbrucken-waldhof-mannheim@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261101T123000Z
+DTEND:20261101T142500Z
+TRANSP:OPAQUE
+SUMMARY:Saarbrücken - Waldhof Mannheim (2-1)
+DESCRIPTION:3. Liga\, Matchday 12\nhttps://inmycal.com
+LOCATION:Ludwigsparkstadion\, Saarbrücken
+URL:https://inmycal.com/3-liga/saarbrucken/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

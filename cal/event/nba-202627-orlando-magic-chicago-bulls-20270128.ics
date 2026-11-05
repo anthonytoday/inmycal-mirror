@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-orlando-magic-chicago-bulls-20270128@sports.anthonytoday.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+TRANSP:TRANSPARENT
+SUMMARY:Chicago Bulls @ Orlando Magic
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Kia Center
+URL:https://inmycal.com/nba/orlando-magic/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

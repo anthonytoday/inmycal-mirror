@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-msv-duisburg-fortuna-koln@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:MSV Duisburg - Fortuna Köln
+DESCRIPTION:3. Liga\, Matchday 38\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Schauinsland-Reisen-Arena\, Duisburg
+URL:https://inmycal.com/3-liga/msv-duisburg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

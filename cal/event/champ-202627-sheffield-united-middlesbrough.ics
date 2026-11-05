@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-sheffield-united-middlesbrough@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261226T123000Z
+DTEND:20261226T142500Z
+TRANSP:OPAQUE
+SUMMARY:Sheffield United - Middlesbrough
+DESCRIPTION:Championship\, Matchday 23\nhttps://inmycal.com
+LOCATION:Bramall Lane\, Sheffield
+URL:https://inmycal.com/championship/sheffield-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

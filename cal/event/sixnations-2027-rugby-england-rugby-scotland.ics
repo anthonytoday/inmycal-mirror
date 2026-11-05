@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sixnations-2027-rugby-england-rugby-scotland@sports.anthonytoday.com
+DTSTAMP:20261105T032105Z
+DTSTART:20270313T164000Z
+DTEND:20270313T182000Z
+TRANSP:OPAQUE
+SUMMARY:England - Scotland
+DESCRIPTION:Six Nations\, Round 5\nhttps://inmycal.com
+LOCATION:Twickenham Stadium\, London
+URL:https://inmycal.com/six-nations/rugby-england/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

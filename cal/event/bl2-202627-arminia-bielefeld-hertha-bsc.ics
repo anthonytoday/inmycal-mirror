@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-arminia-bielefeld-hertha-bsc@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:Arminia Bielefeld - Hertha BSC
+DESCRIPTION:2. Bundesliga\, Matchday 26\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:SchücoArena\, Bielefeld
+URL:https://inmycal.com/2-bundesliga/arminia-bielefeld/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

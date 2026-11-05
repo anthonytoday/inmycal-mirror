@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-preston-north-end-sheffield-united@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261103T194500Z
+DTEND:20261103T214000Z
+TRANSP:OPAQUE
+SUMMARY:Preston North End - Sheffield United
+DESCRIPTION:Championship\, Matchday 14\nhttps://inmycal.com
+LOCATION:Deepdale\, Preston
+URL:https://inmycal.com/championship/preston-north-end/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

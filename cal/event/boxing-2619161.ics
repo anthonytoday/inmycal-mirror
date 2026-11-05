@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2619161@sports.anthonytoday.com
+DTSTAMP:20261105T065607Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Zuffa Boxing 12 Billam-Smith vs Clarke
+DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
+ y.\nhttps://inmycal.com
+LOCATION:Copper Box Arena\, London\, England\, United Kingdom
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sixnations-2027-rugby-france-rugby-wales@sports.anthonytoday.com
+DTSTAMP:20261105T032105Z
+DTSTART:20270206T164000Z
+DTEND:20270206T182000Z
+TRANSP:OPAQUE
+SUMMARY:France - Wales
+DESCRIPTION:Six Nations\, Round 1\nhttps://inmycal.com
+LOCATION:Stade de France\, Saint-Denis
+URL:https://inmycal.com/six-nations/rugby-france/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

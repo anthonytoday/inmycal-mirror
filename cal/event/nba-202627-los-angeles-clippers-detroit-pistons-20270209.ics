@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-clippers-detroit-pistons-20270209@sports.anthony
+ today.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+TRANSP:TRANSPARENT
+SUMMARY:Detroit Pistons @ Los Angeles Clippers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Intuit Dome
+URL:https://inmycal.com/nba/los-angeles-clippers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

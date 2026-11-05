@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-miami-heat-atlanta-hawks-20270123@sports.anthonytoday.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:Atlanta Hawks @ Miami Heat
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Kaseya Center
+URL:https://inmycal.com/nba/miami-heat/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

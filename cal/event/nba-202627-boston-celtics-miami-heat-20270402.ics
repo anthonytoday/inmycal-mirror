@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-boston-celtics-miami-heat-20270402@sports.anthonytoday.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+TRANSP:TRANSPARENT
+SUMMARY:Miami Heat @ Boston Celtics
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:TD Garden
+URL:https://inmycal.com/nba/boston-celtics/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

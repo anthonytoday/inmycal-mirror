@@ -3,7 +3,7 @@
   "info": {
     "title": "InMyCal API",
     "version": "1.0.0",
-    "description": "Free, read-only sports schedules (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, national teams, UFC, Formula 1). Times are UTC. Each team and competition also has a subscribable iCalendar feed."
+    "description": "Free, read-only sports schedules (European football leagues and cups, national teams, MLS, NFL, Six Nations rugby, UFC, Formula 1). Times are UTC. Each team and competition also has a subscribable iCalendar feed."
   },
   "servers": [
     {

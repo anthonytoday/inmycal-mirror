@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-06-lac-kc@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261018T202500Z
+DTEND:20261018T234000Z
+TRANSP:OPAQUE
+SUMMARY:Los Angeles Chargers @ Kansas City Chiefs (6-22)
+DESCRIPTION:NFL\, Week 6\nhttps://inmycal.com
+LOCATION:GEHA Field at Arrowhead Stadium
+URL:https://inmycal.com/nfl/kansas-city-chiefs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

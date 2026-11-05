@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-fleetwood-town-everton@sports.anthonytoday.com
+DTSTAMP:20261105T043933Z
+DTSTART:20261217T200000Z
+DTEND:20261217T215500Z
+TRANSP:OPAQUE
+SUMMARY:Fleetwood Town - Everton [EFL]
+DESCRIPTION:EFL Cup\, Quarter-finals\nhttps://inmycal.com
+LOCATION:Highbury Stadium\, Fleetwood
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

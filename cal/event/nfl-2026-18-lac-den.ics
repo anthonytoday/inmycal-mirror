@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-18-lac-den@sports.anthonytoday.com
+DTSTAMP:20261105T032112Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Chargers @ Denver Broncos
+DESCRIPTION:NFL\, Week 18\nStart time not announced yet.\nhttps://inmycal.c
+ om
+LOCATION:Empower Field at Mile High
+URL:https://inmycal.com/nfl/denver-broncos/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-golden-state-warriors-phoenix-suns-20261102@sports.anthonyto
+ day.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Phoenix Suns @ Golden State Warriors (113-116)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Chase Center
+URL:https://inmycal.com/nba/golden-state-warriors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

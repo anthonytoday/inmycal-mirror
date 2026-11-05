@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:urc-202627-benetton-ulster@sports.anthonytoday.com
+DTSTAMP:20261105T050800Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+TRANSP:TRANSPARENT
+SUMMARY:Benetton - Ulster
+DESCRIPTION:United Rugby Championship\, Round 14\nKickoff time not announce
+ d yet.\nhttps://inmycal.com
+LOCATION:Stadio Monigo\, Treviso
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

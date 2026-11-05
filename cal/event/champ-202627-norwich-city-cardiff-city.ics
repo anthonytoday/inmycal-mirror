@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-norwich-city-cardiff-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261121T150000Z
+DTEND:20261121T165500Z
+TRANSP:OPAQUE
+SUMMARY:Norwich City - Cardiff City
+DESCRIPTION:Championship\, Matchday 16\nhttps://inmycal.com
+LOCATION:Carrow Road\, Norwich
+URL:https://inmycal.com/championship/norwich-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

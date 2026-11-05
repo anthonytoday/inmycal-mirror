@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-rot-weiss-essen-jahn-regensburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261023T170000Z
+DTEND:20261023T185500Z
+TRANSP:OPAQUE
+SUMMARY:Rot-Weiss Essen - Jahn Regensburg (1-0)
+DESCRIPTION:3. Liga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Stadion an der Hafenstraße\, Essen
+URL:https://inmycal.com/3-liga/rot-weiss-essen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

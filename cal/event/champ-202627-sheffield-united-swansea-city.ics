@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-sheffield-united-swansea-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+TRANSP:TRANSPARENT
+SUMMARY:Sheffield United - Swansea City
+DESCRIPTION:Championship\, Matchday 35\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Bramall Lane\, Sheffield
+URL:https://inmycal.com/championship/sheffield-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

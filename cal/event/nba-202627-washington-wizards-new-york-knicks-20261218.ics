@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-washington-wizards-new-york-knicks-20261218@sports.anthonyto
+ day.com
+DTSTAMP:20261105T060716Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+SUMMARY:New York Knicks @ Washington Wizards
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Capital One Arena
+URL:https://inmycal.com/nba/washington-wizards/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

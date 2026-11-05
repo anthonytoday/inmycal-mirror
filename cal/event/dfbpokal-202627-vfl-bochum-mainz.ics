@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-vfl-bochum-mainz@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261027T170000Z
+DTEND:20261027T185500Z
+TRANSP:OPAQUE
+SUMMARY:VfL Bochum - Mainz 05 [DFB] (2-0)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Vonovia Ruhrstadion\, Bochum
+URL:https://inmycal.com/2-bundesliga/vfl-bochum/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

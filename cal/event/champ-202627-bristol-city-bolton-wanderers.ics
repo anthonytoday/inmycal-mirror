@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-bristol-city-bolton-wanderers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:Bristol City - Bolton Wanderers
+DESCRIPTION:Championship\, Matchday 27\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Ashton Gate\, Bristol
+URL:https://inmycal.com/championship/bristol-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

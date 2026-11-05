@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-hoffenheim-ii-msv-duisburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:Hoffenheim II - MSV Duisburg
+DESCRIPTION:3. Liga\, Matchday 27\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Dietmar-Hopp-Stadion\, Sinsheim
+URL:https://inmycal.com/3-liga/hoffenheim-ii/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

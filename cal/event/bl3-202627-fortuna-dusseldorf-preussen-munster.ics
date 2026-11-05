@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-fortuna-dusseldorf-preussen-munster@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:Fortuna Düsseldorf - Preußen Münster
+DESCRIPTION:3. Liga\, Matchday 28\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Merkur Spiel-Arena\, Düsseldorf
+URL:https://inmycal.com/3-liga/fortuna-dusseldorf/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

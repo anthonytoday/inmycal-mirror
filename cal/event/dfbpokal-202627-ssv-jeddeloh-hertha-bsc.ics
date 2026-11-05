@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-ssv-jeddeloh-hertha-bsc@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261028T170000Z
+DTEND:20261028T185500Z
+TRANSP:OPAQUE
+SUMMARY:SSV Jeddeloh - Hertha BSC [DFB] (0-2)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Marschweg-Stadion\, Oldenburg
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

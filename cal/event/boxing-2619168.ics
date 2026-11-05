@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2619168@sports.anthonytoday.com
+DTSTAMP:20261105T065607Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:Dmitry Bivol vs Callum Smith
+DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
+ y.\nhttps://inmycal.com
+LOCATION:UMMC Arena\, Ekaterinburg\, Russia
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

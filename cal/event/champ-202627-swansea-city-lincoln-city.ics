@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-swansea-city-lincoln-city@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+TRANSP:TRANSPARENT
+SUMMARY:Swansea City - Lincoln City
+DESCRIPTION:Championship\, Matchday 33\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Swansea.com Stadium\, Swansea
+URL:https://inmycal.com/championship/swansea-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

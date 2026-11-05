@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-cleveland-cavaliers-boston-celtics-20270401@sports.anthonyto
+ day.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+TRANSP:TRANSPARENT
+SUMMARY:Boston Celtics @ Cleveland Cavaliers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Rocket Arena
+URL:https://inmycal.com/nba/cleveland-cavaliers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

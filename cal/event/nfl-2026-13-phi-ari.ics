@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-13-phi-ari@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261206T210500Z
+DTEND:20261207T002000Z
+TRANSP:OPAQUE
+SUMMARY:Philadelphia Eagles @ Arizona Cardinals
+DESCRIPTION:NFL\, Week 13\nhttps://inmycal.com
+LOCATION:State Farm Stadium
+URL:https://inmycal.com/nfl/arizona-cardinals/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

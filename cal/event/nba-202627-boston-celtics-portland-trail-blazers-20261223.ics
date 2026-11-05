@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-boston-celtics-portland-trail-blazers-20261223@sports.anthon
+ ytoday.com
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+TRANSP:TRANSPARENT
+SUMMARY:Portland Trail Blazers @ Boston Celtics
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:TD Garden
+URL:https://inmycal.com/nba/boston-celtics/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

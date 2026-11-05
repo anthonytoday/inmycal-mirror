@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-greuther-furth-magdeburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20260918T163000Z
+DTEND:20260918T182500Z
+TRANSP:OPAQUE
+SUMMARY:Greuther Fürth - Magdeburg (1-1)
+DESCRIPTION:2. Bundesliga\, Matchday 6\nhttps://inmycal.com
+LOCATION:Sportpark Ronhof Thomas Sommer\, Fürth
+URL:https://inmycal.com/2-bundesliga/greuther-furth/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

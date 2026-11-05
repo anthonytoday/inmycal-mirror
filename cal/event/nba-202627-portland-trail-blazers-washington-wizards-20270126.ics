@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-portland-trail-blazers-washington-wizards-20270126@sports.an
+ thonytoday.com
+DTSTAMP:20261105T060722Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Portland Trail Blazers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Moda Center
+URL:https://inmycal.com/nba/portland-trail-blazers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

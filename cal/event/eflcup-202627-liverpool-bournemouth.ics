@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-liverpool-bournemouth@sports.anthonytoday.com
+DTSTAMP:20261105T043933Z
+DTSTART:20261216T200000Z
+DTEND:20261216T215500Z
+TRANSP:OPAQUE
+SUMMARY:Liverpool - Bournemouth [EFL]
+DESCRIPTION:EFL Cup\, Quarter-finals\nhttps://inmycal.com
+LOCATION:Anfield\, Liverpool
+URL:https://inmycal.com/premier-league/liverpool/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575389@sports.anthonytoday.com
-DTSTAMP:20261104T073316Z
+DTSTAMP:20261104T233015Z
 DTSTART:20261104T200000Z
 DTEND:20261104T215500Z
 TRANSP:OPAQUE
-SUMMARY:Slavia Prague - Arsenal [CL]
+SUMMARY:Slavia Prague - Arsenal [CL] (1-2)
 DESCRIPTION:Champions League\, League phase\, Matchday 4\nhttps://inmycal.c
  om
 URL:https://inmycal.com/

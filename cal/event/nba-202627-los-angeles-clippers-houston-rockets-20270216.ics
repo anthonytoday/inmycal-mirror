@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-clippers-houston-rockets-20270216@sports.anthony
+ today.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+TRANSP:TRANSPARENT
+SUMMARY:Houston Rockets @ Los Angeles Clippers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Intuit Dome
+URL:https://inmycal.com/nba/los-angeles-clippers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

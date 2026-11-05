@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-west-ham-united-west-brom@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261031T150000Z
+DTEND:20261031T165500Z
+TRANSP:OPAQUE
+SUMMARY:West Ham United - West Brom
+DESCRIPTION:Championship\, Matchday 13\nhttps://inmycal.com
+LOCATION:London Stadium\, London
+URL:https://inmycal.com/championship/west-ham-united/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-san-antonio-spurs-portland-trail-blazers-20270411@sports.ant
+ honytoday.com
+DTSTAMP:20261105T060722Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:Portland Trail Blazers @ San Antonio Spurs
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Frost Bank Center
+URL:https://inmycal.com/nba/san-antonio-spurs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

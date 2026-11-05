@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-clippers-los-angeles-lakers-20270111@sports.anth
+ onytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Lakers @ Los Angeles Clippers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Intuit Dome
+URL:https://inmycal.com/nba/los-angeles-clippers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

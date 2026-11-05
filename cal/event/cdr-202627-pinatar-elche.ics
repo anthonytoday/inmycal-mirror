@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-pinatar-elche@sports.anthonytoday.com
+DTSTAMP:20261105T045703Z
+DTSTART:20261027T180000Z
+DTEND:20261027T195500Z
+TRANSP:OPAQUE
+SUMMARY:Pinatar - Elche [CDR] (1-3)
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:José Antonio Pérez\, San Pedro del Pinatar
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

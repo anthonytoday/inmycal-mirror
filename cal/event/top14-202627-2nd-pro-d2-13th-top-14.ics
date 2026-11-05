@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:top14-202627-2nd-pro-d2-13th-top-14@sports.anthonytoday.com
+DTSTAMP:20261105T050756Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+TRANSP:TRANSPARENT
+SUMMARY:2nd Pro D2 - 13th Top 14
+DESCRIPTION:Top 14\, Promotion/relegation play-off\nKickoff time not announ
+ ced yet.\nhttps://inmycal.com
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

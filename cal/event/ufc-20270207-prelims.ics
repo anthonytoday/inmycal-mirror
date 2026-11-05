@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20270207-prelims@sports.anthonytoday.com
+DTSTAMP:20261105T064312Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+TRANSP:OPAQUE
+SUMMARY:UFC Fight Night: Salkilld vs. Saint Denis (Prelims)
+DESCRIPTION:UFC\nPrelims. Estimated start (usual start for the region)\; th
+ e official time replaces it once published.\nhttps://inmycal.com
+LOCATION:Afterpay Arena\, Sydney\, Australia
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

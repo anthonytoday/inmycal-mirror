@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-rot-weiss-essen-wehen-wiesbaden@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:Rot-Weiss Essen - Wehen Wiesbaden
+DESCRIPTION:3. Liga\, Matchday 22\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Stadion an der Hafenstraße\, Essen
+URL:https://inmycal.com/3-liga/rot-weiss-essen/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

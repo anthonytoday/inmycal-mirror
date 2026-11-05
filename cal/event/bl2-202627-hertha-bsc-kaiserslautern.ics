@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-hertha-bsc-kaiserslautern@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:Hertha BSC - Kaiserslautern
+DESCRIPTION:2. Bundesliga\, Matchday 27\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
+LOCATION:Olympiastadion\, Berlin
+URL:https://inmycal.com/2-bundesliga/hertha-bsc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

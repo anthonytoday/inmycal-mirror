@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-southampton-blackburn-rovers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Southampton - Blackburn Rovers
+DESCRIPTION:Championship\, Matchday 22\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:St Mary's Stadium\, Southampton
+URL:https://inmycal.com/championship/southampton/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

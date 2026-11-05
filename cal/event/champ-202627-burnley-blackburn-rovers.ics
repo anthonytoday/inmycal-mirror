@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-burnley-blackburn-rovers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261122T120000Z
+DTEND:20261122T135500Z
+TRANSP:OPAQUE
+SUMMARY:Burnley - Blackburn Rovers
+DESCRIPTION:Championship\, Matchday 16\nhttps://inmycal.com
+LOCATION:Turf Moor\, Burnley
+URL:https://inmycal.com/championship/burnley/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

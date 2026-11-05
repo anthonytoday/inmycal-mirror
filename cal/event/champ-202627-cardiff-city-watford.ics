@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-cardiff-city-watford@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261013T184500Z
+DTEND:20261013T204000Z
+TRANSP:OPAQUE
+SUMMARY:Cardiff City - Watford
+DESCRIPTION:Championship\, Matchday 10\nhttps://inmycal.com
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://inmycal.com/championship/cardiff-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

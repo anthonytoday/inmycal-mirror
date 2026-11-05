@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-crystal-palace-sunderland@sports.anthonytoday.com
+DTSTAMP:20261105T043933Z
+DTSTART:20261216T193000Z
+DTEND:20261216T212500Z
+TRANSP:OPAQUE
+SUMMARY:Crystal Palace - Sunderland [EFL]
+DESCRIPTION:EFL Cup\, Quarter-finals\nhttps://inmycal.com
+LOCATION:Selhurst Park\, Selhurst
+URL:https://inmycal.com/premier-league/crystal-palace/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

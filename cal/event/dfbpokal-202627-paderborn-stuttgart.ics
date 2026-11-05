@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfbpokal-202627-paderborn-stuttgart@sports.anthonytoday.com
+DTSTAMP:20261105T032057Z
+DTSTART:20261028T170000Z
+DTEND:20261028T185500Z
+TRANSP:OPAQUE
+SUMMARY:Paderborn - Stuttgart [DFB] (0-1)
+DESCRIPTION:DFB-Pokal\, Second round\nhttps://inmycal.com
+LOCATION:Home Deluxe Arena\, Paderborn
+URL:https://inmycal.com/bundesliga/paderborn/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

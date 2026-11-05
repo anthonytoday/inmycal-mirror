@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-cardiff-city-millwall@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Cardiff City - Millwall
+DESCRIPTION:Championship\, Matchday 23\nKickoff time not announced yet.\nht
+ tps://inmycal.com
+LOCATION:Cardiff City Stadium\, Cardiff
+URL:https://inmycal.com/championship/cardiff-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

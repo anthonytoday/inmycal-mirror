@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sixnations-2027-rugby-scotland-rugby-wales@sports.anthonytoday.com
+DTSTAMP:20261105T032105Z
+DTSTART:20270213T164000Z
+DTEND:20270213T182000Z
+TRANSP:OPAQUE
+SUMMARY:Scotland - Wales
+DESCRIPTION:Six Nations\, Round 2\nhttps://inmycal.com
+LOCATION:Murrayfield Stadium\, Edinburgh
+URL:https://inmycal.com/six-nations/rugby-scotland/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-bolton-wanderers-blackburn-rovers@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261205T123000Z
+DTEND:20261205T142500Z
+TRANSP:OPAQUE
+SUMMARY:Bolton Wanderers - Blackburn Rovers
+DESCRIPTION:Championship\, Matchday 19\nhttps://inmycal.com
+LOCATION:Toughsheet Community Stadium\, Bolton
+URL:https://inmycal.com/championship/bolton-wanderers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

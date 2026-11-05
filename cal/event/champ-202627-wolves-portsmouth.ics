@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:champ-202627-wolves-portsmouth@sports.anthonytoday.com
+DTSTAMP:20261105T024819Z
+DTSTART:20261020T184500Z
+DTEND:20261020T204000Z
+TRANSP:OPAQUE
+SUMMARY:Wolves - Portsmouth
+DESCRIPTION:Championship\, Matchday 6\nhttps://inmycal.com
+LOCATION:Molineux\, Wolverhampton
+URL:https://inmycal.com/championship/wolves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

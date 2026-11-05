@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-orlando-magic-indiana-pacers-20270322@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+TRANSP:TRANSPARENT
+SUMMARY:Indiana Pacers @ Orlando Magic
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Kia Center
+URL:https://inmycal.com/nba/orlando-magic/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

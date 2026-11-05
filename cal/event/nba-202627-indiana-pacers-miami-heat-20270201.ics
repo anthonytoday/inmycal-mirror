@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-indiana-pacers-miami-heat-20270201@sports.anthonytoday.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+TRANSP:TRANSPARENT
+SUMMARY:Miami Heat @ Indiana Pacers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Gainbridge Fieldhouse
+URL:https://inmycal.com/nba/indiana-pacers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

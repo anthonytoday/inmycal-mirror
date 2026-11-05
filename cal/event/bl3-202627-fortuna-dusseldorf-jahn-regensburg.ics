@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-fortuna-dusseldorf-jahn-regensburg@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:Fortuna Düsseldorf - Jahn Regensburg
+DESCRIPTION:3. Liga\, Matchday 25\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Merkur Spiel-Arena\, Düsseldorf
+URL:https://inmycal.com/3-liga/fortuna-dusseldorf/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

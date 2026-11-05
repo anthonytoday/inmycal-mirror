@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-utah-jazz-golden-state-warriors-20270128@sports.anthonytoday
+ .com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+TRANSP:TRANSPARENT
+SUMMARY:Golden State Warriors @ Utah Jazz
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Delta Center
+URL:https://inmycal.com/nba/utah-jazz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

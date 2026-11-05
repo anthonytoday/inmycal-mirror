@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:coppait-202627-ac-milan-como@sports.anthonytoday.com
+DTSTAMP:20261105T032058Z
+DTSTART:20270210T200000Z
+DTEND:20270210T215500Z
+TRANSP:OPAQUE
+SUMMARY:AC Milan - Como [CI]
+DESCRIPTION:Coppa Italia\, Quarter-finals\nhttps://inmycal.com
+LOCATION:San Siro or Stadio Brianteo\, Milan or Monza
+URL:https://inmycal.com/serie-a/ac-milan/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

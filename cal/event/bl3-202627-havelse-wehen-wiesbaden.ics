@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-havelse-wehen-wiesbaden@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+TRANSP:TRANSPARENT
+SUMMARY:TSV Havelse - Wehen Wiesbaden
+DESCRIPTION:3. Liga\, Matchday 32\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Wilhelm-Langrehr-Stadion\, Garbsen
+URL:https://inmycal.com/3-liga/havelse/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

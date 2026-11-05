@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eflcup-202627-liverpool-chelsea@sports.anthonytoday.com
+DTSTAMP:20261105T032055Z
+DTSTART:20261028T200000Z
+DTEND:20261028T215500Z
+TRANSP:OPAQUE
+SUMMARY:Liverpool - Chelsea [EFL] (1-1)
+DESCRIPTION:EFL Cup\, Fourth round\nhttps://inmycal.com
+LOCATION:Anfield\, Liverpool
+URL:https://inmycal.com/premier-league/liverpool/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

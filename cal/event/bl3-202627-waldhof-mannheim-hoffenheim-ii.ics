@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl3-202627-waldhof-mannheim-hoffenheim-ii@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261025T183000Z
+DTEND:20261025T202500Z
+TRANSP:OPAQUE
+SUMMARY:Waldhof Mannheim - Hoffenheim II (4-1)
+DESCRIPTION:3. Liga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Carl-Benz-Stadion\, Mannheim
+URL:https://inmycal.com/3-liga/waldhof-mannheim/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

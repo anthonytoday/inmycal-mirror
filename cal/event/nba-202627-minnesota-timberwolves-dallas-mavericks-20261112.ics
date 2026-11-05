@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-minnesota-timberwolves-dallas-mavericks-20261112@sports.anth
+ onytoday.com
+DTSTAMP:20261105T060318Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Dallas Mavericks @ Minnesota Timberwolves
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Target Center
+URL:https://inmycal.com/nba/minnesota-timberwolves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bl2-202627-holstein-kiel-arminia-bielefeld@sports.anthonytoday.com
+DTSTAMP:20261105T032053Z
+DTSTART:20261107T120000Z
+DTEND:20261107T135500Z
+TRANSP:OPAQUE
+SUMMARY:Holstein Kiel - Arminia Bielefeld
+DESCRIPTION:2. Bundesliga\, Matchday 11\nhttps://inmycal.com
+LOCATION:Holstein-Stadion\, Kiel
+URL:https://inmycal.com/2-bundesliga/holstein-kiel/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

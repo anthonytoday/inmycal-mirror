@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-charlotte-hornets-boston-celtics-20261106@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T055836Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Spectrum Center\, Charlotte
+URL:https://inmycal.com/nba/charlotte-hornets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

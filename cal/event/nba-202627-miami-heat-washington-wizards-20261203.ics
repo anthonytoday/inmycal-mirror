@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-miami-heat-washington-wizards-20261203@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Miami Heat
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Kaseya Center
+URL:https://inmycal.com/nba/miami-heat/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

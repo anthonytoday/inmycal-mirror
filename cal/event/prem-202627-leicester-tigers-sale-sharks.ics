@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prem-202627-leicester-tigers-sale-sharks@sports.anthonytoday.com
+DTSTAMP:20261105T050753Z
+DTSTART:20261219T150500Z
+DTEND:20261219T164500Z
+TRANSP:OPAQUE
+SUMMARY:Leicester Tigers - Sale Sharks
+DESCRIPTION:Premiership Rugby\, Round 7\nhttps://inmycal.com
+LOCATION:Welford Road
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

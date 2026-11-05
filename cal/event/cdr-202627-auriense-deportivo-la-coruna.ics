@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-auriense-deportivo-la-coruna@sports.anthonytoday.com
+DTSTAMP:20261105T045703Z
+DTSTART:20261029T200000Z
+DTEND:20261029T215500Z
+TRANSP:OPAQUE
+SUMMARY:Auriense - Deportivo La Coruña [CDR] (0-3)
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:O Couto\, Ourense
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

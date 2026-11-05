@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-dallas-mavericks-memphis-grizzlies-20270309@sports.anthonyto
+ day.com
+DTSTAMP:20261105T075449Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+TRANSP:TRANSPARENT
+SUMMARY:Memphis Grizzlies @ Dallas Mavericks
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:American Airlines Center
+URL:https://inmycal.com/nba/dallas-mavericks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-oklahoma-city-thunder-miami-heat-20261231@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T060709Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Miami Heat @ Oklahoma City Thunder
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Paycom Center
+URL:https://inmycal.com/nba/oklahoma-city-thunder/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

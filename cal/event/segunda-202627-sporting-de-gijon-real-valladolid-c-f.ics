@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-sporting-de-gijon-real-valladolid-c-f@sports.anthonytoda
+ y.com
+DTSTAMP:20261105T055744Z
+DTSTART:20261108T173000Z
+DTEND:20261108T192500Z
+TRANSP:OPAQUE
+SUMMARY:Sporting de Gijón - Real Valladolid C. F.
+DESCRIPTION:Segunda División\, Jornada 13\nhttps://inmycal.com
+LOCATION:El Molinón
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-olympique-charleville-prix-am-olympique-marcquois-football@s
+ ports.anthonytoday.com
+DTSTAMP:20261105T045710Z
+DTSTART:20261115T120000Z
+DTEND:20261115T135500Z
+TRANSP:OPAQUE
+SUMMARY:Olympique Charleville Prix AM - Olympique Marcquois Football [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade du Petit Bois\, Charleville-Mézières
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

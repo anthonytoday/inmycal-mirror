@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nfl-2026-07-dal-phi@sports.anthonytoday.com
+DTSTAMP:20261105T030314Z
+DTSTART:20261027T001500Z
+DTEND:20261027T033000Z
+TRANSP:OPAQUE
+SUMMARY:Dallas Cowboys @ Philadelphia Eagles (38-21)
+DESCRIPTION:NFL\, Week 7\nhttps://inmycal.com
+LOCATION:Lincoln Financial Field
+URL:https://inmycal.com/nfl/philadelphia-eagles/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

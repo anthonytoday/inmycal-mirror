@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-indiana-pacers-golden-state-warriors-20261216@sports.anthony
+ today.com
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+TRANSP:TRANSPARENT
+SUMMARY:Golden State Warriors @ Indiana Pacers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Gainbridge Fieldhouse
+URL:https://inmycal.com/nba/indiana-pacers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
