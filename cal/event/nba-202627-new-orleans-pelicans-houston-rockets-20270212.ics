@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-houston-rockets-20270212@sports.anthony
  today.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+TRANSP:OPAQUE
 SUMMARY:Houston Rockets @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

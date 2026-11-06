@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-orlando-magic-oklahoma-city-thunder-20270110@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Orlando Magic
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Kia Center
 URL:https://inmycal.com/nba/orlando-magic/
 STATUS:CONFIRMED

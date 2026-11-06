@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-los-angeles-lakers-20261216@sports.an
  thonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261217T023000Z
+DTEND:20261217T050000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

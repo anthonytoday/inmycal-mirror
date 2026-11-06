@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-houston-rockets-20270113@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20270114T023000Z
+DTEND:20270114T050000Z
+TRANSP:OPAQUE
 SUMMARY:Houston Rockets @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

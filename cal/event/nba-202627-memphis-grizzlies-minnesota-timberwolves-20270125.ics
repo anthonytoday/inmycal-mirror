@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-minnesota-timberwolves-20270125@sports.ant
  honytoday.com
-DTSTAMP:20261105T075453Z
-DTSTART;VALUE=DATE:20270125
-DTEND;VALUE=DATE:20270126
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270126T010000Z
+DTEND:20270126T033000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedEx Forum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

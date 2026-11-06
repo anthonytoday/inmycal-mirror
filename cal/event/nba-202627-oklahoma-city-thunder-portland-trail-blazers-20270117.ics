@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-portland-trail-blazers-20270117@sports
  .anthonytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20270117T203000Z
+DTEND:20270117T230000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

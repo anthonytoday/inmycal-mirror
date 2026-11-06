@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-boston-celtics-cleveland-cavaliers-20261228@sports.anthonyto
  day.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261229T010000Z
+DTEND:20261229T033000Z
+TRANSP:OPAQUE
 SUMMARY:Cleveland Cavaliers @ Boston Celtics
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:TD Garden
 URL:https://inmycal.com/nba/boston-celtics/
 STATUS:CONFIRMED

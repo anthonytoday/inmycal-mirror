@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-minnesota-timberwolves-20270108@sports.an
  thonytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270109T000000Z
+DTEND:20270109T023000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

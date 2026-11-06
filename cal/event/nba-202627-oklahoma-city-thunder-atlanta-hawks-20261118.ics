@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-atlanta-hawks-20261118@sports.anthonyt
  oday.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-TRANSP:TRANSPARENT
+DTSTAMP:20261105T094004Z
+DTSTART:20261119T010000Z
+DTEND:20261119T033000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

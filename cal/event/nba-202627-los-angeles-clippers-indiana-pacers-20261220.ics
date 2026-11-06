@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-indiana-pacers-20261220@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20261221T030000Z
+DTEND:20261221T053000Z
+TRANSP:OPAQUE
 SUMMARY:Indiana Pacers @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

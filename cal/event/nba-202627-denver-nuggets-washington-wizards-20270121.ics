@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-denver-nuggets-washington-wizards-20270121@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270122
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270122T020000Z
+DTEND:20270122T043000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Denver Nuggets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Ball Arena
 URL:https://inmycal.com/nba/denver-nuggets/
 STATUS:CONFIRMED

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-tarancon-levante@sports.anthonytoday.com
+DTSTAMP:20261106T001559Z
+DTSTART:20261112T180000Z
+DTEND:20261112T195500Z
+TRANSP:OPAQUE
+SUMMARY:Tarancón - Levante [CDR]
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:Estadio Municipal Tarancón\, Tarancón
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-charlotte-hornets-orlando-magic-20261229@sports.anthonytoday
+ .com
+DTSTAMP:20261106T013708Z
+DTSTART:20261230T000000Z
+DTEND:20261230T023000Z
+TRANSP:OPAQUE
+SUMMARY:Orlando Magic @ Charlotte Hornets
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Spectrum Center
+URL:https://inmycal.com/nba/charlotte-hornets/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

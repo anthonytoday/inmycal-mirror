@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-sacramento-kings-20270128@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270129T000000Z
+DTEND:20270129T023000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

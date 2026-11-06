@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-portugalete-real-union@sports.anthonytoday.com
+DTSTAMP:20261106T001559Z
+DTSTART:20261118T180000Z
+DTEND:20261118T195500Z
+TRANSP:OPAQUE
+SUMMARY:Portugalete - Real Unión [CDR]
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:La Florida\, Portugalete
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

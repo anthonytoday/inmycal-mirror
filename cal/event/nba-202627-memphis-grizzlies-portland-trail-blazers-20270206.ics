@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-portland-trail-blazers-20270206@sports.ant
  honytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270206T223000Z
+DTEND:20270207T010000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

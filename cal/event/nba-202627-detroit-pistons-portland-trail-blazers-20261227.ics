@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-portland-trail-blazers-20261227@sports.antho
  nytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261228T000000Z
+DTEND:20261228T023000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

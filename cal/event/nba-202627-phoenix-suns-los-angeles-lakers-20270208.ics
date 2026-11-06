@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-los-angeles-lakers-20270208@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270208
-DTEND;VALUE=DATE:20270209
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270209T023000Z
+DTEND:20270209T050000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

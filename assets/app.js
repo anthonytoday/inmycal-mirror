@@ -40,10 +40,12 @@
   function renderTimes() {
     var timeFmt = fmt({ hour: '2-digit', minute: '2-digit' });
     var fullFmt = fmt({ weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+    var wdFmt = fmt({ weekday: 'short', hour: '2-digit', minute: '2-digit' });
     document.querySelectorAll('time[data-utc]').forEach(function (el) {
       var d = new Date(el.getAttribute('data-utc'));
       if (isNaN(d)) return;
-      el.textContent = el.getAttribute('data-mode') === 'full' ? fullFmt.format(d) : timeFmt.format(d);
+      var mode = el.getAttribute('data-mode');
+      el.textContent = mode === 'full' ? fullFmt.format(d) : mode === 'wd' ? wdFmt.format(d) : timeFmt.format(d);
     });
     document.querySelectorAll('time[data-date]').forEach(function (el) {
       el.textContent = el.getAttribute('data-mode') === 'full' ? dayName(el.getAttribute('data-date')) + ' · TBC' : 'TBC';
@@ -77,8 +79,42 @@
   }
 
   // Regroup each list by the visitor's local day and add day chips (All, Today, Tomorrow, ...).
+  // F1 weekends: one row per local day (practice Friday, qualifying Saturday, race Sunday). Rows of the same
+  // weekend share data-wk; their sessions are pooled and dealt out again by the visitor's day.
+  function splitWeekends(list) {
+    var byWk = {};
+    [].slice.call(list.querySelectorAll('li.ev[data-wk]')).forEach(function (r) {
+      var k = r.getAttribute('data-wk');
+      (byWk[k] = byWk[k] || []).push(r);
+    });
+    Object.keys(byWk).forEach(function (k) {
+      var rows = byWk[k];
+      var days = {}, order = [];
+      rows.forEach(function (r) {
+        [].slice.call(r.querySelectorAll('.act-line')).forEach(function (l) {
+          var t = l.querySelector('time[data-utc]');
+          var u = t ? t.getAttribute('data-utc') : r.getAttribute('data-utc');
+          var d = localDay(new Date(u));
+          if (!days[d]) { days[d] = []; order.push(d); }
+          days[d].push({ l: l, u: u });
+        });
+      });
+      order.sort();
+      order.forEach(function (d, i) {
+        var r = rows[i];
+        if (!r) { r = rows[0].cloneNode(true); rows[0].parentNode.appendChild(r); rows.push(r); }
+        var box = r.querySelector('.ev-act');
+        box.innerHTML = '';
+        days[d].sort(function (a, b) { return a.u < b.u ? -1 : 1; }).forEach(function (x) { box.appendChild(x.l); });
+        r.setAttribute('data-utc', days[d][0].u);
+      });
+      rows.slice(order.length).forEach(function (r) { if (r.parentNode) r.parentNode.removeChild(r); });
+    });
+  }
+
   function regroup() {
     document.querySelectorAll('[data-evlist]').forEach(function (list) {
+      splitWeekends(list);
       var rows = [].slice.call(list.querySelectorAll('li.ev'));
       if (!rows.length) return;
       var groups = {};
@@ -331,6 +367,18 @@
     order.forEach(function (k, i) { var a = map[k]; if (!a) return; a.classList.toggle('primary', i === 0); list.appendChild(a); });
   });
 
+  // ---------- Subscribe panel with two feeds (UFC: all events or main cards only) ----------
+  document.querySelectorAll('[data-sub-choice]').forEach(function (box) {
+    var panel = box.closest('.subscribe');
+    box.addEventListener('change', function () {
+      var alt = (box.querySelector('input:checked') || {}).value === 'alt';
+      panel.querySelectorAll('[data-alt]').forEach(function (a) {
+        var v = a.getAttribute(alt ? 'data-alt' : 'data-main');
+        if (a.hasAttribute('data-copy')) a.setAttribute('data-copy', v); else a.setAttribute('href', v);
+      });
+    });
+  });
+
   // ---------- "More" menu: open under its own tab (the tab row scrolls, so the menu sits on the top bar) ----------
   document.querySelectorAll('.tb-more').forEach(function (d) {
     d.addEventListener('toggle', function () {
@@ -512,7 +560,7 @@
       var on = groupsOrder.filter(function (g) { var i = picker.querySelector('input[value="' + g + '"]'); return i && i.checked; });
       var empty = on.length === 0;
       document.querySelectorAll('[data-feed]').forEach(function (el) { el.classList.toggle('disabled', empty); });
-      document.querySelectorAll('li[data-group]').forEach(function (r) { r.classList.toggle('off', on.indexOf(r.getAttribute('data-group')) === -1); });
+      document.querySelectorAll('[data-group]').forEach(function (r) { r.classList.toggle('off', on.indexOf(r.getAttribute('data-group')) === -1); });
       var note = document.getElementById('f1-empty');
       if (note) note.hidden = !empty;
       if (empty) return;

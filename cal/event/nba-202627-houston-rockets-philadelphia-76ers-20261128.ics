@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-philadelphia-76ers-20261128@sports.anthonyto
  day.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261129T013000Z
+DTEND:20261129T040000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-charlotte-hornets-washington-wizards-20261026@sports.anthony
  today.com
-DTSTAMP:20261105T075920Z
+DTSTAMP:20261105T060729Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 TRANSP:TRANSPARENT
 SUMMARY:Washington Wizards @ Charlotte Hornets (103-110)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:Spectrum Center\, Charlotte
+LOCATION:Spectrum Center
 URL:https://inmycal.com/nba/charlotte-hornets/
 STATUS:CONFIRMED
 END:VEVENT

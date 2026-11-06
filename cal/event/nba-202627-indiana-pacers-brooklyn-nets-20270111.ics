@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-brooklyn-nets-20270111@sports.anthonytoday.co
  m
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270112
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270112T000000Z
+DTEND:20270112T023000Z
+TRANSP:OPAQUE
 SUMMARY:Brooklyn Nets @ Indiana Pacers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

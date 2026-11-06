@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-denver-nuggets-los-angeles-lakers-20261219@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261220T020000Z
+DTEND:20261220T043000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Denver Nuggets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Ball Arena
 URL:https://inmycal.com/nba/denver-nuggets/
 STATUS:CONFIRMED

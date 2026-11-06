@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-memphis-grizzlies-20261201@sports.anthony
  today.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261202T000000Z
+DTEND:20261202T023000Z
+TRANSP:OPAQUE
 SUMMARY:Memphis Grizzlies @ Philadelphia 76ers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

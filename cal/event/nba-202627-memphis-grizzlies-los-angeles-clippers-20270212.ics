@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-los-angeles-clippers-20270212@sports.antho
  nytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

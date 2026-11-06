@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-charlotte-hornets-philadelphia-76ers-20261031@sports.anthony
  today.com
-DTSTAMP:20261105T075920Z
+DTSTAMP:20261105T060716Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
 SUMMARY:Philadelphia 76ers @ Charlotte Hornets (109-104)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:Spectrum Center\, Charlotte
+LOCATION:Spectrum Center
 URL:https://inmycal.com/nba/charlotte-hornets/
 STATUS:CONFIRMED
 END:VEVENT

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-golden-state-warriors-20261111@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20261112T023000Z
+DTEND:20261112T050000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-orlando-magic-20270204@sports.anthonytoday
  .com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270204
-DTEND;VALUE=DATE:20270205
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T061509Z
+DTSTART:20270205T010000Z
+DTEND:20270205T033000Z
+TRANSP:OPAQUE
 SUMMARY:Orlando Magic @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

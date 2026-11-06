@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-oklahoma-city-thunder-20270107@sports.ant
  honytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

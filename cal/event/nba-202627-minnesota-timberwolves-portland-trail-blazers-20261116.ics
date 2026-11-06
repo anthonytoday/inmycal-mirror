@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-portland-trail-blazers-20261116@sport
  s.anthonytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261117T010000Z
+DTEND:20261117T033000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

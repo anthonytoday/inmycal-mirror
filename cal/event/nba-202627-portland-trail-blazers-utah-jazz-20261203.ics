@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-utah-jazz-20261203@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261204T030000Z
+DTEND:20261204T053000Z
+TRANSP:OPAQUE
 SUMMARY:Utah Jazz @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

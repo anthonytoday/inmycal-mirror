@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-oklahoma-city-thunder-20261220@sports.anthonyt
  oday.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261221T000000Z
+DTEND:20261221T023000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Atlanta Hawks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

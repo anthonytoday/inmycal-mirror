@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-portland-trail-blazers-20270107@sports.anth
  onytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20270108T010000Z
+DTEND:20270108T033000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

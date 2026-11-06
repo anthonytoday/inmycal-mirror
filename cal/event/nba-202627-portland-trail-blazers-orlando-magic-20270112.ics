@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-orlando-magic-20270112@sports.anthony
  today.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20270113T030000Z
+DTEND:20270113T053000Z
+TRANSP:OPAQUE
 SUMMARY:Orlando Magic @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-arminia-bielefeld-dynamo-dresden@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T000711Z
+DTSTART:20261204T173000Z
+DTEND:20261204T192500Z
+TRANSP:OPAQUE
 SUMMARY:Arminia Bielefeld - Dynamo Dresden
-DESCRIPTION:2. Bundesliga\, Matchday 14\nKickoff time not announced yet.\nh
- ttps://inmycal.com
+DESCRIPTION:2. Bundesliga\, Matchday 14\nhttps://inmycal.com
 LOCATION:SchücoArena\, Bielefeld
 URL:https://inmycal.com/2-bundesliga/arminia-bielefeld/
 STATUS:CONFIRMED

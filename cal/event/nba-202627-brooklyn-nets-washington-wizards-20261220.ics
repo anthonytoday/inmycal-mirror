@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-washington-wizards-20261220@sports.anthonytoda
  y.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20261220T200000Z
+DTEND:20261220T223000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

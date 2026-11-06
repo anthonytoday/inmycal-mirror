@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-phoenix-suns-20261216@sports.anthonytoday.co
  m
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+TRANSP:OPAQUE
 SUMMARY:Phoenix Suns @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

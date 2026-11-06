@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-golden-state-warriors-20261223@sports.a
  nthonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20261224T033000Z
+DTEND:20261224T060000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

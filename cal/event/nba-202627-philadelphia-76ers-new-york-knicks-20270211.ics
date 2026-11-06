@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-new-york-knicks-20270211@sports.anthonyto
  day.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270211
-DTEND;VALUE=DATE:20270212
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T061509Z
+DTSTART:20270212T000000Z
+DTEND:20270212T023000Z
+TRANSP:OPAQUE
 SUMMARY:New York Knicks @ Philadelphia 76ers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

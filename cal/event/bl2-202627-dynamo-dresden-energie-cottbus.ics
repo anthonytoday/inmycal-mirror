@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-dynamo-dresden-energie-cottbus@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T000711Z
+DTSTART:20261212T193000Z
+DTEND:20261212T212500Z
+TRANSP:OPAQUE
 SUMMARY:Dynamo Dresden - Energie Cottbus
-DESCRIPTION:2. Bundesliga\, Matchday 15\nKickoff time not announced yet.\nh
- ttps://inmycal.com
+DESCRIPTION:2. Bundesliga\, Matchday 15\nhttps://inmycal.com
 LOCATION:Rudolf-Harbig-Stadion\, Dresden
 URL:https://inmycal.com/2-bundesliga/dynamo-dresden/
 STATUS:CONFIRMED

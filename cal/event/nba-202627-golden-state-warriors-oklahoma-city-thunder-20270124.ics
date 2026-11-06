@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-oklahoma-city-thunder-20270124@sports.
  anthonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270125T013000Z
+DTEND:20270125T040000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

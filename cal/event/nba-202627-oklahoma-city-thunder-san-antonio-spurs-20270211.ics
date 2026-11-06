@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-san-antonio-spurs-20270211@sports.anth
  onytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270211
-DTEND;VALUE=DATE:20270212
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T061509Z
+DTSTART:20270212T023000Z
+DTEND:20270212T050000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

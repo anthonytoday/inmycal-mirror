@@ -177,7 +177,7 @@ img.logo-img { border-radius: 0; }
 .hero-match { display: grid; grid-template-columns: 1fr auto auto auto 1fr; align-items: center; gap: 14px; width: 100%; max-width: 640px; }
 .hero-match .ht { font-family: var(--font-display); font-size: 20px; font-weight: 600; }
 .hero-match .ht:first-child { text-align: right; }
-.hero-time { font-family: var(--font-mono); font-size: 15px; padding: 6px 12px; border-radius: 10px; background: rgba(255,255,255,.16); white-space: nowrap; }
+.hero-time { font-size: 15px; font-variant-numeric: tabular-nums; padding: 6px 12px; border-radius: 10px; background: rgba(255,255,255,.16); white-space: nowrap; }
 .hero-card .logo-img { background: #fff; border-radius: 14px; padding: 6px; }
 
 /* Promo: animated "add an event" demo (decorative, CSS only, 7 s loop) */
@@ -193,7 +193,7 @@ img.logo-img { border-radius: 0; }
 .demo-row { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--line-2); font-size: 13px; color: var(--ink); }
 .demo-row b { font-weight: 600; }
 .demo-comp { font-size: 10px; font-weight: 700; color: var(--blue); background: var(--blue-50); padding: 1px 5px; border-radius: 5px; }
-.demo-time { margin-left: auto; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.demo-time { margin-left: auto; font-size: 12px; font-variant-numeric: tabular-nums; color: var(--muted); }
 .demo-add { padding: 3px 9px; border-radius: 999px; border: 1px solid var(--line-2); font-size: 12px; font-weight: 500; animation: demo-add 7s infinite; }
 .demo-pop { position: absolute; right: 12px; top: 50px; width: 190px; padding: 5px; display: grid; gap: 4px; background: var(--card); border: 1px solid var(--line-2); border-radius: 11px; box-shadow: var(--shadow-lg); z-index: 2; opacity: 0; animation: demo-pop 7s infinite; }
 .demo-opt { display: flex; justify-content: space-between; align-items: center; padding: 6px 8px; border-radius: 8px; font-size: 12px; color: var(--ink); border: 1px solid var(--line); }
@@ -202,7 +202,7 @@ img.logo-img { border-radius: 0; }
 .demo-cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; margin-top: 12px; height: 150px; }
 .demo-day { position: relative; border-radius: 8px; background: var(--surface); padding: 5px; font-size: 10px; color: var(--muted); }
 .demo-ev { position: absolute; left: 3px; right: 3px; top: 70px; padding: 4px; border-radius: 6px; background: var(--blue-50); border-left: 3px solid var(--blue); color: var(--blue); font-style: normal; font-size: 9px; font-weight: 600; line-height: 1.25; opacity: 0; transform: scale(.6); animation: demo-ev 7s infinite; }
-.demo-ev small { display: block; font-weight: 400; font-family: var(--font-mono); }
+.demo-ev small { display: block; font-weight: 400; }
 .demo-cursor { position: absolute; width: 14px; height: 20px; left: 30px; top: 190px; background: var(--ink); clip-path: polygon(0 0, 0 75%, 22% 58%, 38% 95%, 52% 89%, 36% 54%, 64% 54%); animation: demo-cursor 7s infinite; z-index: 3; }
 @keyframes demo-cursor {
   0% { left: 30px; top: 190px; } 18% { left: 365px; top: 24px; } 22% { left: 365px; top: 24px; transform: scale(.85); } 25% { transform: scale(1); }
@@ -238,7 +238,7 @@ img.logo-img { border-radius: 0; }
 .myteam-next { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 8px; }
 .myteam-next li { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; border-radius: 12px; background: rgba(255,255,255,.12); }
 .myteam-next b { font-weight: 600; }
-.myteam-next time { font-family: var(--font-mono); font-size: 14px; white-space: nowrap; opacity: .95; }
+.myteam-next time { font-size: 14px; font-variant-numeric: tabular-nums; white-space: nowrap; opacity: .95; }
 .myteam-go { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
 .myteam-go .sub-btn { width: auto; height: 46px; }
 .myteam-go .sub-btn.primary { background: #fff; color: #1A3FA8; }
@@ -278,7 +278,7 @@ img.logo-img { border-radius: 0; }
 .ev-team .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ev-title { display: grid; min-width: 0; }
 .ev-title b { color: var(--ink); font-weight: 600; font-size: 15px; }
-.ev-mid { white-space: nowrap; text-align: center; font-family: var(--font-mono); font-size: 15px; color: var(--ink); font-variant-numeric: tabular-nums; }
+.ev-mid { white-space: nowrap; text-align: center; font-size: 15px; color: var(--ink); font-variant-numeric: tabular-nums; }
 .ev-mid small { font-size: 11px; color: var(--muted); }
 .score { color: var(--green); font-weight: 600; }
 .pill { display: inline-flex; align-items: center; font-size: 12px; font-weight: 500; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--line-2); color: var(--muted); text-transform: capitalize; font-family: var(--font-body); }
@@ -330,7 +330,7 @@ img.logo-img { border-radius: 0; }
 .chip input:checked + span { background: var(--blue-50); border-color: var(--blue-150); color: var(--blue); font-weight: 500; }
 .chip input:checked + span::before { content: '✓'; }
 .chip input:focus-visible + span { outline: 2px solid var(--blue); outline-offset: 2px; }
-li[data-group].off { opacity: .35; }
+li[data-group].off, .act-line[data-group].off { opacity: .35; }
 
 .prose { padding: 22px; }
 .prose h2 { margin-top: 18px; }
@@ -564,7 +564,6 @@ body.embed { background: transparent; margin: 0; }
 .ftr { display: inline-flex; align-items: center; gap: 8px; }
 .ftr-av { display: inline-grid; place-items: center; width: 28px; height: 28px; border-radius: 999px; background: var(--blue-50); color: var(--blue); font-size: 11px; font-weight: 700; letter-spacing: .02em; flex: none; }
 .ftrs .vs { color: var(--muted); font-size: 12px; font-weight: 600; text-transform: uppercase; }
-.ev-fight .ev-title small time { font-family: var(--font-mono); }
 /* Hub: add-to-calendar column */
 .hub-add { padding: 18px 20px; align-self: start; }
 .hub-add h2 { font-size: 17px; margin: 0 0 4px; }
@@ -587,8 +586,8 @@ body.embed { background: transparent; margin: 0; }
 .sport-ico { color: inherit; }
 
 /* Fights laid out like matches: fighter, time, fighter centered; card and venue below; two Adds for UFC */
-.ev.ev-bout { grid-template-columns: 36px minmax(0, 1fr) 100px minmax(0, 1fr) 104px; grid-template-areas: "comp home mid away act" "comp sub sub sub act"; row-gap: 2px; }
-.ev-bout.ev-nocomp { grid-template-columns: minmax(0, 1fr) 100px minmax(0, 1fr) 104px; grid-template-areas: "home mid away act" "sub sub sub act"; }
+.ev.ev-bout { grid-template-columns: 36px minmax(0, 1fr) 48px minmax(0, 1fr) auto; grid-template-areas: "comp home mid away act" "comp sub sub sub act"; row-gap: 2px; }
+.ev-bout.ev-nocomp { grid-template-columns: minmax(0, 1fr) 48px minmax(0, 1fr) auto; grid-template-areas: "home mid away act" "sub sub sub act"; }
 .ev-bout .ev-comp { grid-area: comp; }
 .ev-bout .ev-team.home { grid-area: home; justify-content: flex-end; text-align: right; font-weight: 600; }
 .ev-bout .ev-team.away { grid-area: away; font-weight: 600; }
@@ -597,11 +596,34 @@ body.embed { background: transparent; margin: 0; }
 .ev-bout .bout-sub { grid-area: sub; text-align: center; color: var(--muted); font-size: 12px; }
 .ev-bout .ev-team { display: flex; align-items: center; gap: 8px; min-width: 0; }
 .bout-times { display: inline-grid; justify-items: center; line-height: 1.2; }
-.bout-times small { font-size: 11px; color: var(--muted); font-family: var(--font-mono); }
+.bout-times small { font-size: 11px; color: var(--muted); }
+/* A numbered UFC card ("UFC 334") heads its row; the main-event weight class leads the small line */
+.ev.ev-bout.ev-hascard { grid-template-areas: "comp card card card act" "comp home mid away act" "comp sub sub sub act"; }
+.ev-bout.ev-nocomp.ev-hascard { grid-template-areas: "card card card act" "home mid away act" "sub sub sub act"; }
+.ev-bout .bout-card { grid-area: card; text-align: center; font-size: 13px; font-weight: 800; letter-spacing: .04em; color: var(--ink, inherit); }
 .ev-act2 { display: grid; gap: 4px; justify-items: end; }
+.bout-vs { color: var(--muted); font-size: 13px; font-weight: 600; }
+/* F1 weekend: one row per Grand Prix, sessions stacked on the right like a UFC card's Main card and Prelims */
+li.ev.ev-wk.ev-wk.ev-wk { grid-template-columns: 150px minmax(0, 1fr) auto; grid-template-areas: "comp title act"; }
+li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "title act"; }
+.ev-wk .ev-comp { grid-area: comp; } .ev-wk .ev-title { grid-area: title; } .ev-wk .ev-act { grid-area: act; }
+@media (max-width: 860px) {
+  li.ev.ev-wk.ev-wk.ev-wk, li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: minmax(0, 1fr); grid-template-areas: "comp" "title" "act"; }
+  .ev-wk .ev-act2 { justify-items: start; }
+}
+.act-line { display: inline-flex; align-items: center; gap: 8px; }
+.act-t { font-size: 12px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.act-t small { display: none; }
 .ev-act2 .add > summary { height: 30px; padding: 0 10px; font-size: 12px; }
 @media (max-width: 860px) {
   .ev.ev-bout { grid-template-columns: minmax(0, 1fr) auto auto; grid-template-areas: "comp comp comp" "home mid act" "away mid act" "sub sub sub"; }
   .ev-bout .ev-team.home { justify-content: flex-start; text-align: left; flex-direction: row-reverse; }
   .ev-bout .bout-sub { text-align: left; }
+  .ev.ev-bout.ev-hascard { grid-template-areas: "comp comp comp" "card card card" "home mid act" "away mid act" "sub sub sub"; }
+  .ev-bout .bout-card { text-align: left; }
 }
+
+/* Two-feed choice in the subscribe panel (UFC) */
+.sub-choice { display: grid; gap: 6px; margin: 4px 0 12px; }
+.sub-choice label { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border: 1px solid var(--line-2); border-radius: 10px; font-size: 14px; cursor: pointer; }
+.sub-choice label:has(input:checked) { border-color: var(--blue); background: var(--blue-50); color: var(--blue); }

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-boston-celtics-20261122@sports.anthony
  today.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20261123T013000Z
+DTEND:20261123T040000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

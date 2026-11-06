@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-fc-versailles-78-rodez-af@sports.anthonytoday.com
+DTSTAMP:20261106T002300Z
+DTSTART:20261114T120000Z
+DTEND:20261114T135500Z
+TRANSP:OPAQUE
+SUMMARY:FC Versailles 78 - Rodez AF [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Georges Lefèvre\, Saint-Germain-en-Laye
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

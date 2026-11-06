@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-los-angeles-clippers-20270103@sports.anth
  onytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270104T000000Z
+DTEND:20270104T023000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

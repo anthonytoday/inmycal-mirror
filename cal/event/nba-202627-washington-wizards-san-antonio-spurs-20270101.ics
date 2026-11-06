@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-san-antonio-spurs-20270101@sports.anthony
  today.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270102
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270101T220000Z
+DTEND:20270102T003000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-milwaukee-bucks-20261212@sports.anthonytod
  ay.com
-DTSTAMP:20261105T075453Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261212T220000Z
+DTEND:20261213T003000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedEx Forum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

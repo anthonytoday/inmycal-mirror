@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue2-202627-annecy-saint-etienne@sports.anthonytoday.com
+DTSTAMP:20261106T025157Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+SUMMARY:Annecy - Saint-Étienne
+DESCRIPTION:Ligue 2\, Matchday 16\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Parc des Sports
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-los-angeles-clippers-20270124@sports.anthony
  today.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270125T000000Z
+DTEND:20270125T023000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

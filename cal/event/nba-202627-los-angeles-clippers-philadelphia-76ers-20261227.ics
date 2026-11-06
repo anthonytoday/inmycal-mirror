@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-philadelphia-76ers-20261227@sports.anth
  onytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20261228T020000Z
+DTEND:20261228T043000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

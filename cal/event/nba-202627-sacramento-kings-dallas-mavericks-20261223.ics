@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-dallas-mavericks-20261223@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261224T030000Z
+DTEND:20261224T053000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

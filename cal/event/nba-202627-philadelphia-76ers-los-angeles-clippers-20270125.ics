@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-los-angeles-clippers-20270125@sports.anth
  onytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270125
-DTEND;VALUE=DATE:20270126
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270126T000000Z
+DTEND:20270126T023000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ Philadelphia 76ers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

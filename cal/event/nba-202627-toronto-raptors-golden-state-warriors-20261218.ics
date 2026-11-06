@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-golden-state-warriors-20261218@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

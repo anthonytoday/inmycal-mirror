@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-denver-nuggets-20270109@sports.anthonyto
  day.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20270109T220000Z
+DTEND:20270110T003000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Cleveland Cavaliers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-washington-wizards-20261107@sports.ant
  honytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261108T010000Z
+DTEND:20261108T033000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

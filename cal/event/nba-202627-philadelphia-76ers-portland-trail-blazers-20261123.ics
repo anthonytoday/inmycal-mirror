@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-portland-trail-blazers-20261123@sports.an
  thonytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261124T000000Z
+DTEND:20261124T023000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Philadelphia 76ers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

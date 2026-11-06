@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-toronto-raptors-20261213@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261213T203000Z
+DTEND:20261213T230000Z
+TRANSP:OPAQUE
 SUMMARY:Toronto Raptors @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

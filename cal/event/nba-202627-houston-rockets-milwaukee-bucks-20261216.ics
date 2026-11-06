@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-milwaukee-bucks-20261216@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261217T013000Z
+DTEND:20261217T040000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

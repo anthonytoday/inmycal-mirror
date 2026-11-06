@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-rc-chambery-chamois-niortais-saint-florent@sports.anthonytod
+ ay.com
+DTSTAMP:20261106T002300Z
+DTSTART:20261115T120000Z
+DTEND:20261115T135500Z
+TRANSP:OPAQUE
+SUMMARY:RC Chambéry - Chamois Niortais Saint-Florent [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Pierre Brossolette\, Villenave-d'Ornon
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

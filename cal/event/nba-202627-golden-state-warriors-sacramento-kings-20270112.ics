@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-sacramento-kings-20270112@sports.antho
  nytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20270113T040000Z
+DTEND:20270113T063000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

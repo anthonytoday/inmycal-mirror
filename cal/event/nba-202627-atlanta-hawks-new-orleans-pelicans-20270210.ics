@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-new-orleans-pelicans-20270210@sports.anthonyto
  day.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270211T000000Z
+DTEND:20270211T023000Z
+TRANSP:OPAQUE
 SUMMARY:New Orleans Pelicans @ Atlanta Hawks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

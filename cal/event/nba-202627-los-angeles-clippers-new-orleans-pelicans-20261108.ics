@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-new-orleans-pelicans-20261108@sports.an
  thonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261109T020000Z
+DTEND:20261109T043000Z
+TRANSP:OPAQUE
 SUMMARY:New Orleans Pelicans @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

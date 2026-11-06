@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-boston-celtics-20261121@sports.anthonytoday
  .com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261122T030000Z
+DTEND:20261122T053000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

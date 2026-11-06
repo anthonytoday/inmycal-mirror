@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-new-york-knicks-20261216@sports.anthony
  today.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261217T010000Z
+DTEND:20261217T033000Z
+TRANSP:OPAQUE
 SUMMARY:New York Knicks @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-chicago-bulls-minnesota-timberwolves-20270114@sports.anthony
  today.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270114
-DTEND;VALUE=DATE:20270115
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20270115T010000Z
+DTEND:20270115T033000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Chicago Bulls
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:United Center
 URL:https://inmycal.com/nba/chicago-bulls/
 STATUS:CONFIRMED

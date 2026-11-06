@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-balma-sc-us-castaneenne@sports.anthonytoday.com
+DTSTAMP:20261106T002300Z
+DTSTART:20261114T163000Z
+DTEND:20261114T182500Z
+TRANSP:OPAQUE
+SUMMARY:Balma SC - US Castanéenne [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Nicolas Campailla\, Balma
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

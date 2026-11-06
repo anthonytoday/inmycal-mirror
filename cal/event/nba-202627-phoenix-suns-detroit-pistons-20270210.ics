@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-detroit-pistons-20270210@sports.anthonytoday.co
  m
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20270211T020000Z
+DTEND:20270211T043000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

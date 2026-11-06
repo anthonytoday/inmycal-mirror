@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-philadelphia-76ers-20270128@sports.anth
  onytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270129T010000Z
+DTEND:20270129T033000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

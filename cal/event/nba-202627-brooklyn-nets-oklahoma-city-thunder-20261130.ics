@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-oklahoma-city-thunder-20261130@sports.anthonyt
  oday.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261201T003000Z
+DTEND:20261201T030000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-detroit-pistons-20270209@sports.anthony
  today.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20270210T033000Z
+DTEND:20270210T060000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-denver-nuggets-20270130@sports.anthony
  today.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20270130T200000Z
+DTEND:20270130T223000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

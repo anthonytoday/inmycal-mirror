@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-boston-celtics-20270207@sports.anthonytod
  ay.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T061509Z
+DTSTART:20270208T000000Z
+DTEND:20270208T023000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ Philadelphia 76ers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

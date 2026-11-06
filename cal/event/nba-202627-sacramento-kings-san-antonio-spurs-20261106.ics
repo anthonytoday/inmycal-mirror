@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-san-antonio-spurs-20261106@sports.anthonyto
  day.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261107T030000Z
+DTEND:20261107T053000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

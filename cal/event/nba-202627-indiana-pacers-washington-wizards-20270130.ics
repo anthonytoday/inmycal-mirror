@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-indiana-pacers-washington-wizards-20270130@sports.anthonytod
+ ay.com
+DTSTAMP:20261106T041036Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+TRANSP:OPAQUE
+SUMMARY:Washington Wizards @ Indiana Pacers
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Gainbridge Fieldhouse
+URL:https://inmycal.com/nba/indiana-pacers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

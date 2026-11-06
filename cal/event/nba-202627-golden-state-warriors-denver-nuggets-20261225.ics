@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-denver-nuggets-20261225@sports.anthony
  today.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261226T033000Z
+DTEND:20261226T060000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

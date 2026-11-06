@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-san-antonio-spurs-20261229@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261230T010000Z
+DTEND:20261230T033000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

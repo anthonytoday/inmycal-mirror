@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-greuther-furth-karlsruher-sc@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T000711Z
+DTSTART:20270115T173000Z
+DTEND:20270115T192500Z
+TRANSP:OPAQUE
 SUMMARY:Greuther Fürth - Karlsruher SC
-DESCRIPTION:2. Bundesliga\, Matchday 17\nKickoff time not announced yet.\nh
- ttps://inmycal.com
+DESCRIPTION:2. Bundesliga\, Matchday 17\nhttps://inmycal.com
 LOCATION:Sportpark Ronhof Thomas Sommer\, Fürth
 URL:https://inmycal.com/2-bundesliga/greuther-furth/
 STATUS:CONFIRMED

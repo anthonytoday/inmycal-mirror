@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-minnesota-timberwolves-20270204@sports.anth
  onytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270204
-DTEND;VALUE=DATE:20270205
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270205T030000Z
+DTEND:20270205T053000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-dallas-mavericks-20270104@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270104
-DTEND;VALUE=DATE:20270105
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20270105T010000Z
+DTEND:20270105T033000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

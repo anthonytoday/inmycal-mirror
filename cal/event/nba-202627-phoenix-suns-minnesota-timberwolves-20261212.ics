@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-minnesota-timberwolves-20261212@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261213T020000Z
+DTEND:20261213T043000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

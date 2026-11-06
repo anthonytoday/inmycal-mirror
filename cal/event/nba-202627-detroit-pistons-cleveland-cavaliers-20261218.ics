@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-cleveland-cavaliers-20261218@sports.anthonyt
  oday.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+TRANSP:OPAQUE
 SUMMARY:Cleveland Cavaliers @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

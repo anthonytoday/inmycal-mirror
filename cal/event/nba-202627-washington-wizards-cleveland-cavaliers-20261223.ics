@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-cleveland-cavaliers-20261223@sports.antho
  nytoday.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20261224T000000Z
+DTEND:20261224T023000Z
+TRANSP:OPAQUE
 SUMMARY:Cleveland Cavaliers @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

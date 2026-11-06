@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-miami-heat-20261231@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20270101T010000Z
+DTEND:20270101T033000Z
+TRANSP:OPAQUE
 SUMMARY:Miami Heat @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

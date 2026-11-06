@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-valenciennes-aubagne-air-bel@sports.anthonytoday.com
+DTSTAMP:20261105T064218Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:Valenciennes - Aubagne Air Bel
+DESCRIPTION:National\, Matchday 17\nKickoff time not announced yet.\nhttps:
+ //inmycal.com
+LOCATION:Stade du Hainaut
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

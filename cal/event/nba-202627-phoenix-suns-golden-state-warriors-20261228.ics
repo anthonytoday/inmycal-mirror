@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-golden-state-warriors-20261228@sports.anthonyto
  day.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20261229T020000Z
+DTEND:20261229T043000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

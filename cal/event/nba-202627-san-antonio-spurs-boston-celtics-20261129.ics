@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-boston-celtics-20261129@sports.anthonytoda
  y.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261129T210000Z
+DTEND:20261129T233000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

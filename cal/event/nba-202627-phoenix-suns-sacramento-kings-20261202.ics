@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-sacramento-kings-20261202@sports.anthonytoday.c
  om
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261203T020000Z
+DTEND:20261203T043000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

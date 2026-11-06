@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-new-orleans-pelicans-20261109@sports.a
  nthonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261110T030000Z
+DTEND:20261110T053000Z
+TRANSP:OPAQUE
 SUMMARY:New Orleans Pelicans @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

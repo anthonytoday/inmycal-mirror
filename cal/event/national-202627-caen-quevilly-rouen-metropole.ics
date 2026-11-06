@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-caen-quevilly-rouen-metropole@sports.anthonytoday.com
+DTSTAMP:20261106T025204Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Caen - Quevilly-Rouen Métropole
+DESCRIPTION:National\, Matchday 16\nKickoff time not announced yet.\nhttps:
+ //inmycal.com
+LOCATION:Stade Michel d'Ornano
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

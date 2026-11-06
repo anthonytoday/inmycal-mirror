@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-denver-nuggets-20261215@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261216T040000Z
+DTEND:20261216T063000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-milwaukee-bucks-20270122@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270123T030000Z
+DTEND:20270123T053000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

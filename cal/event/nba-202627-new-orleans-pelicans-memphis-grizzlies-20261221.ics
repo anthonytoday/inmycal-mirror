@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-memphis-grizzlies-20261221@sports.antho
  nytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261222T010000Z
+DTEND:20261222T033000Z
+TRANSP:OPAQUE
 SUMMARY:Memphis Grizzlies @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

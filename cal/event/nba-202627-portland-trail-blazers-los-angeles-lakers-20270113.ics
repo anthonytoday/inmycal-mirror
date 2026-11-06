@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-los-angeles-lakers-20270113@sports.an
  thonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20270114T030000Z
+DTEND:20270114T053000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

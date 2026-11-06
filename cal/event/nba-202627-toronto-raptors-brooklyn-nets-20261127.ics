@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-brooklyn-nets-20261127@sports.anthonytoday.c
  om
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261128T003000Z
+DTEND:20261128T030000Z
+TRANSP:OPAQUE
 SUMMARY:Brooklyn Nets @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

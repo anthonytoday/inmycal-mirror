@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-miami-heat-20270206@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270206T200000Z
+DTEND:20270206T223000Z
+TRANSP:OPAQUE
 SUMMARY:Miami Heat @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

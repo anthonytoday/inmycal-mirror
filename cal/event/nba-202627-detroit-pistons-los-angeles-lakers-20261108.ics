@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-los-angeles-lakers-20261108@sports.anthonyto
  day.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261108T230000Z
+DTEND:20261109T013000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

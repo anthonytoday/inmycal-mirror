@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-hertha-bsc-vfl-bochum@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-TRANSP:TRANSPARENT
+DTSTAMP:20261105T155555Z
+DTSTART:20270123T120000Z
+DTEND:20270123T135500Z
+TRANSP:OPAQUE
 SUMMARY:Hertha BSC - VfL Bochum
-DESCRIPTION:2. Bundesliga\, Matchday 18\nKickoff time not announced yet.\nh
- ttps://inmycal.com
+DESCRIPTION:2. Bundesliga\, Matchday 18\nhttps://inmycal.com
 LOCATION:Olympiastadion\, Berlin
 URL:https://inmycal.com/2-bundesliga/hertha-bsc/
 STATUS:CONFIRMED

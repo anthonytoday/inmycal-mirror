@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-charlotte-hornets-golden-state-warriors-20270205@sports.anth
  onytoday.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270206T000000Z
+DTEND:20270206T023000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Charlotte Hornets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Spectrum Center
 URL:https://inmycal.com/nba/charlotte-hornets/
 STATUS:CONFIRMED

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-jax-bal@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261106T071558Z
 DTSTART:20261106T011500Z
 DTEND:20261106T043000Z
 TRANSP:OPAQUE
-SUMMARY:Jacksonville Jaguars @ Baltimore Ravens
+SUMMARY:Jacksonville Jaguars @ Baltimore Ravens (33-10)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:M&T Bank Stadium
 URL:https://inmycal.com/nfl/baltimore-ravens/

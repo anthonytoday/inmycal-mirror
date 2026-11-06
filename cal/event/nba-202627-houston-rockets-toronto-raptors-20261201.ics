@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-toronto-raptors-20261201@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261202T013000Z
+DTEND:20261202T040000Z
+TRANSP:OPAQUE
 SUMMARY:Toronto Raptors @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-dallas-mavericks-20261216@sports.anthonytoday.
  com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261217T003000Z
+DTEND:20261217T030000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-minnesota-timberwolves-20261202@sports.
  anthonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261203T033000Z
+DTEND:20261203T060000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-brooklyn-nets-20261227@sports.anthonytoday.c
  om
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T061509Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+TRANSP:OPAQUE
 SUMMARY:Brooklyn Nets @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

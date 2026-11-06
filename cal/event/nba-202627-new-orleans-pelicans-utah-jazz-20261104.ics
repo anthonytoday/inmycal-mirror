@@ -6,11 +6,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-utah-jazz-20261104@sports.anthonytoday.
  com
-DTSTAMP:20261105T060709Z
+DTSTAMP:20261106T003438Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 TRANSP:TRANSPARENT
-SUMMARY:Utah Jazz @ New Orleans Pelicans
+SUMMARY:Utah Jazz @ New Orleans Pelicans (113-120)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/

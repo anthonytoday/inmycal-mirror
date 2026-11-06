@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-golden-state-warriors-20270213@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270214T013000Z
+DTEND:20270214T040000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

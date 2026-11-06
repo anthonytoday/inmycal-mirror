@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-golden-state-warriors-20261113@sports.anth
  onytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261114T023000Z
+DTEND:20261114T050000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

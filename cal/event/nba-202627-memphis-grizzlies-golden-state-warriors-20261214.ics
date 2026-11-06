@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-golden-state-warriors-20261214@sports.anth
  onytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261215T010000Z
+DTEND:20261215T033000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

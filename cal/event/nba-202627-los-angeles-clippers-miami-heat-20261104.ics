@@ -6,11 +6,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-miami-heat-20261104@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
+DTSTAMP:20261106T051441Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 TRANSP:TRANSPARENT
-SUMMARY:Miami Heat @ Los Angeles Clippers
+SUMMARY:Miami Heat @ Los Angeles Clippers (117-116)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/

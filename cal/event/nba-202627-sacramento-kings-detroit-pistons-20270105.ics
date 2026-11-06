@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-detroit-pistons-20270105@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20270106T030000Z
+DTEND:20270106T053000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

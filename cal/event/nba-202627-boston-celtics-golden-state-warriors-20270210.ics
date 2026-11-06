@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-boston-celtics-golden-state-warriors-20270210@sports.anthony
  today.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270211T003000Z
+DTEND:20270211T030000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Boston Celtics
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:TD Garden
 URL:https://inmycal.com/nba/boston-celtics/
 STATUS:CONFIRMED

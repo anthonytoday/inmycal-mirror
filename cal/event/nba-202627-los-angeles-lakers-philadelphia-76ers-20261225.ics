@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-philadelphia-76ers-20261225@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-TRANSP:TRANSPARENT
+DTSTAMP:20261105T105732Z
+DTSTART:20261225T220000Z
+DTEND:20261226T003000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Los Angeles Lakers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

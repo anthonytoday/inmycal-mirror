@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-golden-state-warriors-20261212@sports.an
  thonytoday.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261213T010000Z
+DTEND:20261213T033000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Cleveland Cavaliers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

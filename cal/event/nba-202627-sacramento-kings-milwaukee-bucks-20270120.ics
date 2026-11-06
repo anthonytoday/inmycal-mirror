@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-milwaukee-bucks-20270120@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270121T030000Z
+DTEND:20270121T053000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

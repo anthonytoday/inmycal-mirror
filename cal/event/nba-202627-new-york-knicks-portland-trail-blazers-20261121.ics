@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-portland-trail-blazers-20261121@sports.antho
  nytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261122T003000Z
+DTEND:20261122T030000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

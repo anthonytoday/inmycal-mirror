@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-portland-trail-blazers-20261113@sports.anth
  onytoday.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T022146Z
+DTSTART:20261114T030000Z
+DTEND:20261114T053000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

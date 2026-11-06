@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-san-antonio-spurs-20270202@sports.antho
  nytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270202
-DTEND;VALUE=DATE:20270203
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T041036Z
+DTSTART:20270203T033000Z
+DTEND:20270203T060000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

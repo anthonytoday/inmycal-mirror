@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-memphis-grizzlies-20261116@sports.anthony
  today.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261117T000000Z
+DTEND:20261117T023000Z
+TRANSP:OPAQUE
 SUMMARY:Memphis Grizzlies @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

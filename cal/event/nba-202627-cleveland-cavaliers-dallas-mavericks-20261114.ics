@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-dallas-mavericks-20261114@sports.anthony
  today.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261115T003000Z
+DTEND:20261115T030000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Cleveland Cavaliers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

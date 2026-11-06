@@ -6,11 +6,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-chicago-bulls-20261104@sports.anthonytoday.c
  om
-DTSTAMP:20261105T055836Z
+DTSTAMP:20261106T013708Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 TRANSP:TRANSPARENT
-SUMMARY:Chicago Bulls @ New York Knicks
+SUMMARY:Chicago Bulls @ New York Knicks (105-135)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/

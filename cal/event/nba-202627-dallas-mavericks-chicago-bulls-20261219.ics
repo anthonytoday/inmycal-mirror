@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-chicago-bulls-20261219@sports.anthonytoday.
  com
-DTSTAMP:20261105T075920Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261220T010000Z
+DTEND:20261220T033000Z
+TRANSP:OPAQUE
 SUMMARY:Chicago Bulls @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

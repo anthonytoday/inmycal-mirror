@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-denver-nuggets-20261231@sports.anthon
  ytoday.com
-DTSTAMP:20261105T075453Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20261231T210000Z
+DTEND:20261231T233000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

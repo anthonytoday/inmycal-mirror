@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-san-antonio-spurs-20261225@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261225T170000Z
+DTEND:20261225T193000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

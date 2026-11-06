@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-milwaukee-bucks-oklahoma-city-thunder-20261128@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261129T010000Z
+DTEND:20261129T033000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Milwaukee Bucks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Fiserv Forum
 URL:https://inmycal.com/nba/milwaukee-bucks/
 STATUS:CONFIRMED

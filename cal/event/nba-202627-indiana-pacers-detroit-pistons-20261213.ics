@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-detroit-pistons-20261213@sports.anthonytoday.
  com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20261213T220000Z
+DTEND:20261214T003000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Indiana Pacers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

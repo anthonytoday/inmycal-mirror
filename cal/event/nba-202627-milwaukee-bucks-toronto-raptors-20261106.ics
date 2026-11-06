@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-milwaukee-bucks-toronto-raptors-20261106@sports.anthonytoday
  .com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+TRANSP:OPAQUE
 SUMMARY:Toronto Raptors @ Milwaukee Bucks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Fiserv Forum
 URL:https://inmycal.com/nba/milwaukee-bucks/
 STATUS:CONFIRMED

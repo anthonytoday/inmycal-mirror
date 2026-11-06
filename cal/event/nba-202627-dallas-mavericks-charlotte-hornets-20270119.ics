@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-charlotte-hornets-20270119@sports.anthonyto
  day.com
-DTSTAMP:20261105T075920Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20270120T010000Z
+DTEND:20270120T033000Z
+TRANSP:OPAQUE
 SUMMARY:Charlotte Hornets @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:American Airlines Center
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:American Airlines Center\, Dallas
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

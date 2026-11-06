@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-philadelphia-76ers-20261230@sports.anthonytoday
  .com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261231T020000Z
+DTEND:20261231T043000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

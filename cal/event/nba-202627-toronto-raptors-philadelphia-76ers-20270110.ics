@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-philadelphia-76ers-20270110@sports.anthonyto
  day.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

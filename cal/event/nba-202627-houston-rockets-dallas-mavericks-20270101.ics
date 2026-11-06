@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-dallas-mavericks-20270101@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270102
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T035335Z
+DTSTART:20270102T013000Z
+DTEND:20270102T040000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

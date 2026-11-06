@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-minera-cartagena@sports.anthonytoday.com
+DTSTAMP:20261106T001559Z
+DTSTART:20261118T193000Z
+DTEND:20261118T212500Z
+TRANSP:OPAQUE
+SUMMARY:Minera - Cartagena [CDR]
+DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
+LOCATION:Ángel Celdrán\, Llano del Beal
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

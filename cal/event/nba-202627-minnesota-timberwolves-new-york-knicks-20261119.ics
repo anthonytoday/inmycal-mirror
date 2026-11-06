@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-new-york-knicks-20261119@sports.antho
  nytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261120T010000Z
+DTEND:20261120T033000Z
+TRANSP:OPAQUE
 SUMMARY:New York Knicks @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

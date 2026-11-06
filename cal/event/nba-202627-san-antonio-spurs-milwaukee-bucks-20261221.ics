@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-milwaukee-bucks-20261221@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261222T010000Z
+DTEND:20261222T033000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

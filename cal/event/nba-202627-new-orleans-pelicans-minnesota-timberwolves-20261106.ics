@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-minnesota-timberwolves-20261106@sports.
  anthonytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

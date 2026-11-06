@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-indiana-pacers-boston-celtics-20270330@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T060638Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+TRANSP:TRANSPARENT
+SUMMARY:Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Gainbridge Fieldhouse
+URL:https://inmycal.com/nba/indiana-pacers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

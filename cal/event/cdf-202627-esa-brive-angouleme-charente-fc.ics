@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-esa-brive-angouleme-charente-fc@sports.anthonytoday.com
+DTSTAMP:20261106T002300Z
+DTSTART:20261114T170000Z
+DTEND:20261114T185500Z
+TRANSP:OPAQUE
+SUMMARY:ESA Brive - Angoulême Charente FC [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade André Pestourie\, Brive-la-Gaillarde
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

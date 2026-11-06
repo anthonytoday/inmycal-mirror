@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-new-york-knicks-20261214@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T013708Z
+DTSTART:20261215T013000Z
+DTEND:20261215T040000Z
+TRANSP:OPAQUE
 SUMMARY:New York Knicks @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

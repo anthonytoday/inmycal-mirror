@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-boston-celtics-20270118@sports.anthonytod
  ay.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270119
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270118T200000Z
+DTEND:20270118T223000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

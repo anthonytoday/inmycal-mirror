@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-boston-celtics-minnesota-timberwolves-20270212@sports.anthon
  ytoday.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Boston Celtics
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:TD Garden
 URL:https://inmycal.com/nba/boston-celtics/
 STATUS:CONFIRMED

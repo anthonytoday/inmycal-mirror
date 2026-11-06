@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-new-york-knicks-20270108@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T061509Z
+DTSTART:20270109T030000Z
+DTEND:20270109T053000Z
+TRANSP:OPAQUE
 SUMMARY:New York Knicks @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

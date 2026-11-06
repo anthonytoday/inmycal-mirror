@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-miami-heat-20270210@sports.anthonytoday.c
  om
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T025300Z
+DTSTART:20270211T000000Z
+DTEND:20270211T023000Z
+TRANSP:OPAQUE
 SUMMARY:Miami Heat @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

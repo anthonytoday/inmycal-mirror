@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-dallas-mavericks-20270110@sports.anthonyto
  day.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T003438Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

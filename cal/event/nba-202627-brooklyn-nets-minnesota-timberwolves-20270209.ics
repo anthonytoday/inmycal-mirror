@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-minnesota-timberwolves-20270209@sports.anthony
  today.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T051441Z
+DTSTART:20270210T003000Z
+DTEND:20270210T030000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

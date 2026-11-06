@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-charlotte-hornets-20270127@sports.anthonyt
  oday.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T072001Z
+DTSTART:20270128T010000Z
+DTEND:20270128T033000Z
+TRANSP:OPAQUE
 SUMMARY:Charlotte Hornets @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED
