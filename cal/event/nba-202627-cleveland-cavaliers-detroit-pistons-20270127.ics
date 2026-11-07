@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-detroit-pistons-20270127@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270128T000000Z
+DTEND:20270128T023000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Cleveland Cavaliers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

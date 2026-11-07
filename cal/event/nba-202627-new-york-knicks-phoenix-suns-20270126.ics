@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-phoenix-suns-20270126@sports.anthonytoday.co
  m
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T122247Z
+DTSTART:20270127T003000Z
+DTEND:20270127T030000Z
+TRANSP:OPAQUE
 SUMMARY:Phoenix Suns @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

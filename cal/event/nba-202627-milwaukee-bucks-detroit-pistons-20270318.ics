@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-milwaukee-bucks-detroit-pistons-20270318@sports.anthonytoday
  .com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270319
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270319T000000Z
+DTEND:20270319T023000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Milwaukee Bucks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Fiserv Forum
 URL:https://inmycal.com/nba/milwaukee-bucks/
 STATUS:CONFIRMED

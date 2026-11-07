@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-san-antonio-spurs-20270305@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270306T023000Z
+DTEND:20270306T050000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

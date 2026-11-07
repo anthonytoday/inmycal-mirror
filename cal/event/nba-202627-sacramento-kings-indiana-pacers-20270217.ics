@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-sacramento-kings-indiana-pacers-20270217@sports.anthonytoday
+ .com
+DTSTAMP:20261107T061631Z
+DTSTART:20270218T030000Z
+DTEND:20270218T053000Z
+TRANSP:OPAQUE
+SUMMARY:Indiana Pacers @ Sacramento Kings
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Golden 1 Center
+URL:https://inmycal.com/nba/sacramento-kings/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

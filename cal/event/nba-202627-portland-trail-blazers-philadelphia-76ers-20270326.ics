@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-philadelphia-76ers-20270326@sports.an
  thonytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T005002Z
+DTSTART:20270327T020000Z
+DTEND:20270327T043000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

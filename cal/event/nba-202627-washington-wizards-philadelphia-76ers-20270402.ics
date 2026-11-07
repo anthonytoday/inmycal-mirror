@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-philadelphia-76ers-20270402@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T203551Z
+DTSTART:20270402T230000Z
+DTEND:20270403T013000Z
+TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

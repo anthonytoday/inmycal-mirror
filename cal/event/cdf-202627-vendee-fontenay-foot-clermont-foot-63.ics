@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-vendee-fontenay-foot-clermont-foot-63@sports.anthonytoday.co
+ m
+DTSTAMP:20261106T223501Z
+DTSTART:20261114T150000Z
+DTEND:20261114T165500Z
+TRANSP:OPAQUE
+SUMMARY:Vendée Fontenay Foot - Clermont Foot 63 [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Emmanuel Murzeau\, Fontenay-le-Comte
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

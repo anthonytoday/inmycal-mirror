@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-los-angeles-clippers-20270207@sports.anthon
  ytoday.com
-DTSTAMP:20261106T041036Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T061631Z
+DTSTART:20270207T213000Z
+DTEND:20270208T000000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

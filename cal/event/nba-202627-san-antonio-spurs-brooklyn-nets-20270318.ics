@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-brooklyn-nets-20270318@sports.anthonytoday
  .com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270319
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T015056Z
+DTSTART:20270319T000000Z
+DTEND:20270319T023000Z
+TRANSP:OPAQUE
 SUMMARY:Brooklyn Nets @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

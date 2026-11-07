@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-washington-wizards-20270314@sports.an
  thonytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270315
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T082038Z
+DTSTART:20270315T000000Z
+DTEND:20270315T023000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

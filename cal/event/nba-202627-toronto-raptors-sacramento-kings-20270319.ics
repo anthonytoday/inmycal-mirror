@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-sacramento-kings-20270319@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T015056Z
+DTSTART:20270319T233000Z
+DTEND:20270320T020000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

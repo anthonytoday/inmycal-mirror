@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-golden-state-warriors-20270314@sports.ant
  honytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270315
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270315T020000Z
+DTEND:20270315T043000Z
+TRANSP:OPAQUE
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

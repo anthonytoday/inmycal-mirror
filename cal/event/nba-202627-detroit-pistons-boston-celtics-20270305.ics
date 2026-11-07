@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-boston-celtics-20270305@sports.anthonytoday.
  com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-atlanta-hawks-20270320@sports.anthonyto
  day.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270321T023000Z
+DTEND:20270321T050000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

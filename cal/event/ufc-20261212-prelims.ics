@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261212-prelims@sports.anthonytoday.com
-DTSTAMP:20261106T004424Z
+DTSTAMP:20261107T053726Z
 DTSTART:20261212T230000Z
 DTEND:20261213T010000Z
 TRANSP:OPAQUE
 SUMMARY:UFC 335: Oliveira vs. Lopes (Prelims)
 DESCRIPTION:UFC\nPrelims. Estimated start (usual start for the region)\; th
  e official time replaces it once published.\nhttps://inmycal.com
-LOCATION:T-Mobile Arena\, Las Vegas\, Nevada\, U.S.
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

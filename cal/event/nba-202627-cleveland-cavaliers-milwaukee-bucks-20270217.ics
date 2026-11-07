@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-milwaukee-bucks-20270217@sports.anthonyt
  oday.com
-DTSTAMP:20261106T051441Z
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270218
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T062726Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Cleveland Cavaliers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

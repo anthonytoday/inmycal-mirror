@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-orlando-magic-20270401@sports.anthonytoday.co
  m
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+TRANSP:OPAQUE
 SUMMARY:Orlando Magic @ Indiana Pacers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-fc-cournon-d-auvergne-chassieu-decines-fc@sports.anthonytoda
+ y.com
+DTSTAMP:20261106T223501Z
+DTSTART:20261114T170000Z
+DTEND:20261114T185500Z
+TRANSP:OPAQUE
+SUMMARY:FC Cournon-d'Auvergne - Chassieu Décines FC [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Joseph et Michel Gardet\, Cournon-d'Auvergne
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

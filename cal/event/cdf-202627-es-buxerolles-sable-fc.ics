@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-es-buxerolles-sable-fc@sports.anthonytoday.com
+DTSTAMP:20261106T223501Z
+DTSTART:20261114T180000Z
+DTEND:20261114T195500Z
+TRANSP:OPAQUE
+SUMMARY:ES Buxerolles - Sablé FC [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade Michel-Amand\, Buxerolles\, Vienne
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-san-antonio-spurs-20261223@sports.anthonytoday
  .com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T132258Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+TRANSP:OPAQUE
 SUMMARY:San Antonio Spurs @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

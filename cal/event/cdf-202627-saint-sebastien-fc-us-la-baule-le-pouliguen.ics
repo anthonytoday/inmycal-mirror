@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-saint-sebastien-fc-us-la-baule-le-pouliguen@sports.anthonyto
+ day.com
+DTSTAMP:20261106T223501Z
+DTSTART:20261114T160000Z
+DTEND:20261114T175500Z
+TRANSP:OPAQUE
+SUMMARY:Saint Sébastien FC - US La Baule-Le Pouliguen [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade René Massé\, Saint-Sébastien-sur-Loire
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

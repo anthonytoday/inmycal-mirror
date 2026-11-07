@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-memphis-grizzlies-20270108@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270109T010000Z
+DTEND:20270109T033000Z
+TRANSP:OPAQUE
 SUMMARY:Memphis Grizzlies @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

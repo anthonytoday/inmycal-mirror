@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-phoenix-suns-20270406@sports.anthonyto
  day.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270407T030000Z
+DTEND:20270407T053000Z
+TRANSP:OPAQUE
 SUMMARY:Phoenix Suns @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

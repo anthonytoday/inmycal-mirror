@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-milwaukee-bucks-20270324@sports.anthony
  today.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270325T023000Z
+DTEND:20270325T050000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-cleveland-cavaliers-20270331@sports.anthonytod
  ay.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270331T233000Z
+DTEND:20270401T020000Z
+TRANSP:OPAQUE
 SUMMARY:Cleveland Cavaliers @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

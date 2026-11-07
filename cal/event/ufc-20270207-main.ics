@@ -5,13 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20270207-main@sports.anthonytoday.com
-DTSTAMP:20261106T004424Z
+DTSTAMP:20261107T053726Z
 DTSTART:20270207T020000Z
 DTEND:20270207T050000Z
 TRANSP:OPAQUE
-SUMMARY:UFC Fight Night: Salkilld vs. Saint Denis (Main card)
-DESCRIPTION:UFC\nMain card. Estimated start (usual start for the region)\; 
- the official time replaces it once published.\nhttps://inmycal.com
+SUMMARY:UFC Fight Night: Salkilld vs. Saint Denis
+DESCRIPTION:UFC\n\nMain card\n--------------------\n• Quillan Salkilld vs
+ . Benoît Saint Denis @155\n• Bogdan Guskov vs. Robert Whittaker @205\n
+ • Marwan Rahiki vs. Yoo Joo-sang @145\n• Kaan Ofli vs. Joanderson Brit
+ o @145\n\nhttps://www.ufc.com/event/ufc-fight-night-february-07-2027\n\nEs
+ timated start (usual start for the region)\; the official time replaces it
+  once published.\n\nhttps://inmycal.com\n\nAccurate as of 7 Nov 2026\, 05:
+ 37 UTC
 LOCATION:Afterpay Arena\, Sydney\, Australia
 URL:https://inmycal.com/
 STATUS:CONFIRMED

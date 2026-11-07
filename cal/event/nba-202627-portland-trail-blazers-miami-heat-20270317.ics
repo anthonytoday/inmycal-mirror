@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-miami-heat-20270317@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T112229Z
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+TRANSP:OPAQUE
 SUMMARY:Miami Heat @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

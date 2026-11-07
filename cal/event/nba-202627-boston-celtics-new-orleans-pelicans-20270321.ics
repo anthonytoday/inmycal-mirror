@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-boston-celtics-new-orleans-pelicans-20270321@sports.anthonyt
  oday.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270321
-DTEND;VALUE=DATE:20270322
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270321T190000Z
+DTEND:20270321T213000Z
+TRANSP:OPAQUE
 SUMMARY:New Orleans Pelicans @ Boston Celtics
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:TD Garden
 URL:https://inmycal.com/nba/boston-celtics/
 STATUS:CONFIRMED

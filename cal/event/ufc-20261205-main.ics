@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261205-main@sports.anthonytoday.com
-DTSTAMP:20261105T064312Z
+DTSTAMP:20261107T040541Z
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 TRANSP:OPAQUE
-SUMMARY:UFC Fight Night 295 (Main card)
+SUMMARY:UFC Fight Night 295
 DESCRIPTION:UFC\nMain card. Estimated start (usual start for the region)\; 
  the official time replaces it once published.\nhttps://inmycal.com
 LOCATION:anb Arena\, Riyadh\, Saudi Arabia

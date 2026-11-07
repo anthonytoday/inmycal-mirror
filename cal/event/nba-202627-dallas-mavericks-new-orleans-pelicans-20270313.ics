@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-new-orleans-pelicans-20270313@sports.anthon
  ytoday.com
-DTSTAMP:20261106T051441Z
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T062726Z
+DTSTART:20270314T010000Z
+DTEND:20270314T033000Z
+TRANSP:OPAQUE
 SUMMARY:New Orleans Pelicans @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

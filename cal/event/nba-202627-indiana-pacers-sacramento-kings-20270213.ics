@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-sacramento-kings-20270213@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270213T190000Z
+DTEND:20270213T213000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ Indiana Pacers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

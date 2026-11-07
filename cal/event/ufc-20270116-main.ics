@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20270116-main@sports.anthonytoday.com
-DTSTAMP:20261105T064312Z
+DTSTAMP:20261107T040541Z
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 TRANSP:OPAQUE
-SUMMARY:UFC Fight Night 296 (Main card)
+SUMMARY:UFC Fight Night 296
 DESCRIPTION:UFC\nMain card. Estimated start (usual start for the region)\; 
  the official time replaces it once published.\nhttps://inmycal.com
-LOCATION:American Airlines Center\, Dallas\, Texas\, U.S.
+LOCATION:American Airlines Center\, Dallas\, TX
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

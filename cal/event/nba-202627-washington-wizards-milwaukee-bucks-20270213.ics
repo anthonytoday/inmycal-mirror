@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-milwaukee-bucks-20270213@sports.anthonyto
  day.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T082038Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

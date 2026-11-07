@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-lakers-utah-jazz-20261123@sports.anthonytoday.co
+ m
+DTSTAMP:20261107T061631Z
+DTSTART:20261124T030000Z
+DTEND:20261124T053000Z
+TRANSP:OPAQUE
+SUMMARY:Utah Jazz @ Los Angeles Lakers
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Crypto.com Arena
+URL:https://inmycal.com/nba/los-angeles-lakers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

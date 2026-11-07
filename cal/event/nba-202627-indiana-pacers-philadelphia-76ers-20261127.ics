@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-indiana-pacers-philadelphia-76ers-20261127@sports.anthonytod
+ ay.com
+DTSTAMP:20261107T061631Z
+DTSTART:20261128T003000Z
+DTEND:20261128T030000Z
+TRANSP:OPAQUE
+SUMMARY:Philadelphia 76ers @ Indiana Pacers
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Gainbridge Fieldhouse
+URL:https://inmycal.com/nba/indiana-pacers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

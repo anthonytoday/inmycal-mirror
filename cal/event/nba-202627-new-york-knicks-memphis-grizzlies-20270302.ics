@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-memphis-grizzlies-20270302@sports.anthonytod
  ay.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270303
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T112229Z
+DTSTART:20270303T003000Z
+DTEND:20270303T030000Z
+TRANSP:OPAQUE
 SUMMARY:Memphis Grizzlies @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

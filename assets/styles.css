@@ -138,8 +138,8 @@ img.logo-img { border-radius: 0; }
 .ev-none { padding: 12px 20px 16px; color: var(--muted); font-size: 14px; list-style: none; }
 .note { padding: 10px 14px; border-radius: 12px; background: var(--amber-50); color: var(--amber); font-size: 14px; margin: 0 0 16px; }
 .card { background: var(--card); border: 1px solid var(--line-2); border-radius: var(--r-card); box-shadow: var(--shadow); }
-.two-col .ev { grid-template-columns: 112px minmax(0, 1fr) 84px minmax(0, 1fr) 72px; padding-left: 16px; padding-right: 16px; }
-.two-col .ev-solo { grid-template-columns: 112px minmax(0, 1fr) 84px 72px; }
+.two-col .ev { grid-template-columns: 112px minmax(0, 1fr) 84px minmax(0, 1fr) 112px; padding-left: 16px; padding-right: 16px; }
+.two-col .ev-solo { grid-template-columns: 112px minmax(0, 1fr) 84px minmax(0, 1fr) 112px; }
 .two-col .ev.ev-nocomp { grid-template-columns: minmax(0, 1fr) 84px minmax(0, 1fr) 72px; }
 .two-col .ev-solo.ev-nocomp { grid-template-columns: minmax(0, 1fr) 84px 72px; }
 .two-col .add > summary span { display: none; }
@@ -148,13 +148,19 @@ img.logo-img { border-radius: 0; }
 @media (min-width: 1101px) {
   /* Symmetric: an empty column on the left mirrors the Add button, so the match and the league line above it
      are centered on the time. */
-  .two-col .ev:not(.ev-nocomp):not(.ev-solo) { grid-template-columns: 72px minmax(0, 1fr) 84px minmax(0, 1fr) 72px; grid-template-areas: "comp comp comp comp comp" ". home mid away act"; row-gap: 4px; }
+  .two-col .ev:not(.ev-nocomp):not(.ev-solo) { grid-template-columns: 112px minmax(0, 1fr) 84px minmax(0, 1fr) 112px; grid-template-areas: "comp comp comp comp comp" ". home mid away act"; row-gap: 4px; }
   .two-col .ev:not(.ev-nocomp):not(.ev-solo) .ev-comp { grid-area: comp; justify-self: center; }
   .two-col .ev:not(.ev-nocomp):not(.ev-solo) .ev-comp span { display: flex; gap: 6px; align-items: baseline; }
   .two-col .ev:not(.ev-nocomp):not(.ev-solo) .ev-team.home { grid-area: home; }
   .two-col .ev:not(.ev-nocomp):not(.ev-solo) .ev-team.away { grid-area: away; }
   .two-col .ev:not(.ev-nocomp):not(.ev-solo) .ev-mid { grid-area: mid; }
   .two-col .ev:not(.ev-nocomp):not(.ev-solo) .ev-act { grid-area: act; }
+  .two-col li.ev.ev-bout:not(.ev-nocomp):not(.ev-solo) { grid-template-areas: "comp comp comp comp comp" ". home mid away act" ". sub sub sub act"; }
+  .two-col li.ev.ev-bout.ev-hascard:not(.ev-nocomp):not(.ev-solo) { grid-template-areas: "comp comp comp comp comp" ". card card card act" ". home mid away act" ". sub sub sub act"; }
+  .two-col li.ev.ev-wk.ev-wk.ev-wk:not(.ev-nocomp) { grid-template-areas: "comp comp comp comp comp" ". title title title act"; }
+  .two-col li.ev.ev-solo:not(.ev-nocomp) { grid-template-columns: 112px minmax(0, 1fr) 84px minmax(0, 1fr) 112px; grid-template-areas: "comp comp comp comp comp" ". title title title act"; row-gap: 4px; }
+  .two-col li.ev.ev-solo:not(.ev-nocomp) .ev-comp { justify-self: center; }
+  .two-col li.ev.ev-solo:not(.ev-nocomp) .ev-comp span { display: flex; gap: 6px; align-items: baseline; }
 }
 /* Desktop: a long name wraps to a second line instead of being cut. Phones keep one line per team. */
 @media (min-width: 861px) {
@@ -260,14 +266,19 @@ img.logo-img { border-radius: 0; }
 .day-chips button[aria-pressed="true"] { background: var(--blue-50); border-color: var(--blue-150); color: var(--blue); }
 .evlist { list-style: none; margin: 0; padding: 0; }
 .ev-day { padding: 12px 20px 6px; border-top: 1px solid var(--line); }
+/* Only the step from today to tomorrow is marked; other dates keep the plain heading. */
+.ev-day.ev-day-next { margin-top: 10px; border-top: 2px solid var(--line-2); padding-top: 14px; }
 .ev-day:first-child { border-top: 0; }
 .ev-day h3 { font-size: 14px; display: flex; align-items: center; gap: 8px; }
 .ev-day h3::before { content: ''; width: 3px; height: 14px; border-radius: 2px; background: var(--ink); }
-.ev { display: grid; grid-template-columns: 150px minmax(0, 1fr) 92px minmax(0, 1fr) 84px; align-items: center; gap: 10px; padding: 10px 20px; border-top: 1px solid var(--line); }
+.ev { display: grid; grid-template-columns: 164px minmax(0, 1fr) 92px minmax(0, 1fr) 164px; align-items: center; gap: 10px; padding: 10px 20px; border-top: 1px solid var(--line); }
 .ev:hover { background: var(--surface); }
-.ev-solo { grid-template-columns: 150px minmax(0, 1fr) 92px 84px; }
+.ev-solo { grid-template-columns: 164px minmax(0, 1fr) 92px minmax(0, 1fr) 164px; grid-template-areas: "comp title title title act"; }
+.ev-solo > .ev-comp { grid-area: comp; } .ev-solo > .ev-title { grid-area: title; } .ev-solo > .ev-act { grid-area: act; }
 .ev.ev-nocomp { grid-template-columns: minmax(0, 1fr) 92px minmax(0, 1fr) 84px; }
+.ev-nocomp > .ev-team.home { grid-area: home; } .ev-nocomp > .ev-team.away { grid-area: away; } .ev-nocomp > .ev-mid { grid-area: mid; } .ev-nocomp > .ev-act { grid-area: act; } .ev-nocomp > .ev-rd { grid-area: rd; }
 .ev-solo.ev-nocomp { grid-template-columns: minmax(0, 1fr) 92px 84px; }
+.ev-nocomp > .ev-title { grid-area: title; }
 .ev-comp { display: flex; align-items: center; gap: 8px; min-width: 0; }
 .ev-comp span { display: grid; min-width: 0; line-height: 1.25; }
 .ev-comp b { font-size: 13px; color: var(--ink); font-weight: 600; }
@@ -556,9 +567,6 @@ body.embed { background: transparent; margin: 0; }
 .side-search { width: 100%; height: 36px; margin: 4px 0 10px; padding: 0 12px; border-radius: 10px; border: 1px solid var(--line-2); background: var(--surface); color: var(--ink); font: inherit; font-size: 14px; }
 
 /* Fight rows: logo-only promotion column, fighters with initials badges, prelims time below */
-.ev.ev-fight { grid-template-columns: 36px minmax(0, 1fr) 84px 84px; }
-.two-col .ev.ev-fight { grid-template-columns: 32px minmax(0, 1fr) 76px 72px; }
-.ev-fight.ev-nocomp, .two-col .ev-fight.ev-nocomp { grid-template-columns: minmax(0, 1fr) 76px 72px; }
 .ev-comp-logo { display: flex; align-items: center; }
 .ftrs { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-weight: 600; }
 .ftr { display: inline-flex; align-items: center; gap: 8px; }
@@ -586,8 +594,8 @@ body.embed { background: transparent; margin: 0; }
 .sport-ico { color: inherit; }
 
 /* Fights laid out like matches: fighter, time, fighter centered; card and venue below; two Adds for UFC */
-.ev.ev-bout { grid-template-columns: 36px minmax(0, 1fr) 48px minmax(0, 1fr) auto; grid-template-areas: "comp home mid away act" "comp sub sub sub act"; row-gap: 2px; }
-.ev-bout.ev-nocomp { grid-template-columns: minmax(0, 1fr) 48px minmax(0, 1fr) auto; grid-template-areas: "home mid away act" "sub sub sub act"; }
+.ev.ev-bout { grid-template-areas: "comp home mid away act" "comp sub sub sub act"; row-gap: 2px; }
+.ev-bout.ev-nocomp { grid-template-areas: ". home mid away act" ". sub sub sub act"; }
 .ev-bout .ev-comp { grid-area: comp; }
 .ev-bout .ev-team.home { grid-area: home; justify-content: flex-end; text-align: right; font-weight: 600; }
 .ev-bout .ev-team.away { grid-area: away; font-weight: 600; }
@@ -599,16 +607,19 @@ body.embed { background: transparent; margin: 0; }
 .bout-times small { font-size: 11px; color: var(--muted); }
 /* A numbered UFC card ("UFC 334") heads its row; the main-event weight class leads the small line */
 .ev.ev-bout.ev-hascard { grid-template-areas: "comp card card card act" "comp home mid away act" "comp sub sub sub act"; }
-.ev-bout.ev-nocomp.ev-hascard { grid-template-areas: "card card card act" "home mid away act" "sub sub sub act"; }
+.ev-bout.ev-nocomp.ev-hascard { grid-template-areas: ". card card card act" ". home mid away act" ". sub sub sub act"; }
 .ev-bout .bout-card { grid-area: card; text-align: center; font-size: 13px; font-weight: 800; letter-spacing: .04em; color: var(--ink, inherit); }
 .ev-act2 { display: grid; gap: 4px; justify-items: end; }
 .bout-vs { color: var(--muted); font-size: 13px; font-weight: 600; }
-/* F1 weekend: one row per Grand Prix, sessions stacked on the right like a UFC card's Main card and Prelims */
-li.ev.ev-wk.ev-wk.ev-wk { grid-template-columns: 150px minmax(0, 1fr) auto; grid-template-areas: "comp title act"; }
-li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "title act"; }
+/* F1 weekend and fight cards without headliners: the name centered like a match, each session with its time
+   beside its Add on the right (same columns as every other row, so the center line holds) */
+li.ev.ev-wk.ev-wk.ev-wk { grid-template-areas: "comp title title title act"; }
+li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-areas: ". title title title act"; }
+.ev-wk .ev-title { text-align: center; }
 .ev-wk .ev-comp { grid-area: comp; } .ev-wk .ev-title { grid-area: title; } .ev-wk .ev-act { grid-area: act; }
 @media (max-width: 860px) {
   li.ev.ev-wk.ev-wk.ev-wk, li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: minmax(0, 1fr); grid-template-areas: "comp" "title" "act"; }
+  .ev-wk .ev-title { text-align: left; }
   .ev-wk .ev-act2 { justify-items: start; }
 }
 .act-line { display: inline-flex; align-items: center; gap: 8px; }
@@ -617,7 +628,7 @@ li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: minmax(0, 1fr) auto; 
 .ev-act2 .add > summary { height: 30px; padding: 0 10px; font-size: 12px; }
 @media (max-width: 860px) {
   .ev.ev-bout { grid-template-columns: minmax(0, 1fr) auto auto; grid-template-areas: "comp comp comp" "home mid act" "away mid act" "sub sub sub"; }
-  .ev-bout .ev-team.home { justify-content: flex-start; text-align: left; flex-direction: row-reverse; }
+  .ev-bout .ev-team.home { justify-content: flex-end; text-align: left; flex-direction: row-reverse; }
   .ev-bout .bout-sub { text-align: left; }
   .ev.ev-bout.ev-hascard { grid-template-areas: "comp comp comp" "card card card" "home mid act" "away mid act" "sub sub sub"; }
   .ev-bout .bout-card { text-align: left; }
@@ -627,3 +638,41 @@ li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: minmax(0, 1fr) auto; 
 .sub-choice { display: grid; gap: 6px; margin: 4px 0 12px; }
 .sub-choice label { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border: 1px solid var(--line-2); border-radius: 10px; font-size: 14px; cursor: pointer; }
 .sub-choice label:has(input:checked) { border-color: var(--blue); background: var(--blue-50); color: var(--blue); }
+
+/* F1 page: one block per Grand Prix. The heading names the race once; each session row shows its day on the
+   left, then name | time | Add on the match center line. The race row is bold. */
+.ev-gp h3 { flex-wrap: wrap; row-gap: 2px; }
+.ev-gp h3 small { font-size: 12px; font-weight: 400; color: var(--muted); margin-left: 4px; }
+.ev.ev-nocomp.ev-sess { grid-template-areas: "day home mid away act"; }
+.ev-sess > .ev-sday { grid-area: day; font-size: 13px; color: var(--muted); }
+.ev-sess .ev-team.home { font-weight: 500; }
+.ev-sess.ev-race .ev-team.home, .ev-sess.ev-race .ev-mid { font-weight: 700; }
+/* Small print at the bottom of a page */
+.fine { font-size: 12px; color: var(--muted); margin: 4px 4px 0; }
+@media (max-width: 860px) {
+  .ev.ev-nocomp.ev-sess, .two-col .ev.ev-nocomp.ev-sess { grid-template-columns: 84px minmax(0, 1fr) auto auto; grid-template-areas: "day home mid act"; }
+}
+
+/* Desktop center line. Every row has equal widths on its left and right edges, so its center sits in the
+   middle of the card whatever the row type: the league column mirrors the Add column, and rows without a
+   league (league pages) get an empty left column as wide as their Add side. Each type takes only the width
+   its right side needs, so team names keep their room on pages with a right rail. */
+@media (min-width: 861px) {
+  .ev.ev-nocomp { grid-template-columns: 84px minmax(0, 1fr) 92px minmax(0, 1fr) 84px; grid-template-areas: ". home mid away act"; }
+  .ev.ev-nocomp.ev-hasrd { grid-template-areas: "rd rd rd rd rd" ". home mid away act"; }
+  .ev.ev-solo.ev-nocomp { grid-template-columns: 136px minmax(0, 1fr) 92px minmax(0, 1fr) 136px; grid-template-areas: ". title title title act"; }
+  .ev.ev-solo.ev-nocomp.ev-hasrd { grid-template-areas: "rd rd rd rd rd" ". title title title act"; }
+  .ev-solo > .ev-title { text-align: center; }
+  li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: 136px minmax(0, 1fr) 92px minmax(0, 1fr) 136px; }
+  /* Fights: "vs" needs less room than a time, so the names get it; the center line is unchanged. */
+  .ev.ev-bout { grid-template-columns: 164px minmax(0, 1fr) 44px minmax(0, 1fr) 164px; }
+  .two-col .ev.ev-bout { grid-template-columns: 112px minmax(0, 1fr) 44px minmax(0, 1fr) 112px; }
+  .ev.ev-bout.ev-nocomp { grid-template-columns: 128px minmax(0, 1fr) 44px minmax(0, 1fr) 128px; }
+  .ev.ev-bout.ev-nocomp { grid-template-areas: ". home mid away act" ". sub sub sub act"; }
+  .ev.ev-bout.ev-nocomp.ev-hascard { grid-template-areas: ". card card card act" ". home mid away act" ". sub sub sub act"; }
+  .ev.ev-nocomp.ev-sess { grid-template-columns: 96px minmax(0, 1fr) 92px minmax(0, 1fr) 96px; }
+  .two-col .ev.ev-nocomp { grid-template-columns: 72px minmax(0, 1fr) 84px minmax(0, 1fr) 72px; }
+  .two-col .ev.ev-solo.ev-nocomp { grid-template-columns: 96px minmax(0, 1fr) 84px minmax(0, 1fr) 96px; }
+  .two-col li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: 96px minmax(0, 1fr) 84px minmax(0, 1fr) 96px; }
+  .two-col .ev.ev-bout.ev-nocomp { grid-template-columns: 96px minmax(0, 1fr) 44px minmax(0, 1fr) 96px; }
+}

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-brooklyn-nets-memphis-grizzlies-20270328@sports.anthonytoday
  .com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270328T190000Z
+DTEND:20270328T213000Z
+TRANSP:OPAQUE
 SUMMARY:Memphis Grizzlies @ Brooklyn Nets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Barclays Center
 URL:https://inmycal.com/nba/brooklyn-nets/
 STATUS:CONFIRMED

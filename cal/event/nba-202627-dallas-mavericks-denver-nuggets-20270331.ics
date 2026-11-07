@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-denver-nuggets-20270331@sports.anthonytoday
  .com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270401T013000Z
+DTEND:20270401T040000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

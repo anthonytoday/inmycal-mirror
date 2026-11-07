@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-los-angeles-lakers-20270328@sports.anthonyto
  day.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270328T190000Z
+DTEND:20270328T213000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Houston Rockets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

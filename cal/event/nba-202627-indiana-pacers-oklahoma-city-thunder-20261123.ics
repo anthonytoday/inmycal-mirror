@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-oklahoma-city-thunder-20261123@sports.anthony
  today.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Indiana Pacers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

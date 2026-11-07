@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-toronto-raptors-20270228@sports.anthonytoday.
  com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270228T210000Z
+DTEND:20270228T233000Z
+TRANSP:OPAQUE
 SUMMARY:Toronto Raptors @ Indiana Pacers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

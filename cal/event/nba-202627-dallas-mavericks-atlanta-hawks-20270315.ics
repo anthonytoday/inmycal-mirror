@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-atlanta-hawks-20270315@sports.anthonytoday.
  com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270316
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270316T013000Z
+DTEND:20270316T040000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center\, Dallas
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

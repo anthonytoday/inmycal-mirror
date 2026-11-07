@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-portland-trail-blazers-20270120@sports.anthony
  today.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T072001Z
+DTSTART:20270121T000000Z
+DTEND:20270121T023000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Atlanta Hawks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

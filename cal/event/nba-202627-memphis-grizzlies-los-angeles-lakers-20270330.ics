@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-los-angeles-lakers-20270330@sports.anthony
  today.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270331T000000Z
+DTEND:20270331T023000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

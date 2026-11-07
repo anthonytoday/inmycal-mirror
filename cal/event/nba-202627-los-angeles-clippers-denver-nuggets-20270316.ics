@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-denver-nuggets-20270316@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270317
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270317T030000Z
+DTEND:20270317T053000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

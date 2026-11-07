@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-washington-wizards-20270302@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270303
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T203551Z
+DTSTART:20270303T030000Z
+DTEND:20270303T053000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

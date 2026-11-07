@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-toronto-raptors-20270325@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270326T020000Z
+DTEND:20270326T043000Z
+TRANSP:OPAQUE
 SUMMARY:Toronto Raptors @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

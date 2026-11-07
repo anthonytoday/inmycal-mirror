@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-oklahoma-city-thunder-20270304@sports.antho
  nytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T122247Z
+DTSTART:20270305T030000Z
+DTEND:20270305T053000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

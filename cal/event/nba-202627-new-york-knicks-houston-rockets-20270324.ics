@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-houston-rockets-20270324@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270324T233000Z
+DTEND:20270325T020000Z
+TRANSP:OPAQUE
 SUMMARY:Houston Rockets @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

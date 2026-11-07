@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-oklahoma-city-thunder-20270310@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T122247Z
+DTSTART:20270311T003000Z
+DTEND:20270311T030000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-charlotte-hornets-20261226@sports.anthonytoday
  .com
-DTSTAMP:20261105T094004Z
-DTSTART:20261226T203000Z
-DTEND:20261226T230000Z
-TRANSP:OPAQUE
+DTSTAMP:20261105T054100Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
 SUMMARY:Charlotte Hornets @ Atlanta Hawks
-DESCRIPTION:NBA\nhttps://inmycal.com
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

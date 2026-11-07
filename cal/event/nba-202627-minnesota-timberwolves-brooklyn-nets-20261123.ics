@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-brooklyn-nets-20261123@sports.anthony
  today.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T112229Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+TRANSP:OPAQUE
 SUMMARY:Brooklyn Nets @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

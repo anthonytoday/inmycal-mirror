@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-portland-trail-blazers-20270305@sports.antho
  nytoday.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T132258Z
+DTSTART:20270306T003000Z
+DTEND:20270306T030000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-phoenix-suns-20261226@sports.anthonytoday.c
  om
-DTSTAMP:20261106T061509Z
+DTSTAMP:20261107T053711Z
 DTSTART:20261227T010000Z
 DTEND:20261227T033000Z
 TRANSP:OPAQUE
 SUMMARY:Phoenix Suns @ Dallas Mavericks
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:American Airlines Center
+LOCATION:American Airlines Center\, Dallas
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-houston-rockets-20270325@sports.anthonytoday
  .com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+TRANSP:OPAQUE
 SUMMARY:Houston Rockets @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-toronto-raptors-20270312@sports.anthony
  today.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270312
-DTEND;VALUE=DATE:20270313
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T112229Z
+DTSTART:20270313T010000Z
+DTEND:20270313T033000Z
+TRANSP:OPAQUE
 SUMMARY:Toronto Raptors @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

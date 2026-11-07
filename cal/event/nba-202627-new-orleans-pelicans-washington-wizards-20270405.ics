@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-washington-wizards-20270405@sports.anth
  onytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270406
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T203551Z
+DTSTART:20270406T000000Z
+DTEND:20270406T023000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

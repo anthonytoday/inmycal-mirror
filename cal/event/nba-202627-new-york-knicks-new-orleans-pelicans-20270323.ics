@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-new-orleans-pelicans-20270323@sports.anthony
  today.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270324
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270323T233000Z
+DTEND:20270324T020000Z
+TRANSP:OPAQUE
 SUMMARY:New Orleans Pelicans @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

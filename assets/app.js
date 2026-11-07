@@ -45,7 +45,7 @@
       var d = new Date(el.getAttribute('data-utc'));
       if (isNaN(d)) return;
       var mode = el.getAttribute('data-mode');
-      el.textContent = mode === 'full' ? fullFmt.format(d) : mode === 'wd' ? wdFmt.format(d) : timeFmt.format(d);
+      el.textContent = mode === 'full' ? fullFmt.format(d) : mode === 'wd' ? wdFmt.format(d) : mode === 'day' ? dayName(localDay(d)) : timeFmt.format(d);
     });
     document.querySelectorAll('time[data-date]').forEach(function (el) {
       el.textContent = el.getAttribute('data-mode') === 'full' ? dayName(el.getAttribute('data-date')) + ' · TBC' : 'TBC';
@@ -112,8 +112,43 @@
     });
   }
 
+  // F1 page: the list stays grouped by Grand Prix. Rows only learn their local day, and the day chips hide
+  // the sessions of other days (and a Grand Prix heading with no session left).
+  function gpChips(list) {
+    var rows = [].slice.call(list.querySelectorAll('li.ev[data-utc]'));
+    var order = [];
+    rows.forEach(function (r) {
+      var d = localDay(new Date(r.getAttribute('data-utc')));
+      r.setAttribute('data-local-day', d);
+      if (order.indexOf(d) < 0) order.push(d);
+    });
+    order.sort();
+    var chips = list.previousElementSibling;
+    if (!chips || !chips.hasAttribute('data-day-chips') || order.length < 2) return;
+    chips.innerHTML = '';
+    var mk = function (label, day) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = label;
+      b.setAttribute('aria-pressed', day ? 'false' : 'true');
+      b.addEventListener('click', function () {
+        chips.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        rows.forEach(function (r) { r.hidden = !!day && r.getAttribute('data-local-day') !== day; });
+        list.querySelectorAll('li.ev-gp').forEach(function (h) {
+          var k = h.getAttribute('data-gp');
+          h.hidden = !rows.some(function (r) { return r.getAttribute('data-gp') === k && !r.hidden; });
+        });
+      });
+      chips.appendChild(b);
+    };
+    mk('All', '');
+    order.slice(0, 5).forEach(function (day) { mk(rel(day), day); });
+    chips.hidden = false;
+  }
+
   function regroup() {
     document.querySelectorAll('[data-evlist]').forEach(function (list) {
+      if (list.getAttribute('data-by') === 'gp') { gpChips(list); return; }
       splitWeekends(list);
       var rows = [].slice.call(list.querySelectorAll('li.ev'));
       if (!rows.length) return;
@@ -130,7 +165,7 @@
       list.innerHTML = '';
       order.forEach(function (day) {
         var h = document.createElement('li');
-        h.className = 'ev-day';
+        h.className = rel(day) === 'Tomorrow' ? 'ev-day ev-day-next' : 'ev-day';
         h.setAttribute('data-day', day);
         var t = document.createElement('h3');
         t.textContent = rel(day) === dayName(day) ? dayName(day) : rel(day) + ' · ' + dayName(day);

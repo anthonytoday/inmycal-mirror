@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-washington-wizards-phoenix-suns-20270215@sports.anthonytoday
  .com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270215
-DTEND;VALUE=DATE:20270216
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T082038Z
+DTSTART:20270216T000000Z
+DTEND:20270216T023000Z
+TRANSP:OPAQUE
 SUMMARY:Phoenix Suns @ Washington Wizards
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Capital One Arena
 URL:https://inmycal.com/nba/washington-wizards/
 STATUS:CONFIRMED

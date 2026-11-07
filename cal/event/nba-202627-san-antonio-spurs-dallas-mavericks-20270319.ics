@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-dallas-mavericks-20270319@sports.anthonyto
  day.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270320T000000Z
+DTEND:20270320T023000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

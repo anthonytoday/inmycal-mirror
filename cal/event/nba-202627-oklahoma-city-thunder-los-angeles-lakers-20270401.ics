@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-oklahoma-city-thunder-los-angeles-lakers-20270401@sports.ant
+ honytoday.com
+DTSTAMP:20261107T061631Z
+DTSTART:20270402T013000Z
+DTEND:20270402T040000Z
+TRANSP:OPAQUE
+SUMMARY:Los Angeles Lakers @ Oklahoma City Thunder
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Paycom Center
+URL:https://inmycal.com/nba/oklahoma-city-thunder/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

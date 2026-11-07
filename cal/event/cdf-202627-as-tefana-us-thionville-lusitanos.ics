@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cdf-202627-as-tefana-us-thionville-lusitanos@sports.anthonytoday.com
-DTSTAMP:20261105T045710Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T223501Z
+DTSTART:20261114T100000Z
+DTEND:20261114T115500Z
+TRANSP:OPAQUE
 SUMMARY:AS Tefana - US Thionville Lusitanos [CDF]
-DESCRIPTION:Coupe de France\, Round 7\nKickoff time not announced yet.\nhtt
- ps://inmycal.com
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
 LOCATION:Stade Louis Ganivet\, Faʼaʼā\, Tahiti
 URL:https://inmycal.com/
 STATUS:CONFIRMED

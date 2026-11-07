@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-phoenix-suns-20270317@sports.anthonytoday
  .com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+TRANSP:OPAQUE
 SUMMARY:Phoenix Suns @ Los Angeles Lakers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

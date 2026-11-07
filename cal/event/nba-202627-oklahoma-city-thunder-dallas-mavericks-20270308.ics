@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-dallas-mavericks-20270308@sports.antho
  nytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270309T023000Z
+DTEND:20270309T050000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

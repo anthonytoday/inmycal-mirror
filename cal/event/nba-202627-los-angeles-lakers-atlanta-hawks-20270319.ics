@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-atlanta-hawks-20270319@sports.anthonytoda
  y.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270320T020000Z
+DTEND:20270320T043000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Los Angeles Lakers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

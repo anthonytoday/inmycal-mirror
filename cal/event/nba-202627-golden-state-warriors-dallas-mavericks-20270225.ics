@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-dallas-mavericks-20270225@sports.antho
  nytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270225
-DTEND;VALUE=DATE:20270226
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270226T030000Z
+DTEND:20270226T053000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

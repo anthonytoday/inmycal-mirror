@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-milwaukee-bucks-20270228@sports.anthonytoday
  .com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T112229Z
+DTSTART:20270301T003000Z
+DTEND:20270301T030000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

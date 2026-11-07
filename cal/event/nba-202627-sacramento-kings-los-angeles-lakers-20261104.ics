@@ -6,11 +6,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-los-angeles-lakers-20261104@sports.anthonyt
  oday.com
-DTSTAMP:20261106T072001Z
+DTSTAMP:20261107T061631Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 TRANSP:TRANSPARENT
-SUMMARY:Los Angeles Lakers @ Sacramento Kings (112-98)
+SUMMARY:Los Angeles Lakers @ Sacramento Kings (116-103)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/

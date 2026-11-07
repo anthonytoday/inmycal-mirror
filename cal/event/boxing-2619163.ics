@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:boxing-2619163@sports.anthonytoday.com
-DTSTAMP:20261105T070822Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T042027Z
+DTSTART:20261126T100000Z
+DTEND:20261126T140000Z
+TRANSP:OPAQUE
 SUMMARY:Masamichi Yabuki vs Miel Fajardo
-DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
- y.\nhttps://inmycal.com
-LOCATION:Ebara Wave Arena\, OtaKu\, Tokyo\, Japan
+DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
+ time replaces it once published.\nhttps://inmycal.com
+LOCATION:Ebara Wave Arena\, Tokyo\, Japan
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

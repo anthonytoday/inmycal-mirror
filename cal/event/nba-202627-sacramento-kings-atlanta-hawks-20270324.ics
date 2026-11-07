@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-atlanta-hawks-20270324@sports.anthonytoday.
  com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T015056Z
+DTSTART:20270325T020000Z
+DTEND:20270325T043000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

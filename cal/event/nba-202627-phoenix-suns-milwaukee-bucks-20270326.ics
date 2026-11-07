@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-milwaukee-bucks-20270326@sports.anthonytoday.co
  m
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270327T020000Z
+DTEND:20270327T043000Z
+TRANSP:OPAQUE
 SUMMARY:Milwaukee Bucks @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

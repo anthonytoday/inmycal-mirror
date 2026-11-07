@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-orleans-pelicans-los-angeles-clippers-20270214@sports.an
  thonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270214
-DTEND;VALUE=DATE:20270215
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270214T190000Z
+DTEND:20270214T213000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ New Orleans Pelicans
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Smoothie King Center
 URL:https://inmycal.com/nba/new-orleans-pelicans/
 STATUS:CONFIRMED

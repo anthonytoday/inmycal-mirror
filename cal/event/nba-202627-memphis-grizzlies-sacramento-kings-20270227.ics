@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-sacramento-kings-20270227@sports.anthonyto
  day.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270228T010000Z
+DTEND:20270228T033000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

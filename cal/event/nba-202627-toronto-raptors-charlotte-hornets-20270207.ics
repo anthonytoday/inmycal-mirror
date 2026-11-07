@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-charlotte-hornets-20270207@sports.anthonytod
  ay.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T015056Z
+DTSTART:20270207T230000Z
+DTEND:20270208T013000Z
+TRANSP:OPAQUE
 SUMMARY:Charlotte Hornets @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

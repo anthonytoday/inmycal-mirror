@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-detroit-pistons-20270314@sports.anthonytoday
  .com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270315
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270314T210000Z
+DTEND:20270314T233000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

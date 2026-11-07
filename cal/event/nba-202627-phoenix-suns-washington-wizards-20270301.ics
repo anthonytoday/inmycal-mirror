@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-washington-wizards-20270301@sports.anthonytoday
  .com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270302
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T082038Z
+DTSTART:20270302T023000Z
+DTEND:20270302T050000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

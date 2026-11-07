@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-new-york-knicks-20270207@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T005002Z
+DTSTART:20270208T023000Z
+DTEND:20270208T050000Z
+TRANSP:OPAQUE
 SUMMARY:New York Knicks @ Oklahoma City Thunder
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-usc-paray-foot-fc-villefranche-beaujolais@sports.anthonytoda
+ y.com
+DTSTAMP:20261106T223501Z
+DTSTART:20261114T170000Z
+DTEND:20261114T185500Z
+TRANSP:OPAQUE
+SUMMARY:USC Paray-Foot - FC Villefranche Beaujolais [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Stade des Sables\, Paray-le-Monial
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-utah-jazz-memphis-grizzlies-20261026@sports.anthonytoday.com
+DTSTAMP:20261107T062726Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Memphis Grizzlies @ Utah Jazz (110-105)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Delta Center
+URL:https://inmycal.com/nba/utah-jazz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

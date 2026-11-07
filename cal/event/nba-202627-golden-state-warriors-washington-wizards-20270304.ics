@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-washington-wizards-20270304@sports.ant
  honytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T203551Z
+DTSTART:20270305T030000Z
+DTEND:20270305T053000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-oklahoma-city-thunder-20270320@sports.anth
  onytoday.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270321T000000Z
+DTEND:20270321T023000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

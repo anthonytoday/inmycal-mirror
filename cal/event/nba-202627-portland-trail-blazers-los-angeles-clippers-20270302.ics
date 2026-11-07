@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-los-angeles-clippers-20270302@sports.
  anthonytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270303
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270303T040000Z
+DTEND:20270303T063000Z
+TRANSP:OPAQUE
 SUMMARY:Los Angeles Clippers @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-milwaukee-bucks-washington-wizards-20270225@sports.anthonyto
  day.com
-DTSTAMP:20261106T051441Z
-DTSTART;VALUE=DATE:20270225
-DTEND;VALUE=DATE:20270226
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T062726Z
+DTSTART:20270226T010000Z
+DTEND:20270226T033000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Milwaukee Bucks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Fiserv Forum
 URL:https://inmycal.com/nba/milwaukee-bucks/
 STATUS:CONFIRMED

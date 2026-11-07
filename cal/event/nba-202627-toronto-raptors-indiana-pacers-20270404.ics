@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-indiana-pacers-20270404@sports.anthonytoday.
  com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270404T193000Z
+DTEND:20270404T220000Z
+TRANSP:OPAQUE
 SUMMARY:Indiana Pacers @ Toronto Raptors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED

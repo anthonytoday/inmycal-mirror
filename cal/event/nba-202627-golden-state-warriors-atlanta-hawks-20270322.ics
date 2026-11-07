@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-atlanta-hawks-20270322@sports.anthonyt
  oday.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270323T020000Z
+DTEND:20270323T043000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Golden State Warriors
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

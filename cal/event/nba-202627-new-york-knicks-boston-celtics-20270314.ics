@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-new-york-knicks-boston-celtics-20270314@sports.anthonytoday.
  com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270315
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T122247Z
+DTSTART:20270314T160000Z
+DTEND:20270314T183000Z
+TRANSP:OPAQUE
 SUMMARY:Boston Celtics @ New York Knicks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Madison Square Garden
 URL:https://inmycal.com/nba/new-york-knicks/
 STATUS:CONFIRMED

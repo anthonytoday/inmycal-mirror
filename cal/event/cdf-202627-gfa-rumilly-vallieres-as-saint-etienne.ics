@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-gfa-rumilly-vallieres-as-saint-etienne@sports.anthonytoday.c
+ om
+DTSTAMP:20261106T223501Z
+DTSTART:20261115T140000Z
+DTEND:20261115T155500Z
+TRANSP:OPAQUE
+SUMMARY:GFA Rumilly-Vallières - AS Saint-Étienne [CDF]
+DESCRIPTION:Coupe de France\, Round 7\nhttps://inmycal.com
+LOCATION:Parc des Sports d'Annecy\, Annecy
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

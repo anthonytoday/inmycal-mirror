@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-san-antonio-spurs-sacramento-kings-20270406@sports.anthonyto
  day.com
-DTSTAMP:20261105T060722Z
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T015056Z
+DTSTART:20270407T000000Z
+DTEND:20270407T023000Z
+TRANSP:OPAQUE
 SUMMARY:Sacramento Kings @ San Antonio Spurs
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Frost Bank Center
 URL:https://inmycal.com/nba/san-antonio-spurs/
 STATUS:CONFIRMED

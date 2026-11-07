@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-indiana-pacers-20270407@sports.anthonytoday.
  com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270407T230000Z
+DTEND:20270408T013000Z
+TRANSP:OPAQUE
 SUMMARY:Indiana Pacers @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

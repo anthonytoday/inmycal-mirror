@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-portland-trail-blazers-20261106@sports.an
  thonytoday.com
-DTSTAMP:20261106T022146Z
-DTSTART:20261107T030000Z
-DTEND:20261107T053000Z
-TRANSP:OPAQUE
-SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261107T061631Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Portland Trail Blazers @ Los Angeles Lakers (118-124)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

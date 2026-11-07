@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:boxing-2607375@sports.anthonytoday.com
-DTSTAMP:20261105T065607Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T042027Z
+DTSTART:20261107T190000Z
+DTEND:20261107T230000Z
+TRANSP:OPAQUE
 SUMMARY:Joshua Buatsi vs Willy Hutchinson 2
-DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
- y.\nhttps://inmycal.com
-LOCATION:AO Arena\, Manchester\, Lancashire\, England\, United Kingdom
+DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
+ time replaces it once published.\nhttps://inmycal.com
+LOCATION:AO Arena\, Manchester\, UK
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

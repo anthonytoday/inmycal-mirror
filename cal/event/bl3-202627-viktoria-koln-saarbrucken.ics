@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-viktoria-koln-saarbrucken@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
+DTSTAMP:20261106T222440Z
 DTSTART:20261106T180000Z
 DTEND:20261106T195500Z
 TRANSP:OPAQUE
-SUMMARY:Viktoria Köln - Saarbrücken
+SUMMARY:Viktoria Köln - Saarbrücken (5-3)
 DESCRIPTION:3. Liga\, Matchday 13\nhttps://inmycal.com
 LOCATION:Sportpark Höhenberg\, Cologne
 URL:https://inmycal.com/3-liga/viktoria-koln/

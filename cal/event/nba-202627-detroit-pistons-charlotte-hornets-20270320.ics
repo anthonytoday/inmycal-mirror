@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-charlotte-hornets-20270320@sports.anthonytod
  ay.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270321T000000Z
+DTEND:20270321T023000Z
+TRANSP:OPAQUE
 SUMMARY:Charlotte Hornets @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

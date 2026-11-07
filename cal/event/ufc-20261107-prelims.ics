@@ -5,14 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261107-prelims@sports.anthonytoday.com
-DTSTAMP:20261106T004424Z
+DTSTAMP:20261107T053726Z
 DTSTART:20261107T230000Z
 DTEND:20261108T010000Z
 TRANSP:OPAQUE
 SUMMARY:UFC Fight Night: Cortes-Acosta vs. Walker (Prelims)
-DESCRIPTION:UFC\nPrelims. Estimated start (usual start for the region)\; th
- e official time replaces it once published.\nhttps://inmycal.com
-LOCATION:Meta Apex\, Las Vegas\, Nevada\, U.S.
+DESCRIPTION:UFC\n\nPrelims (2 hrs before the main card)\n------------------
+ --\n• Keiichiro Nakamura vs. Ollie Schmid @145\n• Gabriel Lorenço vs.
+  Thomas Petersen @265\n• Karine Silva vs. Gabriella Fernandes @125\n• 
+ José Mauro Delano vs. Murtazali Magomedov @145\n• Austin Bashi vs. Carl
+ os Calderon @145\n• Mantas Kondratavičius vs. Andre Petroski @185\n• 
+ Ko Seok-hyeon vs. Wellington Turman @170\n• Jonny Parsons vs. José Henr
+ ique Souza @170\n\nMain card follows: Waldo Cortes-Acosta vs. Johnny Walke
+ r\n\nhttps://www.ufc.com/event/ufc-fight-night-november-07-2026\n\nEstimat
+ ed start (usual start for the region)\; the official time replaces it once
+  published.\n\nhttps://inmycal.com\n\nAccurate as of 7 Nov 2026\, 05:37 UT
+ C
+LOCATION:Meta Apex\, Las Vegas\, NV
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-philadelphia-76ers-20261106@sports.antho
  nytoday.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261107T003000Z
-DTEND:20261107T030000Z
-TRANSP:OPAQUE
-SUMMARY:Philadelphia 76ers @ Cleveland Cavaliers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261107T035143Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Cleveland Cavaliers (95-119)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-washington-wizards-20270311@sports.anthonyt
  oday.com
-DTSTAMP:20261106T035335Z
-DTSTART;VALUE=DATE:20270311
-DTEND;VALUE=DATE:20270312
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T053711Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+TRANSP:OPAQUE
 SUMMARY:Washington Wizards @ Dallas Mavericks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:American Airlines Center\, Dallas
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

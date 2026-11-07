@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-denver-nuggets-20270308@sports.anthonytoday
  .com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270309
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270309T030000Z
+DTEND:20270309T053000Z
+TRANSP:OPAQUE
 SUMMARY:Denver Nuggets @ Sacramento Kings
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

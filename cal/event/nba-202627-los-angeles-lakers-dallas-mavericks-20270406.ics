@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-dallas-mavericks-20270406@sports.anthonyt
  oday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T213611Z
+DTSTART:20270407T020000Z
+DTEND:20270407T043000Z
+TRANSP:OPAQUE
 SUMMARY:Dallas Mavericks @ Los Angeles Lakers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

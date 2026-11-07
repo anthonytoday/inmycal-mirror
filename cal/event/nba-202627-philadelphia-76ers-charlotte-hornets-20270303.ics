@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-charlotte-hornets-20270303@sports.anthony
  today.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T005002Z
+DTSTART:20270304T000000Z
+DTEND:20270304T023000Z
+TRANSP:OPAQUE
 SUMMARY:Charlotte Hornets @ Philadelphia 76ers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

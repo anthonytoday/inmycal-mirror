@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-clippers-brooklyn-nets-20270304@sports.anthonyto
  day.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T224722Z
+DTSTART:20270305T033000Z
+DTEND:20270305T060000Z
+TRANSP:OPAQUE
 SUMMARY:Brooklyn Nets @ Los Angeles Clippers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Intuit Dome
 URL:https://inmycal.com/nba/los-angeles-clippers/
 STATUS:CONFIRMED

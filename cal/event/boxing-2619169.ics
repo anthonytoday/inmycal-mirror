@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:boxing-2619169@sports.anthonytoday.com
-DTSTAMP:20261105T065607Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T042027Z
+DTSTART:20270123T180000Z
+DTEND:20270123T220000Z
+TRANSP:OPAQUE
 SUMMARY:Jacob Bank vs Janibek Alimkhanuly
-DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
- y.\nhttps://inmycal.com
+DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
+ time replaces it once published.\nhttps://inmycal.com
 LOCATION:Horsens Kommune\, Horsens\, Denmark
 URL:https://inmycal.com/
 STATUS:CONFIRMED

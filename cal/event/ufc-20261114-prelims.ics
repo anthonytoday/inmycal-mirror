@@ -5,13 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261114-prelims@sports.anthonytoday.com
-DTSTAMP:20261106T004424Z
+DTSTAMP:20261107T053726Z
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 TRANSP:OPAQUE
 SUMMARY:UFC 334: Gane vs. Hokit (Prelims)
-DESCRIPTION:UFC\nPrelims. Start time from TheSportsDB.\nhttps://inmycal.com
-LOCATION:Madison Square Garden\, New York City\, New York\, U.S.
+DESCRIPTION:UFC\n\nPrelims (2 hrs before the main card)\n------------------
+ --\n• Stephen Thompson vs. Charles Radtke @170\n• Drew Dober vs. Chris
+  Duncan @155\n• Jim Miller vs. Terrance McKinney @155\n• Donte Johnson
+  vs. César Almeida @185\n• Jared Gordon vs. Melquizael Costa @155\n• 
+ Macy Chiasson vs. Beatriz Mesquita @135\n• Evan Elder vs. Samuel Sanches
+  @155\n\nMain card follows: Ciryl Gane (c) vs. Josh Hokit\n\nhttps://www.u
+ fc.com/event/ufc-334\n\nStart time from TheSportsDB.\n\nhttps://inmycal.co
+ m\n\nAccurate as of 7 Nov 2026\, 05:37 UTC
+LOCATION:Madison Square Garden\, NYC
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-minnesota-timberwolves-20270124@sports.antho
  nytoday.com
-DTSTAMP:20261105T060318Z
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270124T230000Z
+DTEND:20270125T013000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Detroit Pistons
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

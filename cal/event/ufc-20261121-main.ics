@@ -5,13 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261121-main@sports.anthonytoday.com
-DTSTAMP:20261106T004424Z
+DTSTAMP:20261107T053726Z
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 TRANSP:OPAQUE
-SUMMARY:UFC Fight Night: Procházka vs. Stirling (Main card)
-DESCRIPTION:UFC\nMain card. Estimated start (usual start for the region)\; 
- the official time replaces it once published.\nhttps://inmycal.com
+SUMMARY:UFC Fight Night: Procházka vs. Stirling
+DESCRIPTION:UFC\n\nMain card\n--------------------\n• Jiří Procházka v
+ s. Navajo Stirling @205\n• Aljamain Sterling vs. Kevin Vallejos @145\n
+ • Dan Hooker vs. Brian Ortega @155\n• Kyoji Horiguchi vs. Asu Almabaye
+ v @125\n• Jared Cannonier vs. Ikram Aliskerov @185\n\nPrelims (2 hrs bef
+ ore the main card\, its own entry): 4 bouts\n\nhttps://www.ufc.com/event/u
+ fc-fight-night-november-21-2026\n\nEstimated start (usual start for the re
+ gion)\; the official time replaces it once published.\n\nhttps://inmycal.c
+ om\n\nAccurate as of 7 Nov 2026\, 05:37 UTC
 LOCATION:Ali Bin Hamad al-Attiyah Arena\, Al Rayyan\, Qatar
 URL:https://inmycal.com/
 STATUS:CONFIRMED

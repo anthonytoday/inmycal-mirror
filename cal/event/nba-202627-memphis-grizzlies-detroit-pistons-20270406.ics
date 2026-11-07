@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-detroit-pistons-20270406@sports.anthonytod
  ay.com
-DTSTAMP:20261106T051441Z
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T062726Z
+DTSTART:20270407T000000Z
+DTEND:20270407T023000Z
+TRANSP:OPAQUE
 SUMMARY:Detroit Pistons @ Memphis Grizzlies
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

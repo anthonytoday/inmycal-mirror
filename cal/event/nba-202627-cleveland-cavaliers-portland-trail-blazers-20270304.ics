@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-portland-trail-blazers-20270304@sports.a
  nthonytoday.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T092153Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+TRANSP:OPAQUE
 SUMMARY:Portland Trail Blazers @ Cleveland Cavaliers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

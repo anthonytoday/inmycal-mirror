@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-los-angeles-lakers-oklahoma-city-thunder-20270306@sports.ant
  honytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270307T013000Z
+DTEND:20270307T040000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
 STATUS:CONFIRMED

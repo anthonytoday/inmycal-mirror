@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-oklahoma-city-thunder-20270323@sports.anthonyto
  day.com
-DTSTAMP:20261105T060716Z
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270324
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T005002Z
+DTSTART:20270324T030000Z
+DTEND:20270324T053000Z
+TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Phoenix Suns
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

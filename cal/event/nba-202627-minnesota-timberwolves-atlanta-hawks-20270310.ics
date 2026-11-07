@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-atlanta-hawks-20270310@sports.anthony
  today.com
-DTSTAMP:20261105T054100Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T112229Z
+DTSTART:20270311T023000Z
+DTEND:20270311T050000Z
+TRANSP:OPAQUE
 SUMMARY:Atlanta Hawks @ Minnesota Timberwolves
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

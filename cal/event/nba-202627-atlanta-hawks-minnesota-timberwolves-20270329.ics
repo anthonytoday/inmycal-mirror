@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-minnesota-timberwolves-20270329@sports.anthony
  today.com
-DTSTAMP:20261105T060709Z
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T234759Z
+DTSTART:20270329T230000Z
+DTEND:20270330T013000Z
+TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Atlanta Hawks
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-indiana-pacers-20270218@sports.anthon
  ytoday.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270219
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270219T030000Z
+DTEND:20270219T053000Z
+TRANSP:OPAQUE
 SUMMARY:Indiana Pacers @ Portland Trail Blazers
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

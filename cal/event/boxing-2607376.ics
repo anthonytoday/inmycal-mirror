@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:boxing-2607376@sports.anthonytoday.com
-DTSTAMP:20261105T070822Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
+DTSTAMP:20261107T042027Z
+DTSTART:20261109T010000Z
+DTEND:20261109T050000Z
+TRANSP:OPAQUE
 SUMMARY:MVPW 07 Turhan vs Baumgardner
-DESCRIPTION:Boxing\nStart time not published yet\; check the card on the da
- y.\nhttps://inmycal.com
-LOCATION:College Park Center\, Arlington\, Texas\, United States
+DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
+ time replaces it once published.\nhttps://inmycal.com
+LOCATION:College Park Center\, Arlington\, TX
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

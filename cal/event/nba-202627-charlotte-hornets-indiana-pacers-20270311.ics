@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-charlotte-hornets-indiana-pacers-20270311@sports.anthonytoda
  y.com
-DTSTAMP:20261105T060638Z
-DTSTART;VALUE=DATE:20270311
-DTEND;VALUE=DATE:20270312
-TRANSP:TRANSPARENT
+DTSTAMP:20261106T102212Z
+DTSTART:20270312T000000Z
+DTEND:20270312T023000Z
+TRANSP:OPAQUE
 SUMMARY:Indiana Pacers @ Charlotte Hornets
-DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Spectrum Center
 URL:https://inmycal.com/nba/charlotte-hornets/
 STATUS:CONFIRMED
