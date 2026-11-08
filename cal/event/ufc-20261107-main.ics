@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261107-main@sports.anthonytoday.com
-DTSTAMP:20261107T053726Z
+DTSTAMP:20261107T190026Z
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 TRANSP:OPAQUE
@@ -18,7 +18,7 @@ DESCRIPTION:UFC\n\nMain card\n--------------------\n• Waldo Cortes-Acosta
  wn entry): 8 bouts\n\nhttps://www.ufc.com/event/ufc-fight-night-november-0
  7-2026\n\nEstimated start (usual start for the region)\; the official time
   replaces it once published.\n\nhttps://inmycal.com\n\nAccurate as of 7 No
- v 2026\, 05:37 UTC
+ v 2026\, 19:00 UTC
 LOCATION:Meta Apex\, Las Vegas\, NV
 URL:https://inmycal.com/
 STATUS:CONFIRMED

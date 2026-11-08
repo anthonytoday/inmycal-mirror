@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-golden-state-warriors-orlando-magic-20261107@sports.anthonyt
  oday.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261108T013000Z
-DTEND:20261108T040000Z
-TRANSP:OPAQUE
-SUMMARY:Orlando Magic @ Golden State Warriors
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261108T061300Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Orlando Magic @ Golden State Warriors (119-126)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Chase Center
 URL:https://inmycal.com/nba/golden-state-warriors/
 STATUS:CONFIRMED

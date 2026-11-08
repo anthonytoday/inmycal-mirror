@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-orlando-city-fc-cincinnati@sports.anthonytoday.com
+DTSTAMP:20261108T000824Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Orlando City - FC Cincinnati
+DESCRIPTION:MLS\, Eastern Conference\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Inter.co Stadium\, Orlando\, FL
+URL:https://inmycal.com/mls/orlando-city/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

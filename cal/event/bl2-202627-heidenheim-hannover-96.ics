@@ -5,12 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-heidenheim-hannover-96@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART:20261108T123000Z
-DTEND:20261108T142500Z
-TRANSP:OPAQUE
+DTSTAMP:20261107T214517Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
 SUMMARY:Heidenheim - Hannover 96
-DESCRIPTION:2. Bundesliga\, Matchday 11\nhttps://inmycal.com
+DESCRIPTION:2. Bundesliga\, Matchday 11\nKickoff time not announced yet.\nh
+ ttps://inmycal.com
 LOCATION:Voith-Arena\, Heidenheim
 URL:https://inmycal.com/2-bundesliga/heidenheim/
 STATUS:CONFIRMED

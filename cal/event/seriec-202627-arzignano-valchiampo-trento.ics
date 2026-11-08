@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:seriec-202627-arzignano-valchiampo-trento@sports.anthonytoday.com
-DTSTAMP:20261105T055748Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T005302Z
+DTSTART:20261129T113000Z
+DTEND:20261129T132500Z
+TRANSP:OPAQUE
 SUMMARY:Arzignano Valchiampo - Trento
-DESCRIPTION:Serie C\, 16ª giornata (Girone A)\nKickoff time not announced 
- yet.\nhttps://inmycal.com
+DESCRIPTION:Serie C\, 16ª giornata (Girone A)\nhttps://inmycal.com
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

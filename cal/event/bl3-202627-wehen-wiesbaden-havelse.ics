@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-wehen-wiesbaden-havelse@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
+DTSTAMP:20261107T154203Z
 DTSTART:20261107T130000Z
 DTEND:20261107T145500Z
 TRANSP:OPAQUE
-SUMMARY:Wehen Wiesbaden - TSV Havelse
+SUMMARY:Wehen Wiesbaden - TSV Havelse (3-0)
 DESCRIPTION:3. Liga\, Matchday 13\nhttps://inmycal.com
 LOCATION:Brita-Arena\, Wiesbaden
 URL:https://inmycal.com/3-liga/wehen-wiesbaden/
