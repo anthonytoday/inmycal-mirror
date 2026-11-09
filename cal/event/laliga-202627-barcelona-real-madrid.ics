@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-barcelona-real-madrid@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261025T200000Z
+DTEND:20261025T215500Z
+TRANSP:OPAQUE
 SUMMARY:Barcelona - Real Madrid
-DESCRIPTION:La Liga\, Matchday 10\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 10\nhttps://inmycal.com
 LOCATION:Spotify Camp Nou\, Barcelona
 URL:https://inmycal.com/la-liga/barcelona/
 STATUS:CONFIRMED

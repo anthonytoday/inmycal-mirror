@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-cannes-aubagne-air-bel@sports.anthonytoday.com
+DTSTAMP:20261109T002641Z
+DTSTART:20261121T134500Z
+DTEND:20261121T154000Z
+TRANSP:OPAQUE
+SUMMARY:Cannes - Aubagne Air Bel
+DESCRIPTION:National\, Matchday 13\nhttps://inmycal.com
+LOCATION:Stade Pierre-de-Coubertin Cannes
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

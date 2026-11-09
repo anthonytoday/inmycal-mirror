@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-valencia-real-madrid@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261107T200000Z
+DTEND:20261107T215500Z
+TRANSP:OPAQUE
 SUMMARY:Valencia - Real Madrid
-DESCRIPTION:La Liga\, Matchday 12\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 12\nhttps://inmycal.com
 LOCATION:Mestalla\, Valencia
 URL:https://inmycal.com/la-liga/valencia/
 STATUS:CONFIRMED

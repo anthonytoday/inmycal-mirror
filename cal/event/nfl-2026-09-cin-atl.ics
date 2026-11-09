@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-cin-atl@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T001936Z
 DTSTART:20261108T143000Z
 DTEND:20261108T174500Z
 TRANSP:OPAQUE
-SUMMARY:Cincinnati Bengals @ Atlanta Falcons
+SUMMARY:Cincinnati Bengals @ Atlanta Falcons (34-17)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:Bernabeu
 URL:https://inmycal.com/nfl/atlanta-falcons/

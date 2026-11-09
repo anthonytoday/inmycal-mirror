@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-rayo-vallecano-elche@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261024T120000Z
+DTEND:20261024T135500Z
+TRANSP:OPAQUE
 SUMMARY:Rayo Vallecano - Elche
-DESCRIPTION:La Liga\, Matchday 10\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 10\nhttps://inmycal.com
 LOCATION:Estadio de Vallecas\, Madrid
 URL:https://inmycal.com/la-liga/rayo-vallecano/
 STATUS:CONFIRMED

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-hou-lac@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T032029Z
 DTSTART:20261108T210500Z
 DTEND:20261109T002000Z
 TRANSP:OPAQUE
-SUMMARY:Houston Texans @ Los Angeles Chargers
+SUMMARY:Houston Texans @ Los Angeles Chargers (44-22)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:SoFi Stadium
 URL:https://inmycal.com/nfl/los-angeles-chargers/

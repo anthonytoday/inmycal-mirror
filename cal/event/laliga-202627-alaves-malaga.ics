@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-alaves-malaga@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261023T190000Z
+DTEND:20261023T205500Z
+TRANSP:OPAQUE
 SUMMARY:Alavés - Málaga
-DESCRIPTION:La Liga\, Matchday 10\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 10\nhttps://inmycal.com
 LOCATION:Mendizorrotza\, Vitoria-Gasteiz
 URL:https://inmycal.com/la-liga/alaves/
 STATUS:CONFIRMED

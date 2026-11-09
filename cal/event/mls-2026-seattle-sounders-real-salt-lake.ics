@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-seattle-sounders-real-salt-lake@sports.anthonytoday.com
+DTSTAMP:20261108T080609Z
+DTSTART:20261120T030000Z
+DTEND:20261120T045500Z
+TRANSP:OPAQUE
+SUMMARY:Seattle Sounders - Real Salt Lake
+DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
+LOCATION:Lumen Field\, Seattle\, WA
+URL:https://inmycal.com/mls/seattle-sounders/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

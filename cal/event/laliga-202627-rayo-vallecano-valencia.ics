@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-rayo-vallecano-valencia@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261121T151500Z
+DTEND:20261121T171000Z
+TRANSP:OPAQUE
 SUMMARY:Rayo Vallecano - Valencia
-DESCRIPTION:La Liga\, Matchday 13\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 13\nhttps://inmycal.com
 LOCATION:Estadio de Vallecas\, Madrid
 URL:https://inmycal.com/la-liga/rayo-vallecano/
 STATUS:CONFIRMED

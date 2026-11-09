@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-real-sociedad-rayo-vallecano@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261108T151500Z
+DTEND:20261108T171000Z
+TRANSP:OPAQUE
 SUMMARY:Real Sociedad - Rayo Vallecano
-DESCRIPTION:La Liga\, Matchday 12\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 12\nhttps://inmycal.com
 LOCATION:Anoeta\, San Sebastián
 URL:https://inmycal.com/la-liga/real-sociedad/
 STATUS:CONFIRMED

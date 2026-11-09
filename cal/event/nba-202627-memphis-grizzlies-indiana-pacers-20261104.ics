@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-indiana-pacers-20261104@sports.anthonytoda
  y.com
-DTSTAMP:20261108T071309Z
+DTSTAMP:20261109T031838Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 TRANSP:TRANSPARENT
 SUMMARY:Indiana Pacers @ Memphis Grizzlies (107-103)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:FedExForum
+LOCATION:FedEx Forum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED
 END:VEVENT

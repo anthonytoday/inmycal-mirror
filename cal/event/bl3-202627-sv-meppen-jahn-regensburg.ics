@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-sv-meppen-jahn-regensburg@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
+DTSTAMP:20261108T153415Z
 DTSTART:20261108T123000Z
 DTEND:20261108T142500Z
 TRANSP:OPAQUE
-SUMMARY:SV Meppen - Jahn Regensburg
+SUMMARY:SV Meppen - Jahn Regensburg (2-1)
 DESCRIPTION:3. Liga\, Matchday 13\nhttps://inmycal.com
 LOCATION:Hänsch-Arena\, Meppen
 URL:https://inmycal.com/3-liga/sv-meppen/

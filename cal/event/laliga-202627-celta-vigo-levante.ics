@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-celta-vigo-levante@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261108T173000Z
+DTEND:20261108T192500Z
+TRANSP:OPAQUE
 SUMMARY:Celta Vigo - Levante
-DESCRIPTION:La Liga\, Matchday 12\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 12\nhttps://inmycal.com
 LOCATION:Balaídos\, Vigo
 URL:https://inmycal.com/la-liga/celta-vigo/
 STATUS:CONFIRMED

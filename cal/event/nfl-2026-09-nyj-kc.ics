@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-nyj-kc@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T001936Z
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
 TRANSP:OPAQUE
-SUMMARY:New York Jets @ Kansas City Chiefs
+SUMMARY:New York Jets @ Kansas City Chiefs (12-35)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:GEHA Field at Arrowhead Stadium
 URL:https://inmycal.com/nfl/kansas-city-chiefs/

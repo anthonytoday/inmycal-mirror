@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-la-was@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T001936Z
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
 TRANSP:OPAQUE
-SUMMARY:Los Angeles Rams @ Washington Commanders
+SUMMARY:Los Angeles Rams @ Washington Commanders (20-13)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:Northwest Stadium
 URL:https://inmycal.com/nfl/washington-commanders/

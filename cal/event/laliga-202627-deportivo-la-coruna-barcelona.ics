@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-deportivo-la-coruna-barcelona@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261129T151500Z
+DTEND:20261129T171000Z
+TRANSP:OPAQUE
 SUMMARY:Deportivo La Coruña - Barcelona
-DESCRIPTION:La Liga\, Matchday 14\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 14\nhttps://inmycal.com
 LOCATION:Riazor\, A Coruña
 URL:https://inmycal.com/la-liga/deportivo-la-coruna/
 STATUS:CONFIRMED

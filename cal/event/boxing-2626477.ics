@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2626477@sports.anthonytoday.com
+DTSTAMP:20261108T170234Z
+DTSTART:20261112T233000Z
+DTEND:20261113T033000Z
+TRANSP:OPAQUE
+SUMMARY:Jhon Orobio vs Hendri Cedeno
+DESCRIPTION:Boxing\nStart: main card (TheSportsDB). The end time is an esti
+ mate.\nhttps://inmycal.com
+LOCATION:Montreal Casino\, Montreal\, Canada
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

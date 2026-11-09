@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-chicago-bulls-philadelphia-76ers-20261108@sports.anthonytoda
  y.com
-DTSTAMP:20261108T051219Z
-DTSTART:20261108T203000Z
-DTEND:20261108T230000Z
-TRANSP:OPAQUE
-SUMMARY:Philadelphia 76ers @ Chicago Bulls
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261109T014420Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Chicago Bulls (127-121)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:United Center
 URL:https://inmycal.com/nba/chicago-bulls/
 STATUS:CONFIRMED

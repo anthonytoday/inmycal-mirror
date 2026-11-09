@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-phoenix-suns-new-orleans-pelicans-20270227@sports.anthonytod
+ ay.com
+DTSTAMP:20261109T014054Z
+DTSTART:20270228T020000Z
+DTEND:20270228T043000Z
+TRANSP:OPAQUE
+SUMMARY:New Orleans Pelicans @ Phoenix Suns
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Mortgage Matchup Center
+URL:https://inmycal.com/nba/phoenix-suns/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

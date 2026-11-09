@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-det-mia@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T001936Z
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
 TRANSP:OPAQUE
-SUMMARY:Detroit Lions @ Miami Dolphins
+SUMMARY:Detroit Lions @ Miami Dolphins (19-9)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:Hard Rock Stadium
 URL:https://inmycal.com/nfl/miami-dolphins/

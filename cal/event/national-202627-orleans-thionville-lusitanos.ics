@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-orleans-thionville-lusitanos@sports.anthonytoday.com
+DTSTAMP:20261109T002641Z
+DTSTART:20261123T194500Z
+DTEND:20261123T214000Z
+TRANSP:OPAQUE
+SUMMARY:Orléans - Thionville Lusitanos
+DESCRIPTION:National\, Matchday 13\nhttps://inmycal.com
+LOCATION:Stade de la Source
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

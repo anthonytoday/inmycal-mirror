@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-new-york-knicks-20261107@sports.anthonyt
  oday.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261108T010000Z
-DTEND:20261108T033000Z
-TRANSP:OPAQUE
-SUMMARY:New York Knicks @ Cleveland Cavaliers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261108T112527Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:New York Knicks @ Cleveland Cavaliers (109-97)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED

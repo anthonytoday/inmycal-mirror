@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efl1-202627-oxford-united-sheffield-wednesday@sports.anthonytoday.com
+DTSTAMP:20261108T164437Z
+DTSTART:20261201T194500Z
+DTEND:20261201T214000Z
+TRANSP:OPAQUE
+SUMMARY:Oxford United - Sheffield Wednesday
+DESCRIPTION:League One\, Matchday 18\nhttps://inmycal.com
+LOCATION:The Kassam Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

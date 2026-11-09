@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-denver-nuggets-20261107@sports.anthonytoday.c
  om
-DTSTAMP:20261106T035335Z
-DTSTART:20261107T220000Z
-DTEND:20261108T003000Z
-TRANSP:OPAQUE
-SUMMARY:Denver Nuggets @ Indiana Pacers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261108T112527Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Denver Nuggets @ Indiana Pacers (114-102)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Mexico City Arena
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

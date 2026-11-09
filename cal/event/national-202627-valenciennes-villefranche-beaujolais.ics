@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-valenciennes-villefranche-beaujolais@sports.anthonytoda
+ y.com
+DTSTAMP:20261109T002641Z
+DTSTART:20261205T134500Z
+DTEND:20261205T154000Z
+TRANSP:OPAQUE
+SUMMARY:Valenciennes - Villefranche Beaujolais
+DESCRIPTION:National\, Matchday 14\nhttps://inmycal.com
+LOCATION:Stade du Hainaut
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

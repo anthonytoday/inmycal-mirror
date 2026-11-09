@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-gb-ne@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T032029Z
 DTSTART:20261108T212500Z
 DTEND:20261109T004000Z
 TRANSP:OPAQUE
-SUMMARY:Green Bay Packers @ New England Patriots
+SUMMARY:Green Bay Packers @ New England Patriots (45-27)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:Gillette Stadium
 URL:https://inmycal.com/nfl/new-england-patriots/

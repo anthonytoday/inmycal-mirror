@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-miami-heat-orlando-magic-20270411@sports.anthonytoday.com
+DTSTAMP:20261109T014054Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:Orlando Magic @ Miami Heat
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Kaseya Center
+URL:https://inmycal.com/nba/miami-heat/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

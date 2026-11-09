@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:boxing-2619165@sports.anthonytoday.com
-DTSTAMP:20261107T042027Z
-DTSTART:20261129T100000Z
-DTEND:20261129T140000Z
+DTSTAMP:20261109T033014Z
+DTSTART:20261129T080000Z
+DTEND:20261129T120000Z
 TRANSP:OPAQUE
 SUMMARY:U-Next Boxing 7
-DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
- time replaces it once published.\nhttps://inmycal.com
+DESCRIPTION:Boxing\nStart: main card (TheSportsDB). The end time is an esti
+ mate.\nhttps://inmycal.com
 LOCATION:Tokyo\, Japan
 URL:https://inmycal.com/
 STATUS:CONFIRMED

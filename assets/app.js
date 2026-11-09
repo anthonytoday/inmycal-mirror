@@ -146,12 +146,42 @@
     chips.hidden = false;
   }
 
+  // Finished events leave the list: a row goes once its last part has ended (a UFC card after its main card,
+  // an F1 day after its last session); a row with no time goes once its day is over. Pages are cached, so
+  // this runs in the browser, on load and again whenever an event ends while the page is open.
+  function ended(li, now) {
+    var own = li.querySelectorAll('[data-end]');
+    var ends = [].map.call(own.length ? own : [li], function (x) { return Date.parse(x.getAttribute('data-end') || ''); }).filter(function (t) { return !isNaN(t); });
+    if (ends.length) return Math.max.apply(null, ends) < now;
+    var d = li.getAttribute('data-date');
+    return !!d && d < localDay(new Date(now));
+  }
+  var pruned = {};
+  function prunePast(list) {
+    var now = Date.now();
+    var today = localDay(new Date(now));
+    list.querySelectorAll('li.ev').forEach(function (li) {
+      if (!ended(li, now)) return;
+      var u = li.getAttribute('data-utc');
+      if ((u ? localDay(new Date(u)) : li.getAttribute('data-date')) === today) pruned[today] = true;
+      li.remove();
+    });
+  }
+
   function regroup() {
     document.querySelectorAll('[data-evlist]').forEach(function (list) {
-      if (list.getAttribute('data-by') === 'gp') { gpChips(list); return; }
+      prunePast(list);
+      if (list.getAttribute('data-by') === 'gp') {
+        list.querySelectorAll('li.ev-gp').forEach(function (h) { if (!list.querySelector('li.ev[data-gp="' + h.getAttribute('data-gp') + '"]')) h.remove(); });
+        gpChips(list);
+        return;
+      }
       splitWeekends(list);
       var rows = [].slice.call(list.querySelectorAll('li.ev'));
-      if (!rows.length) return;
+      if (!rows.length) {
+        if (pruned[localDay(new Date())]) list.innerHTML = '<li class="ev-none">No more events in this list today.</li>';
+        return;
+      }
       var groups = {};
       var order = [];
       rows.forEach(function (r) {
@@ -190,7 +220,7 @@
         var te = document.createElement('li');
         te.className = 'ev-none';
         te.setAttribute('data-day', today);
-        te.textContent = 'No events today in our competitions. Next up: ' + rel(order[0]) + '.';
+        te.textContent = (pruned[today] ? 'No more events today. Next up: ' : 'No events today in our competitions. Next up: ') + rel(order[0]) + '.';
         list.insertBefore(te, list.firstChild);
         list.insertBefore(th, te);
         order.unshift(today);
@@ -220,6 +250,11 @@
 
   renderTimes();
   regroup();
+  // An event ending while the page is open: rebuild the list once a minute when one has finished.
+  if (typeof setInterval === 'function') setInterval(function () {
+    var now = Date.now();
+    if ([].some.call(document.querySelectorAll('[data-evlist] li.ev'), function (li) { return ended(li, now); })) regroup();
+  }, 60000);
 
   // ---------- Search: leagues, clubs and national teams, instant and offline ----------
   var sw = document.querySelector('[data-search]');

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efl1-202627-doncaster-rovers-huddersfield-town@sports.anthonytoday.com
+DTSTAMP:20261108T164437Z
+DTSTART:20261126T200000Z
+DTEND:20261126T215500Z
+TRANSP:OPAQUE
+SUMMARY:Doncaster Rovers - Huddersfield Town
+DESCRIPTION:League One\, Matchday 17\nhttps://inmycal.com
+LOCATION:The Eco-Power Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

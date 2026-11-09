@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-vfl-bochum-karlsruher-sc@sports.anthonytoday.com
-DTSTAMP:20261107T214517Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
-SUMMARY:VfL Bochum - Karlsruher SC
-DESCRIPTION:2. Bundesliga\, Matchday 11\nKickoff time not announced yet.\nh
- ttps://inmycal.com
+DTSTAMP:20261108T153357Z
+DTSTART:20261108T123000Z
+DTEND:20261108T142500Z
+TRANSP:OPAQUE
+SUMMARY:VfL Bochum - Karlsruher SC (3-2)
+DESCRIPTION:2. Bundesliga\, Matchday 11\nhttps://inmycal.com
 LOCATION:Vonovia Ruhrstadion\, Bochum
 URL:https://inmycal.com/2-bundesliga/vfl-bochum/
 STATUS:CONFIRMED

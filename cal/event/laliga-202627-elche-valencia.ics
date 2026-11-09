@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-elche-valencia@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-TRANSP:TRANSPARENT
+DTSTAMP:20261108T080453Z
+DTSTART:20261101T173000Z
+DTEND:20261101T192500Z
+TRANSP:OPAQUE
 SUMMARY:Elche - Valencia
-DESCRIPTION:La Liga\, Matchday 11\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 11\nhttps://inmycal.com
 LOCATION:Martínez Valero\, Elche
 URL:https://inmycal.com/la-liga/elche/
 STATUS:CONFIRMED

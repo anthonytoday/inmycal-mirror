@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-versailles-bourg-peronnas@sports.anthonytoday.com
+DTSTAMP:20261109T002641Z
+DTSTART:20261121T134500Z
+DTEND:20261121T154000Z
+TRANSP:OPAQUE
+SUMMARY:Versailles - Bourg-Péronnas
+DESCRIPTION:National\, Matchday 13\nhttps://inmycal.com
+LOCATION:Stade Municipal Georges Lefèvre
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

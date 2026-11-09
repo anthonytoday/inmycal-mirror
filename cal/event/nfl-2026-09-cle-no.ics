@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-cle-no@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T001936Z
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
 TRANSP:OPAQUE
-SUMMARY:Cleveland Browns @ New Orleans Saints
+SUMMARY:Cleveland Browns @ New Orleans Saints (22-23)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:Caesars Superdome
 URL:https://inmycal.com/nfl/new-orleans-saints/
