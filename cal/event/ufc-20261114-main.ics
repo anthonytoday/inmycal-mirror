@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261114-main@sports.anthonytoday.com
-DTSTAMP:20261109T002010Z
+DTSTAMP:20261110T072024Z
 DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 TRANSP:OPAQUE
@@ -16,7 +16,7 @@ DESCRIPTION:UFC\n\nMain card\n--------------------\n• Ciryl Gane (c) vs.
  in Holland @170\n• Bilal Hasan vs. Luis Gurule @125\n\nPrelims (2 hrs be
  fore the main card\, its own entry): 7 bouts\n\nhttps://www.ufc.com/event/
  ufc-334\n\nStart time from TheSportsDB.\n\nhttps://inmycal.com\n\nAccurate
-  as of 9 Nov 2026\, 00:20 UTC
+  as of 10 Nov 2026\, 07:20 UTC
 LOCATION:Madison Square Garden\, NYC
 URL:https://inmycal.com/
 STATUS:CONFIRMED

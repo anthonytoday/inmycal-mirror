@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-brooklyn-nets-20261108@sports.anthonytoday.
  com
-DTSTAMP:20261106T035335Z
-DTSTART:20261109T003000Z
-DTEND:20261109T030000Z
-TRANSP:OPAQUE
-SUMMARY:Brooklyn Nets @ Dallas Mavericks
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261109T122134Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Brooklyn Nets @ Dallas Mavericks (93-130)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:American Airlines Center\, Dallas
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED

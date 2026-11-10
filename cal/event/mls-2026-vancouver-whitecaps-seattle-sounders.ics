@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-vancouver-whitecaps-seattle-sounders@sports.anthonytoday.com
+DTSTAMP:20261110T064359Z
+DTSTART:20261122T233000Z
+DTEND:20261123T012500Z
+TRANSP:OPAQUE
+SUMMARY:Vancouver Whitecaps - Seattle Sounders
+DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
+LOCATION:BC Place\, Vancouver\, British Columbia
+URL:https://inmycal.com/mls/vancouver-whitecaps/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

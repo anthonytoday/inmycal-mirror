@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-milwaukee-bucks-washington-wizards-20270225@sports.anthonyto
+ day.com
+DTSTAMP:20261110T014239Z
+DTSTART:20270226T010000Z
+DTEND:20270226T033000Z
+TRANSP:OPAQUE
+SUMMARY:Washington Wizards @ Milwaukee Bucks
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Fiserv Forum
+URL:https://inmycal.com/nba/milwaukee-bucks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-los-angeles-clippers-orlando-magic-20270115@sports.anthonyto
+ day.com
+DTSTAMP:20261110T014311Z
+DTSTART:20270116T033000Z
+DTEND:20270116T060000Z
+TRANSP:OPAQUE
+SUMMARY:Orlando Magic @ Los Angeles Clippers
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Intuit Dome
+URL:https://inmycal.com/nba/los-angeles-clippers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

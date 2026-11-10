@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2607373@sports.anthonytoday.com
+DTSTAMP:20261109T123351Z
+DTSTART:20261219T190000Z
+DTEND:20261219T230000Z
+TRANSP:OPAQUE
+SUMMARY:Anthony Cacace vs Nick Ball
+DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
+ time replaces it once published.\nhttps://inmycal.com
+LOCATION:SSE Arena Belfast\, Belfast\, UK
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

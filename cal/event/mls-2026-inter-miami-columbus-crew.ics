@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-inter-miami-columbus-crew@sports.anthonytoday.com
+DTSTAMP:20261110T003323Z
+DTSTART:20261121T230000Z
+DTEND:20261122T005500Z
+TRANSP:OPAQUE
+SUMMARY:Inter Miami - Columbus Crew
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:Nu Stadium\, Miami\, FL
+URL:https://inmycal.com/mls/inter-miami/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

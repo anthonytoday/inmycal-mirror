@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-c-d-castellon-c-d-eldense@sports.anthonytoday.com
+DTSTAMP:20261110T053005Z
+DTSTART:20261121T173000Z
+DTEND:20261121T192500Z
+TRANSP:OPAQUE
+SUMMARY:C. D. Castellón - C. D. Eldense
+DESCRIPTION:Segunda División\, Jornada 15\nhttps://inmycal.com
+LOCATION:Skyfi Castalia
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

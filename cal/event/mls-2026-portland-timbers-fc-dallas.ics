@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-portland-timbers-fc-dallas@sports.anthonytoday.com
+DTSTAMP:20261110T064359Z
+DTSTART:20261129T033000Z
+DTEND:20261129T052500Z
+TRANSP:OPAQUE
+SUMMARY:Portland Timbers - FC Dallas
+DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
+LOCATION:Providence Park\, Portland\, OR
+URL:https://inmycal.com/mls/portland-timbers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

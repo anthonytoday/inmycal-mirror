@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-orlando-city-sc-or-fc-cincinnati-nashville-sc@sports.anthonyto
+ day.com
+DTSTAMP:20261110T064359Z
+DTSTART:20261128T233000Z
+DTEND:20261129T012500Z
+TRANSP:OPAQUE
+SUMMARY:Orlando City SC or FC Cincinnati - Nashville SC
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

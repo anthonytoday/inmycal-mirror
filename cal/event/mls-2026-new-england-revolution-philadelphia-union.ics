@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-new-england-revolution-philadelphia-union@sports.anthonytoday.
+ com
+DTSTAMP:20261110T003323Z
+DTSTART:20261121T190000Z
+DTEND:20261121T205500Z
+TRANSP:OPAQUE
+SUMMARY:New England Revolution - Philadelphia Union
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:Gillette Stadium\, Foxborough\, MA
+URL:https://inmycal.com/mls/new-england-revolution/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-milwaukee-bucks-boston-celtics-20261108@sports.anthonytoday.
  com
-DTSTAMP:20261106T003438Z
-DTSTART:20261109T010000Z
-DTEND:20261109T033000Z
-TRANSP:OPAQUE
-SUMMARY:Boston Celtics @ Milwaukee Bucks
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261109T123612Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Boston Celtics @ Milwaukee Bucks (117-97)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Fiserv Forum
 URL:https://inmycal.com/nba/milwaukee-bucks/
 STATUS:CONFIRMED

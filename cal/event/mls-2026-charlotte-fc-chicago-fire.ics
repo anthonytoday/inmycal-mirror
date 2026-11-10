@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-charlotte-fc-chicago-fire@sports.anthonytoday.com
+DTSTAMP:20261110T003323Z
+DTSTART:20261128T173000Z
+DTEND:20261128T192500Z
+TRANSP:OPAQUE
+SUMMARY:Charlotte FC - Chicago Fire
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+URL:https://inmycal.com/mls/charlotte-fc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

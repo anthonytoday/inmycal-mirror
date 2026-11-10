@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-utah-jazz-20261108@sports.anthonytoda
  y.com
-DTSTAMP:20261106T003438Z
-DTSTART:20261109T000000Z
-DTEND:20261109T023000Z
-TRANSP:OPAQUE
-SUMMARY:Utah Jazz @ Minnesota Timberwolves
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261109T121949Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Utah Jazz @ Minnesota Timberwolves (100-115)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

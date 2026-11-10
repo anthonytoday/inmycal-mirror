@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-minnesota-timberwolves-los-angeles-lakers-20261218@sports.an
+ thonytoday.com
+DTSTAMP:20261110T014239Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+TRANSP:OPAQUE
+SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Target Center
+URL:https://inmycal.com/nba/minnesota-timberwolves/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-vancouver-whitecaps-seattle-sounders-fc-or-real-salt-lake@spor
+ ts.anthonytoday.com
+DTSTAMP:20261110T064359Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:Vancouver Whitecaps - Seattle Sounders FC or Real Salt Lake
+DESCRIPTION:MLS\, Western Conference\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:BC Place\, Vancouver\, British Columbia
+URL:https://inmycal.com/mls/vancouver-whitecaps/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

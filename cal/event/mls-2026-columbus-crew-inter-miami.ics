@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-columbus-crew-inter-miami@sports.anthonytoday.com
+DTSTAMP:20261110T003323Z
+DTSTART:20261128T010000Z
+DTEND:20261128T025500Z
+TRANSP:OPAQUE
+SUMMARY:Columbus Crew - Inter Miami
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
+URL:https://inmycal.com/mls/columbus-crew/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

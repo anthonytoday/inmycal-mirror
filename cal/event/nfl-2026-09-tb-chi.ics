@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-09-tb-chi@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261109T090940Z
 DTSTART:20261109T012000Z
 DTEND:20261109T043500Z
 TRANSP:OPAQUE
-SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
+SUMMARY:Tampa Bay Buccaneers @ Chicago Bears (24-27)
 DESCRIPTION:NFL\, Week 9\nhttps://inmycal.com
 LOCATION:Soldier Field
 URL:https://inmycal.com/nfl/chicago-bears/

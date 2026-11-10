@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-philadelphia-76ers-20270215@sports.anthonyt
  oday.com
-DTSTAMP:20261109T014420Z
+DTSTAMP:20261110T014311Z
 DTSTART:20270215T193000Z
 DTEND:20270215T220000Z
 TRANSP:OPAQUE
 SUMMARY:Philadelphia 76ers @ Dallas Mavericks
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:American Airlines Center\, Dallas
+LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

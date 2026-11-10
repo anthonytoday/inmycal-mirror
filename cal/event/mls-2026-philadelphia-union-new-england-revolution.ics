@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-philadelphia-union-new-england-revolution@sports.anthonytoday.
+ com
+DTSTAMP:20261110T003323Z
+DTSTART:20261128T213000Z
+DTEND:20261128T232500Z
+TRANSP:OPAQUE
+SUMMARY:Philadelphia Union - New England Revolution
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:Subaru Park\, Chester\, PA
+URL:https://inmycal.com/mls/philadelphia-union/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

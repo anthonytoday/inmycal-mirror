@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-san-jose-earthquakes-houston-dynamo-20261202@sports.anthonytod
+ ay.com
+DTSTAMP:20261110T064359Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:San Jose Earthquakes - Houston Dynamo
+DESCRIPTION:MLS\, Western Conference\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:PayPal Park\, San Jose\, CA
+URL:https://inmycal.com/mls/san-jose-earthquakes/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

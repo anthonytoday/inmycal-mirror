@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-new-england-revolution-philadelphia-union-20261202@sports.anth
+ onytoday.com
+DTSTAMP:20261110T003323Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:New England Revolution - Philadelphia Union
+DESCRIPTION:MLS\, Eastern Conference\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Gillette Stadium\, Foxborough\, MA
+URL:https://inmycal.com/mls/new-england-revolution/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

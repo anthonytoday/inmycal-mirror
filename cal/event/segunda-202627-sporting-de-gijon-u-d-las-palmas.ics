@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-sporting-de-gijon-u-d-las-palmas@sports.anthonytoday.com
+DTSTAMP:20261110T053005Z
+DTSTART:20261122T151500Z
+DTEND:20261122T171000Z
+TRANSP:OPAQUE
+SUMMARY:Sporting de Gijón - U. D. Las Palmas
+DESCRIPTION:Segunda División\, Jornada 15\nhttps://inmycal.com
+LOCATION:El Molinón
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

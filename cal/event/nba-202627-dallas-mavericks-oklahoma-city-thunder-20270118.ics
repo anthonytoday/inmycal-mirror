@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-oklahoma-city-thunder-20270118@sports.antho
  nytoday.com
-DTSTAMP:20261109T014420Z
+DTSTAMP:20261110T014311Z
 DTSTART:20270119T010000Z
 DTEND:20270119T033000Z
 TRANSP:OPAQUE
 SUMMARY:Oklahoma City Thunder @ Dallas Mavericks
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:American Airlines Center\, Dallas
+LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

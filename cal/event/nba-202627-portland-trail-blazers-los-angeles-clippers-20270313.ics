@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-portland-trail-blazers-los-angeles-clippers-20270313@sports.
+ anthonytoday.com
+DTSTAMP:20261110T070357Z
+DTSTART:20270314T033000Z
+DTEND:20270314T060000Z
+TRANSP:OPAQUE
+SUMMARY:Los Angeles Clippers @ Portland Trail Blazers
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Moda Center
+URL:https://inmycal.com/nba/portland-trail-blazers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

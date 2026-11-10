@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-nashville-sc-orlando-city@sports.anthonytoday.com
+DTSTAMP:20261110T064359Z
+DTSTART:20261122T210000Z
+DTEND:20261122T225500Z
+TRANSP:OPAQUE
+SUMMARY:Nashville SC - Orlando City
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:Geodis Park\, Nashville\, TN
+URL:https://inmycal.com/mls/nashville-sc/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

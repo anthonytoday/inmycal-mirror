@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-r-c-celta-fortuna-real-valladolid-c-f@sports.anthonytoda
+ y.com
+DTSTAMP:20261110T053005Z
+DTSTART:20261122T173000Z
+DTEND:20261122T192500Z
+TRANSP:OPAQUE
+SUMMARY:R. C. Celta Fortuna - Real Valladolid C. F.
+DESCRIPTION:Segunda División\, Jornada 15\nhttps://inmycal.com
+LOCATION:Abanca-Balaídos
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

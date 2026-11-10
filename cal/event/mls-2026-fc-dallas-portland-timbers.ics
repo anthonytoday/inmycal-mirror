@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-fc-dallas-portland-timbers@sports.anthonytoday.com
+DTSTAMP:20261110T064359Z
+DTSTART:20261121T210000Z
+DTEND:20261121T225500Z
+TRANSP:OPAQUE
+SUMMARY:FC Dallas - Portland Timbers
+DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
+LOCATION:Toyota Stadium\, Frisco\, TX
+URL:https://inmycal.com/mls/fc-dallas/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

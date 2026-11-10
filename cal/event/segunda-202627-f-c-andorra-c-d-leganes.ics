@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-f-c-andorra-c-d-leganes@sports.anthonytoday.com
+DTSTAMP:20261110T053005Z
+DTSTART:20261120T193000Z
+DTEND:20261120T212500Z
+TRANSP:OPAQUE
+SUMMARY:F. C. Andorra - C. D. Leganés
+DESCRIPTION:Segunda División\, Jornada 15\nhttps://inmycal.com
+LOCATION:Nou Estadi d'Encamp
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

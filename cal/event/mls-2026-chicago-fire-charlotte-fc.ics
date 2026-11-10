@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-chicago-fire-charlotte-fc@sports.anthonytoday.com
+DTSTAMP:20261110T064359Z
+DTSTART:20261122T233000Z
+DTEND:20261123T012500Z
+TRANSP:OPAQUE
+SUMMARY:Chicago Fire - Charlotte FC
+DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
+LOCATION:SeatGeek Stadium\, Bridgeview\, IL
+URL:https://inmycal.com/mls/chicago-fire/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
