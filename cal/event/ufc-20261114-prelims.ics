@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261114-prelims@sports.anthonytoday.com
-DTSTAMP:20261110T072024Z
+DTSTAMP:20261111T001633Z
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 TRANSP:OPAQUE
@@ -14,10 +14,11 @@ DESCRIPTION:UFC\n\nPrelims (2 hrs before the main card)\n------------------
  --\n• Stephen Thompson vs. Charles Radtke @170\n• Drew Dober vs. Chris
   Duncan @155\n• Jim Miller vs. Terrance McKinney @155\n• Donte Johnson
   vs. César Almeida @185\n• Jared Gordon vs. Melquizael Costa @155\n• 
- Macy Chiasson vs. Beatriz Mesquita @135\n• Evan Elder vs. Samuel Sanches
-  @155\n\nMain card follows: Ciryl Gane (c) vs. Josh Hokit\n\nhttps://www.u
- fc.com/event/ufc-334\n\nStart time from TheSportsDB.\n\nhttps://inmycal.co
- m\n\nAccurate as of 10 Nov 2026\, 07:20 UTC
+ Macy Chiasson vs. Beatriz Mesquita @135\n• Alateng Heili vs. Juan Díaz 
+ @135\n• Evan Elder vs. Samuel Sanches @155\n\nMain card follows: Ciryl G
+ ane (c) vs. Josh Hokit\n\nhttps://www.ufc.com/event/ufc-334\n\nStart time 
+ from TheSportsDB.\n\nhttps://inmycal.com\n\nAccurate as of 11 Nov 2026\, 0
+ 0:16 UTC
 LOCATION:Madison Square Garden\, NYC
 URL:https://inmycal.com/
 STATUS:CONFIRMED

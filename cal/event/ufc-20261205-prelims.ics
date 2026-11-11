@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261205-prelims@sports.anthonytoday.com
-DTSTAMP:20261110T001733Z
+DTSTAMP:20261111T001633Z
 DTSTART:20261205T160000Z
 DTEND:20261205T180000Z
 TRANSP:OPAQUE
@@ -22,7 +22,7 @@ DESCRIPTION:UFC\n\nAnnounced bouts\n--------------------\n• Israel Adesan
  -05-2026\n\nEstimated start (usual start for the region)\; the official ti
  me replaces it once published.\n\nhttps://inmycal.com\n\nAccurate as of 10
   Nov 2026\, 00:17 UTC
-LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
+LOCATION:anb Arena\, Riyadh\, Saudi Arabia
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

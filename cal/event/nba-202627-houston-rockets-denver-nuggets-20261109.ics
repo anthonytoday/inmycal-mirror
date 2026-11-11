@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-houston-rockets-denver-nuggets-20261109@sports.anthonytoday.
  com
-DTSTAMP:20261106T035335Z
-DTSTART:20261110T013000Z
-DTEND:20261110T040000Z
-TRANSP:OPAQUE
-SUMMARY:Denver Nuggets @ Houston Rockets
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261110T121712Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Denver Nuggets @ Houston Rockets (100-110)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/
 STATUS:CONFIRMED

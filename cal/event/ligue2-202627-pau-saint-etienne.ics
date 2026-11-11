@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ligue2-202627-pau-saint-etienne@sports.anthonytoday.com
+DTSTAMP:20261108T164811Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+TRANSP:TRANSPARENT
+SUMMARY:Pau - Saint-Étienne
+DESCRIPTION:Ligue 2\, Matchday 15\nKickoff time not announced yet.\nhttps:/
+ /inmycal.com
+LOCATION:Nouste Camp
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

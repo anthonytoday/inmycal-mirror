@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-detroit-pistons-washington-wizards-20261109@sports.anthonyto
  day.com
-DTSTAMP:20261106T025300Z
-DTSTART:20261110T000000Z
-DTEND:20261110T023000Z
-TRANSP:OPAQUE
-SUMMARY:Washington Wizards @ Detroit Pistons
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261110T134156Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Detroit Pistons (111-122)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/
 STATUS:CONFIRMED

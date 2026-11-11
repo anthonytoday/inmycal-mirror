@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-toronto-raptors-chicago-bulls-20270119@sports.anthonytoday.c
+ om
+DTSTAMP:20261111T014453Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+TRANSP:OPAQUE
+SUMMARY:Chicago Bulls @ Toronto Raptors
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Scotiabank Arena
+URL:https://inmycal.com/nba/toronto-raptors/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

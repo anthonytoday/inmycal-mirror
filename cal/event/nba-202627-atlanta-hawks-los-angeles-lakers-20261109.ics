@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-los-angeles-lakers-20261109@sports.anthonytoda
  y.com
-DTSTAMP:20261106T041036Z
-DTSTART:20261110T000000Z
-DTEND:20261110T023000Z
-TRANSP:OPAQUE
-SUMMARY:Los Angeles Lakers @ Atlanta Hawks
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261110T121808Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Lakers @ Atlanta Hawks (124-114)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

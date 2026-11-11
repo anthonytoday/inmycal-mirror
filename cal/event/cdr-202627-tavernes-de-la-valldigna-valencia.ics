@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cdr-202627-tavernes-de-la-valldigna-valencia@sports.anthonytoday.com
-DTSTAMP:20261105T045703Z
+DTSTAMP:20261111T001615Z
 DTSTART:20261110T200000Z
 DTEND:20261110T215500Z
 TRANSP:OPAQUE
-SUMMARY:Tavernes de la Valldigna - Valencia [CDR]
+SUMMARY:Tavernes de la Valldigna - Valencia [CDR] (0-6)
 DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
 LOCATION:Mestalla\, Valencia
 URL:https://inmycal.com/

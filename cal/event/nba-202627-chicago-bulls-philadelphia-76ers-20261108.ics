@@ -4,13 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-chicago-bulls-washington-wizards-20261024@sports.anthonytoda
+UID:nba-202627-chicago-bulls-philadelphia-76ers-20261108@sports.anthonytoda
  y.com
-DTSTAMP:20261105T055836Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTAMP:20261111T014453Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
 TRANSP:TRANSPARENT
-SUMMARY:Washington Wizards @ Chicago Bulls (124-120)
+SUMMARY:Philadelphia 76ers @ Chicago Bulls (127-121)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:United Center
 URL:https://inmycal.com/nba/chicago-bulls/

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cdr-202627-anaitasuna-alaves@sports.anthonytoday.com
-DTSTAMP:20261106T001559Z
+DTSTAMP:20261111T001615Z
 DTSTART:20261110T180000Z
 DTEND:20261110T195500Z
 TRANSP:OPAQUE
-SUMMARY:Anaitasuna - Alavés [CDR]
+SUMMARY:Anaitasuna - Alavés [CDR] (1-6)
 DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
 LOCATION:Txerloia\, Azkoitia
 URL:https://inmycal.com/
