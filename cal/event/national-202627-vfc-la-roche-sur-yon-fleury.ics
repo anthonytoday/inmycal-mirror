@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-vfc-la-roche-sur-yon-fleury@sports.anthonytoday.com
+DTSTAMP:20261110T122643Z
+DTSTART:20261212T134500Z
+DTEND:20261212T154000Z
+TRANSP:OPAQUE
+SUMMARY:VFC La Roche-sur-Yon - Fleury
+DESCRIPTION:National\, Matchday 15\nhttps://inmycal.com
+LOCATION:Stade Henri Desgrange
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

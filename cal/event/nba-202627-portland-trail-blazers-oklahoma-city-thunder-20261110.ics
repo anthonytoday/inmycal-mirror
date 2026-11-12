@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-portland-trail-blazers-oklahoma-city-thunder-20261110@sports
  .anthonytoday.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261111T040000Z
-DTEND:20261111T063000Z
-TRANSP:OPAQUE
-SUMMARY:Oklahoma City Thunder @ Portland Trail Blazers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261111T122014Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Oklahoma City Thunder @ Portland Trail Blazers (103-123)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Moda Center
 URL:https://inmycal.com/nba/portland-trail-blazers/
 STATUS:CONFIRMED

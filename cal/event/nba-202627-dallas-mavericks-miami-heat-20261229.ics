@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-miami-heat-20261229@sports.anthonytoday.com
-DTSTAMP:20261111T014453Z
+DTSTAMP:20261112T014250Z
 DTSTART:20261230T010000Z
 DTEND:20261230T033000Z
 TRANSP:OPAQUE
 SUMMARY:Miami Heat @ Dallas Mavericks
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:American Airlines Center\, Dallas
+LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

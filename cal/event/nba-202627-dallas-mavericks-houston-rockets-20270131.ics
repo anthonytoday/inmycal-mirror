@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-dallas-mavericks-houston-rockets-20270131@sports.anthonytoda
+ y.com
+DTSTAMP:20261112T014212Z
+DTSTART:20270201T013000Z
+DTEND:20270201T040000Z
+TRANSP:OPAQUE
+SUMMARY:Houston Rockets @ Dallas Mavericks
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:American Airlines Center
+URL:https://inmycal.com/nba/dallas-mavericks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-los-angeles-clippers-20261110@sports.anthonytod
  ay.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261111T020000Z
-DTEND:20261111T043000Z
-TRANSP:OPAQUE
-SUMMARY:Los Angeles Clippers @ Phoenix Suns
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261111T121523Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Clippers @ Phoenix Suns (110-133)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/
 STATUS:CONFIRMED

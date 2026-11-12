@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-sacramento-kings-orlando-magic-20261110@sports.anthonytoday.
  com
-DTSTAMP:20261106T013708Z
-DTSTART:20261111T030000Z
-DTEND:20261111T053000Z
-TRANSP:OPAQUE
-SUMMARY:Orlando Magic @ Sacramento Kings
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261111T122014Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Orlando Magic @ Sacramento Kings (107-100)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED

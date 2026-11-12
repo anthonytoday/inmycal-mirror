@@ -4,16 +4,16 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-detroit-pistons-new-york-knicks-20270217@sports.anthonytoday
- .com
-DTSTAMP:20261111T014453Z
+UID:nba-202627-cleveland-cavaliers-milwaukee-bucks-20270217@sports.anthonyt
+ oday.com
+DTSTAMP:20261112T014250Z
 DTSTART:20270218T000000Z
 DTEND:20270218T023000Z
 TRANSP:OPAQUE
-SUMMARY:New York Knicks @ Detroit Pistons
+SUMMARY:Milwaukee Bucks @ Cleveland Cavaliers
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:Little Caesars Arena
-URL:https://inmycal.com/nba/detroit-pistons/
+LOCATION:Rocket Arena
+URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

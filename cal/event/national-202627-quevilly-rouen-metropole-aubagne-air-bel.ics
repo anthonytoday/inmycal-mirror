@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:national-202627-quevilly-rouen-metropole-aubagne-air-bel@sports.anthony
+ today.com
+DTSTAMP:20261110T122643Z
+DTSTART:20261212T134500Z
+DTEND:20261212T154000Z
+TRANSP:OPAQUE
+SUMMARY:Quevilly-Rouen Métropole - Aubagne Air Bel
+DESCRIPTION:National\, Matchday 15\nhttps://inmycal.com
+LOCATION:Stade Robert Diochon
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

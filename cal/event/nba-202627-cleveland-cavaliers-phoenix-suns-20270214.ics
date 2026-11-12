@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-cleveland-cavaliers-phoenix-suns-20270214@sports.anthonytoda
+ y.com
+DTSTAMP:20261112T014313Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+TRANSP:OPAQUE
+SUMMARY:Phoenix Suns @ Cleveland Cavaliers
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Rocket Arena
+URL:https://inmycal.com/nba/cleveland-cavaliers/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

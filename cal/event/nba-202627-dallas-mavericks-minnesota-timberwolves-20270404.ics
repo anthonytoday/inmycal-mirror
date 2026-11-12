@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-minnesota-timberwolves-20270404@sports.anth
  onytoday.com
-DTSTAMP:20261111T014453Z
+DTSTAMP:20261112T014250Z
 DTSTART:20270404T190000Z
 DTEND:20270404T213000Z
 TRANSP:OPAQUE
 SUMMARY:Minnesota Timberwolves @ Dallas Mavericks
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:American Airlines Center\, Dallas
+LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT
