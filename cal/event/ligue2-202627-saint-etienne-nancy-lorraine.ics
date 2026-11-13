@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ligue2-202627-saint-etienne-nancy-lorraine@sports.anthonytoday.com
-DTSTAMP:20261108T164811Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T002922Z
+DTSTART:20261204T190000Z
+DTEND:20261204T205500Z
+TRANSP:OPAQUE
 SUMMARY:Saint-Étienne - Nancy Lorraine
-DESCRIPTION:Ligue 2\, Matchday 14\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:Ligue 2\, Matchday 14\nhttps://inmycal.com
 LOCATION:Stade Geoffroy-Guichard
 URL:https://inmycal.com/
 STATUS:CONFIRMED

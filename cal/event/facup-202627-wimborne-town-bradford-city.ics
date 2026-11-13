@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:facup-202627-wimborne-town-bradford-city@sports.anthonytoday.com
-DTSTAMP:20261110T001637Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T003001Z
+DTSTART:20261204T193000Z
+DTEND:20261204T212500Z
+TRANSP:OPAQUE
 SUMMARY:Wimborne Town - Bradford City [FAC]
-DESCRIPTION:FA Cup\, Second round\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:FA Cup\, Second round\nhttps://inmycal.com
 LOCATION:The Wyatt Homes Stadium\, Wimborne Minster
 URL:https://inmycal.com/
 STATUS:CONFIRMED

@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-milwaukee-bucks-los-angeles-lakers-20261111@sports.anthonyto
  day.com
-DTSTAMP:20261106T003438Z
-DTSTART:20261112T010000Z
-DTEND:20261112T033000Z
-TRANSP:OPAQUE
-SUMMARY:Los Angeles Lakers @ Milwaukee Bucks
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261112T121906Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Los Angeles Lakers @ Milwaukee Bucks (123-112)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Fiserv Forum
 URL:https://inmycal.com/nba/milwaukee-bucks/
 STATUS:CONFIRMED

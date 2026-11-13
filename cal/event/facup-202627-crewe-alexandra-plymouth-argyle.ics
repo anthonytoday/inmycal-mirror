@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:facup-202627-crewe-alexandra-plymouth-argyle@sports.anthonytoday.com
-DTSTAMP:20261110T001637Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T003001Z
+DTSTART:20261206T151500Z
+DTEND:20261206T171000Z
+TRANSP:OPAQUE
 SUMMARY:Crewe Alexandra - Plymouth Argyle [FAC]
-DESCRIPTION:FA Cup\, Second round\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:FA Cup\, Second round\nhttps://inmycal.com
 LOCATION:Gresty Road\, Crewe
 URL:https://inmycal.com/
 STATUS:CONFIRMED

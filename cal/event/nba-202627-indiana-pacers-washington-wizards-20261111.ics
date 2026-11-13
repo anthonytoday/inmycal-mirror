@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-indiana-pacers-washington-wizards-20261111@sports.anthonytod
  ay.com
-DTSTAMP:20261106T025300Z
-DTSTART:20261112T000000Z
-DTEND:20261112T023000Z
-TRANSP:OPAQUE
-SUMMARY:Washington Wizards @ Indiana Pacers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261112T121906Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Washington Wizards @ Indiana Pacers (101-114)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Gainbridge Fieldhouse
 URL:https://inmycal.com/nba/indiana-pacers/
 STATUS:CONFIRMED

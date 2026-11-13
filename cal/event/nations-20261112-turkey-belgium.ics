@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261112-turkey-belgium@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261113T001713Z
 DTSTART:20261112T170000Z
 DTEND:20261112T185500Z
 TRANSP:OPAQUE
-SUMMARY:Turkey - Belgium [NL]
+SUMMARY:Turkey - Belgium [NL] (1-2)
 DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
 LOCATION:Gürsel Aksel Stadium\, İzmir
 URL:https://inmycal.com/nations/turkey/

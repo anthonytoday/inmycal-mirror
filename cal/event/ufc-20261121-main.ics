@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261121-main@sports.anthonytoday.com
-DTSTAMP:20261112T001726Z
+DTSTAMP:20261113T001646Z
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 TRANSP:OPAQUE
@@ -17,7 +17,7 @@ DESCRIPTION:UFC\n\nMain card\n--------------------\n• Jiří Procházka v
  ore the main card\, its own entry): 4 bouts\n\nhttps://www.ufc.com/event/u
  fc-fight-night-november-21-2026\n\nEstimated start (usual start for the re
  gion)\; the official time replaces it once published.\n\nhttps://inmycal.c
- om\n\nAccurate as of 12 Nov 2026\, 00:17 UTC
+ om\n\nAccurate as of 13 Nov 2026\, 00:16 UTC
 LOCATION:Ali Bin Hamad al-Attiyah Arena\, Al Rayyan\, Qatar
 URL:https://inmycal.com/
 STATUS:CONFIRMED

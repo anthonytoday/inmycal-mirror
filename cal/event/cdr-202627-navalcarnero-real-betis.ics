@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cdr-202627-navalcarnero-real-betis@sports.anthonytoday.com
-DTSTAMP:20261105T045703Z
+DTSTAMP:20261113T001609Z
 DTSTART:20261112T180000Z
 DTEND:20261112T195500Z
 TRANSP:OPAQUE
-SUMMARY:Navalcarnero - Real Betis [CDR]
+SUMMARY:Navalcarnero - Real Betis [CDR] (2-3)
 DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
 LOCATION:Santo Domingo\, Alcorcón
 URL:https://inmycal.com/

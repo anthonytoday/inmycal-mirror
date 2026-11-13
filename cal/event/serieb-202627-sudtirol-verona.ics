@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:serieb-202627-sudtirol-verona@sports.anthonytoday.com
+DTSTAMP:20261105T055747Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Südtirol - Verona
+DESCRIPTION:Serie B\, 17ª giornata\nKickoff time not announced yet.\nhttps
+ ://inmycal.com
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

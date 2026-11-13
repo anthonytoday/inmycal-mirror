@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-toronto-raptors-boston-celtics-20261111@sports.anthonytoday.
  com
-DTSTAMP:20261106T022146Z
-DTSTART:20261112T000000Z
-DTEND:20261112T023000Z
-TRANSP:OPAQUE
-SUMMARY:Boston Celtics @ Toronto Raptors
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261112T122113Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Boston Celtics @ Toronto Raptors (98-93)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Scotiabank Arena
 URL:https://inmycal.com/nba/toronto-raptors/
 STATUS:CONFIRMED
