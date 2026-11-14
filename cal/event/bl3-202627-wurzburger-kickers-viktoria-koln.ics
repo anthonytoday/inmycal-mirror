@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-wurzburger-kickers-viktoria-koln@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T121633Z
+DTSTART:20261205T130000Z
+DTEND:20261205T145500Z
+TRANSP:OPAQUE
 SUMMARY:Würzburger Kickers - Viktoria Köln
-DESCRIPTION:3. Liga\, Matchday 16\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 16\nhttps://inmycal.com
 LOCATION:Flyeralarm Arena\, Würzburg
 URL:https://inmycal.com/3-liga/wurzburger-kickers/
 STATUS:CONFIRMED

@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-utah-jazz-20270206@sports.anthonytoday.com
-DTSTAMP:20261113T014343Z
+DTSTAMP:20261114T053331Z
 DTSTART:20270206T200000Z
 DTEND:20270206T223000Z
 TRANSP:OPAQUE
 SUMMARY:Utah Jazz @ Dallas Mavericks
 DESCRIPTION:NBA\nhttps://inmycal.com
-LOCATION:American Airlines Center
+LOCATION:American Airlines Center\, Dallas
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

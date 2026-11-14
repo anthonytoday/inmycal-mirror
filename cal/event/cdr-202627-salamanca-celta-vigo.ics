@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cdr-202627-salamanca-celta-vigo@sports.anthonytoday.com
-DTSTAMP:20261105T045703Z
+DTSTAMP:20261114T001929Z
 DTSTART:20261113T200000Z
 DTEND:20261113T215500Z
 TRANSP:OPAQUE
-SUMMARY:Salamanca - Celta Vigo [CDR]
+SUMMARY:Salamanca - Celta Vigo [CDR] (0-5)
 DESCRIPTION:Copa del Rey\, First round\nhttps://inmycal.com
-LOCATION:Estadio Helmántico\, Salamanca
+LOCATION:Estadio Helmántico\, Villares de la Reina
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

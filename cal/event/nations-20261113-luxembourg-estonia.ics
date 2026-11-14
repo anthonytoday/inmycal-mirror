@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261113-luxembourg-estonia@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261114T003006Z
 DTSTART:20261113T194500Z
 DTEND:20261113T214000Z
 TRANSP:OPAQUE
-SUMMARY:Luxembourg - Estonia [NL]
+SUMMARY:Luxembourg - Estonia [NL] (0-1)
 DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
 LOCATION:Stade de Luxembourg\, Luxembourg City
 URL:https://inmycal.com/nations/luxembourg/

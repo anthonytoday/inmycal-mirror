@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-dallas-mavericks-20261112@sports.anth
  onytoday.com
-DTSTAMP:20261106T003438Z
-DTSTART:20261113T010000Z
-DTEND:20261113T033000Z
-TRANSP:OPAQUE
-SUMMARY:Dallas Mavericks @ Minnesota Timberwolves
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261113T121502Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Dallas Mavericks @ Minnesota Timberwolves (94-133)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

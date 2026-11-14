@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:champ-202627-portsmouth-watford@sports.anthonytoday.com
-DTSTAMP:20261105T024819Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-TRANSP:TRANSPARENT
+DTSTAMP:20261114T002317Z
+DTSTART:20261226T150000Z
+DTEND:20261226T165500Z
+TRANSP:OPAQUE
 SUMMARY:Portsmouth - Watford
-DESCRIPTION:Championship\, Matchday 23\nKickoff time not announced yet.\nht
- tps://inmycal.com
+DESCRIPTION:Championship\, Matchday 23\nhttps://inmycal.com
 LOCATION:Fratton Park\, Portsmouth
 URL:https://inmycal.com/championship/portsmouth/
 STATUS:CONFIRMED

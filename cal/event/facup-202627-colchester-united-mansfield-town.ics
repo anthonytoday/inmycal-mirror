@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:facup-202627-colchester-united-mansfield-town@sports.anthonytoday.com
-DTSTAMP:20261112T122602Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261114T062621Z
+DTSTART:20261205T150000Z
+DTEND:20261205T165500Z
+TRANSP:OPAQUE
 SUMMARY:Colchester United - Mansfield Town [FAC]
-DESCRIPTION:FA Cup\, Second round\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:FA Cup\, Second round\nhttps://inmycal.com
 LOCATION:Colchester Community Stadium\, Colchester
 URL:https://inmycal.com/
 STATUS:CONFIRMED

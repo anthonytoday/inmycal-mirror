@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:epl-202627-fulham-brighton@sports.anthonytoday.com
-DTSTAMP:20261104T043335Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-TRANSP:TRANSPARENT
+DTSTAMP:20261114T002208Z
+DTSTART:20261226T150000Z
+DTEND:20261226T165500Z
+TRANSP:OPAQUE
 SUMMARY:Fulham - Brighton
-DESCRIPTION:Premier League\, Matchday 17\nKickoff time not announced yet.\n
- https://inmycal.com
+DESCRIPTION:Premier League\, Matchday 17\nhttps://inmycal.com
 LOCATION:Craven Cottage\, London
 URL:https://inmycal.com/premier-league/fulham/
 STATUS:CONFIRMED

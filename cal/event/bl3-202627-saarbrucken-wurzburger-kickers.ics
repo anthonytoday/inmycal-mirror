@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-saarbrucken-wurzburger-kickers@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T121633Z
+DTSTART:20261212T130000Z
+DTEND:20261212T145500Z
+TRANSP:OPAQUE
 SUMMARY:Saarbrücken - Würzburger Kickers
-DESCRIPTION:3. Liga\, Matchday 17\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 17\nhttps://inmycal.com
 LOCATION:Ludwigsparkstadion\, Saarbrücken
 URL:https://inmycal.com/3-liga/saarbrucken/
 STATUS:CONFIRMED

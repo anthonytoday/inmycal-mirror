@@ -162,9 +162,13 @@ img.logo-img { border-radius: 0; }
   .two-col li.ev.ev-solo:not(.ev-nocomp) .ev-comp { justify-self: center; }
   .two-col li.ev.ev-solo:not(.ev-nocomp) .ev-comp span { display: flex; gap: 6px; align-items: baseline; }
 }
-/* Desktop: a long name wraps to a second line instead of being cut. Phones keep one line per team. */
+/* Pages with a right rail (sport hubs such as /football/): the middle column is narrow, so the league and Add
+   columns shrink to their content and the team names get the freed width (long names wrap to a second line). */
 @media (min-width: 861px) {
-  .ev-team .nm { white-space: normal; overflow-wrap: anywhere; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-height: 1.25; }
+  .has-rail .ev { grid-template-columns: 108px minmax(0, 1fr) 84px minmax(0, 1fr) 84px; padding-left: 16px; padding-right: 16px; }
+  .has-rail .ev-solo { grid-template-columns: 108px minmax(0, 1fr) 84px minmax(0, 1fr) 84px; }
+  .has-rail .ev.ev-nocomp { grid-template-columns: minmax(0, 1fr) 84px minmax(0, 1fr) 72px; }
+  .has-rail .ev-solo.ev-nocomp { grid-template-columns: minmax(0, 1fr) 84px 72px; }
 }
 /* Round named on each row when a day mixes rounds (competition pages). */
 .ev-rd { grid-column: 1 / -1; font-size: 12px; color: var(--muted); line-height: 1.2; }
@@ -287,6 +291,10 @@ img.logo-img { border-radius: 0; }
 .ev-team:hover { text-decoration: none; color: var(--blue); }
 .ev-team.home { justify-content: flex-end; text-align: right; }
 .ev-team .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+/* Desktop: a long name wraps onto as many lines as it needs instead of being cut. Placed after the base rule so it wins (same specificity). Phones keep one line per team. */
+@media (min-width: 861px) {
+  .ev-team .nm { white-space: normal; overflow: visible; overflow-wrap: anywhere; line-height: 1.25; }
+}
 .ev-title { display: grid; min-width: 0; }
 .ev-title b { color: var(--ink); font-weight: 600; font-size: 15px; }
 .ev-mid { white-space: nowrap; text-align: center; font-size: 15px; color: var(--ink); font-variant-numeric: tabular-nums; }
@@ -570,6 +578,7 @@ body.embed { background: transparent; margin: 0; }
 .ev-comp-logo { display: flex; align-items: center; }
 .ftrs { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-weight: 600; }
 .ftr { display: inline-flex; align-items: center; gap: 8px; }
+.ftr-photo { width: 40px; height: 40px; object-fit: cover; object-position: 50% 18%; background: var(--blue-50); }
 .ftr-av { display: inline-grid; place-items: center; width: 28px; height: 28px; border-radius: 999px; background: var(--blue-50); color: var(--blue); font-size: 11px; font-weight: 700; letter-spacing: .02em; flex: none; }
 .ftrs .vs { color: var(--muted); font-size: 12px; font-weight: 600; text-transform: uppercase; }
 /* Hub: add-to-calendar column */
@@ -653,13 +662,11 @@ li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-areas: ". title title title ac
   .ev.ev-nocomp.ev-sess, .two-col .ev.ev-nocomp.ev-sess { grid-template-columns: 84px minmax(0, 1fr) auto auto; grid-template-areas: "day home mid act"; }
 }
 
-/* Desktop center line. Every row has equal widths on its left and right edges, so its center sits in the
-   middle of the card whatever the row type: the league column mirrors the Add column, and rows without a
-   league (league pages) get an empty left column as wide as their Add side. Each type takes only the width
-   its right side needs, so team names keep their room on pages with a right rail. */
+/* Desktop center line. Rows without a league (league pages, NFL) have no empty left column: both team names
+   take the full width of their side, so names are not cut. The time sits between the two teams. */
 @media (min-width: 861px) {
-  .ev.ev-nocomp { grid-template-columns: 84px minmax(0, 1fr) 92px minmax(0, 1fr) 84px; grid-template-areas: ". home mid away act"; }
-  .ev.ev-nocomp.ev-hasrd { grid-template-areas: "rd rd rd rd rd" ". home mid away act"; }
+  .ev.ev-nocomp { grid-template-columns: minmax(0, 1fr) 92px minmax(0, 1fr) 84px; grid-template-areas: "home mid away act"; }
+  .ev.ev-nocomp.ev-hasrd { grid-template-columns: minmax(0, 1fr) 92px minmax(0, 1fr) 84px; grid-template-areas: "rd rd rd rd" "home mid away act"; }
   .ev.ev-solo.ev-nocomp { grid-template-columns: 136px minmax(0, 1fr) 92px minmax(0, 1fr) 136px; grid-template-areas: ". title title title act"; }
   .ev.ev-solo.ev-nocomp.ev-hasrd { grid-template-areas: "rd rd rd rd rd" ". title title title act"; }
   .ev-solo > .ev-title { text-align: center; }
@@ -671,8 +678,31 @@ li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-areas: ". title title title ac
   .ev.ev-bout.ev-nocomp { grid-template-areas: ". home mid away act" ". sub sub sub act"; }
   .ev.ev-bout.ev-nocomp.ev-hascard { grid-template-areas: ". card card card act" ". home mid away act" ". sub sub sub act"; }
   .ev.ev-nocomp.ev-sess { grid-template-columns: 96px minmax(0, 1fr) 92px minmax(0, 1fr) 96px; }
-  .two-col .ev.ev-nocomp { grid-template-columns: 72px minmax(0, 1fr) 84px minmax(0, 1fr) 72px; }
+  .two-col .ev.ev-nocomp { grid-template-columns: 72px minmax(0, 1fr) 84px minmax(0, 1fr) 72px; grid-template-areas: ". home mid away act"; }
+  .two-col .ev.ev-nocomp.ev-hasrd { grid-template-areas: "rd rd rd rd rd" ". home mid away act"; }
   .two-col .ev.ev-solo.ev-nocomp { grid-template-columns: 96px minmax(0, 1fr) 84px minmax(0, 1fr) 96px; }
   .two-col li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-columns: 96px minmax(0, 1fr) 84px minmax(0, 1fr) 96px; }
   .two-col .ev.ev-bout.ev-nocomp { grid-template-columns: 96px minmax(0, 1fr) 44px minmax(0, 1fr) 96px; }
+}
+
+/* Phone match rows: two lines per match, not three. Line 1: league on the left, time on the right, Add on
+   the far right. Line 2: home and away side by side, names at a smaller size and allowed to wrap, so the
+   full name stays readable. Competition pages (no league) and rounds keep the same two lines. Embedded
+   widgets (body.embed) keep their own layout. */
+@media (max-width: 860px) {
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto;
+    grid-template-areas: "comp mid act" "home away act";
+    row-gap: 4px; column-gap: 8px; padding: 10px 12px; align-items: center;
+  }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk).ev-nocomp { grid-template-columns: auto minmax(0, 1fr) minmax(0, 1fr) auto; grid-template-areas: "mid home away act"; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk).ev-hasrd { grid-template-areas: "rd rd act" "comp mid act" "home away act"; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk).ev-nocomp.ev-hasrd { grid-template-areas: "rd rd rd act" "mid home away act"; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-mid { justify-self: end; text-align: right; font-size: 13px; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk).ev-nocomp .ev-mid { justify-self: start; text-align: left; font-weight: 600; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team { font-size: 13px; line-height: 1.25; gap: 5px; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team .nm { min-width: 0; white-space: normal; overflow: visible; text-overflow: clip; overflow-wrap: anywhere; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team .logo-img { width: 18px; height: 18px; flex: none; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.home { flex-direction: row; justify-content: flex-end; text-align: right; }
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.away { flex-direction: row; justify-content: flex-start; text-align: left; }
 }

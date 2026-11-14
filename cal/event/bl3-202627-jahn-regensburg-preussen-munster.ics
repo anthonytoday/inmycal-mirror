@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-jahn-regensburg-preussen-munster@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T163734Z
+DTSTART:20261206T123000Z
+DTEND:20261206T142500Z
+TRANSP:OPAQUE
 SUMMARY:Jahn Regensburg - Preußen Münster
-DESCRIPTION:3. Liga\, Matchday 16\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 16\nhttps://inmycal.com
 LOCATION:Jahnstadion Regensburg\, Regensburg
 URL:https://inmycal.com/3-liga/jahn-regensburg/
 STATUS:CONFIRMED

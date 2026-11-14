@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-toronto-raptors-20261112@sports.anthonyto
  day.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261113T000000Z
-DTEND:20261113T023000Z
-TRANSP:OPAQUE
-SUMMARY:Toronto Raptors @ Philadelphia 76ers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261113T122157Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Toronto Raptors @ Philadelphia 76ers (112-123)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

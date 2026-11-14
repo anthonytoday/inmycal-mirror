@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-r-c-d-mallorca-c-d-castellon@sports.anthonytoday.com
+DTSTAMP:20261114T031220Z
+DTSTART:20261129T151500Z
+DTEND:20261129T171000Z
+TRANSP:OPAQUE
+SUMMARY:R. C. D. Mallorca - C. D. Castellón
+DESCRIPTION:Segunda División\, Jornada 16\nhttps://inmycal.com
+LOCATION:Mallorca Son Moix
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-albacete-balompie-c-d-tenerife@sports.anthonytoday.com
+DTSTAMP:20261114T031220Z
+DTSTART:20261128T151500Z
+DTEND:20261128T171000Z
+TRANSP:OPAQUE
+SUMMARY:Albacete Balompié - C. D. Tenerife
+DESCRIPTION:Segunda División\, Jornada 16\nhttps://inmycal.com
+LOCATION:Carlos Belmonte
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

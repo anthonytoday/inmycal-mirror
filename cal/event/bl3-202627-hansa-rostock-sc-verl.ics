@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-hansa-rostock-sc-verl@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T121633Z
+DTSTART:20261213T183000Z
+DTEND:20261213T202500Z
+TRANSP:OPAQUE
 SUMMARY:Hansa Rostock - SC Verl
-DESCRIPTION:3. Liga\, Matchday 17\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 17\nhttps://inmycal.com
 LOCATION:Ostseestadion\, Rostock
 URL:https://inmycal.com/3-liga/hansa-rostock/
 STATUS:CONFIRMED

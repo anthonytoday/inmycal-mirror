@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-utah-jazz-philadelphia-76ers-20270323@sports.anthonytoday.co
+ m
+DTSTAMP:20261114T070433Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Utah Jazz
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Delta Center
+URL:https://inmycal.com/nba/utah-jazz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

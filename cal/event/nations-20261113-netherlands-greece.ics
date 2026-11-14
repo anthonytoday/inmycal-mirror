@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261113-netherlands-greece@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261114T003006Z
 DTSTART:20261113T194500Z
 DTEND:20261113T214000Z
 TRANSP:OPAQUE
-SUMMARY:Netherlands - Greece [NL]
+SUMMARY:Netherlands - Greece [NL] (7-0)
 DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
 LOCATION:Johan Cruyff Arena\, Amsterdam
 URL:https://inmycal.com/nations/netherlands/

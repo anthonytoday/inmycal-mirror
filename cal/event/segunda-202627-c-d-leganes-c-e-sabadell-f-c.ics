@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-c-d-leganes-c-e-sabadell-f-c@sports.anthonytoday.com
+DTSTAMP:20261114T031220Z
+DTSTART:20261127T193000Z
+DTEND:20261127T212500Z
+TRANSP:OPAQUE
+SUMMARY:C. D. Leganés - C. E. Sabadell F. C.
+DESCRIPTION:Segunda División\, Jornada 16\nhttps://inmycal.com
+LOCATION:Ontime Butarque
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

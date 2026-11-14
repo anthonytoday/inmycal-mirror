@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-viktoria-koln-waldhof-mannheim@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T163734Z
+DTSTART:20261218T180000Z
+DTEND:20261218T195500Z
+TRANSP:OPAQUE
 SUMMARY:Viktoria Köln - Waldhof Mannheim
-DESCRIPTION:3. Liga\, Matchday 18\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 18\nhttps://inmycal.com
 LOCATION:Sportpark Höhenberg\, Cologne
 URL:https://inmycal.com/3-liga/viktoria-koln/
 STATUS:CONFIRMED

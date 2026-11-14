@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-hoffenheim-ii-wehen-wiesbaden@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T163734Z
+DTSTART:20261219T130000Z
+DTEND:20261219T145500Z
+TRANSP:OPAQUE
 SUMMARY:Hoffenheim II - Wehen Wiesbaden
-DESCRIPTION:3. Liga\, Matchday 18\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 18\nhttps://inmycal.com
 LOCATION:Dietmar-Hopp-Stadion\, Sinsheim
 URL:https://inmycal.com/3-liga/hoffenheim-ii/
 STATUS:CONFIRMED

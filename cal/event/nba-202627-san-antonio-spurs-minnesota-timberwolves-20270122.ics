@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-san-antonio-spurs-minnesota-timberwolves-20270122@sports.ant
+ honytoday.com
+DTSTAMP:20261114T064055Z
+DTSTART:20270123T023000Z
+DTEND:20270123T050000Z
+TRANSP:OPAQUE
+SUMMARY:Minnesota Timberwolves @ San Antonio Spurs
+DESCRIPTION:NBA\nhttps://inmycal.com
+LOCATION:Frost Bank Center
+URL:https://inmycal.com/nba/san-antonio-spurs/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

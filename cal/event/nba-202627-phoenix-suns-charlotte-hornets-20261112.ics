@@ -6,11 +6,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-phoenix-suns-charlotte-hornets-20261112@sports.anthonytoday.
  com
-DTSTAMP:20261105T055836Z
+DTSTAMP:20261113T122157Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
-SUMMARY:Charlotte Hornets @ Phoenix Suns
+SUMMARY:Charlotte Hornets @ Phoenix Suns (96-101)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Mortgage Matchup Center
 URL:https://inmycal.com/nba/phoenix-suns/

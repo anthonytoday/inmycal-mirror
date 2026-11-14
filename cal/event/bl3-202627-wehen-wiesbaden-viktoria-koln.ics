@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-wehen-wiesbaden-viktoria-koln@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T163734Z
+DTSTART:20270117T183000Z
+DTEND:20270117T202500Z
+TRANSP:OPAQUE
 SUMMARY:Wehen Wiesbaden - Viktoria Köln
-DESCRIPTION:3. Liga\, Matchday 19\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 19\nhttps://inmycal.com
 LOCATION:Brita-Arena\, Wiesbaden
 URL:https://inmycal.com/3-liga/wehen-wiesbaden/
 STATUS:CONFIRMED

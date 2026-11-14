@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-real-valladolid-c-f-real-sociedad-b@sports.anthonytoday.
+ com
+DTSTAMP:20261114T031220Z
+DTSTART:20261128T200000Z
+DTEND:20261128T215500Z
+TRANSP:OPAQUE
+SUMMARY:Real Valladolid C. F - Real Sociedad "B"
+DESCRIPTION:Segunda División\, Jornada 16\nhttps://inmycal.com
+LOCATION:José Zorrilla
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

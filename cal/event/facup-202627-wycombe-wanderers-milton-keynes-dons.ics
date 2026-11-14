@@ -6,13 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:facup-202627-wycombe-wanderers-milton-keynes-dons@sports.anthonytoday.c
  om
-DTSTAMP:20261110T001637Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261114T062621Z
+DTSTART:20261205T150000Z
+DTEND:20261205T165500Z
+TRANSP:OPAQUE
 SUMMARY:Wycombe Wanderers - Milton Keynes Dons [FAC]
-DESCRIPTION:FA Cup\, Second round\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:FA Cup\, Second round\nhttps://inmycal.com
 LOCATION:Adams Park\, High Wycombe
 URL:https://inmycal.com/
 STATUS:CONFIRMED

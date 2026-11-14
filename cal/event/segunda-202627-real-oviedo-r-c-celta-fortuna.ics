@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-real-oviedo-r-c-celta-fortuna@sports.anthonytoday.com
+DTSTAMP:20261114T031220Z
+DTSTART:20261130T193000Z
+DTEND:20261130T212500Z
+TRANSP:OPAQUE
+SUMMARY:Real Oviedo - R. C. Celta Fortuna
+DESCRIPTION:Segunda División\, Jornada 16\nhttps://inmycal.com
+LOCATION:Carlos Tartiere
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

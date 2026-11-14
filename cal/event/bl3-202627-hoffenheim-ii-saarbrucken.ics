@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-hoffenheim-ii-saarbrucken@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-TRANSP:TRANSPARENT
+DTSTAMP:20261113T163734Z
+DTSTART:20261206T153000Z
+DTEND:20261206T172500Z
+TRANSP:OPAQUE
 SUMMARY:Hoffenheim II - Saarbrücken
-DESCRIPTION:3. Liga\, Matchday 16\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:3. Liga\, Matchday 16\nhttps://inmycal.com
 LOCATION:Dietmar-Hopp-Stadion\, Sinsheim
 URL:https://inmycal.com/3-liga/hoffenheim-ii/
 STATUS:CONFIRMED

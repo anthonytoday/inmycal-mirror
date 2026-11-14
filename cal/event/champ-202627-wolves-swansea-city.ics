@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:champ-202627-wolves-swansea-city@sports.anthonytoday.com
-DTSTAMP:20261105T024819Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-TRANSP:TRANSPARENT
+DTSTAMP:20261114T002317Z
+DTSTART:20261226T150000Z
+DTEND:20261226T165500Z
+TRANSP:OPAQUE
 SUMMARY:Wolves - Swansea City
-DESCRIPTION:Championship\, Matchday 23\nKickoff time not announced yet.\nht
- tps://inmycal.com
+DESCRIPTION:Championship\, Matchday 23\nhttps://inmycal.com
 LOCATION:Molineux\, Wolverhampton
 URL:https://inmycal.com/championship/wolves/
 STATUS:CONFIRMED
