@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261114-norway-wales@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261115T002133Z
 DTSTART:20261114T170000Z
 DTEND:20261114T185500Z
 TRANSP:OPAQUE
-SUMMARY:Norway - Wales [NL]
+SUMMARY:Norway - Wales [NL] (3-1)
 DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
 LOCATION:Ullevaal Stadion\, Oslo
 URL:https://inmycal.com/nations/norway/

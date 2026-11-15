@@ -5,18 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261114-main@sports.anthonytoday.com
-DTSTAMP:20261114T064236Z
-DTSTART:20261115T000000Z
-DTEND:20261115T030000Z
+DTSTAMP:20261115T003215Z
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
 TRANSP:OPAQUE
 SUMMARY:UFC 334: Gane vs. Hokit
-DESCRIPTION:UFC\n\nMain card\n--------------------\n• Ciryl Gane (c) vs. 
- Josh Hokit @265 (title)\n• Kayla Harrison (c) vs. Amanda Nunes @135 (tit
- le)\n• Caio Borralho vs. Yousri Belgaroui @185\n• Uroš Medić vs. Kev
- in Holland @170\n• Bilal Hasan vs. Luis Gurule @125\n\nPrelims (2 hrs be
- fore the main card\, its own entry): 8 bouts\n\nhttps://www.ufc.com/event/
- ufc-334\n\nStart time from TheSportsDB.\n\nhttps://inmycal.com\n\nAccurate
-  as of 14 Nov 2026\, 06:42 UTC
+DESCRIPTION:UFC\nMain card. Start time set by InMyCal\; a TheSportsDB refre
+ sh does not change it.\nhttps://inmycal.com
 LOCATION:Madison Square Garden\, NYC
 URL:https://inmycal.com/
 STATUS:CONFIRMED

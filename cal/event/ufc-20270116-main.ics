@@ -5,13 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20270116-main@sports.anthonytoday.com
-DTSTAMP:20261107T040541Z
+DTSTAMP:20261115T074858Z
 DTSTART:20270117T010000Z
-DTEND:20270117T040000Z
+DTEND:20270117T043000Z
 TRANSP:OPAQUE
-SUMMARY:UFC Fight Night 296
-DESCRIPTION:UFC\nMain card. Estimated start (usual start for the region)\; 
- the official time replaces it once published.\nhttps://inmycal.com
+SUMMARY:UFC Fight Night: Rodríguez vs. Garcia
+DESCRIPTION:UFC\n\nMain card\n--------------------\n• Yair Rodríguez vs.
+  Steve Garcia @145\n• Daniel Rodriguez vs. Roberto Soldić @170\n• Chi
+ di Njokuani vs. Ignacio Bahamondes @170\n\nhttps://www.ufc.com/event/ufc-f
+ ight-night-january-16-2027\n\nEstimated start (usual start for the region)
+ \; the official time replaces it once published.\n\nhttps://inmycal.com\n\
+ nAccurate as of 15 Nov 2026\, 07:48 UTC
 LOCATION:American Airlines Center\, Dallas\, TX
 URL:https://inmycal.com/
 STATUS:CONFIRMED

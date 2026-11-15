@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20270213-main@sports.anthonytoday.com
+DTSTAMP:20261115T074858Z
+DTSTART:20270214T010000Z
+DTEND:20270214T043000Z
+TRANSP:OPAQUE
+SUMMARY:UFC Fight Night: Pyfer vs. Nickal
+DESCRIPTION:UFC\n\nMain card\n--------------------\n• Joe Pyfer vs. Bo Ni
+ ckal @185\n\nhttps://www.ufc.com/event/ufc-fight-night-february-13-2027\n\
+ nEstimated start (usual start for the region)\; the official time replaces
+  it once published.\n\nhttps://inmycal.com\n\nAccurate as of 15 Nov 2026\,
+  07:48 UTC
+LOCATION:Rocket Arena\, Cleveland\, OH
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

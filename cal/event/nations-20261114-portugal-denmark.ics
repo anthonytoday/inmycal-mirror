@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261114-portugal-denmark@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261115T002133Z
 DTSTART:20261114T194500Z
 DTEND:20261114T214000Z
 TRANSP:OPAQUE
-SUMMARY:Portugal - Denmark [NL]
+SUMMARY:Portugal - Denmark [NL] (1-4)
 DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
 LOCATION:Estádio Municipal\, Braga
 URL:https://inmycal.com/nations/portugal/

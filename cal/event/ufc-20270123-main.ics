@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20270123-main@sports.anthonytoday.com
+DTSTAMP:20261115T074858Z
+DTSTART:20270124T010000Z
+DTEND:20270124T043000Z
+TRANSP:OPAQUE
+SUMMARY:UFC Fight Night: Bonfim vs. Brady
+DESCRIPTION:UFC\n\nMain card\n--------------------\n• Gabriel Bonfim vs. 
+ Sean Brady @170\n\nhttps://www.ufc.com/event/ufc-fight-night-january-23-20
+ 27\n\nEstimated start (usual start for the region)\; the official time rep
+ laces it once published.\n\nhttps://inmycal.com\n\nAccurate as of 15 Nov 2
+ 026\, 07:48 UTC
+LOCATION:Meta Apex\, Las Vegas\, NV
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

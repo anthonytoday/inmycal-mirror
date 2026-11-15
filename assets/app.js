@@ -168,6 +168,45 @@
     });
   }
 
+  // Phone: consecutive match rows of one league at one kickoff share a header (league and time, shown once).
+  // Each row keeps its team names and its own Add button. Only plain match rows group: rows with a score or a
+  // status pill (the score replaces the time), rounds, cards and fights keep their full row. Desktop CSS hides the header.
+  function plainTime(r) {
+    var m = r.querySelector('.ev-mid');
+    if (!m || m.querySelector('.score, .pill')) return null;
+    return m.querySelector('time');
+  }
+  function groupable(r) {
+    return !!(r.querySelector('.ev-team.home') && r.querySelector('.ev-team.away') && plainTime(r)) &&
+      !/\b(ev-wk|ev-solo|ev-bout|ev-sess|ev-hasrd)\b/.test(r.className);
+  }
+  function groupRows(rows, day) {
+    var blocks = [];
+    rows.forEach(function (r) {
+      r.classList.remove('ev-in-grp');
+      var t = groupable(r) ? plainTime(r) : null;
+      var c = r.querySelector('.ev-comp');
+      var key = t ? (c ? c.innerHTML : '') + '|' + t.getAttribute('datetime') : '';
+      var last = blocks[blocks.length - 1];
+      if (key && last && last.key === key) last.rows.push(r);
+      else blocks.push({ key: key, rows: [r] });
+    });
+    var out = [];
+    blocks.forEach(function (b) {
+      if (!b.key || b.rows.length < 2) { b.rows.forEach(function (r) { out.push(r); }); return; }
+      var h = document.createElement('li');
+      h.className = 'ev-grp';
+      h.setAttribute('data-day', day);
+      h.setAttribute('data-local-day', day);
+      var c = b.rows[0].querySelector('.ev-comp');
+      if (c) h.appendChild(c.cloneNode(true));
+      h.appendChild(plainTime(b.rows[0]).cloneNode(true));
+      out.push(h);
+      b.rows.forEach(function (r) { r.classList.add('ev-in-grp'); out.push(r); });
+    });
+    return out;
+  }
+
   function regroup() {
     document.querySelectorAll('[data-evlist]').forEach(function (list) {
       prunePast(list);
@@ -206,8 +245,11 @@
         if (rs[0] && same) t.textContent += ' · ' + rs[0];
         h.appendChild(t);
         list.appendChild(h);
-        groups[day].forEach(function (r) { roundLabel(r, same ? '' : r.getAttribute('data-round') || ''); list.appendChild(r); });
+        groups[day].forEach(function (r) { roundLabel(r, same ? '' : r.getAttribute('data-round') || ''); });
+        groupRows(groups[day], day).forEach(function (n) { list.appendChild(n); });
       });
+      // Group headers copy a kickoff time; set its text in the visitor's zone and clock (the list is now in the page).
+      renderTimes();
       // Today always shows first, even when nothing is on, so an empty day reads as empty, not missing.
       var today = localDay(new Date());
       if (order[0] > today) {

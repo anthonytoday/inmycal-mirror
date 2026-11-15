@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efl1-202627-doncaster-rovers-oxford-united@sports.anthonytoday.com
+DTSTAMP:20261105T064202Z
+DTSTART:20261215T194500Z
+DTEND:20261215T214000Z
+TRANSP:OPAQUE
+SUMMARY:Doncaster Rovers - Oxford United
+DESCRIPTION:League One\, Matchday 8\nhttps://inmycal.com
+LOCATION:Club Doncaster Sports Village
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

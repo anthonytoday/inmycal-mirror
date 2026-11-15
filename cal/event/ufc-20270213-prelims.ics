@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ufc-20270213-prelims@sports.anthonytoday.com
+DTSTAMP:20261115T074858Z
+DTSTART:20270213T230000Z
+DTEND:20270214T010000Z
+TRANSP:OPAQUE
+SUMMARY:UFC Fight Night: Pyfer vs. Nickal (Prelims)
+DESCRIPTION:UFC\nPrelims. Estimated start (usual start for the region)\; th
+ e official time replaces it once published.\nhttps://inmycal.com
+LOCATION:Rocket Arena\, Cleveland\, OH
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

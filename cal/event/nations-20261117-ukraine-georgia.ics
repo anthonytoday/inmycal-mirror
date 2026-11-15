@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261117-ukraine-georgia@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261115T074905Z
 DTSTART:20261117T194500Z
 DTEND:20261117T214000Z
 TRANSP:OPAQUE
 SUMMARY:Ukraine - Georgia [NL]
 DESCRIPTION:National teams\, Nations League B\nhttps://inmycal.com
-LOCATION:Anton Malatinský Stadium\, Trnava (Slovakia)
+LOCATION:Košická futbalová aréna\, Košice (Slovakia)
 URL:https://inmycal.com/nations/ukraine/
 STATUS:CONFIRMED
 END:VEVENT

@@ -5,9 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261121-main@sports.anthonytoday.com
-DTSTAMP:20261114T064236Z
+DTSTAMP:20261115T074858Z
 DTSTART:20261121T180000Z
-DTEND:20261121T210000Z
+DTEND:20261121T213000Z
 TRANSP:OPAQUE
 SUMMARY:UFC Fight Night: Procházka vs. Stirling
 DESCRIPTION:UFC\n\nMain card\n--------------------\n• Jiří Procházka v
@@ -17,7 +17,7 @@ DESCRIPTION:UFC\n\nMain card\n--------------------\n• Jiří Procházka v
  ore the main card\, its own entry): 4 bouts\n\nhttps://www.ufc.com/event/u
  fc-fight-night-november-21-2026\n\nEstimated start (usual start for the re
  gion)\; the official time replaces it once published.\n\nhttps://inmycal.c
- om\n\nAccurate as of 14 Nov 2026\, 06:42 UTC
+ om\n\nAccurate as of 15 Nov 2026\, 07:48 UTC
 LOCATION:Ali Bin Hamad al-Attiyah Arena\, Al Rayyan\, Qatar
 URL:https://inmycal.com/
 STATUS:CONFIRMED
