@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boxing-2629133@sports.anthonytoday.com
+DTSTAMP:20261115T123425Z
+DTSTART:20261120T220000Z
+DTEND:20261121T020000Z
+TRANSP:OPAQUE
+SUMMARY:Amari Jones vs DeAundre Pettus
+DESCRIPTION:Boxing\nStart: main card (TheSportsDB). The end time is an esti
+ mate.\nhttps://inmycal.com
+LOCATION:Indio\, CA
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

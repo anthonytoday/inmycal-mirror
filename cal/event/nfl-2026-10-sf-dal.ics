@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-sf-dal@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261116T033756Z
 DTSTART:20261115T212500Z
 DTEND:20261116T004000Z
 TRANSP:OPAQUE
-SUMMARY:San Francisco 49ers @ Dallas Cowboys
+SUMMARY:San Francisco 49ers @ Dallas Cowboys (46-40)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:AT&T Stadium
 URL:https://inmycal.com/nfl/dallas-cowboys/

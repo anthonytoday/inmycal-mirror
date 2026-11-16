@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-indiana-pacers-20261115@sports.anthonytod
  ay.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261115T180000Z
-DTEND:20261115T203000Z
-TRANSP:OPAQUE
-SUMMARY:Indiana Pacers @ Philadelphia 76ers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261116T002930Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Indiana Pacers @ Philadelphia 76ers (124-131)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

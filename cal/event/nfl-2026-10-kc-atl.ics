@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-kc-atl@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261116T002951Z
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
 TRANSP:OPAQUE
-SUMMARY:Kansas City Chiefs @ Atlanta Falcons
+SUMMARY:Kansas City Chiefs @ Atlanta Falcons (35-13)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:Mercedes-Benz Stadium
 URL:https://inmycal.com/nfl/atlanta-falcons/

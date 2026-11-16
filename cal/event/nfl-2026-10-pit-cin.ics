@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-pit-cin@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261116T064026Z
 DTSTART:20261116T012000Z
 DTEND:20261116T043500Z
 TRANSP:OPAQUE
-SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
+SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals (18-38)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:Paycor Stadium
 URL:https://inmycal.com/nfl/cincinnati-bengals/

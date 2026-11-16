@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-la-ari@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261116T002951Z
 DTSTART:20261115T210500Z
 DTEND:20261116T002000Z
 TRANSP:OPAQUE
-SUMMARY:Los Angeles Rams @ Arizona Cardinals
+SUMMARY:Los Angeles Rams @ Arizona Cardinals (34-6)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:State Farm Stadium
 URL:https://inmycal.com/nfl/arizona-cardinals/

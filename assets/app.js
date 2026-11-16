@@ -19,17 +19,38 @@
     if (/^https?:\/\//.test(href)) { try { var h = new URL(href).hostname; if (h !== location.hostname) track('out', h); } catch (err) {} }
   }, true);
   function picked() { try { return localStorage.getItem(TZ_KEY) || ''; } catch (e) { return ''; } }
-  function zone() { var z = picked() || auto || 'UTC'; try { new Intl.DateTimeFormat('en', { timeZone: z }); return z; } catch (e) { return 'UTC'; } }
+  // Zone, clock and formatters are worked out once and reused: building an Intl.DateTimeFormat is slow, and a
+  // long list asked for hundreds of them (per row and per check). A new pick clears the memo (resetFmt).
+  var memo = {};
+  function resetFmt() { memo = {}; }
+  function zone() {
+    if (memo.zone) return memo.zone;
+    var z = picked() || auto || 'UTC';
+    try { new Intl.DateTimeFormat('en', { timeZone: z }); } catch (e) { z = 'UTC'; }
+    return (memo.zone = z);
+  }
 
   // Clock: 12-hour with AM/PM for US time zones, 24-hour elsewhere, unless the visitor picked one in the footer.
   var H_KEY = 'imc-hours';
   var US_ZONE = /^(America\/(New_York|Chicago|Denver|Phoenix|Los_Angeles|Anchorage|Juneau|Sitka|Nome|Yakutat|Metlakatla|Adak|Boise|Detroit|Indiana|Kentucky|Menominee|North_Dakota|Puerto_Rico)|Pacific\/Honolulu|US\/)/;
   function hourPick() { try { var h = localStorage.getItem(H_KEY); return h === '12' || h === '24' ? h : ''; } catch (e) { return ''; } }
-  function hours() { return hourPick() || (US_ZONE.test(zone()) ? '12' : '24'); }
+  function hours() { return memo.hours || (memo.hours = hourPick() || (US_ZONE.test(zone()) ? '12' : '24')); }
   // 12-hour clock: "8:15 PM", not "08:15 PM"; the 24-hour clock keeps two digits ("08:15").
-  function fmt(opts) { var o = Object.assign({ timeZone: zone() }, opts); if (o.hour) { o.hour12 = hours() === '12'; if (o.hour12) o.hour = 'numeric'; } return new Intl.DateTimeFormat(lang, o); }
-  function localDay(d) { var p = fmt({ year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(d); var o = {}; p.forEach(function (x) { o[x.type] = x.value; }); return o.year + '-' + o.month + '-' + o.day; }
-  function dayName(ymd) { return new Intl.DateTimeFormat(lang, { timeZone: 'UTC', weekday: 'short', day: 'numeric', month: 'short' }).format(new Date(ymd + 'T12:00:00Z')); }
+  function fmt(opts) {
+    var k = 'f' + JSON.stringify(opts);
+    if (memo[k]) return memo[k];
+    var o = Object.assign({ timeZone: zone() }, opts); if (o.hour) { o.hour12 = hours() === '12'; if (o.hour12) o.hour = 'numeric'; }
+    return (memo[k] = new Intl.DateTimeFormat(lang, o));
+  }
+  var DAY_OPTS = { year: 'numeric', month: '2-digit', day: '2-digit' };
+  var dayNameFmt = null;
+  var dayNames = {};
+  function localDay(d) { var p = fmt(DAY_OPTS).formatToParts(d); var o = {}; p.forEach(function (x) { o[x.type] = x.value; }); return o.year + '-' + o.month + '-' + o.day; }
+  function dayName(ymd) {
+    if (dayNames[ymd]) return dayNames[ymd];
+    if (!dayNameFmt) dayNameFmt = new Intl.DateTimeFormat(lang, { timeZone: 'UTC', weekday: 'short', day: 'numeric', month: 'short' });
+    return (dayNames[ymd] = dayNameFmt.format(new Date(ymd + 'T12:00:00Z')));
+  }
   function rel(ymd) {
     var t = localDay(new Date());
     var tm = localDay(new Date(Date.now() + 86400000));
@@ -58,12 +79,13 @@
   // Footer switch: 24h or 12h AM/PM, remembered in this browser only.
   document.querySelectorAll('[data-hours]').forEach(function (box) {
     var paint = function () { box.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-h') === hours() ? 'true' : 'false'); }); };
-    box.hidden = false;
+    box.classList.add('on');
     paint();
     box.addEventListener('click', function (e) {
       var b = e.target.closest('button[data-h]');
       if (!b) return;
       try { localStorage.setItem(H_KEY, b.getAttribute('data-h')); } catch (err) {}
+      resetFmt();
       paint();
       renderTimes();
     });
@@ -316,7 +338,7 @@
     var qi = sw.querySelector('input');
     var list = sw.querySelector('.search-list');
     var active = -1;
-    sw.hidden = false;
+    sw.classList.add('on');
     var starts = function (words, p) { for (var i = 0; i < words.length; i++) if (words[i].indexOf(p) === 0) return true; return false; };
     var find = function (raw) {
       var q = norm(raw).trim();
@@ -572,7 +594,7 @@
   document.querySelectorAll('[data-set-team]').forEach(function (b) {
     var slug = b.getAttribute('data-set-team');
     var paint = function () { var on = myTeam() === slug; b.textContent = on ? '★ My team' : '☆ Make this my team'; b.setAttribute('aria-pressed', on ? 'true' : 'false'); };
-    b.hidden = false;
+    b.classList.add('on');
     paint();
     b.addEventListener('click', function () { setMyTeam(myTeam() === slug ? '' : slug); paint(); });
   });
@@ -624,6 +646,7 @@
       var v = e.target.hasAttribute('data-auto') ? '' : e.target.value;
       track('tz', v || 'auto');
       try { if (v) localStorage.setItem(TZ_KEY, v); else localStorage.removeItem(TZ_KEY); } catch (err) {}
+      resetFmt();
       renderTimes();
       regroup();
       var d = tzList.closest('details');

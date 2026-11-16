@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-memphis-grizzlies-brooklyn-nets-20261114@sports.anthonytoday
  .com
-DTSTAMP:20261106T003438Z
-DTSTART:20261115T010000Z
-DTEND:20261115T033000Z
-TRANSP:OPAQUE
-SUMMARY:Brooklyn Nets @ Memphis Grizzlies
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261115T121504Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Brooklyn Nets @ Memphis Grizzlies (110-129)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:FedExForum
 URL:https://inmycal.com/nba/memphis-grizzlies/
 STATUS:CONFIRMED

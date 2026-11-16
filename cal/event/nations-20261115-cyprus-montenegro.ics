@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261115-cyprus-montenegro@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261115T181413Z
 DTSTART:20261115T140000Z
 DTEND:20261115T155500Z
 TRANSP:OPAQUE
-SUMMARY:Cyprus - Montenegro [NL]
+SUMMARY:Cyprus - Montenegro [NL] (1-4)
 DESCRIPTION:National teams\, Nations League C\nhttps://inmycal.com
 LOCATION:Alphamega Stadium\, Limassol
 URL:https://inmycal.com/nations/cyprus/

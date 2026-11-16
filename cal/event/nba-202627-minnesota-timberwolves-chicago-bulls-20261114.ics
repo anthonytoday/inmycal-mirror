@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-minnesota-timberwolves-chicago-bulls-20261114@sports.anthony
  today.com
-DTSTAMP:20261106T003438Z
-DTSTART:20261115T010000Z
-DTEND:20261115T033000Z
-TRANSP:OPAQUE
-SUMMARY:Chicago Bulls @ Minnesota Timberwolves
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261115T121504Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Chicago Bulls @ Minnesota Timberwolves (117-106)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Target Center
 URL:https://inmycal.com/nba/minnesota-timberwolves/
 STATUS:CONFIRMED

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-sea-lv@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261116T002951Z
 DTSTART:20261115T210500Z
 DTEND:20261116T002000Z
 TRANSP:OPAQUE
-SUMMARY:Seattle Seahawks @ Las Vegas Raiders
+SUMMARY:Seattle Seahawks @ Las Vegas Raiders (21-13)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:Allegiant Stadium
 URL:https://inmycal.com/nfl/las-vegas-raiders/

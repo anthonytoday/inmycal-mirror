@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-jax-ten@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261116T002951Z
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
 TRANSP:OPAQUE
-SUMMARY:Jacksonville Jaguars @ Tennessee Titans
+SUMMARY:Jacksonville Jaguars @ Tennessee Titans (40-23)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:Nissan Stadium
 URL:https://inmycal.com/nfl/tennessee-titans/

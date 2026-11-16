@@ -56,6 +56,9 @@ img.logo-img { border-radius: 0; }
 .badge text { font: 700 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; text-anchor: middle; fill: #FFFFFF; }
 .badge text.dk { fill: #111111; }
 .head-tools { display: flex; align-items: center; gap: 8px; }
+/* Search and the clock switch need the script: their space is kept from the first paint (no layout shift)
+   and they show once app.js marks them ready; without JavaScript they stay invisible. Same for the team star. */
+[data-search]:not(.on), [data-hours]:not(.on), [data-set-team]:not(.on) { visibility: hidden; }
 .search { position: relative; flex: 1; max-width: 460px; }
 .search-ico { position: absolute; left: 13px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
 .search input { width: 100%; height: 40px; border-radius: 999px; border: 1px solid var(--line-2); background: var(--card); color: var(--ink); padding: 0 40px 0 38px; font: 15px var(--font-body); -webkit-appearance: none; appearance: none; }
@@ -723,3 +726,49 @@ li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-areas: ". title title title ac
   body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.home { flex-direction: row-reverse; justify-content: flex-end; justify-self: stretch; text-align: left; }
   body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.away { flex-direction: row; justify-content: flex-start; text-align: left; }
 }
+
+/* Data tables on event and season pages: season calendar, start times around the world, kickoffs by zone. */
+.tbl-wrap { overflow-x: auto; padding: 0 20px 14px; -webkit-overflow-scrolling: touch; }
+.zone-table, .season-table { width: 100%; border-collapse: collapse; font-size: 14px; font-variant-numeric: tabular-nums; }
+.zone-table caption { caption-side: top; text-align: left; color: var(--muted); font-size: 13px; padding: 0 0 8px; }
+.zone-table th, .zone-table td, .season-table th, .season-table td { padding: 8px 10px 8px 0; border-top: 1px solid var(--line); text-align: left; vertical-align: top; white-space: nowrap; }
+.zone-table thead th, .season-table thead th { border-top: 0; color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+.zone-table tbody th { font-weight: 500; color: var(--ink); }
+.season-table td:nth-child(2) { white-space: normal; min-width: 150px; }
+.season-table td:nth-child(3) { white-space: normal; color: var(--muted); }
+.season-table a { color: var(--ink); text-decoration: none; font-weight: 500; }
+.season-table a:hover { color: var(--blue); }
+.season-table tr.done td { color: var(--muted); }
+.season-table tr.done a { color: var(--muted); font-weight: 400; }
+.tag-done { font-size: 11px; border: 1px solid var(--line-2); border-radius: 999px; padding: 1px 7px; margin-left: 6px; }
+
+/* UFC card pages: the fight card, and the link to it from event rows. */
+.card-link { color: var(--blue); text-decoration: none; white-space: nowrap; }
+.card-link:hover { text-decoration: underline; }
+.fight-card .card-sub { font-size: 13px; color: var(--muted); font-weight: 500; text-transform: uppercase; letter-spacing: .04em; margin: 14px 0 6px; }
+.fight-card .card-sub:first-of-type { margin-top: 4px; }
+.bout-list { list-style: none; margin: 0; padding: 0; }
+.bout-list li { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding: 9px 0; border-top: 1px solid var(--line); font-size: 14px; }
+.bout-list li:first-child { border-top: 0; }
+.bl-names { color: var(--ink); font-weight: 500; }
+.bl-vs { color: var(--muted); font-weight: 400; margin: 0 4px; }
+.bl-wt { color: var(--muted); font-size: 13px; }
+
+/* Time-zone pages: events listed by local day, the time in a fixed column. */
+.zone-list .zl-day th { padding-top: 14px; border-top: 0; font-size: 13px; color: var(--muted); font-weight: 500; text-transform: uppercase; letter-spacing: .04em; }
+.zone-list tr:first-child th { padding-top: 0; }
+.zone-list td { white-space: normal; }
+.zone-list .zl-t { width: 64px; white-space: nowrap; font-weight: 600; color: var(--ink); }
+.zone-list a { color: var(--ink); text-decoration: none; }
+.zone-list a:hover { color: var(--blue); }
+.zone-links { font-size: 13px; color: var(--muted); margin: 12px 4px; }
+.zone-links a { color: var(--blue); text-decoration: none; }
+
+/* Team page quick answers and the sponsor line (shown only when SPONSOR_LINE is set). */
+.faq { margin-top: 16px; }
+.faq h3 { font-size: 15px; margin: 16px 0 4px; color: var(--ink); }
+.faq h3:first-of-type { margin-top: 10px; }
+.faq p { color: var(--muted); font-size: 14px; margin: 0; }
+.sponsor-line { max-width: 1280px; margin: 8px auto 0; padding: 10px 20px; font-size: 13px; color: var(--muted); text-align: center; }
+.sponsor-line span { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; border: 1px solid var(--line-2); border-radius: 999px; padding: 1px 7px; margin-right: 6px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
