@@ -718,13 +718,17 @@ li.ev.ev-wk.ev-wk.ev-wk.ev-nocomp { grid-template-areas: ". title title title ac
   body:not(.embed) .ev-grp time { margin-left: auto; flex: none; font-size: 13px; font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; }
   body:not(.embed) .ev-grp time:first-child { margin-left: 0; }
   body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) {
-    grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "home act" "away act";
-    row-gap: 4px; column-gap: 8px; padding: 6px 12px 8px; align-items: center;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto; grid-template-areas: "home away act";
+    column-gap: 8px; padding: 8px 12px; align-items: center;
   }
   body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-comp,
   body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-mid { display: none; }
-  body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.home { flex-direction: row-reverse; justify-content: flex-end; justify-self: stretch; text-align: left; }
+  body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.home { flex-direction: row; justify-content: flex-end; justify-self: stretch; text-align: right; }
   body:not(.embed) li.ev.ev-in-grp.ev-in-grp:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.away { flex-direction: row; justify-content: flex-start; text-align: left; }
+}
+/* Phone: one line per match, "Home vs Away", then Add (owner, 16 Nov 2026). */
+@media (max-width: 860px) {
+  body:not(.embed) .ev:not(.ev-solo):not(.ev-bout):not(.ev-sess):not(.ev-wk) .ev-team.away::before { content: 'vs'; flex: none; margin-right: 2px; font-size: 12px; font-weight: 400; color: var(--muted); }
 }
 
 /* Data tables on event and season pages: season calendar, start times around the world, kickoffs by zone. */

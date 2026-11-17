@@ -4,13 +4,12 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-houston-rockets-minnesota-timberwolves-20261104@sports.antho
- nytoday.com
-DTSTAMP:20261106T003438Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
+UID:nba-202627-houston-rockets-utah-jazz-20261113@sports.anthonytoday.com
+DTSTAMP:20261117T014326Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
 TRANSP:TRANSPARENT
-SUMMARY:Minnesota Timberwolves @ Houston Rockets (117-107)
+SUMMARY:Utah Jazz @ Houston Rockets (118-125)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Toyota Center
 URL:https://inmycal.com/nba/houston-rockets/

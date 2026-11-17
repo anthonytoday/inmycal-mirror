@@ -4,12 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-utah-jazz-houston-rockets-20261113@sports.anthonytoday.com
-DTSTAMP:20261116T063949Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+UID:nba-202627-utah-jazz-philadelphia-76ers-20270323@sports.anthonytoday.co
+ m
+DTSTAMP:20261117T014459Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
 TRANSP:TRANSPARENT
-SUMMARY:Houston Rockets @ Utah Jazz (125-118)
+SUMMARY:Philadelphia 76ers @ Utah Jazz
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Delta Center
 URL:https://inmycal.com/nba/utah-jazz/

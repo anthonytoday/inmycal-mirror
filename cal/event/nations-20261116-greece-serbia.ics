@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nations-20261116-greece-serbia@sports.anthonytoday.com
-DTSTAMP:20261104T043430Z
+DTSTAMP:20261117T001947Z
 DTSTART:20261116T194500Z
 DTEND:20261116T214000Z
 TRANSP:OPAQUE
-SUMMARY:Greece - Serbia [NL]
+SUMMARY:Greece - Serbia [NL] (1-0)
 DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
 LOCATION:Panthessaliko Stadium\, Volos
 URL:https://inmycal.com/nations/greece/

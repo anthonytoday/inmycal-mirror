@@ -4,13 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-sacramento-kings-oklahoma-city-thunder-20261115@sports.antho
- nytoday.com
-DTSTAMP:20261116T063949Z
-DTSTART:20261116T020000Z
-DTEND:20261116T043000Z
+UID:nba-202627-sacramento-kings-indiana-pacers-20270217@sports.anthonytoday
+ .com
+DTSTAMP:20261117T014326Z
+DTSTART:20270218T030000Z
+DTEND:20270218T053000Z
 TRANSP:OPAQUE
-SUMMARY:Oklahoma City Thunder @ Sacramento Kings
+SUMMARY:Indiana Pacers @ Sacramento Kings
 DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Golden 1 Center
 URL:https://inmycal.com/nba/sacramento-kings/
