@@ -4,16 +4,16 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-oklahoma-city-thunder-sacramento-kings-20261115@sports.antho
+UID:nba-202627-sacramento-kings-oklahoma-city-thunder-20261115@sports.antho
  nytoday.com
-DTSTAMP:20261117T014459Z
+DTSTAMP:20261118T014143Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
-SUMMARY:Sacramento Kings @ Oklahoma City Thunder (103-125)
+SUMMARY:Oklahoma City Thunder @ Sacramento Kings (125-103)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:Paycom Center
-URL:https://inmycal.com/nba/oklahoma-city-thunder/
+LOCATION:Golden 1 Center
+URL:https://inmycal.com/nba/sacramento-kings/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

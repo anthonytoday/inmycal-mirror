@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-10-lac-bal@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261117T121944Z
 DTSTART:20261117T011500Z
 DTEND:20261117T043000Z
 TRANSP:OPAQUE
-SUMMARY:Los Angeles Chargers @ Baltimore Ravens
+SUMMARY:Los Angeles Chargers @ Baltimore Ravens (23-20)
 DESCRIPTION:NFL\, Week 10\nhttps://inmycal.com
 LOCATION:M&T Bank Stadium
 URL:https://inmycal.com/nfl/baltimore-ravens/

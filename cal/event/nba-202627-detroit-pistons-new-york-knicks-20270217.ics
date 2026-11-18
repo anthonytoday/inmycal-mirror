@@ -4,13 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-detroit-pistons-orlando-magic-20261129@sports.anthonytoday.c
- om
-DTSTAMP:20261117T014459Z
-DTSTART:20261129T230000Z
-DTEND:20261130T013000Z
+UID:nba-202627-detroit-pistons-new-york-knicks-20270217@sports.anthonytoday
+ .com
+DTSTAMP:20261118T014310Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
 TRANSP:OPAQUE
-SUMMARY:Orlando Magic @ Detroit Pistons
+SUMMARY:New York Knicks @ Detroit Pistons
 DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Little Caesars Arena
 URL:https://inmycal.com/nba/detroit-pistons/

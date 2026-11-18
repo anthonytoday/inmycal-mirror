@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261121-prelims@sports.anthonytoday.com
-DTSTAMP:20261117T001918Z
+DTSTAMP:20261118T002003Z
 DTSTART:20261121T160000Z
 DTEND:20261121T180000Z
 TRANSP:OPAQUE
@@ -13,11 +13,12 @@ SUMMARY:UFC Fight Night: Procházka vs. Stirling (Prelims)
 DESCRIPTION:UFC\n\nPrelims (2 hrs before the main card)\n------------------
  --\n• Aleksandre Topuria vs. Santiago Luna @135\n• Shamil Gaziev vs. T
  allison Teixeira @265\n• Amir Albazi vs. Alessandro Costa @125\n• Jake
-  Matthews vs. Tahir Abdullayev @170\n\nMain card follows: Jiří Procházk
- a vs. Navajo Stirling\n\nhttps://www.ufc.com/event/ufc-fight-night-novembe
- r-21-2026\n\nEstimated start (usual start for the region)\; the official t
- ime replaces it once published.\n\nhttps://inmycal.com\n\nAccurate as of 1
- 7 Nov 2026\, 00:19 UTC
+  Matthews vs. Tahir Abdullayev @170\n• Nikolas Motta vs. Dom Mar Fan @15
+ 5\n• Diyar Nurgozhay vs. Alik Lorenz @205\n\nMain card follows: Jiří P
+ rocházka vs. Navajo Stirling\n\nhttps://www.ufc.com/event/ufc-fight-night
+ -november-21-2026\n\nEstimated start (usual start for the region)\; the of
+ ficial time replaces it once published.\n\nhttps://inmycal.com\n\nAccurate
+  as of 18 Nov 2026\, 00:20 UTC
 LOCATION:Ali Bin Hamad al-Attiyah Arena\, Al Rayyan\, Qatar
 URL:https://inmycal.com/
 STATUS:CONFIRMED

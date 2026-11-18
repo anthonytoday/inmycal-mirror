@@ -4,12 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-miami-heat-orlando-magic-20270411@sports.anthonytoday.com
-DTSTAMP:20261117T014459Z
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
+UID:nba-202627-miami-heat-philadelphia-76ers-20261125@sports.anthonytoday.c
+ om
+DTSTAMP:20261118T014458Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
 TRANSP:TRANSPARENT
-SUMMARY:Orlando Magic @ Miami Heat
+SUMMARY:Philadelphia 76ers @ Miami Heat
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Kaseya Center
 URL:https://inmycal.com/nba/miami-heat/
