@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-us-vermelles-es-thaon@sports.anthonytoday.com
+DTSTAMP:20261119T002807Z
+DTSTART:20261128T170000Z
+DTEND:20261128T185500Z
+TRANSP:OPAQUE
+SUMMARY:US Vermelles - ES Thaon [CDF]
+DESCRIPTION:Coupe de France\, Round 8\nhttps://inmycal.com
+LOCATION:Stade François-Blin\, Avion\, Pas-de-Calais
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

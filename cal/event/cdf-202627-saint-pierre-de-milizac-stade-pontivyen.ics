@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-saint-pierre-de-milizac-stade-pontivyen@sports.anthonytoday.
+ com
+DTSTAMP:20261119T002807Z
+DTSTART:20261128T170000Z
+DTEND:20261128T185500Z
+TRANSP:OPAQUE
+SUMMARY:Saint-Pierre de Milizac - Stade Pontivyen [CDF]
+DESCRIPTION:Coupe de France\, Round 8\nhttps://inmycal.com
+LOCATION:Stade Pen Ar Guéar\, Milizac-Guipronvel
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

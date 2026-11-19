@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-co-les-ulis-esa-linas-montlhery@sports.anthonytoday.com
+DTSTAMP:20261119T002807Z
+DTSTART:20261129T123000Z
+DTEND:20261129T142500Z
+TRANSP:OPAQUE
+SUMMARY:CO Les Ulis - ESA Linas-Montlhéry [CDF]
+DESCRIPTION:Coupe de France\, Round 8\nhttps://inmycal.com
+LOCATION:Stade Jean-Marc Salinier\, Les Ulis
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

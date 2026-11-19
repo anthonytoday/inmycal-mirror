@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261121-prelims@sports.anthonytoday.com
-DTSTAMP:20261118T002003Z
+DTSTAMP:20261119T002100Z
 DTSTART:20261121T160000Z
 DTEND:20261121T180000Z
 TRANSP:OPAQUE
@@ -18,7 +18,7 @@ DESCRIPTION:UFC\n\nPrelims (2 hrs before the main card)\n------------------
  rocházka vs. Navajo Stirling\n\nhttps://www.ufc.com/event/ufc-fight-night
  -november-21-2026\n\nEstimated start (usual start for the region)\; the of
  ficial time replaces it once published.\n\nhttps://inmycal.com\n\nAccurate
-  as of 18 Nov 2026\, 00:20 UTC
+  as of 19 Nov 2026\, 00:21 UTC
 LOCATION:Ali Bin Hamad al-Attiyah Arena\, Al Rayyan\, Qatar
 URL:https://inmycal.com/
 STATUS:CONFIRMED

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-cosne-ucs-cs-sedan-ardennes@sports.anthonytoday.com
+DTSTAMP:20261119T002807Z
+DTSTART:20261128T160000Z
+DTEND:20261128T175500Z
+TRANSP:OPAQUE
+SUMMARY:Cosne UCS - CS Sedan Ardennes [CDF]
+DESCRIPTION:Coupe de France\, Round 8\nhttps://inmycal.com
+LOCATION:Stade Raphaël Giraux\, Cosne-Cours-sur-Loire
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

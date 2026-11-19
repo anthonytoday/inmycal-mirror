@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efl1-202627-afc-wimbledon-oxford-united@sports.anthonytoday.com
+DTSTAMP:20261105T064202Z
+DTSTART:20261219T150000Z
+DTEND:20261219T165500Z
+TRANSP:OPAQUE
+SUMMARY:AFC Wimbledon - Oxford United
+DESCRIPTION:League One\, Matchday 20\nhttps://inmycal.com
+LOCATION:The Cherry Red Records Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

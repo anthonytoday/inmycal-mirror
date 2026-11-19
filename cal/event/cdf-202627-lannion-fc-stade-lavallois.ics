@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdf-202627-lannion-fc-stade-lavallois@sports.anthonytoday.com
+DTSTAMP:20261119T002807Z
+DTSTART:20261128T180000Z
+DTEND:20261128T195500Z
+TRANSP:OPAQUE
+SUMMARY:Lannion FC - Stade Lavallois [CDF]
+DESCRIPTION:Coupe de France\, Round 8\nhttps://inmycal.com
+LOCATION:Stade René Guillou\, Lannion
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
