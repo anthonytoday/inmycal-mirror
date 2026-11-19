@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-cleveland-cavaliers-memphis-grizzlies-20261118@sports.anthon
  ytoday.com
-DTSTAMP:20261106T035335Z
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-TRANSP:OPAQUE
-SUMMARY:Memphis Grizzlies @ Cleveland Cavaliers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261119T065303Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Memphis Grizzlies @ Cleveland Cavaliers (124-121)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Rocket Arena
 URL:https://inmycal.com/nba/cleveland-cavaliers/
 STATUS:CONFIRMED
