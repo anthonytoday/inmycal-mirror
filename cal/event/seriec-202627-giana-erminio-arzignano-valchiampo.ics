@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seriec-202627-giana-erminio-arzignano-valchiampo@sports.anthonytoday.co
+ m
+DTSTAMP:20261105T055748Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:Giana Erminio - Arzignano Valchiampo
+DESCRIPTION:Serie C\, 19ª giornata (Girone A)\nKickoff time not announced 
+ yet.\nhttps://inmycal.com
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

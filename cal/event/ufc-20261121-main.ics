@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261121-main@sports.anthonytoday.com
-DTSTAMP:20261119T065615Z
+DTSTAMP:20261120T002048Z
 DTSTART:20261121T180000Z
 DTEND:20261121T213000Z
 TRANSP:OPAQUE
@@ -14,10 +14,10 @@ DESCRIPTION:UFC\n\nMain card\n--------------------\n• Jiří Procházka v
  s. Navajo Stirling @205\n• Aljamain Sterling vs. Kevin Vallejos @145\n
  • Dan Hooker vs. Brian Ortega @155\n• Kyoji Horiguchi vs. Asu Almabaye
  v @125\n• Jared Cannonier vs. Ikram Aliskerov @185\n\nPrelims (2 hrs bef
- ore the main card\, its own entry): 6 bouts\n\nhttps://www.ufc.com/event/u
+ ore the main card\, its own entry): 7 bouts\n\nhttps://www.ufc.com/event/u
  fc-fight-night-november-21-2026\n\nEstimated start (usual start for the re
  gion)\; the official time replaces it once published.\n\nhttps://inmycal.c
- om\n\nAccurate as of 19 Nov 2026\, 06:56 UTC
+ om\n\nAccurate as of 20 Nov 2026\, 00:20 UTC
 LOCATION:Ali Bin Hamad al-Attiyah Arena\, Al Rayyan\, Qatar
 URL:https://inmycal.com/
 STATUS:CONFIRMED

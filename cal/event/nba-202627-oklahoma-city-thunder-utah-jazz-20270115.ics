@@ -4,13 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-oklahoma-city-thunder-los-angeles-lakers-20270401@sports.ant
- honytoday.com
-DTSTAMP:20261119T081759Z
-DTSTART:20270402T013000Z
-DTEND:20270402T040000Z
+UID:nba-202627-oklahoma-city-thunder-utah-jazz-20270115@sports.anthonytoday
+ .com
+DTSTAMP:20261120T014414Z
+DTSTART:20270116T010000Z
+DTEND:20270116T033000Z
 TRANSP:OPAQUE
-SUMMARY:Los Angeles Lakers @ Oklahoma City Thunder
+SUMMARY:Utah Jazz @ Oklahoma City Thunder
 DESCRIPTION:NBA\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/

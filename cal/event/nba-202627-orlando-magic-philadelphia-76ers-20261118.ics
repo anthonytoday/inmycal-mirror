@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-orlando-magic-philadelphia-76ers-20261118@sports.anthonytoda
  y.com
-DTSTAMP:20261106T013708Z
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-TRANSP:OPAQUE
-SUMMARY:Philadelphia 76ers @ Orlando Magic
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261119T101516Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Philadelphia 76ers @ Orlando Magic (121-116)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Kia Center
 URL:https://inmycal.com/nba/orlando-magic/
 STATUS:CONFIRMED

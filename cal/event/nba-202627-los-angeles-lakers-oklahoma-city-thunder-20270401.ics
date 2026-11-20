@@ -4,13 +4,13 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-los-angeles-lakers-portland-trail-blazers-20261106@sports.an
- thonytoday.com
-DTSTAMP:20261107T061631Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
+UID:nba-202627-los-angeles-lakers-oklahoma-city-thunder-20270401@sports.ant
+ honytoday.com
+DTSTAMP:20261120T014414Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
 TRANSP:TRANSPARENT
-SUMMARY:Portland Trail Blazers @ Los Angeles Lakers (118-124)
+SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Crypto.com Arena
 URL:https://inmycal.com/nba/los-angeles-lakers/
