@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-rayo-vallecano-levante@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-TRANSP:TRANSPARENT
+DTSTAMP:20261121T001956Z
+DTSTART:20261205T151500Z
+DTEND:20261205T171000Z
+TRANSP:OPAQUE
 SUMMARY:Rayo Vallecano - Levante
-DESCRIPTION:La Liga\, Matchday 15\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 15\nhttps://inmycal.com
 LOCATION:Estadio de Vallecas\, Madrid
 URL:https://inmycal.com/la-liga/rayo-vallecano/
 STATUS:CONFIRMED

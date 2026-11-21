@@ -4,12 +4,12 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:mls-2026-nashville-sc-orlando-city@sports.anthonytoday.com
-DTSTAMP:20261110T064359Z
+UID:mls-2026-nashville-sc-fc-cincinnati@sports.anthonytoday.com
+DTSTAMP:20261120T121959Z
 DTSTART:20261122T210000Z
 DTEND:20261122T225500Z
 TRANSP:OPAQUE
-SUMMARY:Nashville SC - Orlando City
+SUMMARY:Nashville SC - FC Cincinnati
 DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
 LOCATION:Geodis Park\, Nashville\, TN
 URL:https://inmycal.com/mls/nashville-sc/

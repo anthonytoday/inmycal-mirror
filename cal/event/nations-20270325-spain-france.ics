@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20270325-spain-france@sports.anthonytoday.com
+DTSTAMP:20261121T001859Z
+DTSTART:20270325T194500Z
+DTEND:20270325T214000Z
+TRANSP:OPAQUE
+SUMMARY:Spain - France [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:|attendance =
+URL:https://inmycal.com/nations/spain/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

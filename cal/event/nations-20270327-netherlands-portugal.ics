@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20270327-netherlands-portugal@sports.anthonytoday.com
+DTSTAMP:20261121T001859Z
+DTSTART:20270327T194500Z
+DTEND:20270327T214000Z
+TRANSP:OPAQUE
+SUMMARY:Netherlands - Portugal [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:|attendance =
+URL:https://inmycal.com/nations/netherlands/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

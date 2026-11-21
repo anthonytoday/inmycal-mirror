@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mls-2026-real-salt-lake-vancouver-whitecaps@sports.anthonytoday.com
+DTSTAMP:20261121T002258Z
+DTSTART:20261128T030000Z
+DTEND:20261128T045500Z
+TRANSP:OPAQUE
+SUMMARY:Real Salt Lake - Vancouver Whitecaps
+DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
+LOCATION:America First Field\, Sandy\, UT
+URL:https://inmycal.com/mls/real-salt-lake/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -4,13 +4,12 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:mls-2026-nashville-sc-orlando-city-sc-or-fc-cincinnati@sports.anthonyto
- day.com
-DTSTAMP:20261110T064359Z
+UID:mls-2026-nashville-sc-fc-cincinnati-20261202@sports.anthonytoday.com
+DTSTAMP:20261120T121959Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 TRANSP:TRANSPARENT
-SUMMARY:Nashville SC - Orlando City SC or FC Cincinnati
+SUMMARY:Nashville SC - FC Cincinnati
 DESCRIPTION:MLS\, Eastern Conference\nKickoff time not announced yet.\nhttp
  s://inmycal.com
 LOCATION:Geodis Park\, Nashville\, TN

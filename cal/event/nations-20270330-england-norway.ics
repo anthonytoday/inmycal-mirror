@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nations-20270330-england-norway@sports.anthonytoday.com
+DTSTAMP:20261121T001859Z
+DTSTART:20270330T184500Z
+DTEND:20270330T204000Z
+TRANSP:OPAQUE
+SUMMARY:England - Norway [NL]
+DESCRIPTION:National teams\, Nations League A\nhttps://inmycal.com
+LOCATION:|attendance =
+URL:https://inmycal.com/nations/england/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

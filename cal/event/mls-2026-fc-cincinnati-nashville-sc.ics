@@ -4,15 +4,15 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:mls-2026-orlando-city-sc-or-fc-cincinnati-nashville-sc@sports.anthonyto
- day.com
-DTSTAMP:20261110T064359Z
+UID:mls-2026-fc-cincinnati-nashville-sc@sports.anthonytoday.com
+DTSTAMP:20261120T121959Z
 DTSTART:20261128T233000Z
 DTEND:20261129T012500Z
 TRANSP:OPAQUE
-SUMMARY:Orlando City SC or FC Cincinnati - Nashville SC
+SUMMARY:FC Cincinnati - Nashville SC
 DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
-URL:https://inmycal.com/
+LOCATION:TQL Stadium\, Cincinnati\, OH
+URL:https://inmycal.com/mls/fc-cincinnati/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
