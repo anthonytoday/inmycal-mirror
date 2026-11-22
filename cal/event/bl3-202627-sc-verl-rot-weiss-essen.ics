@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-sc-verl-rot-weiss-essen@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
+DTSTAMP:20261122T001737Z
 DTSTART:20261121T130000Z
 DTEND:20261121T145500Z
 TRANSP:OPAQUE
-SUMMARY:SC Verl - Rot-Weiss Essen
+SUMMARY:SC Verl - Rot-Weiss Essen (0-3)
 DESCRIPTION:3. Liga\, Matchday 14\nhttps://inmycal.com
 LOCATION:Sportclub Arena\, Verl
 URL:https://inmycal.com/3-liga/sc-verl/

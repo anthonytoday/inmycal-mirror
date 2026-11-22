@@ -4,14 +4,14 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:ligue2-202627-stade-de-reims-saint-etienne@sports.anthonytoday.com
-DTSTAMP:20261119T122849Z
-DTSTART:20261121T190000Z
-DTEND:20261121T205500Z
+UID:ligue2-202627-nantes-grenoble@sports.anthonytoday.com
+DTSTAMP:20261122T002806Z
+DTSTART:20261123T194500Z
+DTEND:20261123T214000Z
 TRANSP:OPAQUE
-SUMMARY:Stade de Reims - Saint-Étienne
+SUMMARY:Nantes - Grenoble
 DESCRIPTION:Ligue 2\, Matchday 13\nhttps://inmycal.com
-LOCATION:Stade Auguste Delaune
+LOCATION:Stade de la Beaujoire - Louis Fonteneau
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

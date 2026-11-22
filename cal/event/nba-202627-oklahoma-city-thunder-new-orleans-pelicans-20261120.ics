@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-oklahoma-city-thunder-new-orleans-pelicans-20261120@sports.a
  nthonytoday.com
-DTSTAMP:20261106T003438Z
-DTSTART:20261121T010000Z
-DTEND:20261121T033000Z
-TRANSP:OPAQUE
-SUMMARY:New Orleans Pelicans @ Oklahoma City Thunder
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261121T122355Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:New Orleans Pelicans @ Oklahoma City Thunder (120-126)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Paycom Center
 URL:https://inmycal.com/nba/oklahoma-city-thunder/
 STATUS:CONFIRMED

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-fc-dallas-portland-timbers@sports.anthonytoday.com
-DTSTAMP:20261110T064359Z
+DTSTAMP:20261122T002133Z
 DTSTART:20261121T210000Z
 DTEND:20261121T225500Z
 TRANSP:OPAQUE
-SUMMARY:FC Dallas - Portland Timbers
+SUMMARY:FC Dallas - Portland Timbers (3-0)
 DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
 LOCATION:Toyota Stadium\, Frisco\, TX
 URL:https://inmycal.com/mls/fc-dallas/

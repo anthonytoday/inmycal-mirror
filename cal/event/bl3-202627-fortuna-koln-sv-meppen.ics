@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl3-202627-fortuna-koln-sv-meppen@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
+DTSTAMP:20261122T001737Z
 DTSTART:20261121T130000Z
 DTEND:20261121T145500Z
 TRANSP:OPAQUE
-SUMMARY:Fortuna Köln - SV Meppen
+SUMMARY:Fortuna Köln - SV Meppen (2-1)
 DESCRIPTION:3. Liga\, Matchday 14\nhttps://inmycal.com
 LOCATION:Südstadion\, Cologne
 URL:https://inmycal.com/3-liga/fortuna-koln/
