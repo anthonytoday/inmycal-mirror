@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-no-chi@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261123T002045Z
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
 TRANSP:OPAQUE
-SUMMARY:New Orleans Saints @ Chicago Bears
+SUMMARY:New Orleans Saints @ Chicago Bears (13-21)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:Soldier Field
 URL:https://inmycal.com/nfl/chicago-bears/

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-bal-car@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261123T002045Z
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
 TRANSP:OPAQUE
-SUMMARY:Baltimore Ravens @ Carolina Panthers
+SUMMARY:Baltimore Ravens @ Carolina Panthers (33-35)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:Bank of America Stadium
 URL:https://inmycal.com/nfl/carolina-panthers/

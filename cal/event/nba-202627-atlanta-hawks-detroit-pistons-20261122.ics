@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-atlanta-hawks-detroit-pistons-20261122@sports.anthonytoday.c
  om
-DTSTAMP:20261106T035335Z
-DTSTART:20261122T203000Z
-DTEND:20261122T230000Z
-TRANSP:OPAQUE
-SUMMARY:Detroit Pistons @ Atlanta Hawks
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261123T003235Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Detroit Pistons @ Atlanta Hawks (97-107)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:State Farm Arena
 URL:https://inmycal.com/nba/atlanta-hawks/
 STATUS:CONFIRMED

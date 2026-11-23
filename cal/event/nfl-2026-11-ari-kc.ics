@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-ari-kc@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261123T002045Z
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
 TRANSP:OPAQUE
-SUMMARY:Arizona Cardinals @ Kansas City Chiefs
+SUMMARY:Arizona Cardinals @ Kansas City Chiefs (7-34)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:GEHA Field at Arrowhead Stadium
 URL:https://inmycal.com/nfl/kansas-city-chiefs/

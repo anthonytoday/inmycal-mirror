@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-nyj-lac@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261123T002045Z
 DTSTART:20261122T210500Z
 DTEND:20261123T002000Z
 TRANSP:OPAQUE
-SUMMARY:New York Jets @ Los Angeles Chargers
+SUMMARY:New York Jets @ Los Angeles Chargers (27-24)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:SoFi Stadium
 URL:https://inmycal.com/nfl/los-angeles-chargers/

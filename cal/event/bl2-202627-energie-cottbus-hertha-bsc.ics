@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bl2-202627-energie-cottbus-hertha-bsc@sports.anthonytoday.com
-DTSTAMP:20261105T032053Z
+DTSTAMP:20261123T001714Z
 DTSTART:20261122T123000Z
 DTEND:20261122T142500Z
 TRANSP:OPAQUE
-SUMMARY:Energie Cottbus - Hertha BSC
+SUMMARY:Energie Cottbus - Hertha BSC (0-4)
 DESCRIPTION:2. Bundesliga\, Matchday 12\nhttps://inmycal.com
 LOCATION:LEAG Energie Stadion\, Cottbus
 URL:https://inmycal.com/2-bundesliga/energie-cottbus/

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-nashville-sc-fc-cincinnati@sports.anthonytoday.com
-DTSTAMP:20261120T121959Z
+DTSTAMP:20261123T002027Z
 DTSTART:20261122T210000Z
 DTEND:20261122T225500Z
 TRANSP:OPAQUE
-SUMMARY:Nashville SC - FC Cincinnati
+SUMMARY:Nashville SC - FC Cincinnati (0-1)
 DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
 LOCATION:Geodis Park\, Nashville\, TN
 URL:https://inmycal.com/mls/nashville-sc/

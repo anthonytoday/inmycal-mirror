@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:boxing-2619164@sports.anthonytoday.com
-DTSTAMP:20261107T042027Z
+DTSTAMP:20261122T123338Z
 DTSTART:20261128T180000Z
 DTEND:20261128T220000Z
 TRANSP:OPAQUE
 SUMMARY:Agit Kabayel vs Nelson Hysa
-DESCRIPTION:Boxing\nMain card at the usual 7 pm local start\; the official 
- time replaces it once published.\nhttps://inmycal.com
-LOCATION:Merkur Speil Arena\, Dusseldorf\, Germany
+DESCRIPTION:Boxing\nStart: main card (TheSportsDB). The end time is an esti
+ mate.\nhttps://inmycal.com
+LOCATION:Dusseldorf\, Nordrhein-Westfalen\, Germany
 URL:https://inmycal.com/
 STATUS:CONFIRMED
 END:VEVENT

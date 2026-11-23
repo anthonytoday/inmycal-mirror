@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-inter-miami-columbus-crew@sports.anthonytoday.com
-DTSTAMP:20261110T003323Z
+DTSTAMP:20261122T121916Z
 DTSTART:20261121T230000Z
 DTEND:20261122T005500Z
 TRANSP:OPAQUE
-SUMMARY:Inter Miami - Columbus Crew
+SUMMARY:Inter Miami - Columbus Crew (0-3)
 DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
 LOCATION:Nu Stadium\, Miami\, FL
 URL:https://inmycal.com/mls/inter-miami/

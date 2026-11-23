@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-tb-det@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261123T002045Z
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
 TRANSP:OPAQUE
-SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
+SUMMARY:Tampa Bay Buccaneers @ Detroit Lions (21-31)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:Ford Field
 URL:https://inmycal.com/nfl/detroit-lions/

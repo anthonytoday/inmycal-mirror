@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-pit-phi@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
-DTSTART:20261122T212500Z
-DTEND:20261123T004000Z
+DTSTAMP:20261123T002045Z
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
 TRANSP:OPAQUE
-SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
+SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles (16-19)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:Lincoln Financial Field
 URL:https://inmycal.com/nfl/philadelphia-eagles/
