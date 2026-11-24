@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-miami-heat-oklahoma-city-thunder-20261122@sports.anthonytoda
  y.com
-DTSTAMP:20261106T003438Z
-DTSTART:20261122T230000Z
-DTEND:20261123T013000Z
-TRANSP:OPAQUE
-SUMMARY:Oklahoma City Thunder @ Miami Heat
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261123T123449Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Oklahoma City Thunder @ Miami Heat (113-123)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Kaseya Center
 URL:https://inmycal.com/nba/miami-heat/
 STATUS:CONFIRMED

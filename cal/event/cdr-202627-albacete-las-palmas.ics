@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-albacete-las-palmas@sports.anthonytoday.com
+DTSTAMP:20261124T002819Z
+DTSTART:20261201T190000Z
+DTEND:20261201T205500Z
+TRANSP:OPAQUE
+SUMMARY:Albacete - Las Palmas [CDR]
+DESCRIPTION:Copa del Rey\, Second round\nhttps://inmycal.com
+LOCATION:Estadio Carlos Belmonte\, Albacete
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

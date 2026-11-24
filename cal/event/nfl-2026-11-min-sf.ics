@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-min-sf@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261123T122201Z
 DTSTART:20261123T012000Z
 DTEND:20261123T043500Z
 TRANSP:OPAQUE
-SUMMARY:Minnesota Vikings @ San Francisco 49ers
+SUMMARY:Minnesota Vikings @ San Francisco 49ers (10-35)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:Estadio Banorte
 URL:https://inmycal.com/nfl/san-francisco-49ers/

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-c-e-sabadell-f-c-s-d-eibar@sports.anthonytoday.com
+DTSTAMP:20261123T121956Z
+DTSTART:20261205T151500Z
+DTEND:20261205T171000Z
+TRANSP:OPAQUE
+SUMMARY:C. E. Sabadell F. C. - S. D. Eibar
+DESCRIPTION:Segunda División\, Jornada 17\nhttps://inmycal.com
+LOCATION:Nova Creu Alta
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

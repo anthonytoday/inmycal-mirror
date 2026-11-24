@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-a-d-ceuta-f-c-albacete-balompie@sports.anthonytoday.com
+DTSTAMP:20261123T121956Z
+DTSTART:20261206T173000Z
+DTEND:20261206T192500Z
+TRANSP:OPAQUE
+SUMMARY:A. D. Ceuta F. C. - Albacete Balompié
+DESCRIPTION:Segunda División\, Jornada 17\nhttps://inmycal.com
+LOCATION:Alfonso Murube
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

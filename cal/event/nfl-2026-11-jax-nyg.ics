@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-jax-nyg@sports.anthonytoday.com
-DTSTAMP:20261123T002045Z
+DTSTAMP:20261123T122201Z
 DTSTART:20261122T212500Z
 DTEND:20261123T004000Z
 TRANSP:OPAQUE
-SUMMARY:Jacksonville Jaguars @ New York Giants
+SUMMARY:Jacksonville Jaguars @ New York Giants (18-23)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:MetLife Stadium
 URL:https://inmycal.com/nfl/new-york-giants/

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-vancouver-whitecaps-real-salt-lake@sports.anthonytoday.com
-DTSTAMP:20261120T121959Z
+DTSTAMP:20261123T122129Z
 DTSTART:20261122T233000Z
 DTEND:20261123T012500Z
 TRANSP:OPAQUE
-SUMMARY:Vancouver Whitecaps - Real Salt Lake
+SUMMARY:Vancouver Whitecaps - Real Salt Lake (2-0)
 DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
 LOCATION:BC Place\, Vancouver\, British Columbia
 URL:https://inmycal.com/mls/vancouver-whitecaps/

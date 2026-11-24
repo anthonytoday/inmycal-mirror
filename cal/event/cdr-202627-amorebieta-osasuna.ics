@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdr-202627-amorebieta-osasuna@sports.anthonytoday.com
+DTSTAMP:20261124T002819Z
+DTSTART:20261203T200000Z
+DTEND:20261203T215500Z
+TRANSP:OPAQUE
+SUMMARY:Amorebieta - Osasuna [CDR]
+DESCRIPTION:Copa del Rey\, Second round\nhttps://inmycal.com
+LOCATION:Urritxe\, Amorebieta-Etxano
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

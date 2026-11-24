@@ -5,13 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:laliga-202627-real-betis-racing-santander@sports.anthonytoday.com
-DTSTAMP:20261104T043357Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-TRANSP:TRANSPARENT
+DTSTAMP:20261123T121539Z
+DTSTART:20261212T200000Z
+DTEND:20261212T215500Z
+TRANSP:OPAQUE
 SUMMARY:Real Betis - Racing Santander
-DESCRIPTION:La Liga\, Matchday 16\nKickoff time not announced yet.\nhttps:/
- /inmycal.com
+DESCRIPTION:La Liga\, Matchday 16\nhttps://inmycal.com
 LOCATION:Benito Villamarín\, Seville
 URL:https://inmycal.com/la-liga/real-betis/
 STATUS:CONFIRMED

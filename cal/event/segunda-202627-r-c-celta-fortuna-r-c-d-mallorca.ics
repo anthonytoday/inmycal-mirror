@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:segunda-202627-r-c-celta-fortuna-r-c-d-mallorca@sports.anthonytoday.com
+DTSTAMP:20261123T121956Z
+DTSTART:20261206T130000Z
+DTEND:20261206T145500Z
+TRANSP:OPAQUE
+SUMMARY:R. C. Celta Fortuna - R. C. D. Mallorca
+DESCRIPTION:Segunda División\, Jornada 17\nhttps://inmycal.com
+LOCATION:Abanca-Balaídos
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
