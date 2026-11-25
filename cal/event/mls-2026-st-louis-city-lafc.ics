@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-st-louis-city-lafc@sports.anthonytoday.com
-DTSTAMP:20261110T064359Z
+DTSTAMP:20261124T122004Z
 DTSTART:20261124T010000Z
 DTEND:20261124T025500Z
 TRANSP:OPAQUE
-SUMMARY:St. Louis City - LAFC
+SUMMARY:St. Louis City - LAFC (3-2)
 DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
 LOCATION:Energizer Park\, St. Louis\, MO
 URL:https://inmycal.com/mls/st-louis-city/

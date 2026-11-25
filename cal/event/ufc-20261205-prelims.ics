@@ -5,23 +5,21 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ufc-20261205-prelims@sports.anthonytoday.com
-DTSTAMP:20261111T001633Z
+DTSTAMP:20261125T003219Z
 DTSTART:20261205T160000Z
 DTEND:20261205T180000Z
 TRANSP:OPAQUE
 SUMMARY:UFC Fight Night: Adesanya vs. Magomedov (Prelims)
-DESCRIPTION:UFC\n\nAnnounced bouts\n--------------------\n• Israel Adesan
- ya vs. Sharabutdin Magomedov @185\n• Ian Machado Garry vs. Yaroslav Amos
- ov @170\n• Serghei Spivac vs. Mário Pinto @265\n• Islam Dulatov vs. L
- evan Chokheli @170\n• Akbar Abdullaev vs. Mairon Santos @155\n• Ion Cu
- țelaba vs. Magomed Tuchalov @205\n• Bruno Gustavo da Silva vs. Jafel Fi
- lho @125\n• Ivan Gnizditskiy vs. Uran Satybaldiev @205\n• Park Jun-yon
- g vs. Marco Tulio @185\n• Pavel Andrusca vs. Mehemmedeli Osmanli @135\n
- • Matthieu Letho Duclos vs. Modestino Rodrigues @185\n• Abdul Hussein 
- vs. Hecher Sosa @135\n\nhttps://www.ufc.com/event/ufc-fight-night-december
- -05-2026\n\nEstimated start (usual start for the region)\; the official ti
- me replaces it once published.\n\nhttps://inmycal.com\n\nAccurate as of 10
-  Nov 2026\, 00:17 UTC
+DESCRIPTION:UFC\n\nPrelims (2 hrs before the main card)\n------------------
+ --\n• Luke Riley vs. Gabriel Santos @145\n• Bruno Gustavo da Silva vs.
+  Jafel Filho @125\n• Uran Satybaldiev vs. Ivan Gnizditskiy @205\n• Mar
+ co Tulio vs. Park Jun-yong @185\n• Pavel Andrusca vs. Mehemmedeli Osmanl
+ i @135\n• Modestino Rodrigues vs. Matthieu Letho Duclos @185\n• Abdul 
+ Hussein vs. Hecher Sosa @135\n• Mateusz Rębecki vs. Elves Brener @155\n
+ \nMain card follows: Israel Adesanya vs. Sharabutdin Magomedov\n\nhttps://
+ www.ufc.com/event/ufc-fight-night-december-05-2026\n\nEstimated start (usu
+ al start for the region)\; the official time replaces it once published.\n
+ \nhttps://inmycal.com\n\nAccurate as of 25 Nov 2026\, 00:32 UTC
 LOCATION:anb Arena\, Riyadh\, Saudi Arabia
 URL:https://inmycal.com/
 STATUS:CONFIRMED

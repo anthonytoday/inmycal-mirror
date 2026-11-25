@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575399@sports.anthonytoday.com
-DTSTAMP:20261104T072511Z
+DTSTAMP:20261125T001934Z
 DTSTART:20261124T200000Z
 DTEND:20261124T215500Z
 TRANSP:OPAQUE
-SUMMARY:Arsenal - Borussia Dortmund [CL]
+SUMMARY:Arsenal - Borussia Dortmund [CL] (1-1)
 DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
  om
 LOCATION:Emirates Stadium\, London

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575398@sports.anthonytoday.com
-DTSTAMP:20261104T072511Z
+DTSTAMP:20261125T001934Z
 DTSTART:20261124T200000Z
 DTEND:20261124T215500Z
 TRANSP:OPAQUE
-SUMMARY:Manchester City - Napoli [CL]
+SUMMARY:Manchester City - Napoli [CL] (2-2)
 DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
  om
 LOCATION:Etihad Stadium\, Manchester

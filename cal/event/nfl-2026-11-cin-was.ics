@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-11-cin-was@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261124T122022Z
 DTSTART:20261124T011500Z
 DTEND:20261124T043000Z
 TRANSP:OPAQUE
-SUMMARY:Cincinnati Bengals @ Washington Commanders
+SUMMARY:Cincinnati Bengals @ Washington Commanders (20-22)
 DESCRIPTION:NFL\, Week 11\nhttps://inmycal.com
 LOCATION:Northwest Stadium
 URL:https://inmycal.com/nfl/washington-commanders/

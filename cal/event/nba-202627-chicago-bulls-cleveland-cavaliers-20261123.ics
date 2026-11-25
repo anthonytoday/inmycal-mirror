@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-chicago-bulls-cleveland-cavaliers-20261123@sports.anthonytod
  ay.com
-DTSTAMP:20261106T035335Z
-DTSTART:20261124T010000Z
-DTEND:20261124T033000Z
-TRANSP:OPAQUE
-SUMMARY:Cleveland Cavaliers @ Chicago Bulls
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261124T121520Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Cleveland Cavaliers @ Chicago Bulls (108-122)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:United Center
 URL:https://inmycal.com/nba/chicago-bulls/
 STATUS:CONFIRMED

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575401@sports.anthonytoday.com
-DTSTAMP:20261104T073316Z
+DTSTAMP:20261125T001934Z
 DTSTART:20261124T200000Z
 DTEND:20261124T215500Z
 TRANSP:OPAQUE
-SUMMARY:Slovan Bratislava - Real Betis [CL]
+SUMMARY:Slovan Bratislava - Real Betis [CL] (0-2)
 DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
  om
 URL:https://inmycal.com/
