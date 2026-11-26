@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-philadelphia-76ers-miami-heat-20261125@sports.anthonytoday.c
  om
-DTSTAMP:20261125T014350Z
-DTSTART:20261125T220000Z
-DTEND:20261126T003000Z
-TRANSP:OPAQUE
-SUMMARY:Miami Heat @ Philadelphia 76ers
-DESCRIPTION:NBA\nhttps://inmycal.com
+DTSTAMP:20261126T014049Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+SUMMARY:Miami Heat @ Philadelphia 76ers (104-111)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
 LOCATION:Xfinity Mobile Arena
 URL:https://inmycal.com/nba/philadelphia-76ers/
 STATUS:CONFIRMED

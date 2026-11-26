@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:efl1-202627-peterborough-united-wycombe-wanderers@sports.anthonytoday.c
+ om
+DTSTAMP:20261105T064202Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Peterborough United - Wycombe Wanderers
+DESCRIPTION:League One\, Matchday 21\nKickoff time not announced yet.\nhttp
+ s://inmycal.com
+LOCATION:Weston Homes Stadium
+URL:https://inmycal.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

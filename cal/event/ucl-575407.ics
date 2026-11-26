@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ucl-575407@sports.anthonytoday.com
-DTSTAMP:20261104T072511Z
+DTSTAMP:20261126T001920Z
 DTSTART:20261125T200000Z
 DTEND:20261125T215500Z
 TRANSP:OPAQUE
-SUMMARY:Atlético Madrid - Viking [CL]
+SUMMARY:Atlético Madrid - Viking [CL] (2-0)
 DESCRIPTION:Champions League\, League phase\, Matchday 5\nhttps://inmycal.c
  om
 LOCATION:Metropolitano\, Madrid

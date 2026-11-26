@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//inmycal.com//InMyCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nba-202627-new-york-knicks-indiana-pacers-20261122@sports.anthonytoday.
+ com
+DTSTAMP:20261126T014422Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Indiana Pacers @ New York Knicks (106-113)
+DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
+LOCATION:Madison Square Garden
+URL:https://inmycal.com/nba/new-york-knicks/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
