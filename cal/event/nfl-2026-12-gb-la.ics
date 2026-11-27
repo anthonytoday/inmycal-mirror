@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-12-gb-la@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261126T121959Z
 DTSTART:20261126T010000Z
 DTEND:20261126T041500Z
 TRANSP:OPAQUE
-SUMMARY:Green Bay Packers @ Los Angeles Rams
+SUMMARY:Green Bay Packers @ Los Angeles Rams (13-26)
 DESCRIPTION:NFL\, Week 12\nhttps://inmycal.com
 LOCATION:SoFi Stadium
 URL:https://inmycal.com/nfl/los-angeles-rams/

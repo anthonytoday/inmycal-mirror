@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-12-chi-det@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261127T001935Z
 DTSTART:20261126T180000Z
 DTEND:20261126T211500Z
 TRANSP:OPAQUE
-SUMMARY:Chicago Bears @ Detroit Lions
+SUMMARY:Chicago Bears @ Detroit Lions (39-35)
 DESCRIPTION:NFL\, Week 12\nhttps://inmycal.com
 LOCATION:Ford Field
 URL:https://inmycal.com/nfl/detroit-lions/
