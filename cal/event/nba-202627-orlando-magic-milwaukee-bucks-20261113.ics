@@ -4,16 +4,16 @@ PRODID:-//inmycal.com//InMyCal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:nba-202627-indiana-pacers-new-york-knicks-20261113@sports.anthonytoday.
- com
-DTSTAMP:20261114T123018Z
+UID:nba-202627-orlando-magic-milwaukee-bucks-20261113@sports.anthonytoday.c
+ om
+DTSTAMP:20261114T123259Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 TRANSP:TRANSPARENT
-SUMMARY:New York Knicks @ Indiana Pacers (104-106)
+SUMMARY:Milwaukee Bucks @ Orlando Magic (99-107)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:Gainbridge Fieldhouse
-URL:https://inmycal.com/nba/indiana-pacers/
+LOCATION:Kia Center
+URL:https://inmycal.com/nba/orlando-magic/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

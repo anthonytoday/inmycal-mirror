@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-columbus-crew-inter-miami@sports.anthonytoday.com
-DTSTAMP:20261110T003323Z
+DTSTAMP:20261128T065835Z
 DTSTART:20261128T010000Z
 DTEND:20261128T025500Z
 TRANSP:OPAQUE
-SUMMARY:Columbus Crew - Inter Miami
+SUMMARY:Columbus Crew - Inter Miami (1-0)
 DESCRIPTION:MLS\, Eastern Conference\nhttps://inmycal.com
 LOCATION:ScottsMiracle-Gro Field\, Columbus\, OH
 URL:https://inmycal.com/mls/columbus-crew/

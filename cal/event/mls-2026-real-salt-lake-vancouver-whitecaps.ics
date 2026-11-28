@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mls-2026-real-salt-lake-vancouver-whitecaps@sports.anthonytoday.com
-DTSTAMP:20261121T002258Z
+DTSTAMP:20261128T065835Z
 DTSTART:20261128T030000Z
 DTEND:20261128T045500Z
 TRANSP:OPAQUE
-SUMMARY:Real Salt Lake - Vancouver Whitecaps
+SUMMARY:Real Salt Lake - Vancouver Whitecaps (0-1)
 DESCRIPTION:MLS\, Western Conference\nhttps://inmycal.com
 LOCATION:America First Field\, Sandy\, UT
 URL:https://inmycal.com/mls/real-salt-lake/
