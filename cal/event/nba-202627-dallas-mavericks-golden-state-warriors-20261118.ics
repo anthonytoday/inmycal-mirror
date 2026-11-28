@@ -6,13 +6,13 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nba-202627-dallas-mavericks-golden-state-warriors-20261118@sports.antho
  nytoday.com
-DTSTAMP:20261127T014443Z
+DTSTAMP:20261128T014009Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 TRANSP:TRANSPARENT
 SUMMARY:Golden State Warriors @ Dallas Mavericks (94-116)
 DESCRIPTION:NBA\nStart time not announced yet.\nhttps://inmycal.com
-LOCATION:American Airlines Center\, Dallas
+LOCATION:American Airlines Center
 URL:https://inmycal.com/nba/dallas-mavericks/
 STATUS:CONFIRMED
 END:VEVENT

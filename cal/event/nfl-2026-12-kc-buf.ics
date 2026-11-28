@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-12-kc-buf@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261127T122021Z
 DTSTART:20261127T012000Z
 DTEND:20261127T043500Z
 TRANSP:OPAQUE
-SUMMARY:Kansas City Chiefs @ Buffalo Bills
+SUMMARY:Kansas City Chiefs @ Buffalo Bills (10-13)
 DESCRIPTION:NFL\, Week 12\nhttps://inmycal.com
 LOCATION:Highmark Stadium
 URL:https://inmycal.com/nfl/buffalo-bills/

@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:nfl-2026-12-den-pit@sports.anthonytoday.com
-DTSTAMP:20261105T030314Z
+DTSTAMP:20261128T001958Z
 DTSTART:20261127T200000Z
 DTEND:20261127T231500Z
 TRANSP:OPAQUE
-SUMMARY:Denver Broncos @ Pittsburgh Steelers
+SUMMARY:Denver Broncos @ Pittsburgh Steelers (5-27)
 DESCRIPTION:NFL\, Week 12\nhttps://inmycal.com
 LOCATION:Acrisure Stadium
 URL:https://inmycal.com/nfl/pittsburgh-steelers/
